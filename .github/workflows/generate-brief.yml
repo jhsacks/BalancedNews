@@ -19,8 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+        with: {python-version: '3.12'}
       - run: pip install -r requirements.txt
       - name: Determine edition
         id: gate
@@ -32,14 +31,14 @@ jobs:
           event='${{ github.event_name }}'; manual='${{ inputs.edition }}'; now=datetime.now(ZoneInfo('America/New_York'))
           edition=manual if event=='workflow_dispatch' else ('AM' if now.hour==6 else 'PM' if now.hour==16 else '')
           with open(os.environ['GITHUB_OUTPUT'],'a') as f: f.write(f"edition={edition}\nrun={'true' if edition else 'false'}\n")
-      - name: Generate
+      - name: Generate briefing
         if: steps.gate.outputs.run == 'true'
         env:
           BRIEF_EDITION: ${{ steps.gate.outputs.edition }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
         run: python generate_brief.py
-      - name: Commit archive
+      - name: Commit dated archive
         if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name balanced-brief-bot
