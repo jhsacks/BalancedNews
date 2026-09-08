@@ -1,92 +1,35 @@
-import json, html
+import json,html
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime,timedelta
 import streamlit as st
-
-ROOT = Path(__file__).parent
-CFG = json.loads((ROOT / "config.json").read_text())
-DATA = ROOT / "data/briefings"
-
-st.set_page_config(page_title=CFG["title"], page_icon="📰", layout="wide", initial_sidebar_state="expanded")
-st.markdown("""
-<style>
-.block-container{max-width:1240px;padding-top:1.1rem}
-.hero{background:linear-gradient(135deg,#123B5D,#0F766E);color:white;padding:30px 34px;border-radius:22px}
-.hero h1{font-size:2.65rem;margin:0}.hero p{font-size:1.04rem;color:#D7F0ED;margin:.35rem 0 0}
-.meta{color:#667085;margin:17px 0 22px}
-.card{background:#fff;border:1px solid #E1E8EC;border-radius:18px;overflow:hidden;box-shadow:0 5px 18px #18364a10;margin-bottom:20px}
-.card img{width:100%;height:145px;object-fit:cover;display:block}
-.body{padding:18px}.eyebrow{font-size:.72rem;font-weight:800;letter-spacing:.085em;text-transform:uppercase;color:#0F766E}
-.card h3{font-size:1.25rem;line-height:1.23;margin:.45rem 0}.summary{line-height:1.56;color:#34495E}
-.context{background:#EFF8F6;border-left:4px solid #0F766E;padding:12px;margin:13px 0;border-radius:8px}
-.source{font-size:.8rem;color:#718096;margin-top:11px}.btn{display:inline-block;background:#0F766E;color:#fff!important;text-decoration:none;padding:8px 13px;border-radius:9px;font-weight:750;margin-top:10px}
-.section{margin:27px 0 12px}.notice{background:#EEF4F7;border-radius:12px;padding:12px 14px;color:#526577;margin-bottom:18px}
-@media(max-width:700px){.hero h1{font-size:2rem}.card img{height:125px}}
-</style>
-""", unsafe_allow_html=True)
-
-def esc(value): return html.escape(str(value or ""))
-
-def load_briefs():
-    briefs=[]
-    for path in DATA.glob("*.json"):
-        try:
-            item=json.loads(path.read_text())
-            dt=datetime.fromisoformat(item["generated_at"])
-            if datetime.now(dt.tzinfo)-dt <= timedelta(days=CFG.get("archive_days",8)):
-                briefs.append(item)
-        except Exception:
-            pass
-    return sorted(briefs,key=lambda x:x["generated_at"],reverse=True)
-
-def story_card(story):
-    image=f"<img src='{esc(story.get('image'))}' alt='{esc(story.get('headline'))}'>" if story.get('image') else ''
-    context=""
-    if any(story.get(k) for k in ("perspective_one","perspective_two","uncertain")):
-        context=("<div class='context'><b>Balanced context</b><br>"+esc(story.get("perspective_one"))+
-                 ("<br><br>"+esc(story.get("perspective_two")) if story.get("perspective_two") else "")+
-                 ("<br><br><b>Still uncertain:</b> "+esc(story.get("uncertain")) if story.get("uncertain") else "")+"</div>")
-    return f"""<article class='card'>{image}<div class='body'><div class='eyebrow'>{esc(story.get('category'))} · {esc(story.get('confidence','Reported'))}</div><h3>{esc(story.get('headline'))}</h3><div class='summary'>{esc(story.get('summary'))}</div>{context}<div class='source'>{esc(story.get('source'))} · {esc(story.get('published'))}</div><a class='btn' href='{esc(story.get('url'))}' target='_blank'>Read source article</a></div></article>"""
-
-briefs=load_briefs()
-if not briefs:
-    st.error("No live editions yet. Run Generate dated news brief in GitHub Actions.")
-    st.stop()
-
+R=Path(__file__).parent;C=json.loads((R/'config.json').read_text());D=R/'data/briefings';Q=R/'assets/zelle_qr.png'
+st.set_page_config(page_title=C['title'],page_icon='📰',layout='wide')
+st.markdown('''<style>.block-container{max-width:1240px}.hero{background:linear-gradient(135deg,#123B5D,#0F766E);color:white;padding:28px;border-radius:20px}.support{background:#FFF8E8;border:1px solid #F1D58A;border-radius:16px;padding:16px;margin:18px 0}.rail{background:#102F46;color:white;padding:14px 18px;border-radius:15px}.rail a{color:#D7F0ED!important}.card{background:white;border:1px solid #E1E8EC;border-radius:17px;overflow:hidden;margin-bottom:18px}.card img{width:100%;height:145px;object-fit:cover}.body{padding:17px}.eye{font-size:.72rem;font-weight:800;color:#0F766E;text-transform:uppercase}.card h3{margin:7px 0}.sum{line-height:1.52}.why{margin-top:9px}.ctx{background:#EFF8F6;border-left:4px solid #0F766E;padding:10px;margin-top:10px}.src{font-size:.8rem;color:#718096;margin-top:10px}.btn{display:inline-block;background:#0F766E;color:white!important;padding:8px 12px;border-radius:8px;text-decoration:none;margin-top:9px}</style>''',unsafe_allow_html=True)
+def e(x):return html.escape(str(x or ''))
+def card(s):
+ img=f"<img src='{e(s.get('image'))}'>" if s.get('image') else '';why=f"<div class='why'><b>Why it matters:</b> {e(s.get('why_it_matters'))}</div>" if s.get('why_it_matters') else '';bits=[]
+ for k,l in [('perspective_one','One view'),('perspective_two','Another view'),('uncertain','Still uncertain')]:
+  if s.get(k):bits.append(f'<b>{l}:</b> {e(s[k])}')
+ ctx="<div class='ctx'>"+'<br><br>'.join(bits)+"</div>" if bits else ''
+ return f"<div class='card'>{img}<div class='body'><div class='eye'>{e(s.get('category'))} · {e(s.get('confidence'))}</div><h3>{e(s.get('headline'))}</h3><div class='sum'>{e(s.get('summary'))}</div>{why}{ctx}<div class='src'>{e(s.get('source'))} · {e(s.get('published'))}</div><a class='btn' href='{e(s.get('url'))}'>Read source article</a></div></div>"
+B=[]
+for p in D.glob('*.json'):
+ try:
+  b=json.loads(p.read_text());d=datetime.fromisoformat(b['generated_at'])
+  if datetime.now(d.tzinfo)-d<=timedelta(days=C.get('archive_days',8)):B.append(b)
+ except:pass
+B=sorted(B,key=lambda x:x['generated_at'],reverse=True)
 with st.sidebar:
-    st.title("🗓️ Briefing Archive")
-    st.caption("The newest edition appears first.")
-    labels=[]
-    for brief in briefs:
-        dt=datetime.fromisoformat(brief["generated_at"])
-        labels.append(f"{dt.strftime('%A, %b %d')} · {brief['edition']}")
-    selected=st.radio("Edition",range(len(briefs)),format_func=lambda i:labels[i],label_visibility="collapsed")
-    st.divider()
-    st.caption("AM and PM editions remain available for the prior week.")
-
-brief=briefs[selected]
-dt=datetime.fromisoformat(brief["generated_at"])
-stories=brief.get("stories",[])
-st.markdown(f"<div class='hero'><h1>{esc(CFG['title'])}</h1><p>{esc(CFG['tagline'])}</p></div><div class='meta'>{dt.strftime('%A, %B %d, %Y')} · <b>{brief['edition']} edition</b> · Updated {dt.strftime('%I:%M %p')}</div>",unsafe_allow_html=True)
-if selected:
-    st.info("Archived edition. Select the first sidebar item for the newest brief.")
-if not stories:
-    st.warning("No stories met the importance threshold for this edition.")
-    st.stop()
-
-order=["U.S. Government & Politics","Major U.S. News","International Affairs","Conflicts & Security","Israel / Palestinian Territories","Healthcare & Medicine","Science & Discovery","AI & Technology","Markets & Economy","Sports","Positive Developments","Understanding the Story","Worth Watching"]
-# Top stories are equally weighted. No arbitrary hero.
-st.markdown("<h2 class='section'>Top stories</h2>",unsafe_allow_html=True)
-cols=st.columns(2)
-for i,story in enumerate(stories[:6]):
-    with cols[i%2]: st.markdown(story_card(story),unsafe_allow_html=True)
-remaining=stories[6:]
-for category in order:
-    group=[s for s in remaining if s.get("category")==category]
-    if not group: continue
-    st.markdown(f"<h2 class='section'>{esc(category)}</h2>",unsafe_allow_html=True)
-    cols=st.columns(2)
-    for i,story in enumerate(group):
-        with cols[i%2]: st.markdown(story_card(story),unsafe_allow_html=True)
-st.divider()
-st.caption("Real publisher article images are used when available; branding images are suppressed. Stories are selected for significance, not category quotas. Source inclusion does not imply endorsement.")
+ st.title('🗓️ Briefing Archive'); labels=[f"{datetime.fromisoformat(b['generated_at']).strftime('%A, %b %d')} · {b['edition']}" for b in B];i=st.radio('Edition',range(len(B)),format_func=lambda x:labels[x],label_visibility='collapsed');st.divider();st.link_button('Support via Venmo','https://venmo.com/u/jhsacks',use_container_width=True)
+ if Q.exists():st.image(str(Q),caption='Zelle: scan the QR code',use_container_width=True)
+b=B[i];d=datetime.fromisoformat(b['generated_at']);S=b['stories'];st.markdown(f"<div class='hero'><h1>{e(C['title'])}</h1><p>{e(C['tagline'])}</p></div><p>{d.strftime('%A, %B %d, %Y')} · <b>{b['edition']} edition</b></p>",unsafe_allow_html=True)
+st.markdown("<div class='support'><b>I hope you like this site!</b><br>But it is not free to run. Feel free to throw me a few bucks every month or so to keep it going!<br><a href='https://venmo.com/u/jhsacks'>Support via Venmo</a></div>",unsafe_allow_html=True)
+st.markdown("<div class='rail'><b>Top stories</b><ol>"+''.join(f"<li><a href='{e(s['url'])}'>{e(s['headline'])}</a></li>" for s in S[:5])+"</ol></div>",unsafe_allow_html=True)
+seen=set()
+for cat in C['category_order']+[s.get('category') for s in S]:
+ if not cat or cat in seen:continue
+ G=[s for s in S if s.get('category')==cat]
+ if not G:continue
+ seen.add(cat);st.header(cat);cols=st.columns(2)
+ for n,s in enumerate(G):
+  with cols[n%2]:st.markdown(card(s),unsafe_allow_html=True)
