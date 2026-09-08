@@ -1,0 +1,19 @@
+{
+  "title":"The Balanced Brief",
+  "tagline":"Important news. Clear context. No outrage bait.",
+  "timezone":"America/New_York",
+  "max_stories":22,
+  "feeds":[
+    {"name":"BBC World","url":"https://feeds.bbci.co.uk/news/world/rss.xml","category":"International Affairs"},
+    {"name":"BBC US & Canada","url":"https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml","category":"U.S. News"},
+    {"name":"NPR News","url":"https://feeds.npr.org/1001/rss.xml","category":"U.S. News"},
+    {"name":"NPR World","url":"https://feeds.npr.org/1004/rss.xml","category":"International Affairs"},
+    {"name":"NASA","url":"https://www.nasa.gov/rss/dyn/breaking_news.rss","category":"Science & Discovery"},
+    {"name":"NIH","url":"https://www.nih.gov/news-events/news-releases/feed.xml","category":"Healthcare & Medicine"},
+    {"name":"Federal Reserve","url":"https://www.federalreserve.gov/feeds/press_all.xml","category":"Markets & Economy"},
+    {"name":"MIT AI","url":"https://news.mit.edu/rss/topic/artificial-intelligence2","category":"AI & Technology"},
+    {"name":"ESPN","url":"https://www.espn.com/espn/rss/news","category":"Sports"}
+  ],
+  "sports_keywords":["Atlanta Braves","Atlanta Falcons","Atlanta United","Atlanta Hawks","Georgia Bulldogs","UGA football","Indiana Hoosiers","Indiana football","Indiana basketball","Wisconsin Badgers","Wisconsin football"],
+  "major_keywords":["president","congress","supreme court","election","war","ceasefire","attack","invasion","nuclear","tariff","federal reserve","inflation","jobs report","FDA","clinical trial","breakthrough","artificial intelligence","championship","playoff","coach","trade"]
+}
