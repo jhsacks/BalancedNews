@@ -20,7 +20,7 @@ def card(s,lead=False):
  if any(s.get(k) for k in ('perspective_one','perspective_two','uncertain')):
   ctx=f"<div class='context'><b>Balanced context</b><br>{esc(s.get('perspective_one'))}{'<br><br>'+esc(s.get('perspective_two')) if s.get('perspective_two') else ''}{'<br><br><b>Still uncertain:</b> '+esc(s.get('uncertain')) if s.get('uncertain') else ''}</div>"
  tag='h2' if lead else 'h3'; cls='lead' if lead else 'card'
- return f"<article class='{cls}'>{img}<div class='body'><div class='eyebrow'>{esc(s.get('category'))} · {esc(s.get('confidence','Reported'))}</div><{tag}>{esc(s.get('headline'))}</{tag}><div class='summary'>{esc(s.get('summary'))}</div>{ctx}<div class='source'>{esc(s.get('source'))} · {esc(s.get('published'))}</div><a class='btn' href='{esc(s.get('url'))}' target='_blank'>Read original reporting</a></div></article>"
+ return f"<article class='{cls}'>{img}<div class='body'><div class='eyebrow'>{esc(s.get('category'))} · {esc(s.get('confidence','Reported'))}</div><{tag}>{esc(s.get('headline'))}</{tag}><div class='summary'>{esc(s.get('summary'))}</div>{ctx}<div class='source'>{esc(s.get('source'))} · {esc(s.get('published'))}</div><a class='btn' href='{esc(s.get('url'))}' target='_blank'>Read the fact-centered source article</a></div></article>"
 briefs=load()
 if not briefs: st.error('No live editions yet. Run Generate dated news brief in GitHub Actions.'); st.stop()
 with st.sidebar:

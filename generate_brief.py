@@ -62,7 +62,17 @@ if key and chosen:
   from openai import OpenAI
   client=OpenAI(api_key=key)
   payload=json.dumps([{k:v for k,v in x.items() if k!='_score'} for x in chosen],ensure_ascii=False)
-  rules='''You edit a moderate, evidence-weighted executive briefing. Return JSON only, same array and keys. Preserve URL, source, published, image, and category exactly. Rewrite headlines and summaries calmly and precisely. Never invent facts. Rank most consequential first. Remove filler. For controversial stories, use perspective_one and perspective_two for concise fair descriptions of the strongest materially relevant perspectives and uncertain for unresolved facts. Do not manufacture false balance. Distinguish governments, political organizations, civilians, and populations. For Israel/Palestinian coverage, never treat one actor as speaking for all Israelis or Palestinians. Confidence must be Confirmed, Developing, Disputed, or Reported. Add one final category Understanding the Story only when supplied facts support a useful explainer. Add Worth Watching only for a genuinely consequential emerging item. Stories: '''
+  rules='''You edit a moderate, evidence-weighted executive briefing. Return JSON only, using the same array and keys. Preserve URL, source, published, image, and category exactly. Do not invent, infer, or embellish facts. Keep only consequential stories and rank the most consequential first.
+
+HEADLINE: Rewrite each headline in calm, precise, non-sensational language.
+
+SUMMARY: Write a useful central account of 3 to 5 complete sentences, approximately 90 to 150 words when the supplied material supports that length. Start with the established event, then explain why it matters and the relevant context. Attribute allegations, disputed claims, forecasts, and partisan interpretations. If the supplied source material is too thin for a responsible longer summary, remain shorter rather than adding unsupported detail.
+
+BALANCE: For genuinely controversial stories, fill perspective_one with 2 to 3 sentences presenting the strongest materially relevant argument or interpretation from one side, and perspective_two with 2 to 3 sentences presenting the strongest competing argument or interpretation. Fill uncertain with 1 to 2 sentences identifying unresolved facts or limitations. Do not manufacture false balance, treat unsupported claims as facts, or legitimize dehumanizing claims. Distinguish governments, parties, armed organizations, institutions, civilians, and populations. For Israel and Palestinian coverage, never treat one actor as speaking for all Israelis or all Palestinians.
+
+SOURCE LINK: The preserved URL is the article button shown to the reader. Favor a straight-news, fact-centered article already present in the supplied candidates, rather than an opinion or analysis item. Do not label an outlet politically and do not claim ideological neutrality.
+
+CONFIDENCE: Use Confirmed, Developing, Disputed, or Reported. Add Understanding the Story only when supplied facts support a genuinely useful explainer. Add Worth Watching only for a consequential emerging development. Stories: '''
   res=client.responses.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),input=rules+payload)
   text=res.output_text.strip().removeprefix('```json').removesuffix('```').strip(); chosen=json.loads(text)
  except Exception as ex: print('AI refinement skipped:',ex)
