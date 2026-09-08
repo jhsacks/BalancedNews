@@ -3,3 +3,4 @@ feedparser>=6.0.11
 requests>=2.32
 beautifulsoup4>=4.12
 openai>=1.40
+Pillow>=10.4

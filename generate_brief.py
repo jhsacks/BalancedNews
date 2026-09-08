@@ -1,9 +1,10 @@
-import os,re,json,html as htmlmod
+import os,re,json,html as htmlmod,io
 from pathlib import Path
 from datetime import datetime,timedelta
 from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 import feedparser,requests
+from PIL import Image, ImageStat
 from bs4 import BeautifulSoup
 ROOT=Path(__file__).parent; CFG=json.loads((ROOT/'config.json').read_text()); DATA=ROOT/'data/briefings'; DATA.mkdir(parents=True,exist_ok=True)
 TZ=ZoneInfo(CFG['timezone']); now=datetime.now(TZ); edition=os.getenv('BRIEF_EDITION') or ('AM' if now.hour<12 else 'PM')
@@ -24,9 +25,32 @@ def pub_dt(e):
 def blocked_image(url):
  if not url: return True
  low=url.lower()
- blocked_hosts=('news.google.com','googleusercontent.com','gstatic.com','google.com')
- blocked_words=('logo','icon','favicon','sprite','branding','placeholder','default-image')
+ blocked_hosts=('news.google.com','googleusercontent.com','gstatic.com','google.com','twimg.com/profile_images','gravatar.com')
+ blocked_words=('logo','icon','favicon','sprite','branding','placeholder','default-image','masthead','avatar','profile','site-image')
  return any(h in low for h in blocked_hosts) or any(w in low for w in blocked_words)
+
+def visually_logo_like(url):
+ """Reject common logo/branding art using dimensions and visual simplicity."""
+ if blocked_image(url): return True
+ try:
+  r=requests.get(url,timeout=8,headers={'User-Agent':'Mozilla/5.0 BalancedBrief/4.0'})
+  if not r.ok or len(r.content)<12000: return True
+  im=Image.open(io.BytesIO(r.content)).convert('RGB')
+  w,h=im.size
+  if w<320 or h<160: return True
+  ratio=w/max(h,1)
+  if ratio>3.4 or ratio<0.65: return True
+  thumb=im.resize((64,64))
+  colors=len(thumb.quantize(colors=32).getcolors() or [])
+  stat=ImageStat.Stat(thumb)
+  avg=sum(stat.mean)/3
+  spread=sum(stat.stddev)/3
+  # Large mostly-white, low-detail branding panels and simple flat marks.
+  if avg>220 and spread<48: return True
+  if colors<=5: return True
+  return False
+ except Exception:
+  return True
 
 def extract_publisher_url(entry, feed_url):
  """Return the publisher article URL when an aggregator exposes one."""
@@ -64,14 +88,14 @@ def get_image(entry,url):
   values=entry.get(key,[])
   for value in values:
    candidate=value.get('url','')
-   if not blocked_image(candidate): return candidate
+   if not blocked_image(candidate) and not visually_logo_like(candidate): return candidate
  try:
   r=requests.get(url,timeout=10,headers={'User-Agent':'Mozilla/5.0 BalancedBrief/3.0'},allow_redirects=True)
   if not r.ok: return ''
   soup=BeautifulSoup(r.text,'html.parser')
   for tag in [soup.find('meta',property='og:image'),soup.find('meta',attrs={'name':'twitter:image'}),soup.find('meta',attrs={'name':'twitter:image:src'})]:
    candidate=tag.get('content','') if tag else ''
-   if not blocked_image(candidate): return candidate
+   if not blocked_image(candidate) and not visually_logo_like(candidate): return candidate
   # Last article-page fallback: first substantial content image, not a site logo.
   for img in soup.find_all('img'):
    candidate=img.get('src') or img.get('data-src') or img.get('data-lazy-src') or ''
@@ -106,21 +130,28 @@ for feed in CFG['feeds']:
   x={'headline':headline,'summary':summary,'url':url,'source':feed['name'],'published':raw,'category':feed['category'],'confidence':'Reported','image':'','perspective_one':'','perspective_two':'','uncertain':''}
   x['_score']=relevance(x); x['_entry']=e; items.append(x)
 seen=set(); counts={}; chosen=[]
-for x in sorted(items,key=lambda z:(z['_score'],z['published']),reverse=True):
- key=re.sub('[^a-z0-9]','',x['headline'].lower())[:90]
+def key_for(x): return re.sub('[^a-z0-9]','',x['headline'].lower())[:90]
+# First preserve breadth: one meaningful item from every category that has candidates.
+category_order=['U.S. Government & Politics','Major U.S. News','International Affairs','Conflicts & Security','Israel / Palestinian Territories','Healthcare & Medicine','Science & Discovery','AI & Technology','Markets & Economy','Sports','Positive Developments']
+ranked=sorted(items,key=lambda z:(z['_score'],z['published']),reverse=True)
+for category in category_order:
+ for x in ranked:
+  key=key_for(x)
+  if x['category']==category and key not in seen and x['_score']>=0:
+   seen.add(key); counts[category]=1; chosen.append(x); break
+# Then fill by overall significance, without forcing category quotas.
+for x in ranked:
+ key=key_for(x)
  if key in seen or x['_score']<2 or counts.get(x['category'],0)>=CFG['max_per_category']: continue
  seen.add(key); counts[x['category']]=counts.get(x['category'],0)+1; chosen.append(x)
  if len(chosen)>=CFG['max_stories']: break
-with_real_images=[]
+chosen=sorted(chosen,key=lambda z:(z['_score'],z['published']),reverse=True)[:CFG['max_stories']]
 for x in chosen:
  entry=x.pop('_entry')
  x['image']=get_image(entry,x['url'])
- if x['image'] and not blocked_image(x['image']):
-  if x['source'].startswith('Google News:'):
-   src=entry.get('source') or {}
-   if isinstance(src,dict) and src.get('title'): x['source']=src['title']
-  with_real_images.append(x)
-chosen=with_real_images
+ if x['source'].startswith('Google News:'):
+  src=entry.get('source') or {}
+  if isinstance(src,dict) and src.get('title'): x['source']=src['title']
 key=os.getenv('OPENAI_API_KEY','').strip()
 if key and chosen:
  try:

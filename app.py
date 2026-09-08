@@ -40,7 +40,7 @@ def load_briefs():
     return sorted(briefs,key=lambda x:x["generated_at"],reverse=True)
 
 def story_card(story):
-    image=f"<img src='{esc(story['image'])}' alt='{esc(story['headline'])}'>"
+    image=f"<img src='{esc(story.get('image'))}' alt='{esc(story.get('headline'))}'>" if story.get('image') else ''
     context=""
     if any(story.get(k) for k in ("perspective_one","perspective_two","uncertain")):
         context=("<div class='context'><b>Balanced context</b><br>"+esc(story.get("perspective_one"))+
@@ -66,12 +66,12 @@ with st.sidebar:
 
 brief=briefs[selected]
 dt=datetime.fromisoformat(brief["generated_at"])
-stories=[s for s in brief.get("stories",[]) if s.get("image")]
+stories=brief.get("stories",[])
 st.markdown(f"<div class='hero'><h1>{esc(CFG['title'])}</h1><p>{esc(CFG['tagline'])}</p></div><div class='meta'>{dt.strftime('%A, %B %d, %Y')} · <b>{brief['edition']} edition</b> · Updated {dt.strftime('%I:%M %p')}</div>",unsafe_allow_html=True)
 if selected:
     st.info("Archived edition. Select the first sidebar item for the newest brief.")
 if not stories:
-    st.warning("No stories with verified article images met the importance threshold for this edition.")
+    st.warning("No stories met the importance threshold for this edition.")
     st.stop()
 
 order=["U.S. Government & Politics","Major U.S. News","International Affairs","Conflicts & Security","Israel / Palestinian Territories","Healthcare & Medicine","Science & Discovery","AI & Technology","Markets & Economy","Sports","Positive Developments","Understanding the Story","Worth Watching"]
@@ -89,4 +89,4 @@ for category in order:
     for i,story in enumerate(group):
         with cols[i%2]: st.markdown(story_card(story),unsafe_allow_html=True)
 st.divider()
-st.caption("Only stories with a real article image are displayed. Stories are selected for significance, not category quotas. Source inclusion does not imply endorsement.")
+st.caption("Real publisher article images are used when available; branding images are suppressed. Stories are selected for significance, not category quotas. Source inclusion does not imply endorsement.")
