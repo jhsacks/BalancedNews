@@ -1,35 +1,60 @@
-import json,html
+import json, html
 from pathlib import Path
-from datetime import datetime,timedelta
+from datetime import datetime, timedelta
 import streamlit as st
-R=Path(__file__).parent;C=json.loads((R/'config.json').read_text());D=R/'data/briefings';Q=R/'assets/zelle_qr.png'
-st.set_page_config(page_title=C['title'],page_icon='📰',layout='wide')
-st.markdown('''<style>.block-container{max-width:1240px}.hero{background:linear-gradient(135deg,#123B5D,#0F766E);color:white;padding:28px;border-radius:20px}.support{background:#FFF8E8;border:1px solid #F1D58A;border-radius:16px;padding:16px;margin:18px 0}.rail{background:#102F46;color:white;padding:14px 18px;border-radius:15px}.rail a{color:#D7F0ED!important}.card{background:white;border:1px solid #E1E8EC;border-radius:17px;overflow:hidden;margin-bottom:18px}.card img{width:100%;height:145px;object-fit:cover}.body{padding:17px}.eye{font-size:.72rem;font-weight:800;color:#0F766E;text-transform:uppercase}.card h3{margin:7px 0}.sum{line-height:1.52}.why{margin-top:9px}.ctx{background:#EFF8F6;border-left:4px solid #0F766E;padding:10px;margin-top:10px}.src{font-size:.8rem;color:#718096;margin-top:10px}.btn{display:inline-block;background:#0F766E;color:white!important;padding:8px 12px;border-radius:8px;text-decoration:none;margin-top:9px}</style>''',unsafe_allow_html=True)
-def e(x):return html.escape(str(x or ''))
-def card(s):
- img=f"<img src='{e(s.get('image'))}'>" if s.get('image') else '';why=f"<div class='why'><b>Why it matters:</b> {e(s.get('why_it_matters'))}</div>" if s.get('why_it_matters') else '';bits=[]
- for k,l in [('perspective_one','One view'),('perspective_two','Another view'),('uncertain','Still uncertain')]:
-  if s.get(k):bits.append(f'<b>{l}:</b> {e(s[k])}')
- ctx="<div class='ctx'>"+'<br><br>'.join(bits)+"</div>" if bits else ''
- return f"<div class='card'>{img}<div class='body'><div class='eye'>{e(s.get('category'))} · {e(s.get('confidence'))}</div><h3>{e(s.get('headline'))}</h3><div class='sum'>{e(s.get('summary'))}</div>{why}{ctx}<div class='src'>{e(s.get('source'))} · {e(s.get('published'))}</div><a class='btn' href='{e(s.get('url'))}'>Read source article</a></div></div>"
-B=[]
-for p in D.glob('*.json'):
- try:
-  b=json.loads(p.read_text());d=datetime.fromisoformat(b['generated_at'])
-  if datetime.now(d.tzinfo)-d<=timedelta(days=C.get('archive_days',8)):B.append(b)
- except:pass
-B=sorted(B,key=lambda x:x['generated_at'],reverse=True)
+
+ROOT = Path(__file__).parent
+CFG = json.loads((ROOT / "config.json").read_text())
+DATA = ROOT / "data/briefings"
+QR = ROOT / "assets/zelle_qr.png"
+
+st.set_page_config(page_title=CFG["title"], page_icon="📰", layout="wide")
+st.markdown("""
+<style>
+.block-container{max-width:1240px;padding-top:1rem}.hero{background:linear-gradient(110deg,#123B5D,#0F766E);color:#fff;padding:12px 20px;border-radius:14px;display:flex;align-items:baseline;gap:16px;flex-wrap:wrap}.hero h1{font-size:1.95rem;line-height:1;margin:0}.hero p{font-size:.96rem;margin:0;opacity:.95}.edition{font-size:.86rem;color:#61717a;margin:6px 2px 10px}.support{background:#FFF8E8;border:1px solid #F1D58A;border-radius:12px;padding:10px 14px;margin:10px 0 16px}.card{background:#fff;border:1px solid #E1E8EC;border-radius:16px;overflow:hidden;margin-bottom:16px}.card img{width:100%;height:155px;object-fit:cover}.body{padding:16px}.eye{font-size:.72rem;font-weight:800;color:#0F766E;text-transform:uppercase}.card h3{margin:7px 0}.sum,.why,.ctx-line{line-height:1.62;font-size:1rem;letter-spacing:.01em}.why{margin-top:10px}.ctx{background:#EFF8F6;border-left:4px solid #0F766E;padding:10px 12px;margin-top:11px;border-radius:0 8px 8px 0}.ctx-title{font-weight:800;color:#0B5F59;margin-bottom:5px}.src{font-size:.8rem;color:#718096;margin-top:10px}.btn{display:inline-block;background:#0F766E;color:#fff!important;padding:7px 11px;border-radius:8px;text-decoration:none;margin-top:9px}.empty{border:1px dashed #B8C7CC;border-radius:16px;padding:18px;text-align:center;color:#60717A;background:#FAFCFC}.cricket{font-size:7rem;line-height:1.05}.more{background:#F7F9FA;border-radius:12px;padding:10px 14px;margin:-4px 0 18px}.more li{margin:6px 0}
+</style>""", unsafe_allow_html=True)
+
+def esc(x): return html.escape(str(x or ""))
+
+def story_card(s):
+    image = f"<img src='{esc(s.get('image'))}'>" if s.get("image") else ""
+    why = f"<div class='why'><b>Why it matters:</b> {esc(s.get('why_it_matters'))}</div>" if s.get("why_it_matters") else ""
+    views = []
+    if s.get("perspective_one"): views.append(f"<div class='ctx-line'><b>One perspective:</b> {esc(s['perspective_one'])}</div>")
+    if s.get("perspective_two"): views.append(f"<div class='ctx-line'><b>Another perspective:</b> {esc(s['perspective_two'])}</div>")
+    if s.get("uncertain"): views.append(f"<div class='ctx-line'><b>Still unclear:</b> {esc(s['uncertain'])}</div>")
+    perspectives = "<div class='ctx'><div class='ctx-title'>Where perspectives differ</div>" + "".join(views) + "</div>" if views else ""
+    return f"<div class='card'>{image}<div class='body'><div class='eye'>{esc(s.get('category'))} · {esc(s.get('confidence'))}</div><h3>{esc(s.get('headline'))}</h3><div class='sum'>{esc(s.get('summary'))}</div>{why}{perspectives}<div class='src'>{esc(s.get('source'))} · {esc(s.get('published'))}</div><a class='btn' href='{esc(s.get('url'))}'>Read source article</a></div></div>"
+
+briefings = []
+for path in DATA.glob("*.json"):
+    try:
+        item = json.loads(path.read_text())
+        generated = datetime.fromisoformat(item["generated_at"])
+        if datetime.now(generated.tzinfo) - generated <= timedelta(days=CFG.get("archive_days", 8)): briefings.append(item)
+    except Exception: pass
+briefings.sort(key=lambda x: x["generated_at"], reverse=True)
+if not briefings:
+    st.warning("No briefings are available yet. Run the briefing workflow once."); st.stop()
 with st.sidebar:
- st.title('🗓️ Briefing Archive'); labels=[f"{datetime.fromisoformat(b['generated_at']).strftime('%A, %b %d')} · {b['edition']}" for b in B];i=st.radio('Edition',range(len(B)),format_func=lambda x:labels[x],label_visibility='collapsed');st.divider();st.link_button('Support via Venmo','https://venmo.com/u/jhsacks',use_container_width=True)
- if Q.exists():st.image(str(Q),caption='Zelle: scan the QR code',use_container_width=True)
-b=B[i];d=datetime.fromisoformat(b['generated_at']);S=b['stories'];st.markdown(f"<div class='hero'><h1>{e(C['title'])}</h1><p>{e(C['tagline'])}</p></div><p>{d.strftime('%A, %B %d, %Y')} · <b>{b['edition']} edition</b></p>",unsafe_allow_html=True)
-st.markdown("<div class='support'><b>I hope you like this site!</b><br>But it is not free to run. Feel free to throw me a few bucks every month or so to keep it going!<br><a href='https://venmo.com/u/jhsacks'>Support via Venmo</a></div>",unsafe_allow_html=True)
-st.markdown("<div class='rail'><b>Top stories</b><ol>"+''.join(f"<li><a href='{e(s['url'])}'>{e(s['headline'])}</a></li>" for s in S[:5])+"</ol></div>",unsafe_allow_html=True)
-seen=set()
-for cat in C['category_order']+[s.get('category') for s in S]:
- if not cat or cat in seen:continue
- G=[s for s in S if s.get('category')==cat]
- if not G:continue
- seen.add(cat);st.header(cat);cols=st.columns(2)
- for n,s in enumerate(G):
-  with cols[n%2]:st.markdown(card(s),unsafe_allow_html=True)
+    st.title("🗓️ Briefing Archive")
+    labels = [f"{datetime.fromisoformat(b['generated_at']).strftime('%A, %b %d')} · {b['edition']}" for b in briefings]
+    selected = st.radio("Edition", range(len(briefings)), format_func=lambda i: labels[i], label_visibility="collapsed")
+    st.divider(); st.link_button("Support via Venmo", "https://venmo.com/u/jhsacks", use_container_width=True)
+    if QR.exists(): st.image(str(QR), caption="Zelle: scan the QR code", use_container_width=True)
+brief = briefings[selected]; generated = datetime.fromisoformat(brief["generated_at"])
+stories = brief.get("stories", []); more = brief.get("more_stories", {})
+st.markdown(f"<div class='hero'><h1>{esc(CFG['title'])}</h1><p>{esc(CFG['tagline'])}</p></div><div class='edition'>{generated.strftime('%A, %B %d, %Y')} · <b>{brief['edition']} edition</b></div>", unsafe_allow_html=True)
+st.markdown("<div class='support'><b>I hope you like this site!</b> It is reader-supported. <a href='https://venmo.com/u/jhsacks'>Support via Venmo</a></div>", unsafe_allow_html=True)
+for category in CFG["category_order"]:
+    st.header(category)
+    group = [s for s in stories if s.get("category") == category]
+    if not group:
+        st.markdown("<div class='empty'><div class='cricket'>🦗</div><b>Quiet in this section.</b><br>No fresh story cleared the quality bar for this edition.</div>", unsafe_allow_html=True)
+    else:
+        columns = st.columns(2)
+        for index, story in enumerate(group):
+            with columns[index % 2]: st.markdown(story_card(story), unsafe_allow_html=True)
+    links = more.get(category, [])
+    if links:
+        st.markdown("<div class='more'><b>More worth a look</b><ul>" + "".join(f"<li><a href='{esc(x['url'])}'>{esc(x['headline'])}</a> <span class='src'>· {esc(x.get('source'))}</span></li>" for x in links) + "</ul></div>", unsafe_allow_html=True)
