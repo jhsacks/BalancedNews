@@ -22,7 +22,7 @@ def url_date(u):
  try:return datetime(int(m.group(1)),int(m.group(2)),int(m.group(3) or 1),tzinfo=TZ)
  except ValueError:return None
 def fresh(u,d,category):
- cutoff=now-timedelta(days=4) if category=='Good News' else now-timedelta(hours=36 if edition=='AM' else 18)
+ cutoff=now-timedelta(days=CFG.get('good_news_lookback_days',7)) if category=='Good News' else now-timedelta(hours=36 if edition=='AM' else 18)
  dated=url_date(u)
  if dated and dated < now-timedelta(days=CFG.get('max_article_age_days',14)):return False
  return bool(d and d>=cutoff)
@@ -84,15 +84,33 @@ selected_urls={x['url'] for x in chosen}; more={c:[] for c in CFG['category_orde
 for x in ranked:
  if x['url'] in selected_urls or repeated_good(x) or len(more[x['category']])>=CFG['more_links_per_category'] or duplicate(x,chosen+more[x['category']]):continue
  more[x['category']].append({'headline':x['headline'],'url':x['url'],'source':x['source'],'summary':x['summary']})
+if not any(x.get('category')=='Good News' for x in chosen):
+ raise RuntimeError('No fresh, non-repeated Good News story was found. Briefing was not published.')
 for x in chosen:x['image']=find_image(x.pop('_entry'),x['url'])
 key=os.getenv('OPENAI_API_KEY','').strip()
+if not key:
+ raise RuntimeError('OPENAI_API_KEY is missing. Briefing was not published because AI summaries, Why It Matters, and perspectives are required.')
+if not chosen:
+ raise RuntimeError('No eligible stories were found. Briefing was not published.')
 if key and chosen:
  try:
   from openai import OpenAI
   payload=json.dumps([{k:v for k,v in x.items() if not k.startswith('_')} for x in chosen])
-  prompt='''Return only a JSON array with every supplied story exactly once. Preserve URL, source, published, image, and category exactly. Write for readers with dyslexia: common words, active voice, one idea per sentence. Summary must be exactly two short sentences totaling 24-40 words. why_it_matters must be one sentence under 18 words. For anything remotely controversial, including politics, policy, courts, war, diplomacy, policing, identity, religion, health policy, economic policy, climate, education, labor, corporate power, technology risks, or fairness, perspective_one and perspective_two are REQUIRED. Each is one distinct good-faith view in 10-20 plain words. Do not create false balance about established facts. For clearly noncontroversial stories, leave both blank. uncertain is one short sentence only when a key fact is unresolved. confidence is Confirmed, Developing, Disputed, or Reported. Include every key for every story. Stories: '''+payload
+  prompt='''Return only a valid JSON array with every supplied story exactly once and every original key present. Preserve URL, source, published, image, and category exactly. Never return markdown. Never invent facts.
+For EVERY story: summary is exactly two short, plain-language sentences totaling 24-40 words. why_it_matters is REQUIRED and must be one clear sentence under 18 words. Write for readers with dyslexia using common words, active voice, and one idea per sentence.
+For EVERY story in U.S. Politics, Conflicts & Security, Middle East Affairs, Business & Economy, or Society & Culture, perspective_one and perspective_two are REQUIRED. Also require both perspectives for any other story involving policy, courts, diplomacy, policing, public health, education, labor, corporate power, technology risk, rights, or fairness. Each perspective must give a distinct good-faith argument in one plain sentence of 10-20 words. Do not describe political teams; explain the actual disagreement. Do not create false balance about established facts. For clearly noncontroversial stories only, leave both perspective fields blank. uncertain is one short sentence only when a key fact is unresolved. confidence is Confirmed, Developing, Disputed, or Reported. Stories: '''+payload
   text=OpenAI(api_key=key).responses.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),input=prompt).output_text.strip().removeprefix('```json').removesuffix('```').strip(); result=json.loads(text)
-  if isinstance(result,list) and len(result)==len(chosen):chosen=result
- except Exception as e:print('AI refinement skipped:',e)
+  if not isinstance(result,list) or len(result)!=len(chosen):
+   raise ValueError('AI returned the wrong number of stories')
+  required={'headline','summary','why_it_matters','url','source','published','category','confidence','image','perspective_one','perspective_two','uncertain'}
+  for story in result:
+   missing=required-set(story)
+   if missing:raise ValueError(f'AI response missing fields: {sorted(missing)}')
+   if not str(story.get('why_it_matters','')).strip():raise ValueError('AI response omitted Why It Matters')
+   if story.get('category') in {'U.S. Politics','Conflicts & Security','Middle East Affairs','Business & Economy','Society & Culture'} and (not str(story.get('perspective_one','')).strip() or not str(story.get('perspective_two','')).strip()):
+    raise ValueError(f"AI response omitted perspectives for {story.get('category')}")
+  chosen=result
+ except Exception as e:
+  raise RuntimeError(f'AI enrichment failed; briefing was not published: {e}') from e
 for x in chosen:x.pop('_score',None)
 out={'generated_at':now.isoformat(),'edition':edition,'stories':chosen,'more_stories':more}; name=f"{now:%Y-%m-%d}_{edition}.json";(DATA/name).write_text(json.dumps(out,indent=2));print(name,len(chosen))
