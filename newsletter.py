@@ -37,7 +37,7 @@ def subscribe(email, preference, secrets=None):
     )
     if response.ok:
         return True, "You're subscribed. Your edition choice has been saved."
-    return False, "Signup could not be completed. Please try again."
+    return False, f"Signup failed: {response.status_code} - {response.text}"
 
 
 def unsubscribe(token, secrets=None):
