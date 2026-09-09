@@ -1,123 +1,123 @@
 {
-  "generated_at": "2026-09-09T06:48:42.965736-04:00",
+  "generated_at": "2026-09-09T11:50:08.500690-04:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "The 2026 midterm general election season is upon us. Here's what to watch",
-      "summary": "The week of Labor Day starts the general election season. Control of Congress is at stake due to President Trump's low popularity and Democratic energy.",
-      "why_it_matters": "Congress control affects laws and policies impacting all Americans.",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
-      "source": "NPR Politics",
-      "published": "Tue, 08 Sep 2026 05:00:00 -0400",
+      "headline": "EXCLUSIVE: Trump Accused of 'Unconstitutional' Election Power Grab as Members of Congress Beg Supreme Court to Block New Mail-Ballot Crackdown - RadarOnline",
+      "summary": "Donald Trump faces accusations of an unconstitutional attempt to control election rules. Members of Congress are urging the Supreme Court to stop new mail-ballot restrictions.",
+      "why_it_matters": "Election rules affect voter access and trust in democracy.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDZtN1pOTmZRQnJOb1k5dzVXQnViSGZwZ1FEUXFpdWFVQThfbzlEcmwyeDRPUkJjamRCRWhzdVV3bXQ0S2dxNjdpbldUZm0yb1VkNmIwYVB1TWtlSk05WFRwbERMbXZmWWpiTzVJd3ZhSlJwWEZyNVZUX3FndjNtTFBGcmFGd0Z2RDBOazNJUTc4VmJmU3ZWYWJwMzRlT2V1a3k5MEVBNGJLV1pKV3NRNFZB?oc=5",
+      "source": "U.S. Politics",
+      "published": "Tue, 08 Sep 2026 23:56:14 GMT",
       "category": "U.S. Politics",
       "confidence": "Reported",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x5768+0+0/resize/8667x5768!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F2b%2F4c6477fc455e98281566eb111242%2Fgettyimages-2292937076.jpg",
-      "perspective_one": "Electing one party could lead to more stable government and clear policy direction.",
-      "perspective_two": "Balanced control of Congress ensures checks and prevents overreach by any party.",
+      "image": "",
+      "perspective_one": "Strict mail-ballot rules protect election security from fraud.",
+      "perspective_two": "New restrictions unfairly limit voter access and suppress turnout.",
       "uncertain": ""
     },
     {
       "headline": "Economy remains top of mind for many Americans as trade war with Canada escalates",
-      "summary": "President Trump's trade war with Canada continues with new tariffs. Americans worry about how this will impact the economy before the midterms.",
-      "why_it_matters": "Trade conflicts affect prices, jobs, and economic growth in the U.S.",
+      "summary": "President Trump's trade war with Canada intensifies amid economic worries. Many Americans focus on the economy ahead of the midterm elections.",
+      "why_it_matters": "Economic tensions affect jobs, prices, and election outcomes.",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5961306/economy-remains-top-of-mind-for-many-americans-as-trade-war-with-canada-escalates",
       "source": "NPR U.S.",
       "published": "Wed, 09 Sep 2026 04:44:28 -0400",
       "category": "U.S. News",
       "confidence": "Reported",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "perspective_one": "Tariffs protect American industries and jobs from unfair foreign competition.",
-      "perspective_two": "Tariffs raise prices and hurt consumers and businesses that rely on trade.",
+      "perspective_one": "Trade wars protect domestic industries from unfair competition.",
+      "perspective_two": "Trade wars raise prices and harm consumers and businesses.",
       "uncertain": ""
     },
     {
       "headline": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "summary": "The US bans certain Canadian imports including alcohol and dairy items. This action responds to Canada\u2019s recent tariffs on US goods.",
-      "why_it_matters": "Such bans deepen the trade dispute and affect businesses on both sides.",
+      "summary": "The U.S. bans certain Canadian imports in response to tariffs. This move follows Canada's counter-tariffs on American goods.",
+      "why_it_matters": "Trade bans disrupt markets and can escalate economic conflicts.",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Wed, 09 Sep 2026 10:20:40 GMT",
       "category": "World News",
       "confidence": "Reported",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcae/live/5358e090-ac2f-11f1-b483-f5be285e6b7e.jpg",
-      "perspective_one": "Banning imports pressures Canada to end tariffs and protect US interests.",
-      "perspective_two": "Import bans harm consumers and escalate tensions, risking economic damage globally.",
+      "perspective_one": "Import bans defend local producers from unfair foreign competition.",
+      "perspective_two": "Bans harm consumers and escalate trade tensions unnecessarily.",
       "uncertain": ""
     },
     {
       "headline": "Background Defense Meets Offense: The IDF\u2019s Response to Hezbollah in Southern Lebanon - idf.il",
-      "summary": "The Israeli Defense Forces responded to Hezbollah actions in southern Lebanon. Their operations combine defense with offensive moves.",
-      "why_it_matters": "This affects regional security and the risk of wider conflict in the Middle East.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWo3WjgzN2J4VDIxN1hNVzRuWUcxSjM2cGVHNlRlVFI1WTFZOUVOOVVoS2JmVWlKbDRHeTZnM3FhSjV3aHh_fdjg5R2Q5eHdLaUdmaGZzOUUtZTlVOHYtTHNjaUFjbjl6QTg0Y3RDQlNRR0ROWDVvZ1JKZy02MnE4SE5GX0ZDdW9nR0c1VjJGbEkwWW81N3ZmU1VUUWxFUk9DamRhWDZzZFBfWjdKc1NGSkFIVGp6ZTFyNGM1LXZGVjZETXdkTGxF?oc=5",
+      "summary": "The Israeli Defense Forces explain their response to Hezbollah attacks. They stress combining defense with offensive actions in Southern Lebanon.",
+      "why_it_matters": "Conflict in this region affects regional security and stability.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWo3WjgzN2J4VDIxN1hNVzRuWUcxSjM2cGVHNlRlVFI1WTFZOUVOOVVoS2JmVWlKbDRHeTYnM3FhSjV3aHhfdjg5R2Q5eHdLaUdmaGZzOUUtZTlVOHYtTHNjaUFjbjl6QTg0Y3RDQlNRR0ROWDVvZ1JKZy02MnE4SE5GX0ZDdW9nR0c1VjJGbEkwWW81N3ZmU1VUUWxFUk9DamRhWDZzZFBfWjdKc1NGSkFIVGp6ZTFyNGM1LXZGVjZETXdkTGxF?oc=5",
       "source": "Conflicts & Security",
       "published": "Tue, 08 Sep 2026 17:14:08 GMT",
       "category": "Conflicts & Security",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Strong response deters Hezbollah and reduces future threats to Israel's security.",
-      "perspective_two": "Offensive actions risk escalating violence and destabilizing the region further.",
+      "perspective_one": "Strong military response deters future attacks and protects civilians.",
+      "perspective_two": "Offensive actions risk escalating violence and causing more harm.",
       "uncertain": ""
     },
     {
-      "headline": "Israel's Netanyahu Denies UAE Warned Him of October 7 Attack - Tempo.co English",
-      "summary": "Israeli PM Netanyahu denies reports that UAE warned him before the October 7 attack. He rejects claims of prior knowledge from the UAE.",
-      "why_it_matters": "Trust and communication between Israel and UAE affect regional diplomacy and security.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd19ZTnVqOTVGZDZRa2x4U2dvNW1lM1c0dXJjams3eWlfdzVJMGhpbjQ0UXpLNkwxYVlfc1pzS2YxeEFEeHdOUHFkWURTWjRqY1pzMXNkWUFXMF93RjhzaHdWbVBuRDZkX2NVMmxYbG5rRjdFMnRSai1EVjZRZWktSGt5LW9LR0p6R2lmeUtqN2Nhd3BaNGQ4?oc=5",
+      "headline": "Yemen war escalates: Who are the key actors involved? - Al Jazeera",
+      "summary": "The war in Yemen grows more intense with several key actors involved. The conflict includes local groups and foreign powers.",
+      "why_it_matters": "Understanding actors helps find solutions and peace in Yemen.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0xLaEVoaU9RX3V5VmdmWUJtMXE0NWp0dTRWMnRYMDZoSDVfZ2xRTzNicUZLblYyVW9oZk1PVlNXVkJkV21HNW1DaGZKWjVyN3lmRW1kS09zdDk5TVBmV1M3WEFVd04wWk9iWUZ3aG1fSlpQYU53bWFiWndiTklaODVtZmFoZkFXRVNoZmpSVFVVQXlJNWfSAZsBQVVfeXFMT3RCQkVib2ZUMlhTUjBXbmROVkdYVFZjaDNOODVKOHpmcHY1MDhHQ0lMQTRGOFRfVzRjYWNYMUlNNEE1ZmpZOWxrTThIRWFGblBVVXRPWV9jeEJpWVZxN2hraWhLWDFMcE5qeU1CUGpZSFVSYk1oMDBhUjlGRjRpT19YOEc3ZmRRZjE1My1SSG9pN1N2T3I0aW8yeUE?oc=5",
       "source": "Middle East Affairs",
-      "published": "Wed, 09 Sep 2026 03:40:07 GMT",
+      "published": "Wed, 09 Sep 2026 10:48:54 GMT",
       "category": "Middle East Affairs",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "If true, early warnings could have allowed better defense and saved lives.",
-      "perspective_two": "Denying warnings prevents harm to diplomatic ties and maintains trust with allies.",
+      "perspective_one": "International involvement worsens the conflict and prolongs suffering.",
+      "perspective_two": "Foreign aid is needed to support legitimate groups and restore order.",
       "uncertain": ""
     },
     {
-      "headline": "FDA warns against falsified Dr Alfred Capsules adulterated with sildenafil - Modern Ghana",
-      "summary": "The FDA warns that fake Dr Alfred Capsules contain sildenafil, a controlled drug. Using them could be unsafe and harmful to health.",
-      "why_it_matters": "Fake medicines threaten patient safety and undermine health regulations.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUIydTFkbHJQTzJfeEZzNE5RSjJCd1h5WVhPOW93YWtQMDZKUmhEX1dueFRIcExZMXlxTEdnWVVhOV9wMU9JOXZmbFNFNnZFVGxoYmNxUWE1eEkxMzZLZXMxZjZNNE5uVGhJeGUxa3FCclk5aXlLT2NONXo0bTBFVHBRbGVYTXZYZjc3WjRfT1U3UFRBRE5R0gGWAUFVX3lxTE1TZDVxS2RfTTllQU5kRmJpNzVhWURLa214eEhMeFRtX2pCSjRfQ0N6d0x4WFE3dk9LaEs5dkJzNnoySmdHMFVzSXJDeHJqZjE1SkktdjJueVExNWZYcGxOVUo3bzhaUWJCbmZKUTBxYnQ4encxa1BpVTZDNFhWUkZ4TWFGbDlFTUxBN3ZRN0pKYVlrT25Zdw?oc=5",
+      "headline": "HHS Announces Four Key FDA Leadership Selections Across CDER, CBER, CTP and AI - Oncodaily",
+      "summary": "The U.S. Department of Health and Human Services named four new FDA leaders. These appointments cover drug evaluation, biologics, tobacco, and AI areas.",
+      "why_it_matters": "FDA leadership shapes drug safety, innovation, and public health policies.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JOUR3THN1Y0FLS1VnMjItYXpteGNza2lfSkpXV3dnSnNlemRqMGc1UlNVQUYtYzVrZElsNUp4VVd4YmRUT2JaazZrSFZZYWNxMk9TQzJjVQ?oc=5",
       "source": "Health & Medicine",
-      "published": "Wed, 09 Sep 2026 10:11:29 GMT",
+      "published": "Wed, 09 Sep 2026 14:27:36 GMT",
       "category": "Health & Medicine",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Warning helps protect people from harmful counterfeit medicines.",
-      "perspective_two": "Fake drugs show the need for stronger controls in medicine distribution.",
+      "perspective_one": "New leaders can bring fresh ideas and improve drug approval processes.",
+      "perspective_two": "Leadership changes risk disrupting current projects and policies.",
       "uncertain": ""
     },
     {
-      "headline": "AI, Digital Sovereignty Critical To India\u2019s National Security, Experts Warn At KCSS 2026 - ANI News",
-      "summary": "Experts at KCSS 2026 say AI and digital control are vital for India's security. Protecting data and tech autonomy is urgent amid global digital competition.",
-      "why_it_matters": "Digital power shapes national security and economic strength worldwide.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVXZ4ckxFVHZfVkVRSjJ3OUhCZVJvTmdQQ0V1bk9zUGZld1lSb0gwY0VvUG5QUVFuSkNBdzhGbVhRZzY2ZnZEWHRMR3AyVExGRzQ4RjQtTnRoc1pEaWdTaFdkdnFveXVXSzg2bk1fTDQ0cFBsWnZObE5wbUFENTZWbVdIczJqTjk0ZkVIUEdaRWM3YzNQUXdfTWRxTWkyOElCR3VxR3FUMGFZY2lGWV84QUJOSHNtWm96cHAtQTV5TUFBUkVOZjU4bU83Zy1NVWM3U2NSNkJ1UQ?oc=5",
+      "headline": "Suno launches v6 AI music models trained with licensed data from Warner and BMG - Tech Edition",
+      "summary": "Suno released its version 6 AI music models trained on data from Warner and BMG. This aims to improve AI-created music quality and licensing clarity.",
+      "why_it_matters": "Advances in AI music affect creativity, copyright, and the music industry.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGE0djh2djJkTUxGRTNTQm56UzJVUl84ZnZZdy1xSUw4Ulp2UDFzZ1NsYXRSa25OQVdndGRlNnlVSHhocEpsTm10TmRMMEFDUktFa1loV3REazVTR1RfZENOLWx5MmpwOW1lR29neEZmRXNTcF9Zd3Qza1hFbVVESE9MckFva3BmYTFQamFPSTR1V3M3aXpIOXoyNWVNVDZ4Tk1xUHJ3?oc=5",
       "source": "AI & Technology",
-      "published": "Wed, 09 Sep 2026 10:41:00 GMT",
+      "published": "Wed, 09 Sep 2026 14:52:16 GMT",
       "category": "AI & Technology",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Controlling digital tech boosts national security and protects data privacy.",
-      "perspective_two": "Too much focus on control can limit innovation and global tech cooperation.",
+      "perspective_one": "Licensed data ensures ethical use and respects artist rights in AI models.",
+      "perspective_two": "Using large datasets risks limiting creativity and originality in music.",
       "uncertain": ""
     },
     {
       "headline": "Crude Pushes Towards $100 on Mideast Flare-Up, Fanning Inflation Fears - RTV News",
-      "summary": "Oil prices near $100 due to tensions in the Middle East. Rising fuel costs raise fears of higher inflation globally.",
-      "why_it_matters": "Higher oil prices increase living costs and slow economic growth worldwide.",
+      "summary": "Rising tensions in the Middle East push crude oil prices toward $100 a barrel. This increase worsens fears of rising inflation worldwide.",
+      "why_it_matters": "Higher oil prices raise costs for consumers and businesses globally.",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSY1EzdlNtekJCZ20zbG1RUzRSU2I1cmdJeEVvakZndW5mM1E4SkpxbnNHdW9na1dqM2ZiSERpcm0zVFNveFFUYUFneExhTzh2RnczR3FTSW1qNDdTRGlKVkpJNA?oc=5",
       "source": "Business & Economy",
-      "published": "Wed, 09 Sep 2026 06:33:45 GMT",
+      "published": "Wed, 09 Sep 2026 07:06:46 GMT",
       "category": "Business & Economy",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "High crude prices reflect real supply risks and signal needed energy investment.",
-      "perspective_two": "Rapid price increases hurt consumers and strain economies facing inflation.",
+      "perspective_one": "Price rises reflect real supply risks and help balance markets.",
+      "perspective_two": "Rising prices hurt consumers and slow economic growth.",
       "uncertain": ""
     },
     {
       "headline": "College Football Playoff odds: LSU joins the party, is now favored to make 12-team field - The New York Times",
-      "summary": "LSU is now favored to reach the 12-team College Football Playoff. This changes the competitive landscape early in the season.",
-      "why_it_matters": "Playoff selections impact team revenues, recruiting, and sports culture excitement.",
+      "summary": "LSU is now a favorite to make the 12-team College Football Playoff field. This reflects strong performance early in the season.",
+      "why_it_matters": "Playoff odds shape fan interest and team strategies.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVoxM1pxSW01MVpsZ2xlNVNYelduVWYzU29INVJDU0lVNTlONlNoWjc1NG9kNEc4T2lXNWIxWmxUdWZyVU5GMWpodFZvOGFSTXU4TU5nRDlQeG5JVU1qNFgweTlENTB3R1I3Y1VtLWVDTTZBdGhMUWlPQTU2dVRiRVdoT3QyLTBNc1BjS0E0Zw?oc=5",
       "source": "Major Sports",
       "published": "Wed, 09 Sep 2026 09:00:48 GMT",
@@ -129,23 +129,23 @@
       "uncertain": ""
     },
     {
-      "headline": "Belligerents in 6-year Military Standoff Agree to Swap Rifles for Ballots",
-      "summary": "Libya's rivals agreed to hold elections after six years of conflict. This deal follows long UN-led talks aiming to end the unrest.",
-      "why_it_matters": "Elections can restore peace and stability to a war-torn country.",
-      "url": "https://www.goodnewsnetwork.org/belligerents-in-this-6-year-military-standoff-agree-to-swap-rifles-for-ballots/",
+      "headline": "Yard Work Reveals Largest Trove of Viking Silver Ever Discovered in Denmark",
+      "summary": "A man in Denmark found the largest Viking silver trove while working in his backyard. This unexpected discovery sheds new light on Viking history.",
+      "why_it_matters": "Archaeological finds deepen understanding of ancient cultures and history.",
+      "url": "https://www.goodnewsnetwork.org/yard-work-reveals-largest-trove-of-viking-silver-ever-discovered-in-denmark/",
       "source": "Good News Network",
-      "published": "Wed, 02 Sep 2026 18:30:49 +0000",
+      "published": "Wed, 09 Sep 2026 11:30:06 +0000",
       "category": "Good News",
       "confidence": "Reported",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-signing-of-an-agreement-addressing-the-first-two-milestones-of-the-Libyan-Political-Roadmap-credit-UN-photo-by-Bryony-Taylor-UNSMIL.jpg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-hoard-found-in-Rebild-credit-Noth-Jutland-Museums-released-e1788940442233.jpg",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": ""
     },
     {
       "headline": "ESPN ranks Top 25 teams with highest chance to make College Football Playoff after Week 1 - On3",
-      "summary": "ESPN ranked 25 teams by their chances to reach the College Football Playoff after week 1. This ranking highlights early-season expectations.",
-      "why_it_matters": "Rankings influence fan interest and team confidence throughout the season.",
+      "summary": "After Week 1, ESPN ranked the top 25 teams most likely to reach the College Football Playoff. These ratings guide fans and analysts through the season.",
+      "why_it_matters": "Predictions affect fan engagement and team motivation later.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd01Tajk2dWUwSVJibkQ2a3NTZjl1dzdJbjcxVWdVQXpsQU5CdktOLXR2aURFeEM5cEdhRlBWdmNRNjlYTlFyc3d0RVp5enE1dDdSVHZYUnFvTUxwZEJidVZOQVBFejM5a1dTY3c5eUNrLV9SNFo3bEo2TTFuZUoyWmdibTdQcGtQQXRhRk9wS0YyVXMyTFEtWE5Hbk9xRzdfYUdDbUZTdTZVNHFRRnRaT2xEQmlGRXJuZm94TzVWZ3JsaGhXXzZ4OW1Sb2dsRC1mSmRLSw?oc=5",
       "source": "College Sports",
       "published": "Tue, 08 Sep 2026 17:35:12 GMT",
@@ -158,8 +158,8 @@
     },
     {
       "headline": "College Football Playoff 2026: Bubble watch after Week 1 - ABC7 Bay Area",
-      "summary": "This report tracks teams on the edge of qualifying for the College Football Playoff after week 1. Fans watch closely to see who advances.",
-      "why_it_matters": "Close playoff races build fan excitement and pressure teams to perform.",
+      "summary": "After Week 1, ABC7 Bay Area analyzed teams on the playoff bubble. This helps fans track who might just make it to the playoffs.",
+      "why_it_matters": "Tracking bubble teams keeps fans informed and excited.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0hXZmh2MW1uTk5QTmhQWXJxWHl6R01GdHdRUk1sSDI3akFVcTBMaWd4aFg1by12OUdVZ2J5OGZWYkh1czlnNWcyaWZnTTF3NndQcEJqb0g1UjhLSkpCX3YtOTNTQlpUUUxqNTVwYWhpanUtNEFiam1FYXVqY2s1N0puSnhOQjFuM1oya3Z3?oc=5",
       "source": "College Sports",
       "published": "Tue, 08 Sep 2026 16:41:15 GMT",
@@ -171,272 +171,272 @@
       "uncertain": ""
     },
     {
+      "headline": "The 2026 midterm general election season is upon us. Here's what to watch",
+      "summary": "The general election season starts after Labor Day with control of Congress at stake. Trump's unpopularity and Democratic enthusiasm are key factors.",
+      "why_it_matters": "Midterms shape political power and policy direction for years.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
+      "source": "NPR Politics",
+      "published": "Tue, 08 Sep 2026 05:00:00 -0400",
+      "category": "U.S. Politics",
+      "confidence": "Reported",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x5768+0+0/resize/8667x5768!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F2b%2F4c6477fc455e98281566eb111242%2Fgettyimages-2292937076.jpg",
+      "perspective_one": "Midterms allow voters to hold leaders accountable and change direction.",
+      "perspective_two": "Voter turnout may be low due to fatigue and distrust in politics.",
+      "uncertain": ""
+    },
+    {
       "headline": "What to know about Canada's escalating trade war with the U.S.",
-      "summary": "Canada imposed tariffs on $20 billion of U.S. products in response to U.S. actions. This escalation could affect broader trade and politics.",
-      "why_it_matters": "Trade wars impact jobs, prices, and economic relations between countries.",
+      "summary": "Canada imposed tariffs on $20 billion of U.S. goods in response to trade actions. The trade conflict could impact many countries beyond North America.",
+      "why_it_matters": "Trade disputes affect global economies and diplomatic relations.",
       "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
       "source": "NPR Politics",
       "published": "Tue, 08 Sep 2026 02:04:43 -0400",
       "category": "U.S. Politics",
       "confidence": "Reported",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8341x5561+0+0/resize/8341x5561!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F04%2Fb3d375d5485db929e8fb3b415104%2Fap26237777674489.jpg",
-      "perspective_one": "Canada's tariffs defend its industries and push back against unfair U.S. trade policies.",
-      "perspective_two": "This trade war hurts workers and raises costs for consumers in both countries.",
+      "perspective_one": "Tariffs defend national industries from unfair foreign practices.",
+      "perspective_two": "Tariffs escalate conflicts and harm consumers with higher prices.",
+      "uncertain": ""
+    },
+    {
+      "headline": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "summary": "A leading AI researcher warns there is over a 10% chance AI might kill all humans. This raises urgent questions about AI safety and control.",
+      "why_it_matters": "AI safety is critical to prevent catastrophic risks to humanity.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Wed, 09 Sep 2026 15:34:09 GMT",
+      "category": "U.S. News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
+      "perspective_one": "Concern about AI risks warns us to regulate and control development.",
+      "perspective_two": "Exaggerated risks may mislead policy and stifle useful AI progress.",
       "uncertain": ""
     },
     {
       "headline": "MD Anderson's role in FDA approval of breakthrough drug for pancreatic cancer - The Business Journals",
-      "summary": "MD Anderson contributed to FDA approval of a new drug for pancreatic cancer. This drug offers hope for improving patient survival.",
-      "why_it_matters": "New treatments can save lives and improve care for serious diseases.",
+      "summary": "MD Anderson contributed to FDA approval of a new pancreatic cancer drug. This breakthrough may improve patient survival and treatment options.",
+      "why_it_matters": "Medical advances improve lives and fight deadly diseases.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTREZ2lRcDRZSUpNaGxNWFZRQkZqcXRDdmtaYUx3MEgzdG5XeTJhOVA2N2pVcmhZTFYta0gxX05MYVp2andKeGhocV9BZTJWdVpLN0htQVBmbTFIVTBxX1JLZXdJZlM5eTItbWZLdlMwWEZxeEdZajdPWEkwNS1CTWRYOW1KRlVtVWdkNGJ5LUZyUkhDVXNhRW5xSHJibmZ5aVM4?oc=5",
       "source": "Health & Medicine",
       "published": "Wed, 09 Sep 2026 09:00:00 GMT",
       "category": "Health & Medicine",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Approving innovative drugs drives medical progress and offers new hope to patients.",
-      "perspective_two": "Fast approvals must ensure safety and long-term effectiveness for patients.",
+      "perspective_one": "Breakthrough drugs offer hope for better cancer treatment outcomes.",
+      "perspective_two": "New drugs must be tested carefully for safety and side effects.",
       "uncertain": ""
     },
     {
       "headline": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
-      "summary": "Voters and officials face uncertainty about mail-in voting due to legal battles. Some plan in-person voting backups amid Postal Service changes.",
-      "why_it_matters": "Voting access and security are vital to election fairness and democracy.",
+      "summary": "Many voters prepare backup plans like flying to vote due to mail-in ballot uncertainty. Legal battles over postal service changes make mail voting unclear.",
+      "why_it_matters": "Unclear voting rules risk disenfranchising citizens and lowering turnout.",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
-      "source": "NPR Politics",
+      "source": "NPR U.S.",
       "published": "Wed, 09 Sep 2026 05:00:00 -0400",
-      "category": "U.S. Politics",
+      "category": "U.S. News",
       "confidence": "Reported",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x4160+0+0/resize/6240x4160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Ff6%2F3c5393fe46b1aea0146dfbb3563b%2Fgettyimages-1264164585.jpg",
-      "perspective_one": "Mail-in voting protects voters and increases participation in elections.",
-      "perspective_two": "Backup plans are necessary due to concerns about mail delays and vote security.",
+      "perspective_one": "Backup plans ensure every voter can safely cast their ballot.",
+      "perspective_two": "Legal uncertainty around mail voting causes confusion and worry.",
       "uncertain": ""
     },
     {
       "headline": "Fed Chairman Kevin Warsh Called Inflation 'More Concerning' at His First Jackson Hole Speech. Does That Signal a Rate Hike Is Coming? - The Globe and Mail",
-      "summary": "Fed Chair Warsh said inflation is more worrying in his Jackson Hole speech. This raises questions about possible upcoming interest rate hikes.",
-      "why_it_matters": "Interest rates affect borrowing costs, economic growth, and inflation control.",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOa0ZRVFEtU2lKTmVXVF9nNkFmNmJsd2Z1aGpOQ3BZN0lkbFBlSURDSVNIeE1weE43d1lVY0RheHFxV2lham1HMDBtd19mb1NaNlZUbW91UzZFVGRXdEJOWUJtX1Yxd0xCMkdRZVFaME4ycTRRM1BYMXItSWs5RF85MjhJbVpXRTUzNkJoSUNXT2pCY2dDZnJtcmhoZ3pNMWs2QXZCMkJpa1BscDVtSFdPZGJaVFM1SjJ5ZG9YYmIzZ2ZHYU5PTXlIMWZhS3hEcWlHM3N1Q1ZmRklfekJWZUdkS1JzeVlpUHc5OUZLQU9NLTdYbHNmMUtLSnRxNDB5LWVVQnAwQzc0TFR4eFFoQjJ6Y19QOGtCMkR0eWZpT1lrOXNSRDFObEc1eGNaQXlQSjRTcEZjMFFnRGVmUQ?oc=5",
+      "summary": "Fed Chairman Warsh warned inflation is more concerning in his speech. This may signal upcoming interest rate hikes to control inflation.",
+      "why_it_matters": "Interest rates influence borrowing costs, economy, and inflation control.",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPazkzaUtqeWRsUXRUTDc0UjI3UVZxV3otekZsek54WW4xbHBabEcxZjR6WndhUEN2X3paVXhXTkRaS2xqOURCNm1qeUtBSzg0X0U4aW9aTzNoNEhJMFMyQU9fT3dlWkJHYUJsQS1pOXZ3NUt3YXBIaUhLOE8yZ2xSSHhUSUJ4aXFtY1lWS2NzRmNfdGtRelhQMXV1ZFNvWjU2XzJ5RURLblcwWnVqTjE3Q1J4ZGI4ei1uNjF4TjZMQkxISktnTVRPWVM2bm5UX1RCQkdxQUQ2blN0WFBjbzJHaklVVEFLcElTQzZkaVYwLWVTOHdHTG56dWNZRkdfVTJRelpkdnY3aUFZYmRXU2I3OGN4cEpkWXViQlF0c2g5eGpBVHRhYlFncTc3THFTUnZCeXJ6R1h4UDBvNTBN?oc=5",
       "source": "Business & Economy",
-      "published": "Wed, 09 Sep 2026 02:35:21 GMT",
+      "published": "Wed, 09 Sep 2026 02:43:10 GMT",
       "category": "Business & Economy",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Raising rates now could control inflation and stabilize prices quickly.",
-      "perspective_two": "Hiking rates too soon may slow growth and hurt job recovery.",
+      "perspective_one": "Tightening rates controls inflation and protects savings value.",
+      "perspective_two": "Rate hikes risk slowing growth and increasing unemployment.",
       "uncertain": ""
     },
     {
-      "headline": "HHS Announces Key Leadership Selections at FDA to Promote Innovation, Reform, and National Health Priorities - HHS.gov",
-      "summary": "HHS named new leaders at the FDA. These leaders aim to encourage innovation and health reforms.",
-      "why_it_matters": "Leadership shapes FDA policies impacting drug approvals and public health safety.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTBaU01BNkdsOUUtSGQ0cDdaWmx4S3VpcTRoSlJwbjhjTTFTMW55OHBoYlhXZXM2MEliRnZSby1YTXhRV0NrWWdzeFZ2RV9zNVY5OVNKdnRBTHgwcEpMMTJ1UndVQ1FJYnM0cktjWEwyc3g2bm1Gb0QtZlFrRkRRdW5paG9Wdw?oc=5",
+      "headline": "FDA Fills Four Senior Roles, Including Top Officials for Drugs and Vaccines - MedPage Today",
+      "summary": "The FDA announced four new senior appointments for drugs and vaccine positions. New leadership will guide regulatory efforts during health challenges.",
+      "why_it_matters": "FDA leaders shape drug approvals and public health strategies.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xZVpCRndQRHBGalN3RFlJSWRENVRMRUVfaENoY3FaV284aTlEWWgwc3cxa3F6Mmw0dlBLM1U5aVRpb25pejZObHB0eDJEMHlMZGdlYVZVeXFIVEVtNXIzYnl1d1I0ajJfandITXdoS2IzYlU?oc=5",
       "source": "Health & Medicine",
-      "published": "Tue, 08 Sep 2026 19:59:22 GMT",
+      "published": "Wed, 09 Sep 2026 15:31:42 GMT",
       "category": "Health & Medicine",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "New leadership can accelerate drug approval and health innovations effectively.",
-      "perspective_two": "Changes might disrupt ongoing projects causing uncertainty in health regulations.",
+      "perspective_one": "New officials bring expertise to improve regulatory decisions.",
+      "perspective_two": "Leadership changes could slow ongoing drug and vaccine work.",
       "uncertain": ""
     },
     {
-      "headline": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "summary": "Gambia has had long blackouts since June, some lasting 48 hours. The president asks citizens to stay calm amid violent protests.",
-      "why_it_matters": "Power outages disrupt life and increase tensions, affecting national stability.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+      "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "summary": "Germany's Chancellor Merz strongly criticized AfD leader Alice Weidel. He accused her migration policies of ethnic cleansing of skilled workers.",
+      "why_it_matters": "Political debates shape Germany's response to migration and social cohesion.",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Wed, 09 Sep 2026 06:42:01 GMT",
+      "published": "Wed, 09 Sep 2026 13:29:33 GMT",
       "category": "World News",
       "confidence": "Reported",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4164/live/9dcfce30-ac0d-11f1-8830-c13e76ae44c7.jpg",
-      "perspective_one": "Government must improve power systems to prevent unrest and support citizens.",
-      "perspective_two": "Protests show deeper issues that simple power fixes alone cannot solve.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png",
+      "perspective_one": "Strict migration policies protect national identity and jobs.",
+      "perspective_two": "Such policies discriminate and harm social integration and growth.",
       "uncertain": ""
     },
     {
-      "headline": "South Park creators rename show 'South America' in apparent dig at Trump",
-      "summary": "South Park creators changed the show's name to 'South America.' This appears to mock President Trump's use of 'America' to rename U.S. places.",
-      "why_it_matters": "Popular media shapes public views and commentary on political issues.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Wed, 09 Sep 2026 05:39:16 GMT",
-      "category": "World News",
+      "headline": "AI, Digital Sovereignty Critical To India\u2019s National Security, Experts Warn At KCSS 2026 - tribuneindia.com",
+      "summary": "Experts at KCSS 2026 said AI and digital sovereignty are key to India's security. They stress self-reliance to protect data and technology.",
+      "why_it_matters": "Digital control is vital to prevent foreign influence and cyber threats.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLVR0bjlXNUVGZm1tdHg2V3RGdnhnS0RKQUY3SGV6bWJxV1JMclhWT2k3X1huczVXSWFET0tFM01WTjQwdEoxazFOWmtaeGJENUFpMTNIUTI5dWRSNktpbFJhNVhCR1ZqdDNWYnhzUmpHaXJMOHUzempKZFhMd0lnM0QzNUNETUtKdGxRRW0xWHhyQXFUbEFLMWJQa3E1X3hFdW90ejJWTlNCOGxZWFlZbWNoeE9PeW9nU2dwaWV3dUJydlNCay1nbi1MWkRNN2hpanfSAdIBQVVfeXFMUC1UdG45VzVFRmZtbXR4Nld0RnZ4Z0tESkFGN0hlem1icVdSTHJYVk9pN19YbnM1V0lhRE9LRTNNVk40MHRKMWsxTlprWnhiRDVBaTEzSFEyOXVkUjZLaWxSYTVYQkdWanQzVmJ4c1JqR2lyTDh1M3pqSmRYTHdJZzNEMzVDRE1LSnRsUUVtMVh4ckFxVGxBSzFiUGtxNV94RXVvdHoyVk5TQjhsWVhZWW1jaHhPT3lvZ1NncGlld3VCcnZTQmstZ24tTFpETTdoaWp3?oc=5",
+      "source": "AI & Technology",
+      "published": "Wed, 09 Sep 2026 11:23:13 GMT",
+      "category": "AI & Technology",
       "confidence": "Reported",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d37d/live/be700670-ac06-11f1-afbf-77fe6d25f635.jpg",
-      "perspective_one": "Satire helps critique political decisions and engage viewers thoughtfully.",
-      "perspective_two": "Changing names can offend and distract from serious political discussions.",
-      "uncertain": ""
-    },
-    {
-      "headline": "Judges may face unprecedented decisions this election. A new guide seeks to help",
-      "summary": "Judges prepare to handle new legal challenges in the upcoming election. A guide helps them address ballot and search warrant issues fairly.",
-      "why_it_matters": "Judicial decisions impact election integrity and public trust.",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
-      "source": "NPR U.S.",
-      "published": "Wed, 09 Sep 2026 05:00:00 -0400",
-      "category": "U.S. News",
-      "confidence": "Reported",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F72%2Ffe9663004554bbc6fb83ee4e95ed%2Fgettyimages-2180211020.jpg",
-      "perspective_one": "Guides help judges fairly rule on complex and new election issues.",
-      "perspective_two": "Judges risk politicization if they handle election matters improperly.",
-      "uncertain": ""
-    },
-    {
-      "headline": "Citing the 'Deep State,' Trump overhauls the intelligence community",
-      "summary": "President Trump is changing the intelligence community, claiming a 'Deep State.' Critics worry these changes undo vital post-9/11 improvements.",
-      "why_it_matters": "Intelligence changes affect national security and information gathering.",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
-      "source": "NPR U.S.",
-      "published": "Wed, 09 Sep 2026 05:00:00 -0400",
-      "category": "U.S. News",
-      "confidence": "Reported",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F5e%2F74a24523415292e608e699f43179%2Fdeep-state-ap26004081446792.jpg",
-      "perspective_one": "Overhauling intelligence removes harmful secrecy and increases accountability.",
-      "perspective_two": "Dismantling post-9/11 structures risks weakening national security defenses.",
+      "image": "",
+      "perspective_one": "Digital sovereignty strengthens security against foreign cyber threats.",
+      "perspective_two": "Overemphasis on sovereignty risks isolating India from global tech progress.",
       "uncertain": ""
     }
   ],
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "Competing court orders add confusion to Missouri congressional elections - WTOP News",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVVzcGtUMTFCN0FKTmhGbWhTanROLXludVBVN2VUS0J3X3JCSUtGVXJmNHNVSUIyVE8tOGtTTDJfZl85SDY3ZXh2UTdWVm81RGdMVW1rVHZ4VWNLZm1xMUozMmJMVnN1eUxuOEh2MEVsRDluTml0Nkk4QW1maS1JeUQ2ajBmVndya0NIRW5vNlV0RVhqSVRHbkFSejBqcmhjZEVtT3BPREVLT2NhQU1md2psYjJ0OFh0dkg3NEdYTXZ4a01i?oc=5",
+        "headline": "More election-related action on the interim docket - SCOTUSblog",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT1Q0OVBKbktfNy1HTVppMGFvNGFsNjBLd1BUUDB0bkJmVDNKRmY5eEZLWS02Ylpqd1QySWNwUVBjWm1RcmFsbUJoNnl1dV9iQ2xscndScU5JR2o2LV9POEJwczZxY0xUamkzSTRxZmZHdmF6RW1qUGlyRkFpRmp2WU1PRzY0Y2JBWHlPaWJyaw?oc=5",
         "source": "U.S. Politics",
-        "summary": "Competing court orders add confusion to Missouri congressional elections WTOP News"
+        "summary": "More election-related action on the interim docket SCOTUSblog"
+      },
+      {
+        "headline": "Justice Kavanaugh rejects Missouri\u2019s request on GOP-friendly congressional map for midterms - MS NOW",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVNXU28yWF9CM0ZtWWJ6dDdteUJsS0VZM054X2UyVC1HRUR0Z0RjVS1OSnd5UUp5T2tIZkRFVWZQWnFOS3B5SmFHdGFScHc3U0JKSEpwazJnTzZqcGE2ZXpleDBCOXQzVWZEVVVyT3ZGc0djaXpxVU12eFpWYllvdlhJRUE5UHF2SmVFdmlIalZUeWx4VE0yUFQxanpWOVhhREpkTFRoSzZ0TklmVDgtQ18wQVo4Ukgyd2c?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Justice Kavanaugh rejects Missouri\u2019s request on GOP-friendly congressional map for midterms MS NOW"
       },
       {
         "headline": "\u201cGray Money\u201d Is Fueling a Bipartisan Arms Race for Control of Congress - The Nation",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOU9RUFVyblZTeVdWalVvc21vQnNEWS1NdVh0TlZGT1FsYm5mOURjTnc0Y2s0Q0dfalFMRzcxWkFYREdIUXNaVHF2LUtndzU5UG10bVRYeGsxeFJwVm5KSzFQZzdBcGpMV1RPR0VhMnlncUhzNHczbHBQaHpsWmNaLW5OMDNrd9IBjgFBVV95cUxNejQxdExNYVc1QWJNems1Qk9jYnYyV21sMXJ4MW1ZcVdxTzh4bi04M0dZN3pNdG1sdjVCb3BSMURNNERYZS0wNC1oc0lCcFZOcFFWQlVGQnBScXhXQVR3U0NUTG9nV0kxZUhUZjZ4MEU4anVKQW15REYxVGZ3Tzl1b1hBN09idHE1Tkh4N1ZB?oc=5",
         "source": "U.S. Politics",
         "summary": "\u201cGray Money\u201d Is Fueling a Bipartisan Arms Race for Control of Congress The Nation"
-      },
-      {
-        "headline": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas",
-        "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
-        "source": "NPR Politics",
-        "summary": "Republicans have never held a midterm convention before. But there's also never been a president like Donald Trump. Billed as a \"Trumpapalooza,\" the unprecedented event kicks of in Dallas Wednesday."
       }
     ],
     "U.S. News": [
       {
-        "headline": "New York City Mayor Mamdani releases documents related to post-9/11 air quality",
-        "url": "https://www.npr.org/2026/09/09/nx-s1-5961417/new-york-city-mayor-mamdani-releases-documents-related-to-post-9-11-air-quality",
-        "source": "NPR U.S.",
-        "summary": "New York City has released 170,000 documents it says show officials knew the air quality around the World Trade Center after 9/11 was dangerous to breathe, but they didn't warn local residents."
-      },
-      {
-        "headline": "TSA brings back gate access for some people without plane tickets 25 years after 9/11",
-        "url": "https://www.npr.org/2026/09/09/g-s1-142480/tsa-gate-access-25-years-after-9-11",
-        "source": "NPR U.S.",
-        "summary": "The move is a start toward reviving a tradition that largely disappeared after the Sept. 11, 2001, attacks 25 years ago this week."
-      },
-      {
-        "headline": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-        "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+        "headline": "Sapporo to move some beer production from Canada to US after tariffs",
+        "url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC U.S.",
-        "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman."
+        "summary": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite"
+      },
+      {
+        "headline": "What tariffs will really cost Canadians and Americans",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?"
+      },
+      {
+        "headline": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+        "source": "NPR U.S.",
+        "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then."
       }
     ],
     "World News": [
       {
-        "headline": "Iceland summons U.S. ambassador after Trump posts countries draped with American flag",
-        "url": "https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag",
-        "source": "NPR World",
-        "summary": "Iceland summoned the U.S. ambassador after President Trump posted a map on Truth Social that showed the country, along with a number of other nations, covered with an American flag."
-      },
-      {
-        "headline": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
-        "url": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
-        "source": "NPR World",
-        "summary": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan."
-      },
-      {
-        "headline": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-        "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+        "headline": "Colombia's new president loosens gun control rules",
+        "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman."
+        "summary": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms."
+      },
+      {
+        "headline": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+        "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say."
+      },
+      {
+        "headline": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+        "source": "NPR World",
+        "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then."
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
+        "headline": "'The Kingdom strongly supports non-proliferation,' Trump pushes for Saudi nuclear deal in letter - report - i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXVsM3ZfcjlJRmpIdG4xTF82aHNJcHJCaFgwNlJNMkVKcWxSLVI4b1NWUnl5U2thMWZWTW4zMlJsMEhPQmhYNTZDUzg3a2xNWWlxdi0zN19tazMwSmx0WGV5TkpzVUlWZG1ZdnhMbnU4R2VVMV9vN3ZuZ3l4M3NSNlByNHVfMmFqSllyd3VLSzNPdENLVnNTMUF2MGIwdXhOSTRkUzRCZEU3XzRGeXd0VnhlY2lZdDIxSDBCN29oZWxHYVJQOFNOMnZ6LTZPWGVPM2hCR09VXy1GY3BoYU9yZEgxbFM?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "'The Kingdom strongly supports non-proliferation,' Trump pushes for Saudi nuclear deal in letter - report i24NEWS"
+      },
+      {
+        "headline": "Israel's Netanyahu Denies UAE Warned Him of October 7 Attack - Tempo.co English",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd19ZTnVqOTVGZDZRa2x4U2dvNW1lM1c0dXJjams3eWlfdzVJMGhpbjQ0UXpLNkwxYVlfc1pzS2YxeEFEeHdOUHFkWURTWjRqY1pzMXNkWUFXMF93RjhzaHdWbVBuRDZkX2NVMmxYbG5rRjdFMnRSai1EVjZRZWktSGt5LW9LR0p6R2lmeUtqN2Nhd3BaNGQ4?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Israel's Netanyahu Denies UAE Warned Him of October 7 Attack Tempo.co English"
+      },
+      {
         "headline": "Asean needs a comprehensive ceasefire in West Asia \u2014 Phar Kim Beng - Malay Mail",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlJIOG9mSTJLODRsN2ZKWlZKNndQbGpyS2Q3Sm96RHpnZzdZV0htRXFUMExWaUw4Vm5vZjQ1dFVLSXUtMm5ubGROcGRLcDFhNTZ5YTVVcjFrSEhGQ3hlb3c1LWtTeUtOanF6QnNPd1VvZFpOcU85eXJYZ3U5THZKcFJMRWgyVUJBb3E5eVpUUTd6bXo4NUNWSzZmX0hwVzE3ZmJvSERaQndKUXRKMFdEREljUmxoa1E3bXNRZzlaTlhwS251RGFRTGNSY9IBywFBVV95cUxOYlJIOG9mSTJLODRsN2ZKWlZKNndQbGpyS2Q3Sm96RHpnZzdZV0htRXFUMExWaUw4Vm5vZjQ1dFVLSXUtMm5ubGROcGRLcDFhNTZ5YTVVcjFrSEhGQ3hlb3c1LWtTeUtOanF6QnNPd1VvZFpOcU85eXJYZ3U5THZKcFJMRWgyVUJBb3E5eVpUUTd6bXo4NUNWSzZmX0hwVzE3ZmJvSERaQndKUXRKMFdEREljUmxoa1E3bXNRZzlaTlhwS251RGFRTGNSYw?oc=5",
         "source": "Middle East Affairs",
         "summary": "Asean needs a comprehensive ceasefire in West Asia \u2014 Phar Kim Beng Malay Mail"
-      },
-      {
-        "headline": "US-Israel-Iran War Latest Live News: Turkiye Condemns Houthi Attacks, Says They \u2018Undermine Diplomatic Efforts\u2019 as US Strikes Iranian Tanker Near Kharg Island Escalate Saudi Arabia Crisis - The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNeTFwV1JGSlkwaDJzRl8xT2lmNzNfSGpXN1FuN0dQYkJ5cnJFU1dQQXR6Y2h1WTlMVEJqX1ZSenRRaklwSkMzNDhyNllUbXRrYlVmVXdvSzBSemxidS1MaXU1NjV2MktGUEtBajdxX00tYzB5RWpzTGdua3FGMGs3aC1PelBDaGIxbWg1WlcwZkx5c0M3WkdpaE0tb0VRTW5oSWx5NEhFNHZESXFYRWs4WjBLai1SSW9sWnpZdW4tS0UzVHZUNHZ1QlRUNURwT2ExT21yQ2JoTi16Q2tNb1RBbUdTSjBOaDI2cXU2S1gzU1B4T1lwTHFPcWVkcWJPaHNLdGxyXzlDZU15dnZKcWNCOWRVdWh3RERGVThNMEl4SXhiMU5lWlVjZjlIVWpYYVkyLVI5WWFuTl92TDRYaDZGZS1kam90ZUkxTGRz0gHQAkFVX3lxTE1ISWlfR3VaQnJSNExubXZ0LU1QclRVbHROaDNSUjFYRThOMnpwSGxDUzF0aGNPcWp1U2cwLUM5bnF6aV9VNVN4RjU1V1Q0aVFoWVctaVlGQ0p5MUlQdWctMFFjQ3NEWUVyajUwcmY5NjRyUHljVEZ6VExoVXdFMTJlQk5ZQU8yVUw4d21pNmZreXlmUWpUa2YtSTBvUW1vVVNJOGNzeEhLcEN2Y2pVYzdpS0NVYk0zeHR4V0d5NUlXakhmQnRKZ0xLV3Q0eHgydjdnRVNqZ3Y5VWljQUhoSE1IbzdaZzBHMHI2a0FCTUhPbC1laVVwbC1tczJNaWRzdE5TNy05YWxpcTJqb21FQzFuXzQ0WDZwWTBKWkhYRXE5ZDZ4b1pLUTVHb3c5WGhEUi1VUHZvM0tuX2JCSV9KTlZFMmFualVsNnF4Yzc5ZW02Yw?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "US-Israel-Iran War Latest Live News: Turkiye Condemns Houthi Attacks, Says They \u2018Undermine Diplomatic Efforts\u2019 as US Strikes Iranian Tanker Near Kharg Island Escalate Saudi Arabia Crisis The Sunday Guardian"
-      },
-      {
-        "headline": "US-Israel-Iran War Latest Live News: Saudi Foreign Minister Warns Houthis \u2018Opened A Door They Cannot Handle\u2019 As Regional Tensions Escalate - The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQenh4Q1BIYlhvT3dzcUFsT0l2ZU1KeTRtYWM1SmlPcDhfQkhvaDlMaHdxSnVQRzZWekRXMHNzU1QwU29YYXJRSlYtd2F5SEF1aTdZbnVrOXowR3ozV25EQWFiY2NaS2tYS0o3dHRwSHdLb0M3VzhnRzRYX0lyLWI3N3I5c1FiYy1CWFE4MGJJWVBVU1d6Y0VMV2RRczFLUkJuZ1F0Y3A2bmZ6Yjk4Snk3dUNIN2F1YndyNGhwTXNWTVNBWjlFcUpEcDZ1RFdLSlBrMjg2bkJUR2Z0Q1dUc2VBN0dqamhqX3JPUzZRNU44ZnQzdGhXbEFrSjFKc2w5SFNGZE5Cck5YVWZpRkUzSjJGV2FR0gGSAkFVX3lxTFB6eHhDUEhiWG9Pd3NxQWxPSXZlTUp5NG1hYzVKaU9wOF9CSG9oOUxod3FKdVBHNlZ6RFcwc3NTVDBTb1hhclFKVi13YXlIQXVpN1ludWs5ejBHejNXbkRBYWJjY1pLa1hLSjd0dHBId0tvQzdXOGdHNFhfSXItYjc3cjlzUWJjLUJYUTgwYklZUFVTV3pjRUxXZFFzMUtSQm5nUXRjcDZuZnpiOThKeTd1Q0g3YXVid3I0aHBNc1ZNU0FaOUVxSkRwNnVEV0tKUGsyODZuQlRHZnRDV1RzZUE3R2pqaGpfck9TNlE1TjhmdDN0aFdsQWtKMUpzbDlIU0ZkTkJyTlhVZmlGRTNKMkZXYVE?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "US-Israel-Iran War Latest Live News: Saudi Foreign Minister Warns Houthis \u2018Opened A Door They Cannot Handle\u2019 As Regional Tensions Escalate The Sunday Guardian"
       }
     ],
     "Health & Medicine": [
       {
-        "headline": "FDA approves daraxonrasib for metastatic pancreatic cancer following landmark clinical trial led by... - Medical Dialogues",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbS0zU1p1MGFiZFVMeW1SUFBHTnI3Z3hxYVhqZ3BicG5PNXhkaHJKcVlLRDFxWnlfQ0lyX0ZEdTZIMzdWMjRsTFB5c1VkQ0cxbklwUXgtX0RzZ1hGMVpZS2dWZ0hUZnV0VkZRMmtMaEVPbG1Rc0s5MjBObFpSMUl1TXpBUXBFUTZ5LWFBRllZQ3AzMXoybHc2S1Bxei12dkhuNVBZeU5Vb1lWelhsYTNCNXg2d3ZoNzU3dVlKdU1zaVA1cGdpUndoZlptWnpYVWhRdUt3R0Raa2JvVG00Y0U1UXNKRzd6bkRrV3NTWWxmcmdwM2ZRQ0840gH3AUFVX3lxTE1tLTNTWnUwYWJkVUx5bVJQUEdOcjdneHFhWGpncGJwbk81eGRockpxWUtEMXFaeV9DSXJfRkR1NkgzN1YyNGxMUHlzVWRDRzFuSXBReC1fRHNnWEYxWllLZ1ZnSFRmdXRWRlEya0xoRU9sbVFzSzkyME5sWlIxSXVNekFRcEVRNnktYUFGWVlDcDMxejJsdzZLUHF6LXZ2SG41UFl5TlVvWVZ6WGxhM0I1eDZ3dmg3NTd1WUp1TXNpUDVwZ2lSd2hmWm1aelhVaFF1S3dHRFprYm9UbTRjRTVRc0pHN3puRGtXc1NZbGZyZ3AzZlFDTzg?oc=5",
+        "headline": "FDA gains \u2018continuity\u2019 as Mikhail, Davis named permanent CBER, CDER leaders - BioPharma Dive",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFQ2RUV5ZUVrZjVWdjItcVM4bmowM25lZEJiYmJMYk82QkF6cFN6Z0drVTg4LVJEcnFuSGh0bjNGZVlEQ2RVZzE2ZkE1YjNXR3Y1TFVzeEJmSFd5Y2JwUUJTY3I5N0N3VjJja0JCVl9GSlVlRmhxZmJxcE5IdnVrcUZIam1IN2lRMkpj?oc=5",
         "source": "Health & Medicine",
-        "summary": "FDA approves daraxonrasib for metastatic pancreatic cancer following landmark clinical trial led by... Medical Dialogues"
+        "summary": "FDA gains \u2018continuity\u2019 as Mikhail, Davis named permanent CBER, CDER leaders BioPharma Dive"
       },
       {
-        "headline": "Interim FDA directors given permanent positions - medwatch.com",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15dU9KMlRFaHFSMVVNRHQ1bzZNd1NWSE1GMUl3Q21ONWl0QWZjS3NPdEpRM3M0WjhxdFR1NFhMWHpsZGQybFNqLVZhdWJwVWF4NEJfOHZYU2N5TnFrX1ljMUdyd1ZxY2dmdzRFZUJQYw?oc=5",
+        "headline": "FDA seeks public input to advance development of botanical drug products - MMJDaily",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3dwQU0xLWFoVzFybEFKZ0VBa0o2MndUZWpmajVFVWFYRTAtRWhoN1JfNDlRSk1WV3l3SHBLWDJxOFhiTXFrWFV6THdkY1Vub1JIMU5kTGVCdXFqWTlYZTRjb3JoTkFDUXJFQkdQUXFFaExHSGNvLWhTU0o1ODk2NkFTMVZodGxUSDlzLTVxakdBaUZlckMxR1liUUF0eW1fODlvUzd5RVFnY3hPank1dC1fWmU?oc=5",
         "source": "Health & Medicine",
-        "summary": "Interim FDA directors given permanent positions medwatch.com"
+        "summary": "FDA seeks public input to advance development of botanical drug products MMJDaily"
       },
       {
-        "headline": "US names acting FDA drug, vaccine chiefs to permanent posts - pharma.economictimes.indiatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHlRdFdPbmtaQU05WGNIdU9PcTFvVFh6dzRJY0dNcXNtd2pwbHJ0d2JmQ1N6WFh6R2cyMGJic29LVzk0allzOUFDUFMyejd5VE9NSUJELVUxaWlySXp5VWl4VXpDQlVxc0ZlQlJLWlE5bW1ZdU9Sal83bDlBQkxDU3JubVhCT1g3VFZrSjJBZTlIRGdlZ3pBUWxPMWJ4WTBJbWRPX1J3bFZqMjVwblFoS1hiNnVfNnVvZDhETmhvcDVsWUhDOVBKVW1VMGR3R2hMb1ZJ0gHTAUFVX3lxTFBYeVF0V09ua1pBTTlYY0h1T09xMW9UWHp3NEljR01xc213anBscnR3YmZDU3pYWHpHZzIwYmJzb0tXOTRqWXM5QUNQUzJ6N3lUT01JQkQtVTFpaXJJenlVaXhVekNCVXFzRmVCUktaUTltbVl1T1JqXzdsOUFCTENTcm5tWEJPWDdUVmtKMkFlOUhEZ2VnekFRbE8xYnhZMEltZE9fUndsVmoyNXBuUWhLWGI2dV82dW9kOEROaG9wNWxZSEM5UEpVbVUwZHdHaExvVkk?oc=5",
+        "headline": "FDA solidifies CDER, CBER leadership posts as commissioner confirmation awaits - Fierce Pharma",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFAxVlEydTVHdVZ4RkQ3RlFySm9qSXR6LTlqblZ0bzVGbl9LbnRRcGpfX0c5X0xmZVpNQ1NyWWplTUFuc2FqanVKSm5yTHhUbGJNVnU1TE9IUUZVU1dldEZFNl9WSFhoQTR6dENNRUJkQ0JWYWgzUDMzM0stdkVBbl90QnMxQ1JPUlVSalIxNTJMMHVjeldtYUM5Z0doS2VZYWJqQlROTmt1Q2NwTS1r?oc=5",
         "source": "Health & Medicine",
-        "summary": "US names acting FDA drug, vaccine chiefs to permanent posts pharma.economictimes.indiatimes.com"
+        "summary": "FDA solidifies CDER, CBER leadership posts as commissioner confirmation awaits Fierce Pharma"
       }
     ],
     "AI & Technology": [
       {
-        "headline": "NASCIO picks finalists for 2026 State IT Recognition Awards - statescoop.com",
+        "headline": "NASCIO picks finalists for 2026 State IT Recognition Awards - StateScoop",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1ZYT2s4TmFDYmItOHd5MVlBYzRJcG5hVXdYUnNFNWpGcXNxbFhRTkpwUGUtbFZsZTRjNzV6MFhfWU9SQXdTRE1RQVRxbnpRTnpmUklvR00yU24wVlh5NWlWVVMzUkQ2d1NMbno2bWxFQnBGc0dGS1BmRW9NVElRYURyS21WTTdIREZZ?oc=5",
         "source": "AI & Technology",
-        "summary": "NASCIO picks finalists for 2026 State IT Recognition Awards statescoop.com"
+        "summary": "NASCIO picks finalists for 2026 State IT Recognition Awards StateScoop"
       },
       {
-        "headline": "BreachX launches Typhon, a group of cybersecurity AI models - BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWpIWHhsT1MteG5hM0ZTQkoxNnZka1RRRGVrcWZobkxlMTE3LVljZGs5bXYyd0FwdUJRZ0Y2YWxXcHRiUmNyOFp5d3N2ZU5rRVZlM2VUUVJERW9saFN2ekxzckoxUlc4X0tiU1FZU0hSYkl1TUlHNmI0MklpNFRUc3FSZjZndkduUGJBYTduQlg0VkgwQlpHMFhUdlozbkdMYnY1aVU5VFBDMWUxLUd3NGhpQS16QlV1UmlWN2Q3cGhoY0nSAcoBQVVfeXFMTVhFZ2dUZ2hsWDJicDhXd2Y3X0ZHaHhOaU5ueHZubkxNc3hhdUFuX0Nmb1d2czZlOGZMdFJkTUNLYzFrZ01FUGRWNjY4R0Q4ZGhUTE8ybnRsZ0dpc0tSajdQNG51c1dhTy1ncm5ac2ZLUkVOak9MRFVXR1hhdl9qQlBrME9Jb2tIbU1yZ21KdC13d0pZTTR2bVU4OGNNYlZmRFV5cDJnXy1EQ0JuT0ZFa2xybGpCT25VLWctX1pZNUN5eHNtWjhhWXZSUQ?oc=5",
+        "headline": "Indian-Origin Couple Donates $20 Million to Create AI College at University of North Texas - INDIA New England News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSTQtM3ZZeUxPamt2dkVtbzNqWEVkWEtoVlY1UktJNm9KR3JsWXI1TFNwTHk4ekt5TmZSQ0pheXpzRS1FZUplRjM0dTlLVlI3ZlVHUXFqa0NFbjItakdWMURUd1hoV0xMd3M2X2RLSW1fS0tZajNoUHliNVIxZ0N5UFdrZHM1SGhiZDJRWG5LVXYxWVdybGp1RmkyYVNNeDJzbWQ5S3htWHBZY3ZoRTRaNnBaem9EZEJsQXc?oc=5",
         "source": "AI & Technology",
-        "summary": "BreachX launches Typhon, a group of cybersecurity AI models BusinessLine"
+        "summary": "Indian-Origin Couple Donates $20 Million to Create AI College at University of North Texas INDIA New England News"
       },
       {
-        "headline": "NordVPN report reveals how AI is accelerating consumer fraud - Tech Digest",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkFnb0VwazF3dHduYTB3SktFV0c4RnNYZzBzTGJZR1ZIQ21nWWxlV1BOU2ZYTWtJZHF6NlE3SFZjRkgtVVI2SUlnNjVYa0dKdU9HdmNJdFVUSGM4MWVJSUZ1VTNJMXh2bGo2WXMyWVJ6MmZEeWpJRDlWYUtBc0p5M3BZdWZyc2d1NVRVMjFmcTk1VHNPbnYtcjdEQVFkdVFG?oc=5",
+        "headline": "Ghana\u2019s Cybersecurity Reform Must Explicitly Recognise Technology-Facilitated Gender-Based Violence - Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3Y2U1NwNXR6N08xejBVbkxaRXpvY090M2lKU2RhVlAxdFRqM3dTaW1jWEtxbGdtamNqNXNwVDQzUHdnamtWc1QzQ1pQblVRcXVlUHJKRXp5V2IyclFoWFB5eFQwaFlFdnNObGdmRGMwQWpMOU5HM3lLcWJieGtFNVY2T0ttMDVFNUNLZy03Y1NzeS1PcVVKQmY1UdIBmgFBVV95cUxPOFVzdDVES1BqVnpEbl9wWlZCdDBzcXEzVEpBaVhtWFdQeDVfdl9vTjI3SnFGbWFUOFVNWFU3WlZNMzk1bENmeXNZanV3VEowRmF2RUdjRXlZVWNEdnhQQ1k2YURmaU5STmhTT1g5bjQ1MF8wVmlPVmo5dEV1c0lBWWlzV2hVZlV2Q0MySXRtNFpqNm5TTjhpRlBR?oc=5",
         "source": "AI & Technology",
-        "summary": "NordVPN report reveals how AI is accelerating consumer fraud Tech Digest"
+        "summary": "Ghana\u2019s Cybersecurity Reform Must Explicitly Recognise Technology-Facilitated Gender-Based Violence Modern Ghana"
       }
     ],
     "Business & Economy": [
       {
-        "headline": "Fed\u2019s three choices as new chair Warsh\u2019s honeymoon ends \u2014 Bloomberg analysis - The Edge Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUtSaDlSSlc2MF9Gbkk0QkpaWTFLVkQ0c2pTS29GNmttX3hWeFIxYlhtWGRYWDhrb1hQUC1yS25wZEtNTGY5bXFhUzQzWDFOQnZaMUhNOW1fWWl1S1QxdXVVUC1LaWwyd1hqekUwTXZFZkV5UlFfZkRvUzctSVhabGlRUXdHTjZpM3NVT05oejRJNkkxUEpPZ2o0b1dBb1laaXpyemg0NjJIQ1E5UlhINWZYTlZqa2JSM1NV0gHAAUFVX3lxTE9hRmlKZDdnRWw1c3VVQ09ZMktlS0g2Q1N4bzhaOFdhQ05JLTFVV010M3RyNno5ZTV2MmpnbEVQYzlhOGNZTjB5UXprQ0RyTkcwT2Fmdjk4cjFaLWtJQ3l4MjhaU2ZnUnZJcUszMG5wNlpodF9jZlpKbndteWdtb0VyWlhVWGpxX3FMMFg1MGx5TFpMREduNW5EQmEyZGFEa2tCXzVWSDAzdkF0czJzSHl0X0NjTWpaQWRfTXptSnVRbg?oc=5",
+        "headline": "Bitcoin traders bet borrowed money on a rally as oil surges ahead of Friday\u2019s inflation test - CryptoSlate",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYy1MWGJPbmVJYWFJUDBDdWlfRFd3c3FPWHUwamd0djhZMDlEejN4YUdpNU55MzU3LWNwMHF0Z3ZoWWRFNlUwSS1Ta0J6Q0Myazk0Mm9DTENTYVFZSXdyU1dQWVM0ejJFYldDVzVkX1NucE5Gal9pTFFJSDRQZ3Nwc1pYOTJFcVVVSWJqcTlqaFNSSlNPcHVFLUQxemtUYVN5d3ltUlRta2syVERpUjF5MkZ5M1FIVWs?oc=5",
         "source": "Business & Economy",
-        "summary": "Fed\u2019s three choices as new chair Warsh\u2019s honeymoon ends \u2014 Bloomberg analysis The Edge Singapore"
+        "summary": "Bitcoin traders bet borrowed money on a rally as oil surges ahead of Friday\u2019s inflation test CryptoSlate"
       },
       {
-        "headline": "Dow Drops Sharply as Oil Price Surge Raises Inflation Concerns - suaragarut.id",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uanE1bFV3anBYRjFicm0zcnc4RmQ4UmZFVGdON1NqOTVMcThJUTF0QlJBUmJ3akFCbDVic09TTThhWHJQYUZaM0k5Ml9XdVN3MFkwV2o0VG0ycHNt?oc=5",
+        "headline": "Jobs opened the door for the Fed \u2014 inflation decides whether it walks through - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmJfeDl5aHN4SVc1WTlTd3Bqc3Z6RmpNcm5zdDh3YlpFdzZwd3dfQTNFLUZrMDI1dTRZX1BrRnVieU9HQUl1UThjbGxzNWJxLUNSTzN6bzJmSFNKWDRBNzRqbFdOVEl4elAtbGU5REh4aTRjUFZacGk4djMwaXVUa1lQT3NkaVpwdEtHWm9RQVJhLUxxWTcxdnhyMDRnVUdHOUZUbUlSUW0xTzNDdDlYU2Q3X3c3cE9ZeDgxWUJzWQ?oc=5",
         "source": "Business & Economy",
-        "summary": "Dow Drops Sharply as Oil Price Surge Raises Inflation Concerns suaragarut.id"
+        "summary": "Jobs opened the door for the Fed \u2014 inflation decides whether it walks through FXStreet"
       },
       {
-        "headline": "Gold Prices Stabilize in Egypt as Markets Await Inflation Data and Fed Decision - Sada Elbalad english",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1Npekh3N09MN3NGdzdJZTB4QW10UEhyRjVBWU1xanpMS19TT2dvQ2M2TU52RVBNamt3MHhSYnBRdGM3dlVheWwyQjJwTzdiRXd4V2M2bDZRaWo4RG0yU0s3OXVXUzU4RXlDaWRGNHFZeENXeWRIUUpjblVZaDI4S3VwcTUwS1AzSUdhRkROWHR4MUdYUzgtd0RZLV8?oc=5",
+        "headline": "Fed rate decision still hangs on inflation after jobs report - Grand Forks Herald",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0NGU2wzOFZTZzA4dXc5aERia3BxQWJGZTRYcTBBYXFtYmFqN1ZrSDNYd2JZNFM2OURkOWZYb0dzZ3dCQlR6bGdNdmo4VkQ0YzBVMURJZldfck9vdG56ZExfbjRZT200emhRbkpaN09qcmdCNVAySUV3LTFlVGJmLUh3cjNXblZYMXBUdzZ2Z3FueENzNnZoSi1zTXdOdW8xQzFPdjY4Z01DT0k?oc=5",
         "source": "Business & Economy",
-        "summary": "Gold Prices Stabilize in Egypt as Markets Await Inflation Data and Fed Decision Sada Elbalad english"
+        "summary": "Fed rate decision still hangs on inflation after jobs report Grand Forks Herald"
       }
     ],
     "Society & Culture": [],
@@ -462,12 +462,6 @@
     ],
     "Good News": [
       {
-        "headline": "Last-Minute Flood Warning Saved Over 900 Nepal Students, School Principal Said",
-        "url": "https://www.goodnewsnetwork.org/last-minute-flood-warning-saved-over-900-nepal-students-school-principal-said/",
-        "source": "Good News Network",
-        "summary": "More than 900 students and 16 faculty members escaped before the tragic flood on the border with China and Nepal destroyed a school. They are alive today because of a truly last-minute warning by the school\u2019s accountant, who like Paul Revere, ran through the building shouting \u201cthe flood is coming, the flood is coming!\u201d His [\u2026] The post Last-Minute Flood Warning Saved Over 900 Nepal Students, School Principal Said appeared first on Good News Network ."
-      },
-      {
         "headline": "FDA Immediately Approves Drug That\u2019s Doubling Lifespan for Late Pancreatic Cancer Patients",
         "url": "https://www.goodnewsnetwork.org/fda-immediately-approves-drug-thats-doubling-lifespan-for-late-pancreatic-cancer-patients/",
         "source": "Good News Network",
@@ -478,6 +472,12 @@
         "url": "https://www.goodnewsnetwork.org/teen-discovers-coconut-fungi-can-filter-plastic-and-sunscreen-from-sea/",
         "source": "Good News Network",
         "summary": "An East Honolulu high school student discovered a fungi in coconut husks that could clean up plastics and sunscreen from the ocean\u2014and her won multiple awards at the Hawai\u02bbi State Science & Engineering Fair. Vera Wang, a senior at Kaiser High School, won in multiple categories after conducting experiments in Anthony Amend\u2019s lab at the [\u2026] The post Teen Discovers Coconut Fungi Can Filter Plastic and Sunscreen From Sea\u2014And Wins Science Fair appeared first on Good News Network ."
+      },
+      {
+        "headline": "Good News in History, September 5",
+        "url": "https://www.goodnewsnetwork.org/events060905/",
+        "source": "Good News Network",
+        "summary": "252 years ago today, the First Continental Congress was organized in Carpenter\u2019s Hall, Philadelphia, after the British Navy implemented a blockade of Boston Harbor and the Parliament of Great Britain passed the punitive Intolerable Acts in response to the Boston Tea Party. The result of the Congress was the drawing up of the Continental Association, [\u2026] The post Good News in History, September 5 appeared first on Good News Network ."
       }
     ]
   }
