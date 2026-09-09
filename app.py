@@ -27,8 +27,53 @@ for p in DATA.glob('*.json'):
 briefings.sort(key=lambda x:x['generated_at'],reverse=True)
 if not briefings:st.warning('No briefings are available yet. Run the briefing workflow once.');st.stop()
 with st.sidebar:
- st.title('🗓️ Briefing Archive');labels=[f"{datetime.fromisoformat(b['generated_at']).strftime('%A, %b %d')} · {b['edition']}" for b in briefings];i=st.radio('Edition',range(len(briefings)),format_func=lambda x:labels[x],label_visibility='collapsed');st.divider();st.link_button('Support via Venmo','https://venmo.com/u/jhsacks',use_container_width=True)
- if QR.exists():st.image(str(QR),caption='Zelle: scan the QR code',use_container_width=True)
+ st.title('🗓️ Briefing Archive')
+ labels=[f"{datetime.fromisoformat(b['generated_at']).strftime('%A, %b %d')} · {b['edition']}" for b in briefings]
+ i=st.radio('Edition',range(len(briefings)),format_func=lambda x:labels[x],label_visibility='collapsed')
+
+ st.divider()
+
+ st.link_button(
+     'Support via Venmo',
+     'https://venmo.com/u/jhsacks',
+     use_container_width=True
+ )
+
+ if QR.exists():
+     st.image(
+         str(QR),
+         caption='Zelle: scan the QR code',
+         use_container_width=True
+     )
+
+ st.divider()
+
+ st.markdown("### 📬 Email Edition *(Coming Soon)*")
+
+ with st.form('newsletter_signup_sidebar', clear_on_submit=True):
+     email = st.text_input(
+         'Email address',
+         placeholder='you@example.com'
+     )
+
+     choice = st.radio(
+         'Send me',
+         ['Morning Brief', 'Afternoon Brief', 'Both'],
+         horizontal=False
+     )
+
+     if st.form_submit_button('Subscribe'):
+         ok, message = subscribe(
+             email,
+             {
+                 'Morning Brief':'AM',
+                 'Afternoon Brief':'PM',
+                 'Both':'BOTH'
+             }[choice],
+             st.secrets
+         )
+
+         (st.success if ok else st.error)(message)
 b=briefings[i];d=datetime.fromisoformat(b['generated_at']);stories=b.get('stories',[]);more=b.get('more_stories',{})
 st.markdown(f"<div class='hero'><h1>{esc(CFG['title'])}</h1><p>{esc(CFG['tagline'])}</p></div><div class='edition'>{d.strftime('%A, %B %d, %Y')} · <b>{b['edition']} edition</b></div>",unsafe_allow_html=True)
 st.markdown("<div class='support'><b>I hope you like this site!</b> It is reader-supported. <a href='https://venmo.com/u/jhsacks'>Support via Venmo</a></div>",unsafe_allow_html=True)
@@ -36,11 +81,7 @@ token=st.query_params.get('unsubscribe')
 if token:
  unsubscribed=unsubscribe(token,st.secrets)
  (st.success if unsubscribed else st.error)('You have been unsubscribed from The Balanced Brief.' if unsubscribed else 'That unsubscribe link could not be processed.')
-st.markdown("<div class='signup'><b>📬 Get The Balanced Brief by email</b><br>Choose the edition that works for you.</div>",unsafe_allow_html=True)
-with st.form('newsletter_signup',clear_on_submit=True):
- email=st.text_input('Email address',placeholder='you@example.com');choice=st.radio('Send me',['Morning Brief','Afternoon Brief','Both'],horizontal=True)
- if st.form_submit_button('Subscribe'):
-  ok,message=subscribe(email,{'Morning Brief':'AM','Afternoon Brief':'PM','Both':'BOTH'}[choice],st.secrets);(st.success if ok else st.error)(message)
+
 for category in CFG['category_order']:
  st.header(category);group=[s for s in stories if s.get('category')==category]
  if not group:st.markdown("<div class='empty'><div class='cricket'>🦗</div><b>Quiet in this section.</b><br>No fresh story cleared the quality bar for this edition.</div>",unsafe_allow_html=True)
