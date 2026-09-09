@@ -102,10 +102,13 @@ For EVERY story in U.S. Politics, Conflicts & Security, Middle East Affairs, Bus
   text=OpenAI(api_key=key).responses.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),input=prompt).output_text.strip().removeprefix('```json').removesuffix('```').strip(); result=json.loads(text)
   if not isinstance(result,list) or len(result)!=len(chosen):
    raise ValueError('AI returned the wrong number of stories')
-  required={'headline','summary','why_it_matters','url','source','published','category','confidence','image','perspective_one','perspective_two','uncertain'}
+  required={'headline','summary','why_it_matters','url','source','published','category','confidence','image'}
   for story in result:
+   story.setdefault('perspective_one','')
+   story.setdefault('perspective_two','')
+   story.setdefault('uncertain','')
    missing=required-set(story)
-   if missing:raise ValueError(f'AI response missing fields: {sorted(missing)}')
+   if missing:raise ValueError(f'AI response missing required fields: {sorted(missing)}')
    if not str(story.get('why_it_matters','')).strip():raise ValueError('AI response omitted Why It Matters')
    if story.get('category') in {'U.S. Politics','Conflicts & Security','Middle East Affairs','Business & Economy','Society & Culture'} and (not str(story.get('perspective_one','')).strip() or not str(story.get('perspective_two','')).strip()):
     raise ValueError(f"AI response omitted perspectives for {story.get('category')}")
