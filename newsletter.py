@@ -69,11 +69,30 @@ response.raise_for_status()
 subscribers=response.json()
 sent=0
 for subscriber in subscribers:
-    mail=requests.post("https://api.resend.com/emails",headers={"Authorization":f"Bearer {resend_key}","Content-Type":"application/json"},json={"from":from_email,"to":[subscriber["email"]],"subject":f"The Balanced Brief · {edition} Edition","html":email_html(briefing,subscriber["unsubscribe_token"])},timeout=20)
-    if not mail.ok: 
+    mail=requests.post(
+        "https://api.resend.com/emails",
+        headers={
+            "Authorization": f"Bearer {resend_key}",
+            "Content-Type": "application/json"
+        },
+        json={
+            "from": from_email,
+            "to": [subscriber["email"]],
+            "subject": f"The Balanced Brief · {edition} Edition",
+            "html": email_html(
+                briefing,
+                subscriber["unsubscribe_token"]
+            )
+        },
+        timeout=20
+    )
+
+    if not mail.ok:
         raise RuntimeError(
             f"Resend failed ({mail.status_code}): {mail.text}"
         )
-    sent+=1
+
+    sent += 1
+
 print(f"Newsletter emails sent: {sent}")
 return sent
