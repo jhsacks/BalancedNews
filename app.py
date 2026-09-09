@@ -91,3 +91,18 @@ for category in CFG['category_order']:
    with cols[n%2]:st.markdown(card(s),unsafe_allow_html=True)
  links=more.get(category,[])
  if links:st.markdown("<div class='more'><b>More worth a look</b><ul>"+''.join(f"<li><a href='{esc(x['url'])}'>{esc(x['headline'])}</a> <span class='src'>· {esc(x.get('source'))}</span></li>" for x in links)+"</ul></div>",unsafe_allow_html=True)
+
+st.divider()
+
+st.markdown("""
+### About The Balanced Brief
+
+The Balanced Brief uses artificial intelligence to summarize and synthesize information from multiple news sources.
+
+Summaries, "Why It Matters" explanations, and perspective sections are AI-generated and may not perfectly represent every viewpoint or nuance.
+
+Readers should review original source articles for additional context and information.
+
+The perspectives and viewpoints presented are AI-generated based on source material and do not necessarily reflect the opinions of the creator of this site.
+
+News source links are provided whenever available.
