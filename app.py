@@ -94,7 +94,8 @@ for category in CFG['category_order']:
 
 st.divider()
 
-st.markdown("""
+st.markdown(
+    """
 ### About The Balanced Brief
 
 The Balanced Brief uses artificial intelligence to summarize and synthesize information from multiple news sources.
@@ -106,3 +107,5 @@ Readers should review original source articles for additional context and inform
 The perspectives and viewpoints presented are AI-generated based on source material and do not necessarily reflect the opinions of the creator of this site.
 
 News source links are provided whenever available.
+"""
+)
