@@ -62,7 +62,12 @@ def send_newsletter(briefing):
         raise RuntimeError("Newsletter secrets are not configured in the workflow environment.")
     edition=str(briefing.get("edition","")).upper()
     response=requests.get(f"{supabase}/rest/v1/newsletter_subscribers",headers={"apikey":service_key,"Authorization":f"Bearer {service_key}"},params={"select":"email,preference,unsubscribe_token","active":"eq.true","or":f"(preference.eq.{edition},preference.eq.BOTH)"},timeout=15)
-    response.raise_for_status(); subscribers=response.json(); sent=0
+    print("STATUS:", response.status_code)
+print("BODY:", response.text)
+
+response.raise_for_status()
+subscribers=response.json()
+sent=0
     for subscriber in subscribers:
         mail=requests.post("https://api.resend.com/emails",headers={"Authorization":f"Bearer {resend_key}","Content-Type":"application/json"},json={"from":from_email,"to":[subscriber["email"]],"subject":f"The Balanced Brief · {edition} Edition","html":email_html(briefing,subscriber["unsubscribe_token"])},timeout=20)
         if not mail.ok: raise RuntimeError(f"Resend failed ({mail.status_code}): {mail.text}")
