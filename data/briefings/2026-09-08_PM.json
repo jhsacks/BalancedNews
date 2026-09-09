@@ -1,85 +1,71 @@
 {
-  "generated_at": "2026-09-08T21:24:28.122148-04:00",
+  "generated_at": "2026-09-08T22:14:54.256061-04:00",
   "edition": "PM",
   "stories": [
     {
-      "headline": "The 2026 midterm general election season is upon us. Here's what to watch",
-      "summary": "The general election season starts around Labor Day. Trump's low popularity and strong Democratic energy make control of Congress key.",
-      "why_it_matters": "Congress control shapes U.S. policy and direction.",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
-      "source": "NPR Politics",
-      "published": "Tue, 08 Sep 2026 05:00:00 -0400",
-      "category": "U.S. Politics",
-      "confidence": "Reported",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x5768+0+0/resize/8667x5768!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F2b%2F4c6477fc455e98281566eb111242%2Fgettyimages-2292937076.jpg",
-      "perspective_one": "Trump supporters see this as a chance to push back against liberal policies.",
-      "perspective_two": "Democrats see strong voter interest as key to reclaiming Congress.",
-      "uncertain": ""
-    },
-    {
       "headline": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "summary": "The Pentagon faces major changes under Hegseth during ongoing US conflicts. These moves could define Trump's second term legacy.",
-      "why_it_matters": "Military shifts impact national security and war efforts.",
+      "summary": "Significant changes are underway at the Pentagon under Hegseth's influence during ongoing US military operations. These shifts could have lasting impacts on defense strategy and the future legacy of Trump's second term.",
+      "why_it_matters": "Pentagon upheaval affects US war efforts and military leadership during a critical period.",
       "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC U.S.",
       "published": "Tue, 08 Sep 2026 23:11:41 GMT",
       "category": "U.S. News",
       "confidence": "Reported",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f3/live/80b86570-ab8e-11f1-aa04-efbf6a882854.jpg",
-      "perspective_one": "Supporters say change is needed for stronger defense and efficiency.",
-      "perspective_two": "Critics warn changes may weaken military readiness and morale.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": ""
     },
     {
       "headline": "US slaps import ban on Canadian alcohol and other goods",
-      "summary": "The US banned imports of some Canadian alcohol and goods. This follows Canada placing tariffs on US products.",
-      "why_it_matters": "Trade tensions harm both economies and political relations.",
+      "summary": "The US has imposed an import ban on Canadian alcohol and other products, escalating an ongoing trade war. This action coincides with Canada enforcing retaliatory tariffs against US goods, intensifying bilateral economic tensions.",
+      "why_it_matters": "The import ban escalates US-Canada trade tensions, influencing bilateral relations and economic stability.",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Wed, 09 Sep 2026 01:09:15 GMT",
       "category": "World News",
       "confidence": "Reported",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg",
-      "perspective_one": "US leaders say bans protect domestic industries from unfair trade.",
-      "perspective_two": "Canada sees these moves as harmful and retaliatory protectionism.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": ""
     },
     {
-      "headline": "Background Defense Meets Offense: The IDF\u2019s Response to Hezbollah in Southern Lebanon - idf.il",
-      "summary": "The IDF mixes defense and offense against Hezbollah in southern Lebanon. This strategy aims to control and reduce attacks.",
-      "why_it_matters": "Regional security depends on how conflicts are managed.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWo3WjgzN2J4VDIxN1hNVzRuWUcxSjM2cGVHNlRlVFI1WTFZOUVOOVVoS2JmVWlKbDRHeTYnM3FhSjV3aHhfdjg5R2Q5eHdLaUdmaGZzOUUtZTlVOHYtTHNjaUFjbjl6QTg0Y3RDQlNRR0ROWDVvZ1JKZy02MnE4SE5GX0ZDdW9nR0c1VjJGbEkwWW81N3ZmU1VUUWxFUk9DamRhWDZzZFBfWjdKc1NGSkFIVGp6ZTFyNGM1LXZGVjZETXdkTGxF?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Tue, 08 Sep 2026 17:14:08 GMT",
+      "headline": "Two Weeks to Save a War: Trump and Iran Agree to Ceasefire | Afterburner - MiGFlug's Magazine - MiGFlug",
+      "summary": "A ceasefire agreement between Trump and Iran has been reached for two weeks, aiming to de-escalate conflict. This temporary ceasefire marks a critical moment in ongoing tensions and potential peace efforts.",
+      "why_it_matters": "The ceasefire offers a vital window for diplomatic efforts to reduce hostilities between the US and Iran.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMy1PRkNCeUdPUExkSGMzVjhqMGl4VkNoV3g0aUdYLUhGQjJjT2pZMlYxa09aQ2lDb28yZHhPMkhfY2lEbTV1clZ2X2xmXzZ2S0RaakZ6aWZrTkF2WnotdHhaSVZtdG9hS2QydE5qY2VXQk4xelF5UmRLSy1QVnhKX2kyRUZtSlV1YmVDRjM5aFJYaXRnT3l2cw?oc=5",
+      "source": "Conflicts",
+      "published": "Tue, 08 Sep 2026 19:04:14 GMT",
       "category": "Conflicts & Security",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Supporters believe offense will stop Hezbollah attacks effectively.",
-      "perspective_two": "Opponents warn this risks escalating violence in the region.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": ""
     },
     {
-      "headline": "US-Israel-Iran War Latest Live News: Turkiye Condemns Houthi Attacks, Says They \u2018Undermine Diplomatic Efforts\u2019 as US Strikes Iranian Tanker Near Kharg Island Escalate Saudi Arabia Crisis - The Sunday Guardian",
-      "summary": "Turkiye criticizes Houthi attacks as they hurt peace talks. The US strikes an Iranian tanker, raising tensions in Saudi Arabia.",
-      "why_it_matters": "Actions affect fragile peace and heighten Middle East conflicts.",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNeTFwV1JGSlkwaDJzRl8xT2lmNzNfSGpXN1FuN0dQYkJ5cnJFU1dQQXR6Y2h1WTlMVEJqX1ZSenRRaklwSkMzNDhyNllUbXRrYlVmVXdvSzBSemxidS1MaXU1NjV2MktGUEtBajdxX00tYzB5RWpzTGdua3FGMGs3aC1PelBDaGIxbWg1WlcwZkx5c0M3WkdpaE0tb0VRTW5oSWx5NEhFNHZESXFYRWs4WjBLai1SSW9sWnpZdW4tS0UzVHZUNHZ1QlRUNURwT2ExT21yQ2JoTi16Q2tNb1RBbUdTSjBOaDI2cXU2S1gzU1B4T1lwTHFPcWVkcWJPaHNLdGxyXzlDZU15dnZKcWNCOWRVdWh3RERGVThNMEl4SXhiMU5lWlVjZjlIVWpYYVkyLVI5WWFuTl92TDRYaDZGZS1kam90ZUkxTGRz0gHQAkFVX3lxTE1ISWlfR3VaQnJSNExubXZ0LU1QclRVbHROaDNSUjFYRThOMnpwSGxDUzF0aGNPcWp1U2cwLUM5bnF6aV9VNVN4RjU1V1Q0aVFoWVctaVlGQ0p5MUlQdWctMFFjQ3NEWUVyajUwcmY5NjRyUHljVEZ6VExoVXdFMTJlQk5ZQU8yVUw4d21pNmZreXlmUWpUa2YtSTBvUW1vVVNJOGNzeEhLcEN2Y2pVYzdpS0NVYk0zeHR4V0d5NUlXakhmQnRKZ0xLV3Q0eHgydjdnRVNqZ3Y5VWljQUhoSE1IbzdaZzBHMHI2a0FCTUhPbC1laVVwbC1tczJNaWRzdE5TNy05YWxpcTJqb21FQzFuXzQ0WDZwWTBKWkhYRXE5ZDZ4b1pLUTVHb3c5WGhEUi1VUHZvM0tuX2JCSV9KTlZFMmFualVsNnF4Yzc5ZW02Yw?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Tue, 08 Sep 2026 20:25:14 GMT",
+      "headline": "Israeli Allies Ban Trade With Settlements as U.K. Cites \u2018Ethnic Cleansing\u2019 - The New York Times",
+      "summary": "Allies of Israel, including the UK, have banned trade with Israeli settlements in occupied territories, citing concerns of ethnic cleansing. The UK government's move signals growing international criticism and economic pressure on settlement activities.",
+      "why_it_matters": "Trade bans signal rising global scrutiny of Israeli settlements and heighten tensions in the Middle East.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0RKVWVWcjdBSHFfcVhPYnNxU2tIcnZuTXJUYnpPd3htTkpsSnJEbTU0Mmg4UjR3V3ZQdU13LUxNZ2FaZUtWaS1aUHRVdDIzUDhzRkR6b1hjdDlydk0xa1Exa3FvTWVuMEJIckJPenk5c2l6OEk3SC1NMU5ObEFSWkVYSVk0bHBWUU1qa0gwMHRvYmc0TVNGMWlB?oc=5",
+      "source": "Israel and Palestinian Territories",
+      "published": "Tue, 08 Sep 2026 21:49:47 GMT",
       "category": "Middle East Affairs",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Some say strikes show US commitment to regional security and deter Iran.",
-      "perspective_two": "Others argue strikes increase conflict and risk wider war in the region.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": ""
     },
     {
-      "headline": "HHS Announces Key Leadership Selections at FDA to Promote Innovation, Reform, and National Health Priorities - HHS.gov",
-      "summary": "HHS named new leaders at FDA to focus on innovation and reform. They aim to advance key national health goals.",
-      "why_it_matters": "Leadership guides health policies and drug approvals.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTBaU01BNkdsOUUtSGQ0cDdaWmx4S3VpcTRoSlJwbjhjTTFTMW55OHBoYlhXZXM2MEliRnZSby1YTXhRV0NrWWdzeFZ2RV9zNVY5OVNKdnRBTHgwcEpMMTJ1UndVQ1FJYnM0cktjWEwyc3g2bm1Gb0QtZlFrRkRRdW5paG9Wdw?oc=5",
-      "source": "Health & Medicine",
-      "published": "Tue, 08 Sep 2026 19:59:22 GMT",
-      "category": "Health & Medicine",
+      "headline": "Stock market today: Dow falls 511 points as oil nears $100, US-Iran war fuels inflation fears | Business News - Hindustan Times",
+      "summary": "The Dow Jones fell sharply by 511 points amid rising oil prices approaching $100 per barrel, driven by concerns over the ongoing US-Iran conflict. Market fears about the inflationary impact of higher oil prices have contributed to this downturn.",
+      "why_it_matters": "Oil price surge and geopolitical conflict are fueling inflation fears, pressuring stock markets worldwide.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZXBiQlU5aG9jNko1Zko3c0ZranlsNVFEeVF2cWl2OUl1U2oxSDB6VnYwMUVYb3VWVHZLN0hRMnA0TExfRGdFMU84eUJvSnBoZ19rODVrSVhNM0lMOGgzNklkT0hFTTNUVVhTblp2bVdselFCSDhZYlV4QmFtdEZaekxCQmcyTWF6NjNvenMzNTdjMEExYmFaaWtIcVdkQ3NCa1ZuSlF6Q1d5dDNhelZLSm8wMTZBVTRfVERJS2xBeDhCOGhVRjFHNkVweEpDczExcjViaDJwUlVLOUQ2QWZwa0FESy1ZQdIB6wFBVV95cUxOQ3BmYUE5eUFLUnBudjdncEJkQlRyblVhS0NQc1lGclREOV9oN3lOcWhLUmxkbVRBQlZZS05xdWtUTENpU3ppR3gwWUM5NGt6T21BWDlTVU8zSFl0RjFRak5nVU9wZTFPc2RNeFVOcGowQldMdC1YcUtQbjNDcGtJNGRERW1PNjhnUmlGTFA1RVZ6ODhJSnlKemdmSE1BZkFPYjVQOWJqUE9tU1NOYVdRWUx1SVVFS2pFcld0WlR4OGZTREZaYk5xR3hjaXRrOUZCRmVsajlOX2RCS3hySjBKNVNnRERaNnZKZTMw?oc=5",
+      "source": "Markets",
+      "published": "Tue, 08 Sep 2026 15:45:45 GMT",
+      "category": "Business & Economy",
       "confidence": "Reported",
       "image": "",
       "perspective_one": "",
@@ -87,13 +73,13 @@
       "uncertain": ""
     },
     {
-      "headline": "NASCIO picks finalists for 2026 State IT Recognition Awards - StateScoop",
-      "summary": "NASCIO picked top finalists for the 2026 State IT Awards. These awards honor innovation in government technology.",
-      "why_it_matters": "Recognition boosts state tech progress and public service.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1ZYT2s4TmFDYmItOHd5MVlBYzRJcG5hVXdYUnNFNWpGcXNxbFhRTkpwUGUtbFZsZTRjNzV6MFhfWU9SQXdTRE1RQVRxbnpRTnpmUklvR00yU24wVlh5NWlWVVMzUkQ2d1NMbno2bWxFQnBGc0dGS1BmRW9NVElRYURyS21WTTdIREZZ?oc=5",
-      "source": "AI & Technology",
-      "published": "Tue, 08 Sep 2026 16:01:31 GMT",
-      "category": "AI & Technology",
+      "headline": "Atlanta Hawks announce front office promotions - The Brunswick News",
+      "summary": "The Atlanta Hawks have announced multiple promotions within their front office, signaling a strategic shift in team management. These changes are part of broader organizational adjustments following the latest offseason.",
+      "why_it_matters": "Front office promotions reflect the Hawks' commitment to strengthening their management structure for future success.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWNpY3B0U3NMTkNhTFMxU2p1dEpJRkxOUkREcmFVcF83REVDR3lwNWk5QmpETkVXUjVwcjhQdzFfVFg0SVZ3dmhTenRRNnFZc3N2LURVWmFVSXNHZ1I2UEVyYmNRZlpmR2NPa1RJWG9CWDJPNVlLNk5hYlN5eWFmOTl3UUM4R0RXTzllLW1teUc1cFRuWE5DalhtSnlEcW5kUElnU0RpSy1tVnNIU0hfeWdISkNhci05MGswWUhDWHhvcG8?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Tue, 08 Sep 2026 20:47:00 GMT",
+      "category": "Sports",
       "confidence": "Reported",
       "image": "",
       "perspective_one": "",
@@ -101,11 +87,151 @@
       "uncertain": ""
     },
     {
-      "headline": "Dow Drops Sharply as Oil Price Surge Raises Inflation Concerns - suaragarut.id",
-      "summary": "The Dow fell sharply as oil prices rose fast. This surge raises worries about higher inflation.",
-      "why_it_matters": "Inflation affects costs, savings, and economic growth.",
+      "headline": "FDA Immediately Approves Drug That\u2019s Doubling Lifespan for Late Pancreatic Cancer Patients",
+      "summary": "A newly approved two-a-day pill has shown to double the lifespan of patients with late-stage pancreatic cancer after standard chemotherapy has failed. This breakthrough offers hope where only 3% of patients previously survived beyond five years post-diagnosis.",
+      "why_it_matters": "The drug represents a major advancement in pancreatic cancer treatment, improving survival rates dramatically.",
+      "url": "https://www.goodnewsnetwork.org/fda-immediately-approves-drug-thats-doubling-lifespan-for-late-pancreatic-cancer-patients/",
+      "source": "Good News Network",
+      "published": "Tue, 08 Sep 2026 22:18:04 +0000",
+      "category": "Good News",
+      "confidence": "Reported",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Dana\u2013Farber-Cancer-Institute-building-Credit-ajay_suresh-CC-BY-4-Wikimedia.jpeg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Atlanta Hawks announce several front office moves - NBA.com",
+      "summary": "The Atlanta Hawks have announced several front office personnel changes, continuing their offseason restructuring efforts. These moves aim to bolster the team's executive and operational capacities.",
+      "why_it_matters": "The moves indicate the Hawks' ongoing commitment to strengthening their leadership and competitiveness.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PN3F2TjA5LUh5emN6RnpMQmJ0aWppVWg4LU5FekhlcC1CZlhlZnR5V19RRk1nXzJGZVJmdHNlWnN1emJfQ3QyNXMzQ0g4WjN4WnRidWZpbVdYTTFjTWpLZlV6dU8wUG5GQnc?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Tue, 08 Sep 2026 19:26:44 GMT",
+      "category": "Sports",
+      "confidence": "Reported",
+      "image": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Atlanta Hawks Promote Peter Dinwiddie, Confirm Tim Bontemps Front-Office Hire - roundtable.io",
+      "summary": "The Atlanta Hawks have promoted Peter Dinwiddie and officially hired Tim Bontemps for the front office. These appointments are part of the team's strategic efforts to enhance management capabilities.",
+      "why_it_matters": "New hires and promotions strengthen the Hawks' executive team during a pivotal offseason.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDd2cmRQUURrMldzYUl5WXVMbFhoZ25RakxhSXhwTFhnYzNFeTVwT09RSXY3SDVIanZfRDRrdXhNZkg1VEdyNWxqejlCeExBYTdGeThEeFJfVk1zeFFEaEs1TUJxMDdkbXY0bFVobUI4QVFGR1kzbURxc1FkcVJVOW9RdUxjN3dlREVsbmh4TGpiUDZ6QzhBcGhQN3ZnS193YVhPck5tY3hKeHh3elhKLU92aWhiQldXQVpUbw?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Tue, 08 Sep 2026 18:50:17 GMT",
+      "category": "Sports",
+      "confidence": "Reported",
+      "image": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Atlanta Hawks Announce New Front Office Maneuvers After an Offseason of Changes - Sports Illustrated",
+      "summary": "Following an offseason marked by changes, the Atlanta Hawks have announced new maneuvers within their front office. These efforts reflect a focused approach to refining team leadership and operational strategies.",
+      "why_it_matters": "Organizational maneuvers signify the Hawks' intent to optimize front office effectiveness.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGozb282NkxORGRKc3EybWc1SlkxYlZjQm1MbzdSeU1VMTl5SkhKcnBFN05sNEJlNmpjNVdrN0NXQ0RvdmdhaUF2VlpvTV9CZWduRjlISEQySVROdnBHN3oxM0lRQXNLNW1Sc2RPTTJGWldLbkV6MUVhWXhXWlA4TllFZVNSV2xYb2Z6Vmc2eUR1TmgzYzdyOGpKT0diUFg4Q19MNDV3REVZZ1YxZnZ2anFjUEoyaXlfUEMzdzdxdlRBaXl4?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Tue, 08 Sep 2026 17:46:47 GMT",
+      "category": "Sports",
+      "confidence": "Reported",
+      "image": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+      "summary": "Kenya's president has ordered a crackdown on foreign individuals operating small businesses, generating widespread fear within migrant communities. Critics accuse the government of xenophobia amid rising tensions over economic competition.",
+      "why_it_matters": "The crackdown impacts economic activities and social stability among migrants in Kenya.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+      "source": "NPR World",
+      "published": "Tue, 08 Sep 2026 15:55:43 -0400",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2363+0+219/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F9d%2Fffa8dc4f4921a0a00da5c4b51ed7%2Fgettyimages-2293565639.jpg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Russia\u2019s War on Ukrainian Trade Is a War on Global Food Security - EEAS",
+      "summary": "Russia's assault on Ukrainian trade routes is severely disrupting global food security by limiting exports. This blockade threatens the supply of key agricultural commodities, affecting vulnerable populations worldwide.",
+      "why_it_matters": "The conflict threatens international food supply chains and heightens global hunger risks.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVkxvR2VnM0d2dTlVOHVDRk92amhyOU9xWjYwYmxVRTBZQjQtSlpXaFpwcmZTYkZWdXFNd2RRcFZqcjZoNno2S25ldHJ1Y0VQSGp4RlFKXy1ZYk1fSng1WFh5YmgyX1JuTnFOcnZmYXB0cDQtN2dpMHBRcjllRE94QnFyY19RRTZWT1VUVmRCWERzX2tkaDE0X3ZuQVdfbTNobUp6VQ?oc=5",
+      "source": "Conflicts",
+      "published": "Tue, 08 Sep 2026 15:52:54 GMT",
+      "category": "Conflicts & Security",
+      "confidence": "Reported",
+      "image": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Wall Street down, oil up as inflation, Middle East worries persist - KLSE Screener",
+      "summary": "Wall Street declined as oil prices rose amid ongoing inflation concerns and unrest in the Middle East. These factors collectively dampened investor confidence and heightened market volatility.",
+      "why_it_matters": "Persistent geopolitical risks and inflation fears continue to pressure global financial markets.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHpDWG91SlBBMkNoWEZjS2tvTk9OS25RRTZtdG9Ub2F6LVB5aTRLN0tueS1wbnpSY25XOEVfZEk4RWU2bXF3cE04R2s1Y1pjV1dUdzBPV1M1RTBqY0VFMVd5Q1hTcDBrS3pSWlppVC1nVlpfSHM0Y25uUDJ1VmxjbmZEZUNMM1NtWGtnOHMzNW9qQ213b3hiSkdLM21SWEV0anE3c0x0U3pyaTFQODVfMWU5M3Q?oc=5",
+      "source": "Markets",
+      "published": "Wed, 09 Sep 2026 00:20:01 GMT",
+      "category": "Business & Economy",
+      "confidence": "Reported",
+      "image": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Oil rise weighs on Wall Street as inflation reports loom - CommBank",
+      "summary": "Increasing oil prices are weighing on Wall Street ahead of upcoming inflation reports, causing investor caution. Market participants brace for potentially impactful economic data amid the volatile environment.",
+      "why_it_matters": "Rising energy costs may intensify inflationary pressures, influencing economic forecasts and markets.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUs0MGlyZUgtNnBjSm9paTgtZTA0TkxlSmxaLXh5OUhLcEpPMC1PLVhhMDR0WlZJV2NBQWY3RjJlMUtFMml6N0xBS0kwZnp5dldVRHh4ZzU4c3BWRzVzSWtxVW4ydkI3cnUwOWJXeFQwZEh5ZENEbGlwYVFueWhUX1FOdUVTQlpIZHkzeHJiVDVqSXlNQU5rSmY5TDJSaFJHVkU2QlA5QWc5bVFUd09OdE1rS0Jydw?oc=5",
+      "source": "Markets",
+      "published": "Tue, 08 Sep 2026 22:44:18 GMT",
+      "category": "Business & Economy",
+      "confidence": "Reported",
+      "image": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "US and Iran Weigh Extending Their Ceasefire by Two Weeks - EnergyNow.com",
+      "summary": "The United States and Iran are considering extending their temporary ceasefire agreement by an additional two weeks. This extension would aim to sustain the reduction in hostilities and provide further diplomatic opportunities.",
+      "why_it_matters": "Extending the ceasefire could prevent renewed conflict and allow for peace negotiations.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlB2U04tVC14V2JzSnNYZFRVVDZZWEFnd3ZhY1BrSml2SlFidU1mZjNhQmpmU0w5TmtqMzlGNUc2amQ3QlZMcVc1dUFpWldRUDZWakhBRFA5V09BTXpFUzFiajZ1UGplS3BPcWlBUE5GMDJMR1ZJSTM0eU0yckd4VnUxSlFDUzZfLUlSeGtWN1Q?oc=5",
+      "source": "Conflicts",
+      "published": "Tue, 08 Sep 2026 22:28:46 GMT",
+      "category": "Conflicts & Security",
+      "confidence": "Reported",
+      "image": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "summary": "The UK's trade ban with Israeli settlements has deeply strained British-Israeli relations, reaching their lowest point in decades. This diplomatic rift highlights the growing tensions over Middle East policies and international criticism of settlement activities.",
+      "why_it_matters": "Deteriorating relations complicate cooperation and dialogue between Britain and Israel during a volatile period.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Dow Drops Sharply as Oil Price Surge Raises Inflation Concerns - SuaraGarut.ID",
+      "summary": "The Dow Jones index dropped sharply amidst a surge in oil prices, raising widespread concerns about inflation. The market is reacting to inflation fears triggered by rising energy costs and geopolitical instability.",
+      "why_it_matters": "Rising oil prices is contributing to inflation worries, negatively impacting market confidence.",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uanE1bFV3anBYRjFicm0zcnc4RmQ4UmZFVGdON1NqOTVMcThJUTF0QlJBUmJ3akFCbDVic09TTThhWHJQYUZaM0k5Ml9XdVN3MFkwV2o0VG0ycHNt?oc=5",
-      "source": "Business & Economy",
+      "source": "Markets",
       "published": "Tue, 08 Sep 2026 20:43:00 GMT",
       "category": "Business & Economy",
       "confidence": "Reported",
@@ -115,13 +241,13 @@
       "uncertain": ""
     },
     {
-      "headline": "College Football Playoff to open negotiating window with ESPN to discuss 24-team field - The New York Times",
-      "summary": "The College Football Playoff opens talks with ESPN to consider a 24-team format. This could change how teams reach the playoffs.",
-      "why_it_matters": "Changes affect competition, schedules, and fans' experience.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3V6QlZ4MExZZXBIaEh0V3E2LUtGMlpoU1otVGdCc3c5cF9ObHlBWWYxZ0RuYnRWTWZfTWZ5Q01hUkdBdmJ0cU5xc2JqWW92Q3V0NGFNUFJ4emd1eUFqX2pTY3pDdU1ZRkgxQnR5WTNSOWJHU1lrcENvWkFYREJjMW9GN2JzX0ZsSXd2UkxnY2VZTXROTU93?oc=5",
-      "source": "Major Sports",
-      "published": "Tue, 08 Sep 2026 21:57:36 GMT",
-      "category": "Sports",
+      "headline": "Why the U.K., Canada, and France Are Banning Trade With Israeli Settlements - Time Magazine",
+      "summary": "The UK, Canada, and France have imposed bans on trade with Israeli settlements, aiming to pressure Israel over controversial settlement expansion. These bans reflect growing international disapproval of settlement policies deemed to violate human rights.",
+      "why_it_matters": "Trade bans constitute a coordinated international response to settlement activities, affecting diplomatic relations.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2dMMXFqOVJfejlHR0JDRTJWU1NkRXFSZmhJN29TNktWOUlldkpGUjBUN3lpNjlTRmVQYnZlYjBqQ3BqZy1EaGRjMlEzUzQ3dDI4U3JNTUdyVUV0WTdoQlRQRmRrbkJjYVQzZ3EtUHZNVF82WldTbnAzczJGUWM2LVVYYXBwVm5TTG1TbUU2bWZQZnpiVFJma2dnQUZiR2VxSnF4QmRuWnN2MjNmWGc?oc=5",
+      "source": "Israel and Palestinian Territories",
+      "published": "Tue, 08 Sep 2026 20:32:53 GMT",
+      "category": "Middle East Affairs",
       "confidence": "Reported",
       "image": "",
       "perspective_one": "",
@@ -129,83 +255,13 @@
       "uncertain": ""
     },
     {
-      "headline": "ESPN ranks Top 25 teams with highest chance to make College Football Playoff after Week 1 - On3",
-      "summary": "ESPN ranked the Top 25 teams likely to make the College Football Playoff after Week 1. This guide helps fans follow top contenders.",
-      "why_it_matters": "Rankings shape fan interest and team motivation.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd01Tajk2dWUwSVJibkQ2a3NTZjl1dzdJbjcxVWdVQXpsQU5CdktOLXR2aURFeEM5cEdhRlBWdmNRNjlYTlFyc3d0RVp5enE1dDdSVHZYUnFvTUxwZEJidVZOQVBFejM5a1dTY3c5eUNrLV9SNFo3bEo2TTFuZUoyWmdibTdQcGtQQXRhRk9wS0YyVXMyTFEtWE5Hbk9xRzdfYUdDbUZTdTZVNHFRRnRaT2xEQmlGRXJuZm94TzVWZ3JsaGhXXzZ4OW1Sb2dsRC1mSmRLSw?oc=5",
-      "source": "College Sports",
-      "published": "Tue, 08 Sep 2026 17:35:12 GMT",
-      "category": "Sports",
-      "confidence": "Reported",
-      "image": "",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": ""
-    },
-    {
-      "headline": "College Football Playoff 2026: Bubble watch after Week 1 - ABC7 Bay Area",
-      "summary": "The bubble watch tracks teams close to making the College Football Playoff after Week 1. Fans can see who needs to improve.",
-      "why_it_matters": "Performance impacts rankings and playoff chances.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0hXZmh2MW1uTk5QTmhQWXJxWHl6R01GdHdRUk1sSDI3akFVcTBMaWd4aFg1by12OUdVZ2J5OGZWYkh1czlnNWcyaWZnTTF3NndQcEJqb0g1UjhLSkpCX3YtOTNTQlpUUUxqNTVwYWhpanUtNEFiam1FYXVqY2s1N0puSnhOQjFuM1oya3Z3?oc=5",
-      "source": "College Sports",
-      "published": "Tue, 08 Sep 2026 16:41:15 GMT",
-      "category": "Sports",
-      "confidence": "Reported",
-      "image": "",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": ""
-    },
-    {
-      "headline": "FDA approves daraxonrasib for metastatic pancreatic cancer following landmark clinical trial led by... - Medical Dialogues",
-      "summary": "The FDA approved daraxonrasib for advanced pancreatic cancer. This follows a major clinical trial showing good results.",
-      "why_it_matters": "New treatments can improve patient survival and care.",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbS0zU1p1MGFiZFVMeW1SUFBHTnI3Z3hxYVhqZ3BicG5PNXhkaHJKcVlLRDFxWnlfQ0lyX0ZEdTZIMzdWMjRsTFB5c1VkQ0cxbklwUXgtX0RzZ1hGMVpZS2dWZ0hUZnV0VkZRMmtMaEVPbG1Rc0s5MjBObFpSMUl1TXpBUXBFUTZ5LWFBRllZQ3AzMXoybHc2S1Bxei12dkhuNVBZeU5Vb1lWelhsYTNCNXg2d3ZoNzU3dVlKdU1zaVA1cGdpUndoZlptWnpYVWhRdUt3R0Raa2JvVG00Y0U1UXNKRzd6bkRrV3NTWWxmcmdwM2ZRQ0840gH3AUFVX3lxTE1tLTNTWnUwYWJkVUx5bVJQUEdOcjdneHFhWGpncGJwbk81eGRockpxWUtEMXFaeV9DSXJfRkR1NkgzN1YyNGxMUHlzVWRDRzFuSXBReC1fRHNnWEYxWllLZ1ZnSFRmdXRWRlEya0xoRU9sbVFzSzkyME5sWlIxSXVNekFRcEVRNnktYUFGWVlDcDMxejJsdzZLUHF6LXZ2SG41UFl5TlVvWVZ6WGxhM0I1eDZ3dmg3NTd1WUp1TXNpUDVwZ2lSd2hmWm1aelhVaFF1S3dHRFprYm9UbTRjRTVRc0pHN3puRGtXc1NZbGZyZ3AzZlFDTzg?oc=5",
-      "source": "Health & Medicine",
-      "published": "Tue, 08 Sep 2026 15:15:43 GMT",
-      "category": "Health & Medicine",
-      "confidence": "Reported",
-      "image": "",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": ""
-    },
-    {
-      "headline": "Supreme Court rulings change the economics of political party spending - WBFF",
-      "summary": "Supreme Court rulings altered how political parties spend money. This changes campaign finance and election dynamics.",
-      "why_it_matters": "Spending rules shape political influence and fairness.",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTVJtVXRvVXcyZDlwSWpYNXJaMENHR2wwT0lJSFg3aURzODgwVTF2Q2lEajZRTlBYNmdILVN5RTUwWkxZMzdrMEJkcFNxeHVjSE1vSG5hdTlJRlhhUlE4X3EtSmJmcGE1NWZmNGRtcHgwV0dUajZ1MzF2WnZIdU5KcVNVNTVZSUo4b0V6OWFwR04tSzZqVkFIT2NEVm9nZVdCM29md3Q2OHIweFAtVWIxYUlKWTBTNDZzV0dVUXhoandYSmdZZDNHZkZtNnVVTlFoMDdibkFMaDFBUk9MdTVLcHk1ck9UQVBCX3V3dnE2eEt6Ti01bzBCclV3?oc=5",
-      "source": "U.S. Politics",
-      "published": "Wed, 09 Sep 2026 00:22:30 GMT",
-      "category": "U.S. Politics",
-      "confidence": "Reported",
-      "image": "",
-      "perspective_one": "Some see rulings as protecting free speech in politics.",
-      "perspective_two": "Others worry new rules increase outside influence and reduce fairness.",
-      "uncertain": ""
-    },
-    {
-      "headline": "Trump Accused of 'Unconstitutional' Election Power Grab - RadarOnline",
-      "summary": "Trump faces claims of trying to take illegal election control. Critics say this threatens democracy.",
-      "why_it_matters": "Election fairness underpins democratic trust.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDZtN1pOTmZRQnJOb1k5dzVXQnViSGZwZ1FEUXFpdWFVQThfbzlEcmwyeDRPUkJjamRCRWhzdVV3bXQ0S2dxNjdpbldUZm0yb1VkNmIwYVB1TWtlSk05WFRwbERMbXZmWWpiTzVJd3ZhSlJwWEZyNVZUX3FndjNtTFBGcmFGd0Z2RDBOazNJUTc4VmJmU3ZWYWJwMzRlT2V1a3k5MEVBNGJLV1pKV3NRNFZB?oc=5",
-      "source": "U.S. Politics",
-      "published": "Tue, 08 Sep 2026 23:56:14 GMT",
-      "category": "U.S. Politics",
-      "confidence": "Reported",
-      "image": "",
-      "perspective_one": "Supporters say efforts protect election integrity.",
-      "perspective_two": "Critics claim moves break the law and harm democracy.",
-      "uncertain": ""
-    },
-    {
-      "headline": "Tuesday Health Report: New AstraZeneca drug may be first to reduce COPD symptoms, FDA approval sought - WBRZ",
-      "summary": "A new AstraZeneca drug aims to reduce COPD symptoms. FDA approval is being requested to help many patients.",
-      "why_it_matters": "Improved treatments ease suffering for chronic lung disease sufferers.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWNHam54M3RCVGFITERkRXd6VGpvTEF2RUs2bWE4Tl9aUlh3bk85TV8tYVVUSDllUDBub1JTWDFDajE1cTl1Nnc3amRYNWwwT2QwU2tFd0JPV3B0WlZPVkZCZVFNZjlkelVnOFZDR1RDemljeFFEUWlfWkhfTFhYM24xUks5T09CUDhpTnRmWG0wbVpKTEY1Y2NiUEJ5RlZDV3dsaVc1Qm1ZdXpQSEVUS2xuRFZrZ2RhSExGbDlFSXF5NUZI?oc=5",
-      "source": "Health & Medicine",
-      "published": "Tue, 08 Sep 2026 23:52:45 GMT",
-      "category": "Health & Medicine",
+      "headline": "UK government bans trade with Israeli settlements and accuses settlers of 'ethnic cleansing' - PBS",
+      "summary": "The UK government has banned trade with Israeli settlements and accused settlers of practicing 'ethnic cleansing.' This action exemplifies increasing international condemnation of settlement policies in occupied territories.",
+      "why_it_matters": "The ban highlights the UK's stance on human rights concerns regarding Israeli settlements.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUc1cmFoU2xJcFFoZGxqLWstM0ZSa2JpT3pZTnpzRzlQbUYwZ2puRU1ydkZkRDBKS0otX3dVLUZzX0V2SXhGaDIwT3hXSl9NejJ3Qjh3SjJLaEZKZTZKLWF5cmxLMXFpRVJwWHprNVJWNWVrMlFXUEhnRFF0S3J6Z3V4RmI5SDhrQTJjTUlTd1AtS0lZUUo3X1hYbF93TFpoRXh4V0ZqemhxeGxDSEM5NjNkaDAwanZjWi1vS29YdU9CdmoyNHE3Z9IByAFBVV95cUxQNUc1cmFoU2xJcFFoZGxqLWstM0ZSa2JpT3pZTnpzRzlQbUYwZ2puRU1ydkZkRDBKS0otX3dVLUZzX0V2SXhGaDIwT3hXSl9NejJ3Qjh3SjJLaEZKZTZKLWF5cmxLMXFpRVJwWHprNVJWNWVrMlFXUEhnRFF0S3J6Z3V4RmI5SDhrQTJjTUlTd1AtS0lZUUo3X1hYbF93TFpoRXh4V0ZqemhxeGxDSEM5NjNkaDAwanZjWi1vS29YdU9CdmoyNHE3Zw?oc=5",
+      "source": "Israel and Palestinian Territories",
+      "published": "Tue, 08 Sep 2026 19:28:05 GMT",
+      "category": "Middle East Affairs",
       "confidence": "Reported",
       "image": "",
       "perspective_one": "",
@@ -214,8 +270,8 @@
     },
     {
       "headline": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "summary": "A drone attacked a Ukrainian TV building in Kyiv, killing five. President Zelensky calls this a new low for Russia.",
-      "why_it_matters": "Attacks on media target free speech and spread fear.",
+      "summary": "A daytime Russian drone attack struck a Ukrainian TV channel building in Kyiv, killing five people. President Zelensky condemned the incident as a 'new page in Russian degradation,' intensifying the conflict's human toll.",
+      "why_it_matters": "The attack escalates tensions and highlights the ongoing human cost of the Ukraine conflict.",
       "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Tue, 08 Sep 2026 17:10:54 GMT",
@@ -227,13 +283,13 @@
       "uncertain": ""
     },
     {
-      "headline": "\u2018Success does not cause inflation\u2019: Trump\u2019s economic boom talk collides with stubborn prices and high rates - Los Angeles Times",
-      "summary": "Trump says good economy does not cause inflation. But prices stay high and interest rates stay high too.",
-      "why_it_matters": "Understanding inflation is key to sound economic decisions.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVHpIQ3dobjlPaU9JSjgwaHh5SkZyRUxVM09HUkRsNzNBNFdyRGlSWmlUdVNZLUhESUNKblVDa1B0TUdlN1JMbUNZMXI3aHl4MXBGSnJqbFJPUUk0eEoxNVgwUHo4aWJnaDFiVWM0cHlCeGdMMVpndGZSbTZ6XzliUjdLdWUzWGZmZWFtVVN2NFRzX09Dek91WUFfNDBHQXdiNGEzWVE3Z3FBR3pYTEtwa3BXai1tWkVITWJ6WEdMTWJpYUozRXlQczFkaUdzWXFkVGI2QWVuNU1ZVEFtN0ZXbmQyUQ?oc=5",
-      "source": "Business & Economy",
-      "published": "Tue, 08 Sep 2026 16:58:36 GMT",
-      "category": "Business & Economy",
+      "headline": "Israeli Military Ordered to Prepare for 'Total War' Against Palestinian Authority - VOI.id",
+      "summary": "The Israeli military has been ordered to prepare for a 'total war' scenario targeting the Palestinian Authority, signaling intensified military readiness. This order reflects heightened tensions and potential escalation in the region.",
+      "why_it_matters": "The preparation signals potential for significant escalation in Israeli-Palestinian conflict.",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZTGpwbHNZZ2YwVXRnZG1Cb1JkcWRaS2JxbXFMZ1NZeVNqd0I4cjlheGJOWktHSm96UnhZRXRSSXFTQdIBQkFVX3lxTE5ZTGpwbHNZZ2YwVXRnZG1Cb1JkcWRaS2JxbXFMZ1NZeVNqd0I4cjlheGJOWktHSm96UnhZRXRSSXFTQQ?oc=5",
+      "source": "Israel and Palestinian Territories",
+      "published": "Tue, 08 Sep 2026 16:56:57 GMT",
+      "category": "Middle East Affairs",
       "confidence": "Reported",
       "image": "",
       "perspective_one": "",
@@ -242,8 +298,8 @@
     },
     {
       "headline": "Trump shares misleading video of King and fainting worker",
-      "summary": "Trump posted a misleading video showing King Charles walking away from a fainted worker. The video misrepresents what happened.",
-      "why_it_matters": "Spreading misleading videos harms public trust.",
+      "summary": "President Trump shared a misleading video suggesting King Charles ignored a fainting worker during a royal visit. The video misrepresents events, stirring controversy and misinformation.",
+      "why_it_matters": "Misleading media from a prominent figure influences public perception and trust in leadership.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
       "source": "BBC U.S.",
       "published": "Tue, 08 Sep 2026 16:31:16 GMT",
@@ -255,13 +311,13 @@
       "uncertain": ""
     },
     {
-      "headline": "UAE warned Netanyahu of 7 October attack, Israeli newspaper reports - Euronews.com",
-      "summary": "An Israeli newspaper says the UAE warned Netanyahu about the 7 October attack. The warning came before the event.",
-      "why_it_matters": "Early warnings could affect crisis responses and security.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHZ2Qm9zQU1BT2JkLUp4OHNtekpfYVR4dHlSOUJBckJYYlFoUEl4bXc2ODg0ZzN6OTdKR2FCUVVUMDJqcElHU2pXeHoteHNrenlEbllqazYxMjJJaHVaRnhJRFJWV2RQRVF3eWFMZS03blkxcVZuYTR6cmJHbkZCcWZiby1LRFRGSS1wc1h1Z05GNmppSWZ6a21weEd5UWtRMHljREhJVXdqRk5maF9vbGdjQU1lSkpjS092c2N0WVptUWM?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Tue, 08 Sep 2026 16:24:20 GMT",
-      "category": "Middle East Affairs",
+      "headline": "Ukraine envoy to Israel: War with Russia could be halted within months - Ynetnews",
+      "summary": "Ukraine's envoy to Israel expressed optimism that the war with Russia could be halted within months. This reflects hopes for a diplomatic resolution amid prolonged conflict.",
+      "why_it_matters": "Potential for an earlier end to war influences international diplomatic strategies and regional stability.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xSFZrRmFYaUZNOU4tMGdjU3lnN25vQnJhenF2RVV4NjRPWGdCTk5uZ21hWVJPMEVRRlAtdHVDT2ZXUWVITVdUbEoxVWNDOG5aUXhwNU5UVQ?oc=5",
+      "source": "Conflicts",
+      "published": "Tue, 08 Sep 2026 15:28:33 GMT",
+      "category": "Conflicts & Security",
       "confidence": "Reported",
       "image": "",
       "perspective_one": "",
@@ -269,197 +325,60 @@
       "uncertain": ""
     },
     {
-      "headline": "Kenya's foreign trader crackdown sparks fear among migrant communities",
-      "summary": "Kenya's president ordered a crackdown on migrant-run small businesses. This move raises fears of xenophobia in communities.",
-      "why_it_matters": "Crackdowns affect immigrant rights and social harmony.",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
-      "source": "NPR World",
-      "published": "Tue, 08 Sep 2026 15:55:43 -0400",
-      "category": "World News",
-      "confidence": "Reported",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2800+0+0/resize/4200x2800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F9d%2Fffa8dc4f4921a0a00da5c4b51ed7%2Fgettyimages-2293565639.jpg",
-      "perspective_one": "Supporters say the move protects local businesses and jobs.",
-      "perspective_two": "Critics say it is unfair and targets migrants wrongly.",
-      "uncertain": ""
-    },
-    {
       "headline": "Trump hits Canada with import ban on alcohol and other goods",
-      "summary": "Trump banned Canadian alcohol, cars, and cheese. Canada set tariffs on almost $20 billion in US goods in response.",
-      "why_it_matters": "Trade bans raise costs and strain US-Canada relations.",
+      "summary": "President Trump imposed an import ban on Canadian alcohol, motor vehicles, and cheese amid escalating trade disputes. Canada retaliated with tariffs on nearly $20 billion of US products, including steel and T-shirts.",
+      "why_it_matters": "Trade restrictions intensify US-Canada economic conflict with widespread market impact.",
       "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC U.S.",
       "published": "Tue, 08 Sep 2026 14:46:16 GMT",
       "category": "U.S. News",
       "confidence": "Reported",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ebe/live/daf11f50-ab98-11f1-aa04-efbf6a882854.jpg",
-      "perspective_one": "Proponents say tariffs protect US industries from Canadian unfair trade.",
-      "perspective_two": "Opponents say tariffs hurt consumers and escalate trade conflict.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "summary": "Investigators report that five fatalities in Miami's plane crash were occupants of two vehicles on the ground struck by the Boeing 767-300. The crash scene was described as 'utter devastation,' highlighting the tragedy.",
+      "why_it_matters": "The crash's circumstances underscore ongoing aviation safety concerns near busy urban airports.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Wed, 09 Sep 2026 02:01:59 GMT",
+      "category": "U.S. News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Armless Racing Driver Hits 110 mph Steering with His Feet\u2013Aims to Make History at Le Mans",
+      "summary": "Callum Smith, the world\u2019s only armless racing driver, uses his feet to steer and has achieved speeds exceeding 110 mph. Recently signed by Team BRIT, he aims to make history at Le Mans representing disabled drivers.",
+      "why_it_matters": "Smith's achievements challenge perceptions of disability and inspire inclusivity in competitive sports.",
+      "url": "https://www.goodnewsnetwork.org/armless-racing-driver-hits-110-mph-steering-with-his-feet-aims-to-make-history-at-le-mans/",
+      "source": "Good News Network",
+      "published": "Tue, 08 Sep 2026 15:30:46 +0000",
+      "category": "Good News",
+      "confidence": "Reported",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Callum-Smith-Britains-only-no-armed-racing-driver-credit-Anita-Maric-SWNS.jpg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "EMT Ran 1.5 Miles up 1,000 Feet of Elevation in 31 Minutes to Get Blood Transfusion for Injured Climber",
+      "summary": "EMT Will Soper ran 1.5 miles uphill, gaining 1,000 feet in elevation within 31 minutes to obtain a blood transfusion for critically injured climber Jacob Gregory. His rapid response helped save Gregory\u2019s life after a severe fall in North Carolina.",
+      "why_it_matters": "This heroic effort highlights EMT dedication and the critical importance of rapid medical intervention in emergencies.",
+      "url": "https://www.goodnewsnetwork.org/emt-ran-1-5-miles-up-1000-feet-of-elevation-in-31-minutes-to-get-blood-transfusion-for-injured-climber/",
+      "source": "Good News Network",
+      "published": "Tue, 08 Sep 2026 13:00:34 +0000",
+      "category": "Good News",
+      "confidence": "Reported",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Will-Soper-an-EMT-and-technical-rescuer-with-Burke-Rescue-Inc.-and-SAR-photo-supplied-to-Outside-as-a-courtesy-of-Mr.-Soper.jpg",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": ""
     }
-  ],
-  "more_stories": {
-    "U.S. Politics": [
-      {
-        "headline": "Supreme Court lets White House continue construction on Trump\u2019s $400 million ballroom - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaV84YlJPVE9XY0Vqdzh3Q0h3dE9XRUdHRlh5aWFIX2RqeVFBWjg1Y2FjaDZPN0pRUzZ0dEtwVkRPWUVoanNZRjQ1RjZpOS1Bdk8ySjZ1eTNPM18tTWRzUkI2bWQ2TGpLeHQzSVRoWDRSUTRUR1J2VENKREtRXzcyTks3bWp3N0VPUkZvZTJjZUxhcEdKSHNHT1BFYjluR01BVFE?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Supreme Court lets White House continue construction on Trump\u2019s $400 million ballroom AP News"
-      },
-      {
-        "headline": "Supreme Court allows Trump to implement parts of his mail-in voting executive order - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUpWVmxZNkVNNGxlamhNRjkteVhjUVJNMXhDQ3Vyc3V3UkdTVEcyeUM0ZnEzTUlJQXRYMUZsNkZ5LTN5Q0VzWDFrVmVFSVlpOFBSaEpwa19qd0Q4SExzankxMEpIQjMxT2k5R0Z3emE0cDFCNng3V3lwVjBQUDg1NNIBhgFBVV95cUxOWGtmd1BpZ1U2QlJOeTZIcXhKMTVTOVFEZDJKcDJPS1NzX2NsOG1RT2w2TkpUMDkwTWY1QzlZcGt4LVlmNV9NZlFVUG04S0Y1U2hUSUdFSk5sUlFId1VsZzlnd1JvOGlWQnY2LThiN1J6cjZDSjdSWHd3elNWS3FpYWJqMXFnUQ?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Supreme Court allows Trump to implement parts of his mail-in voting executive order ABC News - Breaking News, Latest News and Videos"
-      },
-      {
-        "headline": "Congress News: U.S. House, Senate Breaking Headlines and Video - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zUEZUT09SaW5aQ3VJWXVLdmdOajVQUmtXZURBUDFJZjJ6RVA2NTNCdW00Y1kzc3FUdDZ0UVBiNWNDdEh3Z0xQU2RIZGwtbEc1RGpZ?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Congress News: U.S. House, Senate Breaking Headlines and Video NBC News"
-      }
-    ],
-    "U.S. News": [
-      {
-        "headline": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
-        "url": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
-        "source": "NPR U.S.",
-        "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now."
-      },
-      {
-        "headline": "Hurricane Lowell could cause flooding, mudslides in western Hawaii",
-        "url": "https://www.npr.org/2026/09/08/nx-s1-5960453/hurricane-lowell-could-cause-flooding-mudslides-in-western-hawaii",
-        "source": "NPR U.S.",
-        "summary": "Hurricane Lowell triggers hurricane warnings on its approach to western Hawaii as a major Category 3 storm."
-      },
-      {
-        "headline": "Morning news brief",
-        "url": "https://www.npr.org/2026/09/08/nx-s1-5955572/morning-news-brief",
-        "source": "NPR U.S.",
-        "summary": "Canada's retaliatory tariffs against the U.S. go into effect, Republicans prepare for Trump's unconventional midterm convention, officials say victims in Miami airport crash were inside vehicles."
-      }
-    ],
-    "World News": [
-      {
-        "headline": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-        "url": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "M\u00e9decins Sans Fronti\u00e8res is urging world leaders to increase funding to help the millions who need aid."
-      },
-      {
-        "headline": "Argentina to file criminal case against oil company operating in Falklands",
-        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
-      },
-      {
-        "headline": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease."
-      }
-    ],
-    "Conflicts & Security": [],
-    "Middle East Affairs": [
-      {
-        "headline": "US-Israel-Iran War Latest Live News: Saudi Foreign Minister Warns Houthis \u2018Opened A Door They Cannot Handle\u2019 As Regional Tensions Escalate - The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQenh4Q1BIYlhvT3dzcUFsT0l2ZU1KeTRtYWM1SmlPcDhfQkhvaDlMaHdxSnVQRzZWekRXMHNzU1QwU29YYXJRSlYtd2F5SEF1aTdZbnVrOXowR3ozV25EQWFiY2NaS2tYS0o3dHRwSHdLb0M3VzhnRzRYX0lyLWI3N3I5c1FiYy1CWFE4MGJJWVBVU1d6Y0VMV2RRczFLUkJuZ1F0Y3A2bmZ6Yjk4Snk3dUNIN2F1YndyNGhwTXNWTVNBWjlFcUpEcDZ1RFdLSlBrMjg2bkJUR2Z0Q1dUc2VBN0dqamhqX3JPUzZRNU44ZnQzdGhXbEFrSjFKc2w5SFNGZE5Cck5YVWZpRkUzSjJGV2FR0gGSAkFVX3lxTFB6eHhDUEhiWG9Pd3NxQWxPSXZlTUp5NG1hYzVKaU9wOF9CSG9oOUxod3FKdVBHNlZ6RFcwc3NTVDBTb1hhclFKVi13YXlIQXVpN1ludWs5ejBHejNXbkRBYWJjY1pLa1hLSjd0dHBId0tvQzdXOGdHNFhfSXItYjc3cjlzUWJjLUJYUTgwYklZUFVTV3pjRUxXZFFzMUtSQm5nUXRjcDZuZnpiOThKeTd1Q0g3YXVid3I0aHBNc1ZNU0FaOUVxSkRwNnVEV0tKUGsyODZuQlRHZnRDV1RzZUE3R2pqaGpfck9TNlE1TjhmdDN0aFdsQWtKMUpzbDlIU0ZkTkJyTlhVZmlGRTNKMkZXYVE?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "US-Israel-Iran War Latest Live News: Saudi Foreign Minister Warns Houthis \u2018Opened A Door They Cannot Handle\u2019 As Regional Tensions Escalate The Sunday Guardian"
-      },
-      {
-        "headline": "BRICS summit may be the only place another Iran ceasefire can be built - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0N6VVJtMVFhMzRCMG9qZGZMb0czclZCaVk3b2hNc0hTNjlQVW5xNWhkeXQ3WkxhVVZ1cllZQUhhbWpUYTUxT1dwMnlGUWJmMmhVTWktOW42TTk2NjZDTTVleEVpNTRjblNjcHJZVEE3MWg0WkpvQ19peHE0aVRPUlhqUVZ4N1ZqOWNmYVVPWG5wVWd5aU1Ya24zZm0tdklJRWs0XzdwYXlXVnB1Rnp1eEZ1eEPSAboBQVVfeXFMTVJFdWNGQkRCRUJTODZpWVJmczdRX0d3Ny0xQ3l5aVJacUJKa2ZIVTMzUU1NSnE4bnA3THpta0lFeWhDd0stZnF6d05maWNqdWdON2xUelFzZzk1aEFqNmIwS2xxWFpPQU5SQ0Q4NkZFbWJsUjY2SUZFOEtWSUFwVjlvaUlCaUJJcmowb09hMzVsM080LVhwVFNsaTViOC1wTXBtM3phZGpWWUN2RnVrLVhCeE9NSi1nUjFn?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "BRICS summit may be the only place another Iran ceasefire can be built Al Jazeera"
-      },
-      {
-        "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXNxakJXeG11enBnMEtHVzl6UFBpemVCWlJ1TlJBUEpKUmFuYldxaVhZMDM1cFh3cHhnUGNNVklpVkhMUDRpOExlcnJvM3l0S0lfNFB0UFRUZkMzUFNSR0NoRVpIMUlYNl9Bc3RTUWNydEI5UERpVnpjQi1yclkyV2ZHdXo5ZE9DcGFTUEN4NW9QWkFiX2NpOFVpZFptZVp3bGQ5RENob3hoU1Jp?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war The Guardian"
-      }
-    ],
-    "Health & Medicine": [
-      {
-        "headline": "Flow Neuroscience Launches FDA-Approved At-Home tDCS Treatment for Major Depressive Disorder - HIT Consultant",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbU5SYlluLXB3bTQ1MTdScVVoa0kwZEV4em9pd2R3a3pWaWFoTlNCQXBVMkdDMm5HbUpoaU5JVGdubWRwS2txejZpUGJYc2d2Y0RZOXJCMzh0OWEweU95NUstZmxkdmZmdVBWdnRGMWpSaVJONWVrajRIZ1FZWWk1bmR4MnVlZ0VCR21raUZ2Qk1fNV9Mbk5idXRncjNmWGxMQW9nb3ZHMHE2cUZWUjItNExqNjluaDRGODJMQkNfclZuanpuZUE?oc=5",
-        "source": "Health & Medicine",
-        "summary": "Flow Neuroscience Launches FDA-Approved At-Home tDCS Treatment for Major Depressive Disorder HIT Consultant"
-      },
-      {
-        "headline": "FDA fills four senior roles, including top officials for drugs, vaccines and tobacco - Boston Herald",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14TDVhWGpBcENSQlZ4NXZhS3dYWGV5Q0ZwUDhTUDB1RjhuV1RuWm04RHRwX3lxVkM3UW8zZ0hENnVjbGJ4MHdtUGwzQlJBTmo3eFFxbnRiLUZMNHF3Snlvcmlmc1lXdw?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA fills four senior roles, including top officials for drugs, vaccines and tobacco Boston Herald"
-      },
-      {
-        "headline": "FDA Immediately Approves Drug That\u2019s Doubling Lifespan for Late Pancreatic Cancer Patients - Good News Network",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTURDdnZWeDVHSUFtMi1lZUVuUE5mWkJoMjdjdXV0MWtHTGVLUndDYU5Od1pfREpOTC1sTDBIbWs5aVE4bnZfRzBQa2RjRm1Jd2VZTzZ2T3YzV3hqY2hvUUo5VExYQXF0TG9vcXowWnlrLV9jNGhQYU5Lc2J5R0d3U0p0R2dvRlZjbXdFUFZfa0lJR1JNV0lpYzBDOFdNeTJTYmM2U3dCWkMyVFcyQURURjUwdExXRXc2VUN1TE1kQQ?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA Immediately Approves Drug That\u2019s Doubling Lifespan for Late Pancreatic Cancer Patients Good News Network"
-      }
-    ],
-    "AI & Technology": [
-      {
-        "headline": "ThreatBook secures IMDA Singapore accreditation for agentic cybersecurity software - Vietnam Investment Review - VIR",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTS1kV2IzVEhDVmVialQ0dzRYOFNhMVg0WWw4YS1nUEdydjd0Y1hHN1FsM1cxVUhfeGgyeEppYXVIUWJkcEg3S2lVeGRRSi1udlFfLUtaZ3JJZEhZVUJENFFyS1lQeUVlUDYzMTlMZlo4R2psLURGajNpeWtnV3V0NXJaUktJTXVBV0ZiTE9DSjdUd1pWY19UT21yQmd5Nko1ZVBNbG1peUxkTFZJT3lOcWtIZw?oc=5",
-        "source": "AI & Technology",
-        "summary": "ThreatBook secures IMDA Singapore accreditation for agentic cybersecurity software Vietnam Investment Review - VIR"
-      },
-      {
-        "headline": "Making sense of cybersecurity, AI for citizen economic buoyancy - The Sun Nigeria",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVjRWWkVGeURyS041dUdRRHVpa0MxQ1JYczNYRUlDbHRiTmdjdE1xRzV0QTdyZTk4ZjJCcHFfa3R0Ym9aQlF2bzJsMjFpRFN2NzhPTFpDVHpZMUZ1bE83QzlhSnY4UEF0dVNkamp5NVdfMzdOaUxaX2g2ZHFxQVMzTFFlaXlhcExq?oc=5",
-        "source": "AI & Technology",
-        "summary": "Making sense of cybersecurity, AI for citizen economic buoyancy The Sun Nigeria"
-      },
-      {
-        "headline": "As AI reshapes channel economics, MSPs must pivot to outcomes: N-able - ARNnet",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWw3cUxPalRXazBMWTNQeWxoc0tKVWxRbkl6bGgzNUR5aUxEcHJMa0swLTJsR091NDhRYUVOTFlSbk1GQl9aY1hVM0xjVUJELVJBYW1XcTJiUnNDN01vcWNnWExUU1RoRGJrQVQtSUFOV2RkNDRVMUVBUFJGb2VpNEZSOGc5dDRfdEc0ZW1VRlEwQUJjYXJ5MkpwaHFJelpMbFI3VTM3RFlYcE42WGZObC1DU3Q?oc=5",
-        "source": "AI & Technology",
-        "summary": "As AI reshapes channel economics, MSPs must pivot to outcomes: N-able ARNnet"
-      }
-    ],
-    "Business & Economy": [
-      {
-        "headline": "Dow falls 1% as oil prices surge and US-Canada trade war escalates - eciks.org",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95YUZvaWZSQldBa004RVBvTmRyX1VsNTFKOVVDeUY3bVotNEJOOWdyYno3Qlp0WGFDNzNCYzUyTzhUQjZIalo0cTU0c3lVeC1EWFdTLXNBSWhxdjBPclowX1ZB?oc=5",
-        "source": "Business & Economy",
-        "summary": "Dow falls 1% as oil prices surge and US-Canada trade war escalates eciks.org"
-      },
-      {
-        "headline": "NY Fed Survey of Consumers shows inflation relief, jobs-market unease - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlkzN2RKcG9RdWtFaFhnTUVKd3FoRGljYU9vdk5SUHo1RmgzN2xLU09YTXZzQ0RlWkF6eVdxaGs2eHJzc2g4bGhtVU84VTNlZ2JPYjNSeE5QZVlMLWdvZ3ZHdktvMk5CTnhUY0hscDJHVHF0Qnp1WkhYdjB1SWJpR2FjWTI2SFZ6a1A5YmI0dVBCSUEzSGllVFNyaTZoU0VnTF85OUloSWkxVm5FbXEteg?oc=5",
-        "source": "Business & Economy",
-        "summary": "NY Fed Survey of Consumers shows inflation relief, jobs-market unease FXStreet"
-      },
-      {
-        "headline": "Inflation expectations high but steady in key Fed survey - American Banker",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON1hVODBRcW9RdU44SzA2bmNLVHVzMnZicndlQWk1MmFDaEViX0p1TUIyUFNQbGp2NUdQQkpLMXBIWjk3THNEcVFJYWZORmttaXNIQUZQOG5LNkIyNklRNHJCSlVkUEVTU3NlOGlWRDdDcHpPZk1qS2Y2SXVJUW5OQXpOdlNIYXE1MTVpWl9ZWXVleW14U2FV?oc=5",
-        "source": "Business & Economy",
-        "summary": "Inflation expectations high but steady in key Fed survey American Banker"
-      }
-    ],
-    "Society & Culture": [],
-    "Sports": [
-      {
-        "headline": "Atlanta Hawks announce front office promotions - The Brunswick News",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWNpY3B0U3NMTkNhTFMxU2p1dEpJRkxOUkREcmFVcF83REVDR3lwNWk5QmpETkVXUjVwcjhQdzFfVFg0SVZ3dmhTenRRNnFZc3N2LURVWmFVSXNHZ1I2UEVyYmNRZlpmR2NPa1RJWG9CWDJPNVlLNk5hYlN5eWFmOTl3UUM4R0RXTzllLW1teUc1cFRuWE5DalhtSnlEcW5kUElnU0RpSy1tVnNIU0hfeWdISkNhci05MGswWUhDWHhvcG8?oc=5",
-        "source": "Atlanta Sports",
-        "summary": "Atlanta Hawks announce front office promotions The Brunswick News"
-      },
-      {
-        "headline": "Projected Atlanta Hawks Starting Lineup, Rotation and Closing Lineup for 2026-27 - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUJzbEdpSTVxX2wyenlHODQxNWVReDdGT080YnhXNjFxSFdKejlZNXN6cHp6OHpMUzd1azVRXzAzQktqeURlMWNick4zUkZWb0xIdGNsZWFKbHFRUlVTNkpxVndZTEZXZ3ZKQk9vM2lWZWVMNDlHVENFM3R6aGwtM2I4UnB2dUFRSnVlODhIazk2akdFVDZBYWM2NEl2VVRsSlFXazJ6akYxSjBhdTU3akptQUpqN183aEprcm45RThqQng0?oc=5",
-        "source": "Atlanta Sports",
-        "summary": "Projected Atlanta Hawks Starting Lineup, Rotation and Closing Lineup for 2026-27 Sports Illustrated"
-      },
-      {
-        "headline": "The Ballon d\u2019Or and why football has become so obsessed with individual awards - The Athletic - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHY5Mkp2LWpTUUFlemxvZ0hLM3I3M0FVU1pPRVlRTGFzWDlYWFQyZW1zTHlHQXZBVHVDN2syb05nanQySVFxYTZvOEtVSWg0VG8wZTVXZWpfQmtUVUpiZzVFMy1CcktTN242Z3RhcjZwTHVyVzl4VmZCc3pjcnp3X0xrSVprN01tLU91Z09n?oc=5",
-        "source": "Major Sports",
-        "summary": "The Ballon d\u2019Or and why football has become so obsessed with individual awards - The Athletic The New York Times"
-      }
-    ],
-    "Good News": []
-  }
+  ]
 }
