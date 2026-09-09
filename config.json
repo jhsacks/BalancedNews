@@ -3,47 +3,115 @@
   "tagline": "Important news. Clear context. No outrage bait.",
   "timezone": "America/New_York",
   "archive_days": 8,
-  "max_stories": 21,
-  "max_per_category": 3,
-  "more_links_per_category": 3,
-  "max_article_age_days": 14,
+  "max_stories": 28,
+  "max_per_category": 4,
   "category_order": [
-    "U.S. Politics & Government",
-    "Major U.S. News",
-    "World Affairs",
-    "Wars & Global Security",
-    "Israel & Palestinian Territories",
+    "U.S. Politics",
+    "U.S. News",
+    "World News",
+    "Conflicts & Security",
+    "Middle East Affairs",
     "Health & Medicine",
-    "Science & Discovery",
     "AI & Technology",
     "Business & Economy",
+    "Society & Culture",
     "Sports",
     "Good News"
   ],
+  "feeds": [
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "International Affairs"
+    },
+    {
+      "name": "BBC U.S.",
+      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "category": "U.S. News"
+    },
+    {
+      "name": "NPR Politics",
+      "url": "https://feeds.npr.org/1014/rss.xml",
+      "category": "U.S. Government & Politics"
+    },
+    {
+      "name": "NPR World",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "category": "International Affairs"
+    },
+    {
+      "name": "Conflicts",
+      "url": "https://news.google.com/rss/search?q=war+ceasefire+peace+negotiations+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Conflicts & Security"
+    },
+    {
+      "name": "Israel and Palestinian Territories",
+      "url": "https://news.google.com/rss/search?q=Israel+Palestinian+territories+Gaza+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Israel / Palestinian Territories"
+    },
+    {
+      "name": "NIH",
+      "url": "https://www.nih.gov/news-events/news-releases/feed.xml",
+      "category": "Healthcare & Medicine"
+    },
+    {
+      "name": "MIT AI",
+      "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "category": "AI & Technology"
+    },
+    {
+      "name": "Markets",
+      "url": "https://news.google.com/rss/search?q=US+stock+market+Federal+Reserve+inflation+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Markets & Economy"
+    },
+    {
+      "name": "Positive Developments",
+      "url": "https://news.google.com/rss/search?q=coexistence+peace+rescue+humanitarian+breakthrough+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Positive Developments"
+    },
+    {
+      "name": "Atlanta Sports",
+      "url": "https://news.google.com/rss/search?q=(Atlanta+Braves+OR+Atlanta+Falcons+OR+Atlanta+United+OR+Atlanta+Hawks)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Sports"
+    },
+    {
+      "name": "College Sports",
+      "url": "https://news.google.com/rss/search?q=(Georgia+Bulldogs+football+OR+Indiana+Hoosiers+football+OR+Indiana+Hoosiers+basketball+OR+Wisconsin+Badgers+football)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Sports"
+    },
+    {
+      "name": "Society and Culture",
+      "url": "https://news.google.com/rss/search?q=US+education+housing+demographics+workplace+culture+social+trends+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Society & Culture"
+    }
+  ],
+  "sports_keywords": [
+    "atlanta braves",
+    "atlanta falcons",
+    "atlanta united",
+    "atlanta hawks",
+    "georgia bulldogs",
+    "indiana hoosiers",
+    "wisconsin badgers"
+  ],
+  "importance_keywords": [
+    "president",
+    "congress",
+    "election",
+    "war",
+    "ceasefire",
+    "nuclear",
+    "tariff",
+    "inflation",
+    "fda",
+    "clinical trial",
+    "breakthrough",
+    "artificial intelligence",
+    "playoff",
+    "trade"
+  ],
   "category_limits": {
-    "Science & Discovery": 2,
     "Business & Economy": 2
   },
-  "feeds": [
-    {"name":"NPR Politics","url":"https://feeds.npr.org/1014/rss.xml","category":"U.S. Politics & Government"},
-    {"name":"Google U.S. Politics","url":"https://news.google.com/rss/search?q=US+Congress+White+House+election+policy+when:1d&hl=en-US&gl=US&ceid=US:en","category":"U.S. Politics & Government"},
-    {"name":"BBC U.S.","url":"https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml","category":"Major U.S. News"},
-    {"name":"NPR U.S.","url":"https://feeds.npr.org/1003/rss.xml","category":"Major U.S. News"},
-    {"name":"BBC World","url":"https://feeds.bbci.co.uk/news/world/rss.xml","category":"World Affairs"},
-    {"name":"NPR World","url":"https://feeds.npr.org/1004/rss.xml","category":"World Affairs"},
-    {"name":"Global Security","url":"https://news.google.com/rss/search?q=war+ceasefire+security+diplomacy+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Wars & Global Security"},
-    {"name":"Israel and Palestinian Territories","url":"https://news.google.com/rss/search?q=Israel+Palestinian+territories+Gaza+West+Bank+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Israel & Palestinian Territories"},
-    {"name":"NIH","url":"https://www.nih.gov/news-events/news-releases/feed.xml","category":"Health & Medicine"},
-    {"name":"Google Health","url":"https://news.google.com/rss/search?q=health+medicine+FDA+public+health+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Health & Medicine"},
-    {"name":"NASA","url":"https://www.nasa.gov/rss/dyn/breaking_news.rss","category":"Science & Discovery"},
-    {"name":"MIT AI","url":"https://news.mit.edu/rss/topic/artificial-intelligence2","category":"AI & Technology"},
-    {"name":"Google AI","url":"https://news.google.com/rss/search?q=artificial+intelligence+technology+when:1d&hl=en-US&gl=US&ceid=US:en","category":"AI & Technology"},
-    {"name":"Business and Economy","url":"https://news.google.com/rss/search?q=US+economy+business+Federal+Reserve+markets+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Business & Economy"},
-    {"name":"Major Sports","url":"https://news.google.com/rss/search?q=major+US+sports+NFL+MLB+NBA+NHL+college+football+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
-    {"name":"Atlanta Sports","url":"https://news.google.com/rss/search?q=(Atlanta+Braves+OR+Atlanta+Falcons+OR+Atlanta+United+OR+Atlanta+Hawks)+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
-    {"name":"College Sports","url":"https://news.google.com/rss/search?q=(Georgia+Bulldogs+OR+Indiana+Hoosiers+OR+Wisconsin+Badgers)+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
-    {"name":"Good News","url":"https://news.google.com/rss/search?q=breakthrough+rescue+coexistence+humanitarian+community+success+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Good News"}
-  ],
-  "sports_keywords": ["atlanta braves","atlanta falcons","atlanta united","atlanta hawks","georgia bulldogs","indiana hoosiers","wisconsin badgers","world series","super bowl","nba finals","stanley cup","college football playoff"],
-  "importance_keywords": ["president","congress","supreme court","election","war","ceasefire","nuclear","tariff","inflation","fda","clinical trial","breakthrough","artificial intelligence","championship","playoff","trade"]
+  "good_news_history_days": 14
 }
