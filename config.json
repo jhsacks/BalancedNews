@@ -3,8 +3,8 @@
   "tagline": "Important news. Clear context. No outrage bait.",
   "timezone": "America/New_York",
   "archive_days": 8,
-  "max_stories": 21,
-  "max_per_category": 3,
+  "max_stories": 16,
+  "max_per_category": 2,
   "more_links_per_category": 3,
   "max_article_age_days": 14,
   "good_news_history_days": 14,
@@ -21,25 +21,125 @@
     "Sports",
     "Good News"
   ],
-  "category_limits": {"Business & Economy": 2},
+  "category_limits": {
+    "Business & Economy": 2,
+    "Sports": 2,
+    "Good News": 1
+  },
   "feeds": [
-    {"name":"NPR Politics","url":"https://feeds.npr.org/1014/rss.xml","category":"U.S. Politics"},
-    {"name":"U.S. Politics","url":"https://news.google.com/rss/search?q=White+House+Congress+Supreme+Court+election+policy+when:1d&hl=en-US&gl=US&ceid=US:en","category":"U.S. Politics"},
-    {"name":"BBC U.S.","url":"https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml","category":"U.S. News"},
-    {"name":"NPR U.S.","url":"https://feeds.npr.org/1003/rss.xml","category":"U.S. News"},
-    {"name":"BBC World","url":"https://feeds.bbci.co.uk/news/world/rss.xml","category":"World News"},
-    {"name":"NPR World","url":"https://feeds.npr.org/1004/rss.xml","category":"World News"},
-    {"name":"Conflicts & Security","url":"https://news.google.com/rss/search?q=war+ceasefire+defense+terrorism+security+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Conflicts & Security"},
-    {"name":"Middle East Affairs","url":"https://news.google.com/rss/search?q=(Israel+OR+Palestinian+OR+Gaza+OR+West+Bank+OR+Iran+OR+Lebanon+OR+Syria+OR+Saudi+Arabia+OR+UAE)+(election+OR+treaty+OR+diplomacy+OR+government+OR+economy+OR+ceasefire)+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Middle East Affairs"},
-    {"name":"Health & Medicine","url":"https://news.google.com/rss/search?q=health+medicine+FDA+clinical+trial+public+health+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Health & Medicine"},
-    {"name":"AI & Technology","url":"https://news.google.com/rss/search?q=artificial+intelligence+cybersecurity+technology+when:1d&hl=en-US&gl=US&ceid=US:en","category":"AI & Technology"},
-    {"name":"Business & Economy","url":"https://news.google.com/rss/search?q=US+economy+jobs+inflation+Federal+Reserve+business+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Business & Economy"},
-    {"name":"Society & Culture","url":"https://news.google.com/rss/search?q=education+housing+demographics+workplace+social+trends+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Society & Culture"},
-    {"name":"Major Sports","url":"https://news.google.com/rss/search?q=NFL+MLB+NBA+NHL+college+football+major+sports+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
-    {"name":"Atlanta Sports","url":"https://news.google.com/rss/search?q=(Atlanta+Braves+OR+Atlanta+Falcons+OR+Atlanta+United+OR+Atlanta+Hawks)+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
-    {"name":"College Sports","url":"https://news.google.com/rss/search?q=(Georgia+Bulldogs+OR+Indiana+Hoosiers+OR+Wisconsin+Badgers)+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
-    {"name":"Good News","url":"https://news.google.com/rss/search?q=breakthrough+rescue+cooperation+humanitarian+community+conservation+recovery+success+when:4d&hl=en-US&gl=US&ceid=US:en","category":"Good News"}
+    {
+      "name": "NPR Politics",
+      "url": "https://feeds.npr.org/1014/rss.xml",
+      "category": "U.S. Politics"
+    },
+    {
+      "name": "U.S. Politics",
+      "url": "https://news.google.com/rss/search?q=White+House+Congress+Supreme+Court+election+policy+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "category": "U.S. Politics"
+    },
+    {
+      "name": "BBC U.S.",
+      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "category": "U.S. News"
+    },
+    {
+      "name": "NPR U.S.",
+      "url": "https://feeds.npr.org/1003/rss.xml",
+      "category": "U.S. News"
+    },
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "World News"
+    },
+    {
+      "name": "NPR World",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "category": "World News"
+    },
+    {
+      "name": "Conflicts & Security",
+      "url": "https://news.google.com/rss/search?q=war+ceasefire+defense+terrorism+security+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Conflicts & Security"
+    },
+    {
+      "name": "Middle East Affairs",
+      "url": "https://news.google.com/rss/search?q=(Israel+OR+Palestinian+OR+Gaza+OR+West+Bank+OR+Iran+OR+Lebanon+OR+Syria+OR+Saudi+Arabia+OR+UAE)+(election+OR+treaty+OR+diplomacy+OR+government+OR+economy+OR+ceasefire)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Middle East Affairs"
+    },
+    {
+      "name": "Health & Medicine",
+      "url": "https://news.google.com/rss/search?q=health+medicine+FDA+clinical+trial+public+health+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Health & Medicine"
+    },
+    {
+      "name": "AI & Technology",
+      "url": "https://news.google.com/rss/search?q=artificial+intelligence+cybersecurity+technology+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "category": "AI & Technology"
+    },
+    {
+      "name": "Business & Economy",
+      "url": "https://news.google.com/rss/search?q=US+economy+jobs+inflation+Federal+Reserve+business+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Business & Economy"
+    },
+    {
+      "name": "Society & Culture",
+      "url": "https://news.google.com/rss/search?q=education+housing+demographics+workplace+social+trends+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Society & Culture"
+    },
+    {
+      "name": "Major Sports",
+      "url": "https://news.google.com/rss/search?q=NFL+MLB+NBA+NHL+college+football+major+sports+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Sports"
+    },
+    {
+      "name": "Atlanta Sports",
+      "url": "https://news.google.com/rss/search?q=(Atlanta+Braves+OR+Atlanta+Falcons+OR+Atlanta+United+OR+Atlanta+Hawks)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Sports"
+    },
+    {
+      "name": "College Sports",
+      "url": "https://news.google.com/rss/search?q=(Georgia+Bulldogs+OR+Indiana+Hoosiers+OR+Wisconsin+Badgers)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Sports"
+    },
+    {
+      "name": "Good News",
+      "url": "https://news.google.com/rss/search?q=breakthrough+rescue+cooperation+humanitarian+community+conservation+recovery+success+when:4d&hl=en-US&gl=US&ceid=US:en",
+      "category": "Good News"
+    }
   ],
-  "sports_keywords": ["atlanta braves","atlanta falcons","atlanta united","atlanta hawks","georgia bulldogs","indiana hoosiers","wisconsin badgers","super bowl","world series","nba finals","stanley cup","college football playoff"],
-  "importance_keywords": ["president","congress","supreme court","election","war","ceasefire","nuclear","tariff","inflation","fda","clinical trial","breakthrough","artificial intelligence","championship","playoff"]
+  "sports_keywords": [
+    "atlanta braves",
+    "atlanta falcons",
+    "atlanta united",
+    "atlanta hawks",
+    "georgia bulldogs",
+    "indiana hoosiers",
+    "wisconsin badgers",
+    "super bowl",
+    "world series",
+    "nba finals",
+    "stanley cup",
+    "college football playoff"
+  ],
+  "importance_keywords": [
+    "president",
+    "congress",
+    "supreme court",
+    "election",
+    "war",
+    "ceasefire",
+    "nuclear",
+    "tariff",
+    "inflation",
+    "fda",
+    "clinical trial",
+    "breakthrough",
+    "artificial intelligence",
+    "championship",
+    "playoff"
+  ],
+  "entries_per_feed": 30,
+  "feed_workers": 8,
+  "image_workers": 6
 }

@@ -5,6 +5,8 @@ from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse
 import feedparser, requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from difflib import SequenceMatcher
 from bs4 import BeautifulSoup
 from PIL import Image, ImageStat
 
@@ -48,12 +50,24 @@ def find_image(e,u):
  except Exception:pass
  return next((x for x in dict.fromkeys(c) if valid_image(x)),'')
 def tokens(text):
- stop={'the','and','for','with','from','that','this','into','after','before','over','about','says','latest','update','news'}
+ stop={'the','and','for','with','from','that','this','into','after','before','over','about','says','latest','update','news','report','reports','announces','announce','today','live','analysis','why','how','what'}
  return {x for x in re.findall(r'[a-z0-9]+',text.lower()) if len(x)>2 and x not in stop}
-def similar(a,b):
- x=tokens(a['headline']+' '+a.get('summary','')[:180]); y=tokens(b['headline']+' '+b.get('summary','')[:180])
- return bool(x and y and len(x&y)/max(1,min(len(x),len(y)))>=.48)
-def duplicate(x,selected):return any(similar(x,y) for y in selected)
+def headline_key(text):
+ return ' '.join(sorted(tokens(text)))
+def same_story(a,b):
+ ah=a.get('headline','');bh=b.get('headline','')
+ at=tokens(ah);bt=tokens(bh)
+ if not at or not bt:return False
+ containment=len(at&bt)/max(1,min(len(at),len(bt)))
+ union=len(at&bt)/max(1,len(at|bt))
+ seq=SequenceMatcher(None,headline_key(ah),headline_key(bh)).ratio()
+ # Same event when headlines substantially share the same people/teams, action, and object.
+ if containment>=.55 or union>=.42 or seq>=.72:return True
+ # Use summaries only as a supporting signal, never by themselves.
+ ast=tokens(a.get('summary','')[:260]);bst=tokens(b.get('summary','')[:260])
+ summary_overlap=len(ast&bst)/max(1,min(len(ast),len(bst))) if ast and bst else 0
+ return containment>=.38 and summary_overlap>=.48
+def duplicate(x,selected):return any(same_story(x,y) for y in selected)
 def score(x):
  text=(x['headline']+' '+x['summary']).lower(); return 2+sum(3 for k in CFG['importance_keywords'] if k in text)+7*any(k in text for k in CFG['sports_keywords'])
 def cap(cat):return CFG.get('category_limits',{}).get(cat,CFG['max_per_category'])
@@ -66,13 +80,25 @@ for p in DATA.glob('*.json'):
  except Exception:pass
 def repeated_good(x):return x['category']=='Good News' and any(x.get('url')==y.get('url') or similar(x,y) for y in old_good)
 items=[]
-for feed in CFG['feeds']:
- parsed=feedparser.parse(feed['url'])
- for entry in parsed.entries[:40]:
-  d,raw=pdate(entry); u=entry.get('link',''); h=clean(entry.get('title','')); sm=clean(entry.get('summary',''))[:800]
+def load_feed(feed):
+ try:
+  response=requests.get(feed['url'],headers=HEADERS,timeout=10)
+  response.raise_for_status()
+  parsed=feedparser.parse(response.content)
+ except Exception as e:
+  print(f"Feed skipped: {feed['name']}: {e}")
+  return []
+ loaded=[]
+ for entry in parsed.entries[:CFG.get('entries_per_feed',30)]:
+  d,raw=pdate(entry);u=entry.get('link','');h=clean(entry.get('title',''));sm=clean(entry.get('summary',''))[:900]
   if not u or not h or not fresh(u,d,feed['category']):continue
-  x={'headline':h,'summary':sm,'why_it_matters':'','url':u,'source':feed['name'],'published':raw,'category':feed['category'],'confidence':'Reported','image':'','perspective_one':'','perspective_two':'','uncertain':'','_entry':entry}; x['_score']=score(x); items.append(x)
-ranked=sorted(items,key=lambda x:(x['_score'],x['published']),reverse=True); ranked=cluster_stories(ranked); print(f'Distinct story clusters: {len(ranked)} from {len(items)} articles'); chosen=[]; counts={}
+  x={'headline':h,'summary':sm,'why_it_matters':'','url':u,'source':feed['name'],'published':raw,'category':feed['category'],'confidence':'Reported','image':'','perspective_one':'','perspective_two':'','uncertain':'','_entry':entry}
+  x['_score']=score(x);loaded.append(x)
+ return loaded
+with ThreadPoolExecutor(max_workers=CFG.get('feed_workers',8)) as pool:
+ futures=[pool.submit(load_feed,feed) for feed in CFG['feeds']]
+ for future in as_completed(futures):items.extend(future.result())
+ranked=sorted(items,key=lambda x:(x['_score'],x['published']),reverse=True); chosen=[]; counts={}
 for cat in CFG['category_order']:
  for x in ranked:
   if x['category']==cat and not repeated_good(x) and not duplicate(x,chosen):chosen.append(x);counts[cat]=1;break
@@ -84,7 +110,10 @@ selected_urls={x['url'] for x in chosen}; more={c:[] for c in CFG['category_orde
 for x in ranked:
  if x['url'] in selected_urls or repeated_good(x) or len(more[x['category']])>=CFG['more_links_per_category'] or duplicate(x,chosen+more[x['category']]):continue
  more[x['category']].append({'headline':x['headline'],'url':x['url'],'source':x['source'],'summary':x['summary']})
-for x in chosen:x['image']=find_image(x.pop('_entry'),x['url'])
+def attach_image(story):
+ entry=story.pop('_entry');story['image']=find_image(entry,story['url']);return story
+with ThreadPoolExecutor(max_workers=CFG.get('image_workers',6)) as pool:
+ chosen=list(pool.map(attach_image,chosen))
 key=os.getenv('OPENAI_API_KEY','').strip()
 if key and chosen:
  try:
