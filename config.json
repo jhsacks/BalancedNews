@@ -141,5 +141,8 @@
   ],
   "entries_per_feed": 30,
   "feed_workers": 8,
-  "image_workers": 6
+  "image_workers": 6,
+  "image_candidate_pool_per_category": 6,
+  "image_probe_workers": 8,
+  "image_ranking_bonus": 4
 }
