@@ -7,7 +7,7 @@ from urllib.parse import urljoin, urlparse
 import feedparser, requests
 from bs4 import BeautifulSoup
 from PIL import Image, ImageStat
-from newsletter import send_newsletter
+# from newsletter import send_newsletter
 
 ROOT=Path(__file__).parent; CFG=json.loads((ROOT/'config.json').read_text()); DATA=ROOT/'data/briefings'; DATA.mkdir(parents=True,exist_ok=True)
 TZ=ZoneInfo(CFG['timezone']); now=datetime.now(TZ); edition=os.getenv('BRIEF_EDITION') or ('AM' if now.hour<12 else 'PM'); HEADERS={'User-Agent':'Mozilla/5.0'}
@@ -96,4 +96,4 @@ if key and chosen:
   if isinstance(result,list) and len(result)==len(chosen):chosen=result
  except Exception as e:print('AI refinement skipped:',e)
 for x in chosen:x.pop('_score',None)
-out={'generated_at':now.isoformat(),'edition':edition,'stories':chosen,'more_stories':more}; name=f"{now:%Y-%m-%d}_{edition}.json";(DATA/name).write_text(json.dumps(out,indent=2));print(name,len(chosen));send_newsletter(out)
+out={'generated_at':now.isoformat(),'edition':edition,'stories':chosen,'more_stories':more}; name=f"{now:%Y-%m-%d}_{edition}.json";(DATA/name).write_text(json.dumps(out,indent=2));print(name,len(chosen));# send_newsletter(out)
