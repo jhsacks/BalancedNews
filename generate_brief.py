@@ -9,6 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from difflib import SequenceMatcher
 from bs4 import BeautifulSoup
 from PIL import Image, ImageStat
+from topic_images import topic_image
 
 ROOT=Path(__file__).parent; CFG=json.loads((ROOT/'config.json').read_text()); DATA=ROOT/'data/briefings'; DATA.mkdir(parents=True,exist_ok=True)
 TZ=ZoneInfo(CFG['timezone']); now=datetime.now(TZ); edition=os.getenv('BRIEF_EDITION') or ('AM' if now.hour<12 else 'PM'); HEADERS={'User-Agent':'Mozilla/5.0'}
@@ -28,25 +29,6 @@ def fresh(u,d,category):
  dated=url_date(u)
  if dated and dated < now-timedelta(days=CFG.get('max_article_age_days',14)):return False
  return bool(d and d>=cutoff)
-def quick_image_url(entry, article_url):
- candidates=[]
- for key in ('media_content','media_thumbnail'):
-  candidates += [x.get('url','') for x in entry.get(key,[]) if isinstance(x,dict)]
- for enclosure in entry.get('enclosures',[]):
-  if isinstance(enclosure,dict):candidates.append(enclosure.get('href','') or enclosure.get('url',''))
- for field in ('summary','description','content'):
-  value=entry.get(field,'')
-  if isinstance(value,list):value=' '.join(str(x.get('value','')) for x in value if isinstance(x,dict))
-  soup=BeautifulSoup(str(value),'html.parser')
-  candidates += [urljoin(article_url,t.get('src','') or t.get('data-src','')) for t in soup.find_all('img')]
- try:
-  response=requests.get(article_url,timeout=7,headers=HEADERS,allow_redirects=True)
-  soup=BeautifulSoup(response.text,'html.parser')
-  for tag in (soup.find('meta',property='og:image'),soup.find('meta',property='og:image:url'),soup.find('meta',property='og:image:secure_url'),soup.find('meta',attrs={'name':'twitter:image'}),soup.find('meta',attrs={'name':'twitter:image:src'})):
-   if tag:candidates.append(urljoin(response.url,tag.get('content','')))
- except Exception:pass
- return next((u for u in dict.fromkeys(candidates) if u and not any(x in u.lower() for x in ('logo','icon','favicon','placeholder','avatar','sprite'))),'')
-
 def valid_image(u):
  if not u or any(x in u.lower() for x in ('gstatic','googleusercontent','logo','icon','favicon','placeholder','avatar')):return False
  try:
@@ -117,18 +99,7 @@ def load_feed(feed):
 with ThreadPoolExecutor(max_workers=CFG.get('feed_workers',8)) as pool:
  futures=[pool.submit(load_feed,feed) for feed in CFG['feeds']]
  for future in as_completed(futures):items.extend(future.result())
-ranked=sorted(items,key=lambda x:(x['_score'],x['published']),reverse=True)
-image_candidates=[]
-for category in CFG['category_order']:
- image_candidates.extend([x for x in ranked if x['category']==category][:CFG.get('image_candidate_pool_per_category',6)])
-def inspect_candidate(story):
- story['_candidate_image']=quick_image_url(story['_entry'],story['url'])
- if story['_candidate_image']:story['_score']+=CFG.get('image_ranking_bonus',4)
- return story
-with ThreadPoolExecutor(max_workers=CFG.get('image_probe_workers',8)) as pool:
- list(pool.map(inspect_candidate,image_candidates))
-ranked=sorted(ranked,key=lambda x:(x['_score'],bool(x.get('_candidate_image')),x['published']),reverse=True)
-chosen=[]; counts={}
+ranked=sorted(items,key=lambda x:(x['_score'],x['published']),reverse=True); chosen=[]; counts={}
 for cat in CFG['category_order']:
  for x in ranked:
   if x['category']==cat and not repeated_good(x) and not duplicate(x,chosen):chosen.append(x);counts[cat]=1;break
@@ -141,7 +112,12 @@ for x in ranked:
  if x['url'] in selected_urls or repeated_good(x) or len(more[x['category']])>=CFG['more_links_per_category'] or duplicate(x,chosen+more[x['category']]):continue
  more[x['category']].append({'headline':x['headline'],'url':x['url'],'source':x['source'],'summary':x['summary']})
 def attach_image(story):
- entry=story.pop('_entry');candidate=story.pop('_candidate_image','');story['image']=candidate if candidate and valid_image(candidate) else find_image(entry,story['url']);return story
+ entry=story.pop('_entry');story['image']=find_image(entry,story['url']);story['image_credit']='';story['image_source']=''
+ if not story['image']:
+  fallback=topic_image(story['headline'],story['category'],HEADERS)
+  if fallback:
+   story['image']=fallback['url'];story['image_credit']=fallback['credit'];story['image_source']=fallback['source']
+ return story
 with ThreadPoolExecutor(max_workers=CFG.get('image_workers',6)) as pool:
  chosen=list(pool.map(attach_image,chosen))
 key=os.getenv('OPENAI_API_KEY','').strip()
@@ -153,6 +129,5 @@ if key and chosen:
   text=OpenAI(api_key=key).responses.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),input=prompt).output_text.strip().removeprefix('```json').removesuffix('```').strip(); result=json.loads(text)
   if isinstance(result,list) and len(result)==len(chosen):chosen=result
  except Exception as e:print('AI refinement skipped:',e)
-for x in chosen:
- x.pop('_score',None);x.pop('_candidate_image',None)
+for x in chosen:x.pop('_score',None)
 out={'generated_at':now.isoformat(),'edition':edition,'stories':chosen,'more_stories':more}; name=f"{now:%Y-%m-%d}_{edition}.json";(DATA/name).write_text(json.dumps(out,indent=2));print(name,len(chosen))
