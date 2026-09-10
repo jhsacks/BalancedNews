@@ -106,47 +106,21 @@
       "name": "Good News",
       "url": "https://news.google.com/rss/search?q=breakthrough+rescue+cooperation+humanitarian+community+conservation+recovery+success+when:4d&hl=en-US&gl=US&ceid=US:en",
       "category": "Good News"
-    },
-    {
-      "name": "ESPN NFL",
-      "url": "https://www.espn.com/espn/rss/nfl/news",
-      "category": "Sports"
-    },
-    {
-      "name": "ESPN MLB",
-      "url": "https://www.espn.com/espn/rss/mlb/news",
-      "category": "Sports"
-    },
-    {
-      "name": "NFL Opening Week",
-      "url": "https://news.google.com/rss/search?q=NFL+opening+week+kickoff+scores+injuries+when:2d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Sports"
-    },
-    {
-      "name": "Braves Playoff Race",
-      "url": "https://news.google.com/rss/search?q=Atlanta+Braves+playoff+race+wild+card+standings+when:2d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Sports"
     }
   ],
   "sports_keywords": [
     "atlanta braves",
     "atlanta falcons",
+    "atlanta united",
+    "atlanta hawks",
     "georgia bulldogs",
     "indiana hoosiers",
     "wisconsin badgers",
-    "nfl opening week",
-    "nfl kickoff",
-    "season opener",
-    "playoff race",
-    "wild card",
-    "clinched",
-    "elimination game",
     "super bowl",
     "world series",
     "nba finals",
     "stanley cup",
-    "college football playoff",
-    "championship"
+    "college football playoff"
   ],
   "importance_keywords": [
     "president",
