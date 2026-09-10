@@ -16,7 +16,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -44,11 +44,19 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
         run: python generate_brief.py
-      - name: Commit dated archive
+      - name: Generate missing story visuals
+        if: steps.gate.outputs.run == 'true'
+        env:
+          BRIEF_EDITION: ${{ steps.gate.outputs.edition }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_IMAGE_MODEL: gpt-image-1-mini
+          MAX_GENERATED_IMAGES: '10'
+        run: python fill_missing_images.py
+      - name: Commit dated archive and visuals
         if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name balanced-brief-bot
           git config user.email actions@users.noreply.github.com
           git add data/briefings
-          git commit -m "Add ${{ steps.gate.outputs.edition }} briefing" || exit 0
+          git commit -m "Add ${{ steps.gate.outputs.edition }} briefing and visuals" || exit 0
           git push
