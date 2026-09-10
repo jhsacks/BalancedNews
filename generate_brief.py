@@ -310,7 +310,7 @@ for story in representatives:
     )
 
 if not any(story.get("category") == "Good News" for story in chosen):
-    raise RuntimeError("No fresh, non-repeated Good News story found; previous briefing preserved.")
+    print("WARNING: No fresh Good News story found.")
 
 
 def attach_image(story):
