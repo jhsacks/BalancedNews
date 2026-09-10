@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-09-09T21:25:09.353073-04:00",
+  "generated_at": "2026-09-09T21:37:32.912445-04:00",
   "edition": "PM",
   "stories": [
     {
       "headline": "President Trump Asks Supreme Court to Revive System for Checking Voter Rolls for Noncitizens as Midterms Loom - inkl",
-      "summary": "President Trump asks the Supreme Court to allow checking voter rolls for noncitizens again. This move comes before the upcoming midterm elections.",
-      "why_it_matters": "This affects the fairness and security of voter registration rules.",
+      "summary": "President Trump asks Supreme Court to bring back a system. It checks voter lists for noncitizens before the midterm election.",
+      "why_it_matters": "The way voters are checked affects election fairness and trust.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUJSWjlsR01XMkh5a1FaZWJtY2JwVmU0R1NoZGFudmxBM0JNR2dUQlBsbGFIcFV0aWRUTW1QQXl0LTBOR1owVHl6bnFqM0YtbWpTdTd6MXBWcEhLNG81OF9rNDJJVmVkc016STFKR1NlOTVBeFZqMTZXT3BCWTYwc01rQVhSejlONEZRYUV3WGg4aURJc0dkQ2VLd0pSMy1vSVg2alFHakExS2NWa2N4V3E4TFlSSTZJT0tpbHMwSUJiMFZzRF9ZZHh6SVZ5X2x3?oc=5",
       "source": "U.S. Politics",
       "published": "Wed, 09 Sep 2026 16:58:28 GMT",
       "category": "U.S. Politics",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Checks on voter rolls prevent illegal voting and ensure election integrity.",
-      "perspective_two": "Such checks might discourage legal voters and could be used to suppress votes unfairly.",
+      "perspective_one": "Checks protect elections from fraud and keep votes fair.",
+      "perspective_two": "Such checks may block legal voters and suppress turnout unfairly.",
       "uncertain": ""
     },
     {
       "headline": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "summary": "A study shows a researcher sees over a 10% risk that AI might kill all humans. This latest warning points to rising fears about AI safety.",
-      "why_it_matters": "AI risks could have huge impacts on humanity's future.",
+      "summary": "A researcher warns AI may be very dangerous. They say there is over a 10% chance AI could harm all humans.",
+      "why_it_matters": "AI safety is critical for humanity's future.",
       "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC U.S.",
       "published": "Wed, 09 Sep 2026 15:34:09 GMT",
       "category": "U.S. News",
       "confidence": "Reported",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
-      "perspective_one": "AI needs strict safety rules to prevent dangerous outcomes for humanity.",
-      "perspective_two": "AI risks are overstated and harm progress and innovation.",
+      "perspective_one": "AI poses big risks that must be managed carefully to prevent harm.",
+      "perspective_two": "Such risks may be exaggerated; AI will mostly bring benefits with controls.",
       "uncertain": ""
     },
     {
       "headline": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "summary": "The US will stop importing some alcohol, dairy, and motorbikes from Canada. This is part of a trade war after Canada made its own tariffs on US goods.",
-      "why_it_matters": "Trade conflicts raise prices and hurt economies on both sides.",
+      "summary": "The U.S. plans to stop some Canadian imports. This follows Canada's tariffs on U.S. products in a trade fight.",
+      "why_it_matters": "Trade disputes impact prices and business on both sides.",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Wed, 09 Sep 2026 10:20:40 GMT",
       "category": "World News",
       "confidence": "Reported",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcae/live/5358e090-ac2f-11f1-b483-f5be285e6b7e.jpg",
-      "perspective_one": "Tariffs protect local industries and jobs from unfair competition.",
-      "perspective_two": "Tariffs hurt consumers and escalate harmful trade wars.",
+      "perspective_one": "Tariffs defend local jobs and balance unfair trade.",
+      "perspective_two": "Tariffs raise costs for consumers and hurt cooperation.",
       "uncertain": ""
     },
     {
       "headline": "Netanyahu rejects claim he was warned ahead of Oct. 7, as 2023 attack fuels pre-election furor - CBS News",
-      "summary": "Netanyahu denies he was warned before the Oct. 7 attack in 2023. The event stirs heated debate before elections in Israel.",
-      "why_it_matters": "Truth about warnings impacts public trust and election fairness.",
+      "summary": "Netanyahu denies claims he had warnings before Oct. 7 attack. The issue causes strong debate before elections.",
+      "why_it_matters": "Trust in leaders affects public opinion during elections.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFJFVHBmVEZIN3lFMV9NOEdGQTlUWWJudi1peEE3ZHZ5eGFQRGx5ZVVkbDRhM1dicTk2RTFqY2FLSFJKZU5OQU5OX1NJQXF6a3ZRa3dGdUN6YmFEQm1Ba3cxVkpJUEFPb0h0NEZiYU1zcDJHTjI3SDJoMmVScGJDMjRwRWdmQ2dNVWVoSzJpNmI5MVlYS2d3ajluSnl3VS1nczA0aE5rSQ?oc=5",
       "source": "Middle East Affairs",
       "published": "Wed, 09 Sep 2026 15:50:34 GMT",
       "category": "Middle East Affairs",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Netanyahu had no prior warning and acted in good faith.",
-      "perspective_two": "He ignored warnings and failed to prevent the attack.",
+      "perspective_one": "Netanyahu did not have clear warnings and acted responsibly.",
+      "perspective_two": "He ignored warnings and failed to protect citizens before the attack.",
       "uncertain": ""
     },
     {
       "headline": "HHS Announces Four Key FDA Leadership Selections Across CDER, CBER, CTP and AI - Oncodaily",
-      "summary": "HHS names four leaders for key FDA roles in drug and AI regulation. This aims to improve health safety and innovation oversight.",
-      "why_it_matters": "Leadership shapes health policies and tech safety in the US.",
+      "summary": "HHS picked four leaders for important FDA departments. These roles will shape health and medicine policies.",
+      "why_it_matters": "FDA leaders guide drug safety and new treatments for patients.",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JOUR3THN1Y0FLS1VnMjItYXpteGNza2lfSkpXV3dnSnNlemRqMGc1UlNVQUYtYzVrZElsNUp4VVd4YmRUT2JaazZrSFZZYWNxMk9TQzJjVQ?oc=5",
       "source": "Health & Medicine",
       "published": "Wed, 09 Sep 2026 14:27:36 GMT",
@@ -74,8 +74,8 @@
     },
     {
       "headline": "AI, Digital Sovereignty Critical To India's National Security, Experts Warn At KCSS 2026 - Business Standard",
-      "summary": "Experts at KCSS 2026 say AI and digital sovereignty are key for India\u2019s security. They urge strong tech control to protect the nation.",
-      "why_it_matters": "Tech control affects national safety and global power balance.",
+      "summary": "Experts say AI and digital control are key for India\u2019s security. They warn about risks without strong tech rules.",
+      "why_it_matters": "Tech control affects a nation\u2019s safety and independence.",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdGN5RFVwYXVxaHY5djlpT0tSRnBERnY3TjhxZmQ1LTRKRXZLMXo4V1NaRjBKUGRZMjBHNUlWdnJZc2pmU1FaMWJmM1lVSzVGOGg4NTNWeVJzY3ZTWG9NeXMxN1JVZy1PZldQdTBJcGtNV0g1VVZuUTlpLVAxbGFuLTUtbUxnU2tNclg4MWNmVnpadnFycWxGN2M1Z0pfd0lBSEs5TDgtQzFGQ0Yzd2UxbzlQbFQ2Zmt6QjRTeTRCQ2NEc2YzVGRTOHllZWFzbklUNVNvWkdfYmxmYUpIVDhRcnctT19tTi01Q3R5OEdnNnpwdzlWdl95ajVHNE4yY3Jq0gGAAkFVX3lxTE10Y3lEVXBhdXFodjl2OWlPS1JGcERGdjdOOHFmZDUtNEpFdksxejhXU1pGMEpQZFkyMEc1SVZ2cllzamZTUVoxYmYzWVVLNUY4aDg1M1Z5UnNjdlNYb015czE3UlVnLU9mV1B1MElwa01XSDVVVm5ROWktUDFsYW4tNS1tTGdTa01yWDgxY2ZWelp2cXJxbEY3YzVnSl93SUFISzlMOC1DMUZDRjN3ZTFvOVBsVDZma3pCNFN5NEJDY0RzZjNUZFM4eWVlYXNuSVQ1U29aR19ibGZhSkhUOFFydy1PX21OLTVDdHk4R2c2enB3OVZ2X3lqNUc0TjJjcmo?oc=5",
       "source": "AI & Technology",
       "published": "Wed, 09 Sep 2026 19:00:10 GMT",
@@ -87,23 +87,23 @@
       "uncertain": ""
     },
     {
-      "headline": "Trump\u2019s Midterm Pitch Clouded by Iran War and Canada Tariffs - The New York Times",
-      "summary": "Trump\u2019s message for midterms faces challenges from the Iran war and tariffs on Canada. These issues weigh down his campaign.",
-      "why_it_matters": "Foreign conflicts and trade fights shape election outcomes.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW5SZG5jQ3Z2STdOUDVUMXh1Vm9pWTNtM0gzTmE5eUNjMkxESklVUlpsejZ1WEtSTTBzcWE4YkZuck84RlBIelVWSnlQMHJQNHoxaTB6cS1YRkdvM1dOTmFMamkzME45UUdpQUk4MTUyTmFqWG1uZFF1eTc2WUdXbEtVSGp2Zw?oc=5",
+      "headline": "US-Canada tariffs are now in effect: Why autos and oil might be the bigger inflation risks - Chase Bank",
+      "summary": "Tariffs between the US and Canada start now. Autos and oil prices may rise and cause more inflation.",
+      "why_it_matters": "Rising costs affect consumers and the economy.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVlZNdVJGTE9Vd3hHc3F5RnlSSVRneDRicnE4TnBONFo0SlhzNmVVQnZuMHZXREZOdzNLTXFBZ2VtT2NZOWtjTERhLXVoeGdqaWpST0w5MTE1cXl3ZlA4YmNhT2lFYjdmZXJIMGRVR3BRQkEza2xWZ0RpR3pKdXlOaFB0S1NlR29PLUdtak53UkZUdUc2NHpwVHh0c1NMVDJISkY3bVVUMEN0Z1pYOEptd0pBMVdWZXhWUGF3LUFxekVESmRObnhTNC1n?oc=5",
       "source": "Business & Economy",
-      "published": "Wed, 09 Sep 2026 20:29:49 GMT",
+      "published": "Wed, 09 Sep 2026 19:39:40 GMT",
       "category": "Business & Economy",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Trump can handle these issues to boost economic and security strength.",
-      "perspective_two": "These problems hurt his chances and show poor leadership.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": ""
     },
     {
       "headline": "Mar 20, 2022; Atlanta, Georgia, USA; Atlanta Hawks forward Danilo Gallinari (8) controls the ball against the New Orleans Pelicans during the first half at State Farm Arena. Mandatory Credit: Dale Zanine-USA TODAY Sports - The Lufkin Daily News",
-      "summary": "Atlanta Hawks player Danilo Gallinari controlled the ball against the New Orleans Pelicans. The game was played in State Farm Arena in Atlanta.",
-      "why_it_matters": "Sports events bring fans together and highlight talent.",
+      "summary": "Danilo Gallinari plays basketball for the Atlanta Hawks. This photo shows him during a game against the Pelicans in 2022.",
+      "why_it_matters": "Sports moments engage fans and build community.",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNk5yWmhDQUZoMkNWTkVhcWhCc1BjdFNZV3hTRDh5Yy1CdXRfUWRqbkZSQXpVSzdySUpRckFHV0lfTzV6OTlIUUFSRDVOaFRlYllFQ1NvcHF5U2ZEYTNjcWhGdVo1bFdhdEhEdjUyWHRFQjVMTzQ2TXVqT3k1LW5lVWxQTFZvck91VHNTQ0lEQ3FEOGRXaHFjM190YlpyOFdxdDZzYlRGQjl1a2dYVW1HNjBXZkVwZXlrRmRlbDRuTnRMcEwyUVB1RzB2OXBVOW85UVNuem43d2x6RV9LVnFkazJ5MHNndmx0MUpBbjJDRjVTRmpWNjFWT1FTOHVFMlJ0VFlBSXhWV29scDVpMmRkemtXdDc1WUU?oc=5",
       "source": "Atlanta Sports",
       "published": "Wed, 09 Sep 2026 22:14:30 GMT",
@@ -115,9 +115,9 @@
       "uncertain": ""
     },
     {
-      "headline": "College Football Playoff odds: LSU joins the party, is now favored to make 12-team field - The New York Times",
-      "summary": "LSU is now favored to make the 12-team college football playoff. They join top teams aiming for the national championship.",
-      "why_it_matters": "Playoff chances affect team goals and fan excitement.",
+      "headline": "College Football Playoff odds: LSU joins the party, is now favored to make 12-team field - nytimes.com",
+      "summary": "LSU is now likely to join the 12-team College Football Playoff. They have a better chance than before to compete.",
+      "why_it_matters": "Playoff spots decide who wins championships and gains prizes.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVoxM1pxSW01MVpsZ2xlNVNYelduVWYzU29INVJDU0lVNTlONlNoWjc1NG9kNEc4T2lXNWIxWmxUdWZyVU5GMWpodFZvOGFSTXU4TU5nRDlQeG5JVU1qNFgweTlENTB3R1I3Y1VtLWVDTTZBdGhMUWlPQTU2dVRiRVdoT3QyLTBNc1BjS0E0Zw?oc=5",
       "source": "Major Sports",
       "published": "Wed, 09 Sep 2026 09:00:48 GMT",
@@ -129,37 +129,23 @@
       "uncertain": ""
     },
     {
-      "headline": "US-Canada tariffs are now in effect: Why autos and oil might be the bigger inflation risks - Chase Bank",
-      "summary": "US-Canada tariffs began and may raise prices on autos and oil. This could increase inflation more than other goods.",
-      "why_it_matters": "Tariffs can lead to higher costs for consumers and businesses.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVlZNdVJGTE9Vd3hHc3F5RnlSSVRneDRicnE4TnBONFo0SlhzNmVVQnZuMHZXREZOdzNLTXFBZ2VtT2NZOWtjTERhLXVoeGdqaWpST0w5MTE1cXl3ZlA4YmNhT2lFYjdmZXJIMGRVR3BRQkEza2xWZ0RpR3pKdXlOaFB0S1NlR29PLUdtak53UkZUdUc2NHpwVHh0c1NMVDJISkY3bVVUMEN0Z1pYOEptd0pBMVdWZXhWUGF3LUFxekVESmRObnhTNC1n?oc=5",
-      "source": "Business & Economy",
-      "published": "Wed, 09 Sep 2026 19:39:40 GMT",
-      "category": "Business & Economy",
-      "confidence": "Reported",
-      "image": "",
-      "perspective_one": "Tariffs protect local companies but risk raising inflation.",
-      "perspective_two": "Higher prices hurt consumers and slow economic growth.",
-      "uncertain": ""
-    },
-    {
-      "headline": "Elections dispute continues after Justice Kavanaugh turns down request from Missouri to use congressional map expected to aid Republicans - SCOTUSblog",
-      "summary": "Justice Kavanaugh denied Missouri\u2019s request to use a congressional map favoring Republicans. The election dispute remains unresolved.",
-      "why_it_matters": "Map decisions affect political representation and fairness.",
+      "headline": "Elections dispute continues after Justice Kavanaugh turns down request from Missouri to use congressional map expected to aid Republicans - scotusblog.com",
+      "summary": "Justice Kavanaugh rejects Missouri\u2019s plan to use a new voting map. The map might have helped Republicans win more seats.",
+      "why_it_matters": "Voting maps shape political power in elections.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVk51YU9sRkpHRmpRY25BRHk1UDF0YkxhbGtEd0VFZ1NGcWVQb0ZkMVRxZUJRTGhEU0J1Mi1yUmZnUmZYN1ZlREhSLUFpQlM5anloUHR2Qmc0dzN5eDJrcGlTdjYxbkNGamNwdDBSanB5aXJTTTdZVmdob1FqZUFCV1JQajdlcE83d0RJVFYwU05DT2ZSWFhQeXFBQi1UX3U4dDF5SkVydW1DUDRfa29LVThjQlZ0Qm5SRGtKQzF0SHpZMEVlSHpVWlF5Skk?oc=5",
       "source": "U.S. Politics",
       "published": "Wed, 09 Sep 2026 14:50:00 GMT",
       "category": "U.S. Politics",
       "confidence": "Reported",
       "image": "",
-      "perspective_one": "Kavanaugh\u2019s decision protects legal fairness in election maps.",
-      "perspective_two": "Denial harms Republican chances and voter choice.",
+      "perspective_one": "Strict court review protects fair and equal voting maps.",
+      "perspective_two": "Court blocks maps that better reflect new population data.",
       "uncertain": ""
     },
     {
       "headline": "MD Anderson's role in FDA approval of breakthrough drug for pancreatic cancer - The Business Journals",
-      "summary": "MD Anderson helped FDA approve a new drug for pancreatic cancer. This breakthrough can improve treatment for patients.",
-      "why_it_matters": "New drugs raise hope and extend lives for cancer patients.",
+      "summary": "MD Anderson helped approve a new drug to fight pancreatic cancer. This could improve care for many patients.",
+      "why_it_matters": "New drugs offer hope for tough-to-treat diseases.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTREZ2lRcDRZSUpNaGxNWFZRQkZqcXRDdmtaYUx3MEgzdG5XeTJhOVA2N2pVcmhZTFYta0gxX05MYVp2andKeGhocV9BZTJWdVpLN0htQVBmbTFIVTBxX1JLZXdJZlM5eTItbWZLdlMwWEZxeEdZajdPWEkwNS1CTWRYOW1KRlVtVWdkNGJ5LUZyUkhDVXNhRW5xSHJibmZ5aVM4?oc=5",
       "source": "Health & Medicine",
       "published": "Wed, 09 Sep 2026 09:00:00 GMT",
@@ -172,22 +158,22 @@
     },
     {
       "headline": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
-      "summary": "Voters plan backups like flying in person to vote as mail-in rules face legal fights. The fight concerns U.S. Postal Service changes linked to Trump.",
-      "why_it_matters": "Voting access impacts election fairness and turnout.",
+      "summary": "Voters and officials deal with uncertain mail-in voting rules. Legal fights about the US Postal Service affect plans for the midterms.",
+      "why_it_matters": "Clear voting rules help ensure fair elections.",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
       "source": "NPR U.S.",
       "published": "Wed, 09 Sep 2026 05:00:00 -0400",
       "category": "U.S. News",
       "confidence": "Reported",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x4160+0+0/resize/6240x4160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Ff6%2F3c5393fe46b1aea0146dfbb3563b%2Fgettyimages-1264164585.jpg",
-      "perspective_one": "",
-      "perspective_two": "",
+      "perspective_one": "Backup plans secure voting access despite mail delays and rules.",
+      "perspective_two": "Legal battles cause confusion and may reduce voter turnout.",
       "uncertain": ""
     },
     {
       "headline": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "summary": "Documents show Spain and Morocco knew of calls for mass migration to Ceuta a day before tens of thousands crossed. This shows early intelligence about the event.",
-      "why_it_matters": "Early warnings question how border events are handled.",
+      "summary": "Spain and Morocco knew about calls for a large migrant crossing to Ceuta. The warnings came one day before tens of thousands arrived.",
+      "why_it_matters": "Knowing migrant plans helps manage borders and safety.",
       "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "Wed, 09 Sep 2026 21:23:45 GMT",
@@ -199,13 +185,13 @@
       "uncertain": ""
     },
     {
-      "headline": "US-Israel-Iran War Latest Live News: Houthis Attack Khamis Mushait, Abha & Jizan in Saudi Arabia; Iran Denounces IAEA Resolution \u2018Political Tool\u2019 Trump Says War Will End Soon - The Sunday Guardian",
-      "summary": "Houthis attacked places in Saudi Arabia. Iran called a resolution a political tool. Trump said the war will end soon.",
-      "why_it_matters": "War events affect global peace and security.",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQV1M1cV9GaFZBQVdPSm1ENEt2alNQSkpUelFjRGFOeXYxS2RGYVFiOVk4OUZnZmZ0RUcwMllOaVR2bXNLem9rRFVBODNWRlBnZ2ZOWjdWQ3hEVTFYTnRDOEVzR2liLW45RVZSVTRCTllMWkFrZS1zSE1FeXJSODZTUkM1aDdnVjhjcWh2dG5HZ0h0akFMaWctY1IxNHpOYjJEbHRtSUhnUlctUWR3TXZ6THdiTENiakJ5MkdiSEtLckNPd3JMeXRMclp2UDdRZ1NMMExGM0F6dWl6VXQ5ZnE1bU1sRTZyNkctaWUwQ2FfQzhIbnNxV0R0YlRNemh1TjFhc1ptQW5zekVqZTktU0t4ZzRYNmNDRWdheWRmMmZNUmJzZVV3TkcyR3lKSDFLb0c3ZHJTamtnSdIBvAJBVV95cUxNNV9DdnNIWjlBLUxSQ0dEVmktWTV3ejJUV25QQVhZeEh5ZUFIWFo2OUZGVzBKQzFjTnZRUzl6WVJaREw1bnJiZmRHOF9sZ3lMUm9TRnhRWm9rNjZ5dnNGYUZ3d09KRTd2V3ZfNWF6NEZfZ3FPblJWdUJ1aWlVU2Y0YS1MbDlIZWRWT2g0aTNkUE5QMnJoamtPMlZEWUprWGJNMEFZelg4NFZ2NGVBWk85RDhfZjFfbnNYYU9lT3dJcjF4S2JzeVVGWl9Kb3R4U2Jub3EtT3JqZWxzdXNtRFd0OWI2WlRVR0FEWUI5U3pWNmZIOEhqbTVVYmt1VG5WWHFwa1A1VWR1QXk5b1l5WUhBbl82YUVsQVNUXzNnbDBMcTdkNjRrVXVTNEhLTFZvdXZTRm1CMTRFQmhUakJU?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Wed, 09 Sep 2026 19:23:00 GMT",
-      "category": "Middle East Affairs",
+      "headline": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - The Washington Post",
+      "summary": "Wall Street stocks fall as oil jumps above $100 a barrel. This follows rising tensions and war involving Iran.",
+      "why_it_matters": "Oil price spikes impact economies worldwide and risk instability.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEM5a0wzMEtkRFFVQlFWbFN5NG1tOUNvNzB0d29lQldkMkZiYmhnaHNpSURsdXZSQlJ2bno2SkxTa3dYdTZpVnhlQmZMNFdOS3AzY0VoMXk2VEdqNzlmaU42d1lYWVZLdXgxUlBQNHBrWlhUNnlyMU13RW9pSV9BMmlWSzZVWW5XVFZLRWc2bDJoV242a2ZXQmRlNHc0OGtpYnQzUW55Q3pTdHVzWkVNdXNqTkh2Nkl5QTd5MGgzVE8tTF8tUGtpNWVqczJyNnJOeWoxOThCWWIzSDQ?oc=5",
+      "source": "Business & Economy",
+      "published": "Wed, 09 Sep 2026 20:30:53 GMT",
+      "category": "Business & Economy",
       "confidence": "Reported",
       "image": "",
       "perspective_one": "",
@@ -213,9 +199,23 @@
       "uncertain": ""
     },
     {
+      "headline": "US-Israel-Iran War Latest Live News: Houthis Attack Khamis Mushait, Abha & Jizan in Saudi Arabia; Iran Denounces IAEA Resolution \u2018Political Tool\u2019 Trump Says War Will End Soon - The Sunday Guardian",
+      "summary": "Houthis attacked cities in Saudi Arabia amid the Iran war. Iran calls an IAEA resolution political. Trump says the war will end soon.",
+      "why_it_matters": "Conflict affects regional peace and global security.",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQV1M1cV9GaFZBQVdPSm1ENEt2alNQSkpUelFjRGFOeXYxS2RGYVFiOVk4OUZnZmZ0RUcwMllOaVR2bXNLem9rRFVBODNWRlBnZ2ZOWjdWQ3hEVTFYTnRDOEVzR2liLW45RVZSVTRCTllMWkFrZS1zSE1FeXJSODZTUkM1aDdnVjhjcWh2dG5HZ0h0akFMaWctY1IxNHpOYjJEbHRtSUhnUlctUWR3TXZ6THdiTENiakJ5MkdiSEtLckNPd3JMeXRMclp2UDdRZ1NMMExGM0F6dWl6VXQ5ZnE1bU1sRTZyNkctaWUwQ2FfQzhIbnNxV0R0YlRNemh1TjFhc1ptQW5zekVqZTktU0t4ZzRYNmNDRWdheWRmMmZNUmJzZVV3TkcyR3lKSDFLb0c3ZHJTamtnSdIBvAJBVV95cUxNNV9DdnNIWjlBLUxSQ0dEVmktWTV3ejJUV25QQVhZeEh5ZUFIWFo2OUZGVzBKQzFjTnZRUzl6WVJaREw1bnJiZmRHOF9sZ3lMUm9TRnhRWm9rNjZ5dnNGYUZ3d09KRTd2V3ZfNWF6NEZfZ3FPblJWdUJ1aWlVU2Y0YS1MbDlIZWRWT2g0aTNkUE5QMnJoamtPMlZEWUprWGJNMEFZelg4NFZ2NGVBWk85RDhfZjFfbnNYYU9lT3dJcjF4S2JzeVVGWl9Kb3R4U2Jub3EtT3JqZWxzdXNtRFd0OWI2WlRVR0FEWUI5U3pWNmZIOEhqbTVVYmt1VG5WWHFwa1A1VWR1QXk5b1l5WUhBbl82YUVsQVNUXzNnbDBMcTdkNjRrVXVTNEhLTFZvdXZTRm1CMTRFQmhUakJU?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Wed, 09 Sep 2026 19:23:00 GMT",
+      "category": "Middle East Affairs",
+      "confidence": "Reported",
+      "image": "",
+      "perspective_one": "The conflict is complex with many sides and needs peaceful resolution.",
+      "perspective_two": "The attacks escalate violence and threaten regional and world security.",
+      "uncertain": ""
+    },
+    {
       "headline": "Apple Introduces Dual iPhone Lineup in Subtle Evolution of Flagship Hardware - The Boca Raton Tribune",
-      "summary": "Apple released two new iPhone models. These updates offer subtle but important changes for users.",
-      "why_it_matters": "New hardware shapes consumer tech and market trends.",
+      "summary": "Apple released two new iPhone types with small changes. The update keeps its top-level design fresh.",
+      "why_it_matters": "New tech updates shape how people use devices daily.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGhaM2FoMDBrQktFSm5Xd1o4OXJjVkEyTXItSnV4YWo0T196dlcza0dTOHBIeTJUVkFUU2RpWXoxcGJORWNkbnBTQ2JyZHZiYWJOOWw0RzRUMEFRcTh4V2J1ZEtNQzRPOHVkNXViYWVvNlR3eXkxWTlDNUlFS2NfQkFBdndyQUZzMnlQTlBkMGE0TnNuYzJXQWRXdURDWU1rdlhTbzB3WV9yT0FCU3hzcTRJNkFWWkZIQ0xVMzBrcHY3YWF3azMwbHBrVGM?oc=5",
       "source": "AI & Technology",
       "published": "Wed, 09 Sep 2026 18:30:04 GMT",
@@ -236,16 +236,16 @@
         "summary": "With only weeks to go before the midterms, President Trump has asked the Supreme Court to allow his administration\u2019s plans to restrict voting by mail. Listen to \"The Daily.\" facebook.com"
       },
       {
-        "headline": "\u2018Nothing has changed\u2019: Pa. election chief says voting will continue as usual despite Trump mail ballot limitation efforts - whyy.org",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92VEdaZzNrREt3QU9sVW54cU1hTWNFek9vRmRVbVUtaHlGREUzTnVzdVlLQVY5aXlDbklLajk5N2VNcWpJQ1hqV2JXVlRJZHBqOG5UaWNzekZkNXF4TDRHWVMxYUVGRlVFakZPNFJ5UEpnMG9I?oc=5",
-        "source": "U.S. Politics",
-        "summary": "\u2018Nothing has changed\u2019: Pa. election chief says voting will continue as usual despite Trump mail ballot limitation efforts whyy.org"
+        "headline": "Trump once again urges Republicans to 'pretend I'm on the ballot' in midterm election",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
+        "source": "NPR Politics",
+        "summary": "Republicans have never held a midterm convention before. But there's also never been a president like Donald Trump. Billed as a \"Trumpapalooza,\" the unprecedented event kicks off in Dallas Wednesday."
       },
       {
-        "headline": "Fight Over Missouri House Map Returns to U.S. Supreme Court - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWdYZnJ1Szh2aWQ5THhKb3FhNV9fYkZ0SzlwYlVLcUExM2NuSGpDSTlUY3hKRzJXMVFzc1pTenJrLTV5WHVNUDZ4eE10b2htTmkyS2FBWHBpd2w1TTlvaVV5UG1TTHY0R0FnR19oZkl6a0FpT1g1V0pENDc1TFYwX0VTS21zVzVoSDVF?oc=5",
+        "headline": "\u2018Nothing has changed\u2019: Pa. election chief says voting will continue as usual despite Trump mail ballot limitation efforts - WHYY",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92VEdaZzNrREt3QU9sVW54cU1hTWNFek9vRmRVbVUtaHlGREUzTnVzdVlLQVY5aXlDbklLajk5N2VNcWpJQ1hqV2JXVlRJZHBqOG5UaWNzekZkNXF4TDRHWVMxYUVGRlVFakZPNFJ5UEpnMG9I?oc=5",
         "source": "U.S. Politics",
-        "summary": "Fight Over Missouri House Map Returns to U.S. Supreme Court The New York Times"
+        "summary": "\u2018Nothing has changed\u2019: Pa. election chief says voting will continue as usual despite Trump mail ballot limitation efforts WHYY"
       }
     ],
     "U.S. News": [
@@ -256,16 +256,16 @@
         "summary": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?"
       },
       {
-        "headline": "Citing the 'Deep State,' Trump overhauls the intelligence community",
-        "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
-        "source": "NPR U.S.",
-        "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then."
-      },
-      {
         "headline": "Ballot seizures seemed impossible. But judges and officials are prepping for them now",
         "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
         "source": "NPR U.S.",
         "summary": "The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials \u2014 and judges \u2014 are training for."
+      },
+      {
+        "headline": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+        "source": "NPR U.S.",
+        "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then."
       }
     ],
     "World News": [
@@ -337,25 +337,19 @@
         "summary": "Discussion, Approval of Curricula for Artificial Intelligence and Cybersecurity Programs at Lebanese University \u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623"
       },
       {
-        "headline": "AI Is Working Its Way Into Everything. Can School Districts Really Ban It? - Education Week",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXZubUM2UTBqakJiN09KSE5ETVpzMGxtbFdiUHVOT2U0eFVVeUlzb2E2MXN6ZHU0SEtaMzFiZlNuZk5Qak42NUlVMS1YYzlhRnpMUHVDdU5vS2JlVFFCb3JndTAwRlFVbDV3OWVfa0tSckphS0k4aUlmUjc1aGpuMndWaDB6eXZLS19Gb2plRjZncmpzRFRkY0x1XzVoN0FreEp0dEJBY1J4RUtHdC1lZ1I3LW8?oc=5",
+        "headline": "Suno launches v6 AI music models trained with licensed data from Warner and BMG - Tech Edition",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGE0djh2djJkTUxGRTNTQm56UzJVUl84ZnZZdy1xSUw4Ulp2UDFzZ1NsYXRSa25OQVdndGRlNnlVSHhocEpsTm10TmRMMEFDUktFa1loV3REazVTR1RfZENOLWx5MmpwOW1lR29neEZmRXNTcF9Zd3Qza1hFbVVESE9MckFva3BmYTFQamFPSTR1V3M3aXpIOXoyNWVNVDZ4Tk1xUHJ3?oc=5",
         "source": "AI & Technology",
-        "summary": "AI Is Working Its Way Into Everything. Can School Districts Really Ban It? Education Week"
+        "summary": "Suno launches v6 AI music models trained with licensed data from Warner and BMG Tech Edition"
       },
       {
-        "headline": "Apply Now: Digital Skills for Women+ Program (Canada) - fundsforNGOs",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYV9kU19UbzlMVi1DN0ZSeWZKd3E4eGFCVFRxV0pMXzhGQXRmX3RhbjJYNXc0bU9XcTJjY2FlbEJ2Tklha0tZb2ZOUDBQWnRkVzUzdk9qTlN3VFU2clp3S2YxNnNLeENSZGlPeGNvX1ZfOU45ZjhKWmhaMnhRN2pOc2tKRDN6MjNTb1drejViRGVkX2hMYWlV0gGcAUFVX3lxTE9WOGkyakpFdHJzWEZxcW1qYlV0dzk5elJIT0g2Um9BSnBRRUh2VEdRS1lBMm9FOUlJcm9xR1ozZ3FhRmpaMUs3TTZHSS1BQjk2cGpLdXoyeHhEVXgyNl9WRjJxejN3NktLNU44Mi1BQ2hyMGNwZ2l1SUc4NHhBaTEzT19tM25MTWpmNWRWOGk3U1JiQVc0REY4eGVUTg?oc=5",
+        "headline": "UNT receives $20M gift to launch named AI college - Diya TV",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3STBWTUJhOXhMYUpMWlVyZEJqb2FYSnNVcFJzZWY0dUhqd3NjakFxYzN5OWNBbWluZGpib3dxTzAwUFpfU1AtMjMxWG9DTlRKVm9qS0RJLU5VRDdIalh0Qkt4clhQVmY3ajJDUkl5UjlCdFhlckozc3V0QQ?oc=5",
         "source": "AI & Technology",
-        "summary": "Apply Now: Digital Skills for Women+ Program (Canada) fundsforNGOs"
+        "summary": "UNT receives $20M gift to launch named AI college Diya TV"
       }
     ],
     "Business & Economy": [
-      {
-        "headline": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEM5a0wzMEtkRFFVQlFWbFN5NG1tOUNvNzB0d29lQldkMkZiYmhnaHNpSURsdXZSQlJ2bno2SkxTa3dYdTZpVnhlQmZMNFdOS3AzY0VoMXk2VEdqNzlmaU42d1lYWVZLdXgxUlBQNHBrWlhUNnlyMU13RW9pSV9BMmlWSzZVWW5XVFZLRWc2bDJoV242a2ZXQmRlNHc0OGtpYnQzUW55Q3pTdHVzWkVNdXNqTkh2Nkl5QTd5MGgzVE8tTF8tUGtpNWVqczJyNnJOeWoxOThCWWIzSDQ?oc=5",
-        "source": "Business & Economy",
-        "summary": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates The Washington Post"
-      },
       {
         "headline": "Market calm masks risks as midterm elections approach - The Journal Record",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTm80Yk1HZ2tXZnBsTjlGazhmZnVXRTVLRzR0UmV4UXFtV2k3Ylk4dzF6enY2NzFwamJiZmJIazZrVVhsLWNUM21WWjlaM0pCb3hSRFJBZ1FWSXNEcmFzQXdRcFNKRmJUclZyRmY5ejZ4V2FHYnBQSTE4YVRNUWlObTF2Qm1PRlFRZVE?oc=5",
@@ -367,15 +361,21 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2FsQ1ZBOUZCOW5uS0VhREhwLWs0VzA4TXZ2YW1aOExTQldDS1Z6YXZ0TGZQUF93RHhzREUxOTFXNzRiOU1OdDlMb2xsb2g1MElRU19mX2VJbXhmZnRxUUpnME9YUG5MT2VXQUpBaFEzRmdaVjN4RFVoaEg0MHhIMm1LcjV0QTg?oc=5",
         "source": "Business & Economy",
         "summary": "Trump hired Kevin Warsh to lower interest rates. Will he raise them instead? The Week"
+      },
+      {
+        "headline": "Jobs opened the door for the Fed \u2014 inflation decides whether it walks through - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmJfeDl5aHN4SVc1WTlTd3Bqc3Z6RmpNcm5zdDh3YlpFdzZwd3dfQTNFLUZrMDI1dTRZX1BrRnVieU9HQUl1UThjbGxzNWJxLUNSTzN6bzJmSFNKWDRBNzRqbFdOVEl4elAtbGU5REh4aTRjUFZacGk4djMwaXVUa1lQT3NkaVpwdEtHWm9RQVJhLUxxWTcxdnhyMDRnVUdHOUZUbUlSUW0xTzNDdDlYU2Q3X3c3cE9ZeDgxWUJzWQ?oc=5",
+        "source": "Business & Economy",
+        "summary": "Jobs opened the door for the Fed \u2014 inflation decides whether it walks through FXStreet"
       }
     ],
     "Society & Culture": [],
     "Sports": [
       {
-        "headline": "Ranking the Atlanta Hawks Three Biggest Strengths Heading Into Next Season - Sports Illustrated",
+        "headline": "Ranking the Atlanta Hawks Three Biggest Strengths Heading Into Next Season - si.com",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZC1KX0NCTFpiRzMxTUJMTldxd0ZJQUZfVWdINk9zTHE4WWJmdlFNRWEzUHZBLTV1dHlVb3JzbWlsWTM5RXBuNTNRWTZXOVJITFE1WXNTNFdTUm1KRHl0UWVYWjVCNFFqVFd3UUxDcUxBSkNmNlVPRFZfdk0xSXlLekEtNTVXSDNsUzNyaXE0VHZfc09pNVJEZE5lSVJuSXBnX3pPWEl4aFhPWFdwU056c3BZTGhsM2l4MVpYYlFB?oc=5",
         "source": "Atlanta Sports",
-        "summary": "Ranking the Atlanta Hawks Three Biggest Strengths Heading Into Next Season Sports Illustrated"
+        "summary": "Ranking the Atlanta Hawks Three Biggest Strengths Heading Into Next Season si.com"
       },
       {
         "headline": "Atlanta Hawks 3x3 event offers free spectator admission and $2,000 prize - WSB-TV",
