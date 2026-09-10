@@ -22,9 +22,17 @@
     "Good News"
   ],
   "category_limits": {
-    "Business & Economy": 2,
+    "Business & Economy": 3,
     "Sports": 2,
-    "Good News": 1
+    "Good News": 1,
+    "U.S. Politics": 3,
+    "U.S. News": 3,
+    "World News": 4,
+    "Conflicts & Security": 3,
+    "Middle East Affairs": 3,
+    "Health & Medicine": 2,
+    "AI & Technology": 2,
+    "Society & Culture": 2
   },
   "feeds": [
     {
@@ -265,5 +273,21 @@
       "Al Jazeera"
     ],
     "notes": "Israeli, Gulf/Arab, international-wire, society, general, and sports source expansion."
+  },
+  "default_category_target": 1,
+  "max_featured_per_team": 1,
+  "max_featured_per_source": 2,
+  "category_targets": {
+    "U.S. Politics": 1,
+    "U.S. News": 1,
+    "World News": 2,
+    "Conflicts & Security": 1,
+    "Middle East Affairs": 1,
+    "Health & Medicine": 1,
+    "AI & Technology": 1,
+    "Business & Economy": 2,
+    "Society & Culture": 1,
+    "Sports": 2,
+    "Good News": 1
   }
 }
