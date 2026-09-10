@@ -1,5 +1,4 @@
 name: Generate dated news brief
-
 on:
   workflow_dispatch:
     inputs:
@@ -7,29 +6,23 @@ on:
         description: AM or PM
         required: true
         default: AM
-
   schedule:
-    - cron: '5 10 * * *'
-    - cron: '5 11 * * *'
-    - cron: '5 20 * * *'
-    - cron: '5 21 * * *'
-
+    - cron: '50 9 * * *'
+    - cron: '50 10 * * *'
+    - cron: '1 20 * * *'
+    - cron: '1 21 * * *'
 permissions:
   contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
       - run: pip install -r requirements.txt
-
       - name: Determine edition
         id: gate
         shell: python
@@ -37,34 +30,20 @@ jobs:
           import os
           from datetime import datetime
           from zoneinfo import ZoneInfo
-
-          event = '${{ github.event_name }}'
-          manual = '${{ inputs.edition }}'
-          now = datetime.now(ZoneInfo('America/New_York'))
-
-          edition = (
-              manual
-              if event == 'workflow_dispatch'
-              else ('AM' if now.hour == 6 else 'PM' if now.hour == 16 else '')
-          )
-
-          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+          event='${{ github.event_name }}'
+          manual='${{ inputs.edition }}'
+          now=datetime.now(ZoneInfo('America/New_York'))
+          edition=manual if event=='workflow_dispatch' else ('AM' if now.hour==5 and now.minute>=45 else 'PM' if now.hour==16 and now.minute<10 else '')
+          with open(os.environ['GITHUB_OUTPUT'],'a') as f:
               f.write(f"edition={edition}\n")
               f.write(f"run={'true' if edition else 'false'}\n")
-
       - name: Generate briefing
         if: steps.gate.outputs.run == 'true'
         env:
           BRIEF_EDITION: ${{ steps.gate.outputs.edition }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          NEWSLETTER_FROM_EMAIL: ${{ secrets.NEWSLETTER_FROM_EMAIL }}
-          NEWSLETTER_BASE_URL: https://balancedbrief.streamlit.app/
         run: python generate_brief.py
-
       - name: Commit dated archive
         if: steps.gate.outputs.run == 'true'
         run: |
