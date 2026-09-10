@@ -1,0 +1,426 @@
+{
+  "checked_at": "2026-09-10T14:08:44.310932-04:00",
+  "latest_briefing": "2026-09-10_AM.json",
+  "categories": {
+    "U.S. Politics": {
+      "feeds": 3,
+      "reachable": 3,
+      "entries": 47,
+      "fresh": 46,
+      "feed_errors": [],
+      "selected": 3,
+      "more_links": 3,
+      "diagnosis": "OK"
+    },
+    "U.S. News": {
+      "feeds": 4,
+      "reachable": 4,
+      "entries": 73,
+      "fresh": 61,
+      "feed_errors": [],
+      "selected": 3,
+      "more_links": 3,
+      "diagnosis": "OK"
+    },
+    "World News": {
+      "feeds": 3,
+      "reachable": 3,
+      "entries": 41,
+      "fresh": 37,
+      "feed_errors": [],
+      "selected": 4,
+      "more_links": 3,
+      "diagnosis": "OK"
+    },
+    "Conflicts & Security": {
+      "feeds": 1,
+      "reachable": 1,
+      "entries": 0,
+      "fresh": 0,
+      "feed_errors": [],
+      "selected": 0,
+      "more_links": 0,
+      "diagnosis": "SOURCE/FRESHNESS: reachable feeds returned no fresh entries"
+    },
+    "Middle East Affairs": {
+      "feeds": 5,
+      "reachable": 4,
+      "entries": 101,
+      "fresh": 88,
+      "feed_errors": [
+        "Times of Israel: 403 Client Error: Forbidden for url: https://www.timesofisrael.com/israel-and-the-region/feed/"
+      ],
+      "selected": 3,
+      "more_links": 3,
+      "diagnosis": "OK"
+    },
+    "Health & Medicine": {
+      "feeds": 2,
+      "reachable": 1,
+      "entries": 30,
+      "fresh": 30,
+      "feed_errors": [
+        "U.S. News Health: HTTPSConnectionPool(host='www.usnews.com', port=443): Read timed out. (read timeout=15)"
+      ],
+      "selected": 2,
+      "more_links": 3,
+      "diagnosis": "OK"
+    },
+    "AI & Technology": {
+      "feeds": 1,
+      "reachable": 1,
+      "entries": 30,
+      "fresh": 30,
+      "feed_errors": [],
+      "selected": 2,
+      "more_links": 3,
+      "diagnosis": "OK"
+    },
+    "Business & Economy": {
+      "feeds": 1,
+      "reachable": 1,
+      "entries": 30,
+      "fresh": 30,
+      "feed_errors": [],
+      "selected": 2,
+      "more_links": 3,
+      "diagnosis": "OK"
+    },
+    "Society & Culture": {
+      "feeds": 4,
+      "reachable": 4,
+      "entries": 5,
+      "fresh": 4,
+      "feed_errors": [],
+      "selected": 2,
+      "more_links": 2,
+      "diagnosis": "OK"
+    },
+    "Sports": {
+      "feeds": 11,
+      "reachable": 11,
+      "entries": 265,
+      "fresh": 213,
+      "feed_errors": [],
+      "selected": 2,
+      "more_links": 3,
+      "diagnosis": "OK"
+    },
+    "Good News": {
+      "feeds": 3,
+      "reachable": 3,
+      "entries": 0,
+      "fresh": 0,
+      "feed_errors": [],
+      "selected": 0,
+      "more_links": 0,
+      "diagnosis": "SOURCE/FRESHNESS: reachable feeds returned no fresh entries"
+    }
+  },
+  "feeds": [
+    {
+      "name": "NPR Politics",
+      "category": "U.S. Politics",
+      "status": 200,
+      "entries": 10,
+      "fresh": 10,
+      "error": ""
+    },
+    {
+      "name": "U.S. Politics",
+      "category": "U.S. Politics",
+      "status": 200,
+      "entries": 27,
+      "fresh": 27,
+      "error": ""
+    },
+    {
+      "name": "BBC U.S.",
+      "category": "U.S. News",
+      "status": 200,
+      "entries": 23,
+      "fresh": 19,
+      "error": ""
+    },
+    {
+      "name": "NPR U.S.",
+      "category": "U.S. News",
+      "status": 200,
+      "entries": 10,
+      "fresh": 10,
+      "error": ""
+    },
+    {
+      "name": "BBC World",
+      "category": "World News",
+      "status": 200,
+      "entries": 23,
+      "fresh": 23,
+      "error": ""
+    },
+    {
+      "name": "NPR World",
+      "category": "World News",
+      "status": 200,
+      "entries": 10,
+      "fresh": 8,
+      "error": ""
+    },
+    {
+      "name": "Conflicts & Security",
+      "category": "Conflicts & Security",
+      "status": 200,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    },
+    {
+      "name": "Middle East Affairs",
+      "category": "Middle East Affairs",
+      "status": 200,
+      "entries": 30,
+      "fresh": 23,
+      "error": ""
+    },
+    {
+      "name": "Health & Medicine",
+      "category": "Health & Medicine",
+      "status": 200,
+      "entries": 30,
+      "fresh": 30,
+      "error": ""
+    },
+    {
+      "name": "AI & Technology",
+      "category": "AI & Technology",
+      "status": 200,
+      "entries": 30,
+      "fresh": 30,
+      "error": ""
+    },
+    {
+      "name": "Business & Economy",
+      "category": "Business & Economy",
+      "status": 200,
+      "entries": 30,
+      "fresh": 30,
+      "error": ""
+    },
+    {
+      "name": "Society & Culture",
+      "category": "Society & Culture",
+      "status": 200,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    },
+    {
+      "name": "Major Sports",
+      "category": "Sports",
+      "status": 200,
+      "entries": 30,
+      "fresh": 25,
+      "error": ""
+    },
+    {
+      "name": "Atlanta Sports",
+      "category": "Sports",
+      "status": 200,
+      "entries": 30,
+      "fresh": 26,
+      "error": ""
+    },
+    {
+      "name": "College Sports",
+      "category": "Sports",
+      "status": 200,
+      "entries": 25,
+      "fresh": 17,
+      "error": ""
+    },
+    {
+      "name": "Good News",
+      "category": "Good News",
+      "status": 200,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    },
+    {
+      "name": "Associated Press U.S.",
+      "category": "U.S. News",
+      "status": 200,
+      "entries": 10,
+      "fresh": 6,
+      "error": ""
+    },
+    {
+      "name": "Associated Press World",
+      "category": "World News",
+      "status": 200,
+      "entries": 8,
+      "fresh": 6,
+      "error": ""
+    },
+    {
+      "name": "USA Today U.S.",
+      "category": "U.S. News",
+      "status": 200,
+      "entries": 30,
+      "fresh": 26,
+      "error": ""
+    },
+    {
+      "name": "USA Today Politics",
+      "category": "U.S. Politics",
+      "status": 200,
+      "entries": 10,
+      "fresh": 9,
+      "error": ""
+    },
+    {
+      "name": "PBS NewsHour Society",
+      "category": "Society & Culture",
+      "status": 200,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    },
+    {
+      "name": "USA Today Society",
+      "category": "Society & Culture",
+      "status": 200,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    },
+    {
+      "name": "U.S. News Society",
+      "category": "Society & Culture",
+      "status": 200,
+      "entries": 5,
+      "fresh": 4,
+      "error": ""
+    },
+    {
+      "name": "U.S. News Health",
+      "category": "Health & Medicine",
+      "status": "error",
+      "entries": 0,
+      "fresh": 0,
+      "error": "HTTPSConnectionPool(host='www.usnews.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "name": "Times of Israel",
+      "category": "Middle East Affairs",
+      "status": "error",
+      "entries": 0,
+      "fresh": 0,
+      "error": "403 Client Error: Forbidden for url: https://www.timesofisrael.com/israel-and-the-region/feed/"
+    },
+    {
+      "name": "The National Middle East",
+      "category": "Middle East Affairs",
+      "status": 200,
+      "entries": 11,
+      "fresh": 11,
+      "error": ""
+    },
+    {
+      "name": "Arab News Middle East",
+      "category": "Middle East Affairs",
+      "status": 200,
+      "entries": 30,
+      "fresh": 28,
+      "error": ""
+    },
+    {
+      "name": "Reuters Middle East",
+      "category": "Middle East Affairs",
+      "status": 200,
+      "entries": 30,
+      "fresh": 26,
+      "error": ""
+    },
+    {
+      "name": "ESPN NFL",
+      "category": "Sports",
+      "status": 202,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    },
+    {
+      "name": "ESPN MLB",
+      "category": "Sports",
+      "status": 202,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    },
+    {
+      "name": "CBS Sports NFL",
+      "category": "Sports",
+      "status": 200,
+      "entries": 30,
+      "fresh": 23,
+      "error": ""
+    },
+    {
+      "name": "CBS Sports MLB",
+      "category": "Sports",
+      "status": 200,
+      "entries": 30,
+      "fresh": 19,
+      "error": ""
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "category": "Sports",
+      "status": 200,
+      "entries": 30,
+      "fresh": 22,
+      "error": ""
+    },
+    {
+      "name": "Yahoo Sports MLB",
+      "category": "Sports",
+      "status": 200,
+      "entries": 30,
+      "fresh": 29,
+      "error": ""
+    },
+    {
+      "name": "NFL Opening Week",
+      "category": "Sports",
+      "status": 200,
+      "entries": 30,
+      "fresh": 29,
+      "error": ""
+    },
+    {
+      "name": "Braves Playoff Race",
+      "category": "Sports",
+      "status": 200,
+      "entries": 30,
+      "fresh": 23,
+      "error": ""
+    },
+    {
+      "name": "Associated Press Good News",
+      "category": "Good News",
+      "status": 200,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    },
+    {
+      "name": "USA Today Good News",
+      "category": "Good News",
+      "status": 200,
+      "entries": 0,
+      "fresh": 0,
+      "error": ""
+    }
+  ]
+}
