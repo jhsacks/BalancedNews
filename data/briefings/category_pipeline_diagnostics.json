@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-09-10T14:08:44.310932-04:00",
-  "latest_briefing": "2026-09-10_AM.json",
+  "checked_at": "2026-09-11T12:02:54.249330-04:00",
+  "latest_briefing": "2026-09-11_AM.json",
   "categories": {
     "U.S. Politics": {
       "feeds": 3,
       "reachable": 3,
-      "entries": 47,
-      "fresh": 46,
+      "entries": 57,
+      "fresh": 54,
       "feed_errors": [],
       "selected": 3,
       "more_links": 3,
@@ -15,8 +15,8 @@
     "U.S. News": {
       "feeds": 4,
       "reachable": 4,
-      "entries": 73,
-      "fresh": 61,
+      "entries": 78,
+      "fresh": 65,
       "feed_errors": [],
       "selected": 3,
       "more_links": 3,
@@ -25,8 +25,8 @@
     "World News": {
       "feeds": 3,
       "reachable": 3,
-      "entries": 41,
-      "fresh": 37,
+      "entries": 49,
+      "fresh": 43,
       "feed_errors": [],
       "selected": 4,
       "more_links": 3,
@@ -35,18 +35,18 @@
     "Conflicts & Security": {
       "feeds": 1,
       "reachable": 1,
-      "entries": 0,
-      "fresh": 0,
+      "entries": 2,
+      "fresh": 2,
       "feed_errors": [],
-      "selected": 0,
+      "selected": 1,
       "more_links": 0,
-      "diagnosis": "SOURCE/FRESHNESS: reachable feeds returned no fresh entries"
+      "diagnosis": "OK"
     },
     "Middle East Affairs": {
       "feeds": 5,
       "reachable": 4,
-      "entries": 101,
-      "fresh": 88,
+      "entries": 99,
+      "fresh": 85,
       "feed_errors": [
         "Times of Israel: 403 Client Error: Forbidden for url: https://www.timesofisrael.com/israel-and-the-region/feed/"
       ],
@@ -90,17 +90,17 @@
       "feeds": 4,
       "reachable": 4,
       "entries": 5,
-      "fresh": 4,
+      "fresh": 1,
       "feed_errors": [],
       "selected": 2,
-      "more_links": 2,
+      "more_links": 1,
       "diagnosis": "OK"
     },
     "Sports": {
       "feeds": 11,
       "reachable": 11,
-      "entries": 265,
-      "fresh": 213,
+      "entries": 270,
+      "fresh": 192,
       "feed_errors": [],
       "selected": 2,
       "more_links": 3,
@@ -130,15 +130,15 @@
       "name": "U.S. Politics",
       "category": "U.S. Politics",
       "status": 200,
-      "entries": 27,
-      "fresh": 27,
+      "entries": 30,
+      "fresh": 30,
       "error": ""
     },
     {
       "name": "BBC U.S.",
       "category": "U.S. News",
       "status": 200,
-      "entries": 23,
+      "entries": 26,
       "fresh": 19,
       "error": ""
     },
@@ -154,8 +154,8 @@
       "name": "BBC World",
       "category": "World News",
       "status": 200,
-      "entries": 23,
-      "fresh": 23,
+      "entries": 25,
+      "fresh": 24,
       "error": ""
     },
     {
@@ -163,15 +163,15 @@
       "category": "World News",
       "status": 200,
       "entries": 10,
-      "fresh": 8,
+      "fresh": 7,
       "error": ""
     },
     {
       "name": "Conflicts & Security",
       "category": "Conflicts & Security",
       "status": 200,
-      "entries": 0,
-      "fresh": 0,
+      "entries": 2,
+      "fresh": 2,
       "error": ""
     },
     {
@@ -179,7 +179,7 @@
       "category": "Middle East Affairs",
       "status": 200,
       "entries": 30,
-      "fresh": 23,
+      "fresh": 27,
       "error": ""
     },
     {
@@ -219,7 +219,7 @@
       "category": "Sports",
       "status": 200,
       "entries": 30,
-      "fresh": 25,
+      "fresh": 27,
       "error": ""
     },
     {
@@ -227,15 +227,15 @@
       "category": "Sports",
       "status": 200,
       "entries": 30,
-      "fresh": 26,
+      "fresh": 20,
       "error": ""
     },
     {
       "name": "College Sports",
       "category": "Sports",
       "status": 200,
-      "entries": 25,
-      "fresh": 17,
+      "entries": 30,
+      "fresh": 21,
       "error": ""
     },
     {
@@ -250,16 +250,16 @@
       "name": "Associated Press U.S.",
       "category": "U.S. News",
       "status": 200,
-      "entries": 10,
-      "fresh": 6,
+      "entries": 12,
+      "fresh": 9,
       "error": ""
     },
     {
       "name": "Associated Press World",
       "category": "World News",
       "status": 200,
-      "entries": 8,
-      "fresh": 6,
+      "entries": 14,
+      "fresh": 12,
       "error": ""
     },
     {
@@ -267,15 +267,15 @@
       "category": "U.S. News",
       "status": 200,
       "entries": 30,
-      "fresh": 26,
+      "fresh": 27,
       "error": ""
     },
     {
       "name": "USA Today Politics",
       "category": "U.S. Politics",
       "status": 200,
-      "entries": 10,
-      "fresh": 9,
+      "entries": 17,
+      "fresh": 14,
       "error": ""
     },
     {
@@ -299,7 +299,7 @@
       "category": "Society & Culture",
       "status": 200,
       "entries": 5,
-      "fresh": 4,
+      "fresh": 1,
       "error": ""
     },
     {
@@ -322,8 +322,8 @@
       "name": "The National Middle East",
       "category": "Middle East Affairs",
       "status": 200,
-      "entries": 11,
-      "fresh": 11,
+      "entries": 9,
+      "fresh": 7,
       "error": ""
     },
     {
@@ -331,7 +331,7 @@
       "category": "Middle East Affairs",
       "status": 200,
       "entries": 30,
-      "fresh": 28,
+      "fresh": 26,
       "error": ""
     },
     {
@@ -339,7 +339,7 @@
       "category": "Middle East Affairs",
       "status": 200,
       "entries": 30,
-      "fresh": 26,
+      "fresh": 25,
       "error": ""
     },
     {
@@ -363,7 +363,7 @@
       "category": "Sports",
       "status": 200,
       "entries": 30,
-      "fresh": 23,
+      "fresh": 13,
       "error": ""
     },
     {
@@ -371,7 +371,7 @@
       "category": "Sports",
       "status": 200,
       "entries": 30,
-      "fresh": 19,
+      "fresh": 17,
       "error": ""
     },
     {
@@ -379,7 +379,7 @@
       "category": "Sports",
       "status": 200,
       "entries": 30,
-      "fresh": 22,
+      "fresh": 23,
       "error": ""
     },
     {
@@ -395,7 +395,7 @@
       "category": "Sports",
       "status": 200,
       "entries": 30,
-      "fresh": 29,
+      "fresh": 19,
       "error": ""
     },
     {
