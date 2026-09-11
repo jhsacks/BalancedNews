@@ -8,6 +8,7 @@
   "more_links_per_category": 3,
   "max_article_age_days": 14,
   "good_news_history_days": 14,
+  "good_news_lookback_days": 7,
   "category_order": [
     "U.S. Politics",
     "U.S. News",
@@ -35,196 +36,46 @@
     "Society & Culture": 2
   },
   "feeds": [
-    {
-      "name": "NPR Politics",
-      "url": "https://feeds.npr.org/1014/rss.xml",
-      "category": "U.S. Politics"
-    },
-    {
-      "name": "U.S. Politics",
-      "url": "https://news.google.com/rss/search?q=White+House+Congress+Supreme+Court+election+policy+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "category": "U.S. Politics"
-    },
-    {
-      "name": "BBC U.S.",
-      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "category": "U.S. News"
-    },
-    {
-      "name": "NPR U.S.",
-      "url": "https://feeds.npr.org/1003/rss.xml",
-      "category": "U.S. News"
-    },
-    {
-      "name": "BBC World",
-      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "World News"
-    },
-    {
-      "name": "NPR World",
-      "url": "https://feeds.npr.org/1004/rss.xml",
-      "category": "World News"
-    },
-    {
-      "name": "Conflicts & Security",
-      "url": "https://news.google.com/rss/search?q=war+ceasefire+defense+terrorism+security+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Conflicts & Security"
-    },
-    {
-      "name": "Middle East Affairs",
-      "url": "https://news.google.com/rss/search?q=(Israel+OR+Palestinian+OR+Gaza+OR+West+Bank+OR+Iran+OR+Lebanon+OR+Syria+OR+Saudi+Arabia+OR+UAE)+(election+OR+treaty+OR+diplomacy+OR+government+OR+economy+OR+ceasefire)+when:2d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Middle East Affairs"
-    },
-    {
-      "name": "Health & Medicine",
-      "url": "https://news.google.com/rss/search?q=health+medicine+FDA+clinical+trial+public+health+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Health & Medicine"
-    },
-    {
-      "name": "AI & Technology",
-      "url": "https://news.google.com/rss/search?q=artificial+intelligence+cybersecurity+technology+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "category": "AI & Technology"
-    },
-    {
-      "name": "Business & Economy",
-      "url": "https://news.google.com/rss/search?q=US+economy+jobs+inflation+Federal+Reserve+business+when:1d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Business & Economy"
-    },
-    {
-      "name": "Society & Culture",
-      "url": "https://news.google.com/rss/search?q=education+housing+demographics+workplace+social+trends+when:2d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Society & Culture"
-    },
-    {
-      "name": "Major Sports",
-      "url": "https://news.google.com/rss/search?q=NFL+MLB+NBA+NHL+college+football+major+sports+when:2d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Sports"
-    },
-    {
-      "name": "Atlanta Sports",
-      "url": "https://news.google.com/rss/search?q=(Atlanta+Braves+OR+Atlanta+Falcons+OR+Atlanta+United+OR+Atlanta+Hawks)+when:2d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Sports"
-    },
-    {
-      "name": "College Sports",
-      "url": "https://news.google.com/rss/search?q=(Georgia+Bulldogs+OR+Indiana+Hoosiers+OR+Wisconsin+Badgers)+when:2d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Sports"
-    },
-    {
-      "name": "Good News",
-      "url": "https://news.google.com/rss/search?q=breakthrough+rescue+cooperation+humanitarian+community+conservation+recovery+success+when:4d&hl=en-US&gl=US&ceid=US:en",
-      "category": "Good News"
-    },
-    {
-      "name": "Associated Press U.S.",
-      "url": "https://news.google.com/rss/search?q=source%3AAP+US+politics+national+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "U.S. News"
-    },
-    {
-      "name": "Associated Press World",
-      "url": "https://news.google.com/rss/search?q=source%3AAP+world+international+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "World News"
-    },
-    {
-      "name": "USA Today U.S.",
-      "url": "https://news.google.com/rss/search?q=source%3AUSA+Today+US+national+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "U.S. News"
-    },
-    {
-      "name": "USA Today Politics",
-      "url": "https://news.google.com/rss/search?q=source%3AUSA+Today+politics+Congress+White+House+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "U.S. Politics"
-    },
-    {
-      "name": "PBS NewsHour Society",
-      "url": "https://news.google.com/rss/search?q=source%3APBS+NewsHour+education+housing+workforce+society+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Society & Culture"
-    },
-    {
-      "name": "USA Today Society",
-      "url": "https://news.google.com/rss/search?q=source%3AUSA+Today+education+parenting+housing+workplace+society+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Society & Culture"
-    },
-    {
-      "name": "U.S. News Society",
-      "url": "https://news.google.com/rss/search?q=source%3AUS+News+education+health+workforce+society+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Society & Culture"
-    },
-    {
-      "name": "U.S. News Health",
-      "url": "https://www.usnews.com/rss/health",
-      "category": "Health & Medicine"
-    },
-    {
-      "name": "Times of Israel",
-      "url": "https://www.timesofisrael.com/israel-and-the-region/feed/",
-      "category": "Middle East Affairs"
-    },
-    {
-      "name": "The National Middle East",
-      "url": "https://news.google.com/rss/search?q=source%3AThe+National+Middle+East+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Middle East Affairs"
-    },
-    {
-      "name": "Arab News Middle East",
-      "url": "https://news.google.com/rss/search?q=source%3AArab+News+Middle+East+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Middle East Affairs"
-    },
-    {
-      "name": "Reuters Middle East",
-      "url": "https://news.google.com/rss/search?q=source%3AReuters+Middle+East+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Middle East Affairs"
-    },
-    {
-      "name": "ESPN NFL",
-      "url": "https://www.espn.com/espn/rss/nfl/news",
-      "category": "Sports"
-    },
-    {
-      "name": "ESPN MLB",
-      "url": "https://www.espn.com/espn/rss/mlb/news",
-      "category": "Sports"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "url": "https://news.google.com/rss/search?q=source%3ACBS+Sports+NFL+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Sports"
-    },
-    {
-      "name": "CBS Sports MLB",
-      "url": "https://news.google.com/rss/search?q=source%3ACBS+Sports+MLB+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Sports"
-    },
-    {
-      "name": "Yahoo Sports NFL",
-      "url": "https://news.google.com/rss/search?q=source%3AYahoo+Sports+NFL+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Sports"
-    },
-    {
-      "name": "Yahoo Sports MLB",
-      "url": "https://news.google.com/rss/search?q=source%3AYahoo+Sports+MLB+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Sports"
-    },
-    {
-      "name": "NFL Opening Week",
-      "url": "https://news.google.com/rss/search?q=NFL+opening+week+kickoff+scores+injuries+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Sports"
-    },
-    {
-      "name": "Braves Playoff Race",
-      "url": "https://news.google.com/rss/search?q=Atlanta+Braves+playoff+race+wild+card+standings+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Sports"
-    },
-    {
-      "name": "Associated Press Good News",
-      "url": "https://news.google.com/rss/search?q=source%3AAP+rescue+recovery+breakthrough+community+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Good News"
-    },
-    {
-      "name": "USA Today Good News",
-      "url": "https://news.google.com/rss/search?q=source%3AUSA+Today+rescue+community+breakthrough+success+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-      "category": "Good News"
-    }
+    {"name":"NPR Politics","url":"https://feeds.npr.org/1014/rss.xml","category":"U.S. Politics"},
+    {"name":"U.S. Politics","url":"https://news.google.com/rss/search?q=White+House+Congress+Supreme+Court+election+policy+when:1d&hl=en-US&gl=US&ceid=US:en","category":"U.S. Politics"},
+    {"name":"BBC U.S.","url":"https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml","category":"U.S. News"},
+    {"name":"NPR U.S.","url":"https://feeds.npr.org/1003/rss.xml","category":"U.S. News"},
+    {"name":"BBC World","url":"https://feeds.bbci.co.uk/news/world/rss.xml","category":"World News"},
+    {"name":"NPR World","url":"https://feeds.npr.org/1004/rss.xml","category":"World News"},
+    {"name":"Conflicts & Security","url":"https://news.google.com/rss/search?q=war+ceasefire+defense+terrorism+security+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Conflicts & Security"},
+    {"name":"Middle East Affairs","url":"https://news.google.com/rss/search?q=(Israel+OR+Palestinian+OR+Gaza+OR+West+Bank+OR+Iran+OR+Lebanon+OR+Syria+OR+Saudi+Arabia+OR+UAE)+(election+OR+treaty+OR+diplomacy+OR+government+OR+economy+OR+ceasefire)+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Middle East Affairs"},
+    {"name":"Health & Medicine","url":"https://news.google.com/rss/search?q=health+medicine+FDA+clinical+trial+public+health+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Health & Medicine"},
+    {"name":"STAT Health & Medicine","url":"https://www.statnews.com/feed/","category":"Health & Medicine"},
+    {"name":"STAT Health Tech","url":"https://news.google.com/rss/search?q=source%3ASTAT+health+technology+AI+medicine+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen","category":"Health & Medicine"},
+    {"name":"AI & Technology","url":"https://news.google.com/rss/search?q=artificial+intelligence+cybersecurity+technology+when:1d&hl=en-US&gl=US&ceid=US:en","category":"AI & Technology"},
+    {"name":"Business & Economy","url":"https://news.google.com/rss/search?q=US+economy+jobs+inflation+Federal+Reserve+business+when:1d&hl=en-US&gl=US&ceid=US:en","category":"Business & Economy"},
+    {"name":"Society & Culture","url":"https://news.google.com/rss/search?q=education+housing+demographics+workplace+social+trends+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Society & Culture"},
+    {"name":"Major Sports","url":"https://news.google.com/rss/search?q=NFL+MLB+NBA+NHL+college+football+major+sports+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
+    {"name":"Atlanta Sports","url":"https://news.google.com/rss/search?q=(Atlanta+Braves+OR+Atlanta+Falcons+OR+Atlanta+United+OR+Atlanta+Hawks)+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
+    {"name":"College Sports","url":"https://news.google.com/rss/search?q=(Georgia+Bulldogs+OR+Indiana+Hoosiers+OR+Wisconsin+Badgers)+when:2d&hl=en-US&gl=US&ceid=US:en","category":"Sports"},
+    {"name":"Good News Network","url":"https://www.goodnewsnetwork.org/feed/","category":"Good News"},
+    {"name":"Good News Network Health","url":"https://www.goodnewsnetwork.org/category/news/health/feed/","category":"Good News"},
+    {"name":"Good News Network Science","url":"https://www.goodnewsnetwork.org/category/news/science/feed/","category":"Good News"},
+    {"name":"Associated Press U.S.","url":"https://news.google.com/rss/search?q=source%3AAP+US+politics+national+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"U.S. News"},
+    {"name":"Associated Press World","url":"https://news.google.com/rss/search?q=source%3AAP+world+international+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"World News"},
+    {"name":"USA Today U.S.","url":"https://news.google.com/rss/search?q=source%3AUSA+Today+US+national+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"U.S. News"},
+    {"name":"USA Today Politics","url":"https://news.google.com/rss/search?q=source%3AUSA+Today+politics+Congress+White+House+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"U.S. Politics"},
+    {"name":"PBS NewsHour Society","url":"https://news.google.com/rss/search?q=source%3APBS+NewsHour+education+housing+workforce+society+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen","category":"Society & Culture"},
+    {"name":"USA Today Society","url":"https://news.google.com/rss/search?q=source%3AUSA+Today+education+parenting+housing+workplace+society+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen","category":"Society & Culture"},
+    {"name":"U.S. News Society","url":"https://news.google.com/rss/search?q=source%3AUS+News+education+health+workforce+society+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen","category":"Society & Culture"},
+    {"name":"U.S. News Health","url":"https://www.usnews.com/rss/health","category":"Health & Medicine"},
+    {"name":"Times of Israel","url":"https://www.timesofisrael.com/israel-and-the-region/feed/","category":"Middle East Affairs"},
+    {"name":"The National Middle East","url":"https://news.google.com/rss/search?q=source%3AThe+National+Middle+East+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Middle East Affairs"},
+    {"name":"Arab News Middle East","url":"https://news.google.com/rss/search?q=source%3AArab+News+Middle+East+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Middle East Affairs"},
+    {"name":"Reuters Middle East","url":"https://news.google.com/rss/search?q=source%3AReuters+Middle+East+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Middle East Affairs"},
+    {"name":"ESPN NFL","url":"https://www.espn.com/espn/rss/nfl/news","category":"Sports"},
+    {"name":"ESPN MLB","url":"https://www.espn.com/espn/rss/mlb/news","category":"Sports"},
+    {"name":"CBS Sports NFL","url":"https://news.google.com/rss/search?q=source%3ACBS+Sports+NFL+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Sports"},
+    {"name":"CBS Sports MLB","url":"https://news.google.com/rss/search?q=source%3ACBS+Sports+MLB+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Sports"},
+    {"name":"Yahoo Sports NFL","url":"https://news.google.com/rss/search?q=source%3AYahoo+Sports+NFL+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Sports"},
+    {"name":"Yahoo Sports MLB","url":"https://news.google.com/rss/search?q=source%3AYahoo+Sports+MLB+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Sports"},
+    {"name":"NFL Opening Week","url":"https://news.google.com/rss/search?q=NFL+opening+week+kickoff+scores+injuries+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Sports"},
+    {"name":"Braves Playoff Race","url":"https://news.google.com/rss/search?q=Atlanta+Braves+playoff+race+wild+card+standings+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen","category":"Sports"}
   ],
   "sports_keywords": [
     "atlanta braves",
@@ -268,11 +119,16 @@
   "feed_workers": 8,
   "image_workers": 6,
   "source_expansion": {
-    "version": "2026-09-10",
-    "excluded": [
-      "Al Jazeera"
-    ],
-    "notes": "Israeli, Gulf/Arab, international-wire, society, general, and sports source expansion."
+    "version": "2026-09-11",
+    "excluded": ["Al Jazeera"],
+    "notes": "Expanded general, society, Middle East, sports, Good News Network, and STAT sourcing."
+  },
+  "editorial_signal_accounts": {
+    "general": ["bbcnews", "reuters", "apnews", "npr", "newshour", "usatoday", "mosheh"],
+    "middle_east": ["timesofisrael", "thenationalnews", "arabnews"],
+    "health": ["statnews"],
+    "good_news": ["goodnewsnetwork"],
+    "technology": ["technologyreview", "verge", "arstechnica", "techcrunch"]
   },
   "default_category_target": 1,
   "max_featured_per_team": 1,
