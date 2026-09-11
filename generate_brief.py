@@ -79,7 +79,7 @@ for p in DATA.glob('*.json'):
   b=json.loads(p.read_text()); d=datetime.fromisoformat(b['generated_at'])
   if d>=history:old_good += [s for s in b.get('stories',[]) if s.get('category')=='Good News']
  except Exception:pass
-def repeated_good(x):return x['category']=='Good News' and any(x.get('url')==y.get('url') or similar(x,y) for y in old_good)
+def repeated_good(x):return x['category']=='Good News' and any(x.get('url')==y.get('url') or same_story(x,y) for y in old_good)
 items=[]
 def load_feed(feed):
  try:
