@@ -1,0 +1,26 @@
+name: Fix newsletter return indentation
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fix newsletter import failure
+        run: python fix_newsletter_return.py
+      - name: Validate newsletter and app imports
+        run: |
+          python -m py_compile newsletter.py
+          python -m py_compile app.py
+      - name: Commit repair
+        run: |
+          git config user.name balanced-brief-bot
+          git config user.email actions@users.noreply.github.com
+          git add newsletter.py
+          git commit -m "Fix newsletter return indentation" || exit 0
+          git push
