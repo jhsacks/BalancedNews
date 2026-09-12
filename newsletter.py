@@ -57,42 +57,65 @@ def email_html(briefing, token):
     return f'<!doctype html><html><body style="background:#f4f7f8;font-family:Arial,sans-serif;color:#182536"><div style="max-width:720px;margin:auto;padding:18px"><div style="background:#123b5d;color:white;padding:16px 20px;border-radius:14px"><div style="font-size:29px;font-weight:800">The Balanced Brief</div><div>Important news. Clear context. No outrage bait.</div></div>{"".join(sections)}<div style="padding:18px;background:#fff8e8;border:1px solid #f1d58a;border-radius:12px"><strong>Enjoying The Balanced Brief?</strong><br><a href="{VENMO_URL}">Support via Venmo</a></div><p style="font-size:12px;color:#718096">You received this because you subscribed. <a href="{unsubscribe_url}">Unsubscribe</a>.</p></div></body></html>'
 
 def send_newsletter(briefing):
-    supabase=_secret("SUPABASE_URL").rstrip("/"); service_key=_secret("SUPABASE_SERVICE_ROLE_KEY"); resend_key=_secret("RESEND_API_KEY"); from_email=_secret("NEWSLETTER_FROM_EMAIL")
-    if not all((supabase,service_key,resend_key,from_email)):
-        raise RuntimeError("Newsletter secrets are not configured in the workflow environment.")
-    edition=str(briefing.get("edition","")).upper()
-    response=requests.get(f"{supabase}/rest/v1/newsletter_subscribers",headers={"apikey":service_key,"Authorization":f"Bearer {service_key}"},params={"select":"email,preference,unsubscribe_token","active":"eq.true","or":f"(preference.eq.{edition},preference.eq.BOTH)"},timeout=15)
-    print("STATUS:", response.status_code)
-print("BODY:", response.text)
+    supabase = _secret("SUPABASE_URL").rstrip("/")
+    service_key = _secret("SUPABASE_SERVICE_ROLE_KEY")
+    resend_key = _secret("RESEND_API_KEY")
+    from_email = _secret("NEWSLETTER_FROM_EMAIL")
 
-response.raise_for_status()
-subscribers=response.json()
-sent=0
-for subscriber in subscribers:
-    mail=requests.post(
-        "https://api.resend.com/emails",
-        headers={
-            "Authorization": f"Bearer {resend_key}",
-            "Content-Type": "application/json"
-        },
-        json={
-            "from": from_email,
-            "to": [subscriber["email"]],
-            "subject": f"The Balanced Brief · {edition} Edition",
-            "html": email_html(
-                briefing,
-                subscriber["unsubscribe_token"]
-            )
-        },
-        timeout=20
-    )
-
-    if not mail.ok:
+    if not all((supabase, service_key, resend_key, from_email)):
         raise RuntimeError(
-            f"Resend failed ({mail.status_code}): {mail.text}"
+            "Newsletter secrets are not configured in the workflow environment."
         )
 
-    sent += 1
+    edition = str(briefing.get("edition", "")).upper()
 
-print(f"Newsletter emails sent: {sent}")
-return sent
+    response = requests.get(
+        f"{supabase}/rest/v1/newsletter_subscribers",
+        headers={
+            "apikey": service_key,
+            "Authorization": f"Bearer {service_key}"
+        },
+        params={
+            "select": "email,preference,unsubscribe_token",
+            "active": "eq.true",
+            "or": f"(preference.eq.{edition},preference.eq.BOTH)"
+        },
+        timeout=15
+    )
+
+    print("STATUS:", response.status_code)
+    print("BODY:", response.text)
+
+    response.raise_for_status()
+
+    subscribers = response.json()
+    sent = 0
+
+    for subscriber in subscribers:
+        mail = requests.post(
+            "https://api.resend.com/emails",
+            headers={
+                "Authorization": f"Bearer {resend_key}",
+                "Content-Type": "application/json"
+            },
+            json={
+                "from": from_email,
+                "to": [subscriber["email"]],
+                "subject": f"The Balanced Brief · {edition} Edition",
+                "html": email_html(
+                    briefing,
+                    subscriber["unsubscribe_token"]
+                )
+            },
+            timeout=20
+        )
+
+        if not mail.ok:
+            raise RuntimeError(
+                f"Resend failed ({mail.status_code}): {mail.text}"
+            )
+
+        sent += 1
+
+    print(f"Newsletter emails sent: {sent}")
+    return sent
