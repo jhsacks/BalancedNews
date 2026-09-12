@@ -265,34 +265,23 @@ if key and chosen:
     try:
         from openai import OpenAI
         payload = json.dumps([{key: value for key, value in story.items() if not key.startswith('_')} for story in chosen])
-        prompt = '''Return only a valid JSON array containing every supplied story exactly once and every original key. Preserve URL, source, published, image, category, image_credit, and image_source exactly. Never invent facts. Never return markdown.
+        prompt = r'''Return only a valid JSON array containing every supplied story exactly once and every original key. Preserve URL, source, published, image, category, image_credit, and image_source exactly when present. Never invent facts and never return markdown.
 
-Write for an intelligent non-specialist: a busy physician, executive, educator, or professional. Keep the prose accessible and concise, but give the reader enough substance to understand the actual issue. Do not write at a childlike level.
+Write for an intelligent non-specialist: a busy physician, executive, educator, or professional. Use clear language, but preserve the substance that makes the story worth knowing.
 
 SUMMARY
-Write exactly two information-dense sentences, usually 35-60 words total. The first sentence must identify the specific event, ruling, policy, dispute, announcement, discovery, market move, or conflict development. The second sentence should add the most important context, consequence, affected group, or next step.
-
-A reader must understand what actually happened without opening the article. Do not merely paraphrase the headline. Do not omit the subject of a court case, the content of a policy, the nature of a conflict development, the purpose of a technology, or the substance of a business decision.
-
-Avoid generic phrases such as major development, key ruling, significant decision, political consequences, legal protections, sparked debate, supporters praised, and critics pushed back unless followed by the specific issue.
+Write exactly two concise, information-dense sentences totaling 35-55 words. The first sentence must explain the specific event, decision, dispute, finding, policy, transaction, or outcome. The second sentence must add the most important context, mechanism, consequence, or unresolved issue. A reader must understand what actually happened without opening the article. Never substitute generic phrases such as "a key position," "a major development," "an important ruling," "political consequences," or "legal protections" for the specific issue reported.
 
 WHY IT MATTERS
-why_it_matters is required for every story. Write one information-dense sentence of roughly 18-32 words. Explain the practical consequence unique to this story, including who or what could be affected. Avoid statements that could apply to almost any story.
+why_it_matters is required for every story. Write one concrete sentence of 15-28 words explaining the practical consequence for law, policy, markets, health, technology, international relations, institutions, communities, or daily life. It must be specific to this story. Avoid statements that could fit almost any article, such as "court rulings shape laws," "the economy affects everyone," or "technology is changing rapidly."
 
 PERSPECTIVES
-For any story involving politics, public policy, courts, elections, war, diplomacy, economics, regulation, healthcare policy, education, labor, business power, technology governance, rights, public spending, fairness, or competing public priorities, perspective_one and perspective_two are required.
-
-Each perspective should be one substantive sentence, usually 22-45 words. Explain the actual tradeoff or disagreement. State what each side believes is at stake, what outcome each side values, or what risk each side fears. Do not use empty labels such as supporters think this protects rights or critics think this goes too far.
-
-When the underlying disagreement is not supported by the supplied story, leave both perspective fields blank rather than inventing a debate. Do not create false balance around established facts.
+For any story involving politics, policy, courts, war, diplomacy, policing, public health, economics, education, labor, corporate power, technology risk, rights, fairness, or competing public priorities, perspective_one and perspective_two are required. Each must be one substantive sentence of 18-32 words. Explain the actual disagreement and what each side believes is at stake. Do not merely say supporters approve, critics object, the court protected rights, or the court overstepped. Do not create false balance around established facts. Leave both fields blank only for clearly noncontroversial stories such as routine scores, rescues, weather facts, or straightforward discoveries.
 
 UNCERTAINTY AND CONFIDENCE
-uncertain is optional. Use one short sentence only when a meaningful fact, consequence, attribution, or next step remains unresolved. Otherwise return an empty string. confidence must be Confirmed, Developing, Disputed, or Reported.
+uncertain is optional and should be blank unless an important fact remains unresolved. confidence must be Confirmed, Developing, Disputed, or Reported.
 
-QUALITY CHECK
-Before returning JSON, verify that each summary names the actual issue under discussion, each why_it_matters is specific to that story, and each perspective teaches the reader something substantive about the disagreement. Preserve every story and every required key.
-
-Stories: ''' + payload
+Before returning the JSON, verify that every summary identifies the specific subject of the story, every why_it_matters states a story-specific consequence, and every controversial story contains two meaningful perspectives. Stories: ''' + payload
         text = OpenAI(api_key=key).responses.create(model=os.getenv('OPENAI_MODEL', 'gpt-4.1-mini'), input=prompt).output_text.strip().removeprefix('```json').removesuffix('```').strip()
         result = json.loads(text)
         if isinstance(result, list) and len(result) == len(chosen):
