@@ -1,0 +1,546 @@
+{
+  "generated_at": "2026-09-12T05:56:57.971126-04:00",
+  "edition": "AM",
+  "stories": [
+    {
+      "headline": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
+      "summary": "President Trump's tariffs with Canada upset key Michigan voters before the midterm elections. They worry about higher prices from the trade dispute.",
+      "why_it_matters": "Trade conflicts affect voters and the economy.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
+      "source": "NPR Politics",
+      "published": "Fri, 11 Sep 2026 05:00:00 -0400",
+      "category": "U.S. Politics",
+      "confidence": "Reported",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5678x3785+0+0/resize/5678x3785!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2Fa1%2F186525734213814f11f44a294432%2Fap26237779492720.jpg",
+      "perspective_one": "Tariffs protect US jobs from unfair trade.",
+      "perspective_two": "Tariffs hurt consumers and raise prices unfairly.",
+      "uncertain": ""
+    },
+    {
+      "headline": "More than 100,000 watch 49ers shock Rams in Australia",
+      "summary": "The San Francisco 49ers beat the Los Angeles Rams 27-7 at Melbourne Cricket Ground. Over 100,000 fans saw the surprising victory.",
+      "why_it_matters": "Shows growing global interest in American football.",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Fri, 11 Sep 2026 06:24:40 GMT",
+      "category": "U.S. News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f0ff/live/fa260990-adc7-11f1-a540-61c3f7fc4e6c.jpg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "BRICS leaders meet in India as wars and US tensions test the bloc",
+      "summary": "Leaders of BRICS countries, including Modi, Putin, and Xi, met in India. They discussed trade, investment, and global conflicts amid rising tensions.",
+      "why_it_matters": "BRICS actions impact global politics and economy.",
+      "url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+      "source": "NPR World",
+      "published": "Sat, 12 Sep 2026 03:18:55 -0400",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4878x3156+0+0/resize/4878x3156!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2Fc9%2F5351d0454768a98200435fec42c0%2Fap26254344695170.jpg",
+      "perspective_one": "BRICS can create a stronger, fairer world economy.",
+      "perspective_two": "BRICS risks increasing global tensions and division.",
+      "uncertain": ""
+    },
+    {
+      "headline": "Firefighters say this antioxidant helped them - their union warns it could be risky",
+      "summary": "Firefighters used glutathione antioxidant during big US wildfires and said it helped. But their union warns about health risks from its use.",
+      "why_it_matters": "Health safety for emergency workers is crucial.",
+      "url": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 12 Sep 2026 01:04:49 GMT",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a72/live/0ce26df0-ac90-11f1-bc1f-3f186ca4140c.jpg",
+      "perspective_one": "Glutathione offers protective effects to firefighters.",
+      "perspective_two": "More study is needed to ensure its safety.",
+      "uncertain": ""
+    },
+    {
+      "headline": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+      "summary": "This article explains the 2026 Iran war, key deals, and the role of the US, Israel, and the Strait of Hormuz. It also includes maps and conflict details.",
+      "why_it_matters": "The Iran war affects global security and oil supply.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+      "source": "Conflicts & Security",
+      "published": "Sat, 12 Sep 2026 05:00:00 GMT",
+      "category": "Conflicts & Security",
+      "confidence": "Reported",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Coin_%22Diplomacy%22a.png/1280px-Coin_%22Diplomacy%22a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "perspective_one": "Military action is needed to stop threats from Iran.",
+      "perspective_two": "War risks regional chaos and should be avoided.",
+      "uncertain": ""
+    },
+    {
+      "headline": "Syrian authorities arrest 9 ex-pilots accused of attacks on civilians during war - Arab News",
+      "summary": "Syria arrested nine former pilots accused of attacking civilians during the war. The arrests show ongoing efforts to seek justice for war crimes.",
+      "why_it_matters": "Holding war criminals accountable is important.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS0FNZjF1RENvd3lSZTh4UklZN0U1V3dQMU9FTUM1akVUdzA1akdlemVuYW5iRTREeTlkSmNLWHBfWnVXMklGV2NMc1FMOElvdHRZSWRhemlEcUE5VVp0a1pUd3VuNVpxeVItOFZiekJqdTVsdzNya3FtUUVYUFhUc0R0WmNUdk9aUmFrbS1ZVHJkVlBYOVNZNWxIajRmc3psclBmV2VJQWtOSEdyOE1uYWRGb254QXZtV1h2Z3JYWGRzaEk?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Sat, 12 Sep 2026 07:39:45 GMT",
+      "category": "Middle East Affairs",
+      "confidence": "Reported",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/1951_CIA_map_of_Syria_%E2%80%93_principal_Arab_and_Kurdish_tribes%2C_1951.jpg/1280px-1951_CIA_map_of_Syria_%E2%80%93_principal_Arab_and_Kurdish_tribes%2C_1951.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "perspective_one": "Arrests show justice for wartime crimes matters.",
+      "perspective_two": "Some view the arrests as political moves, not justice.",
+      "uncertain": ""
+    },
+    {
+      "headline": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+      "summary": "Scholar Rock\u2019s drug Isembyld won FDA approval to treat spinal muscular atrophy. It helps young patients gain motor skills when used with another drug.",
+      "why_it_matters": "New treatments improve lives of SMA patients.",
+      "url": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
+      "source": "STAT Health & Medicine",
+      "published": "Fri, 11 Sep 2026 23:30:21 +0000",
+      "category": "Health & Medicine",
+      "confidence": "Reported",
+      "image": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_406860486-1024x576.jpeg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Colorado cybersecurity expert says AI warnings are \"concerning\" but not cause for panic - 9News",
+      "summary": "A cybersecurity expert in Colorado calls AI warnings \u2018concerning\u2019 but says people should not panic. Vigilance is the best way to handle AI risks.",
+      "why_it_matters": "Balanced views help safe AI use and progress.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS0JoTHNOVzdhVE9rVEI1cU5YRE0tUFRzRVJ5NEI5WVVyOXpYYms4WnFMby1HUzJIUVFiYjNNcVU1dkZEcTFjLVloVDVsWG11SzBlWkpmRmNlRFVWaTdmWkdXcGQ1Vnc2X0hmZjA1Y3dzRmVIU2djZlh1UVBxX2RZSnpvYS1GbjJUUzlOY3ZsQWlIWUpqQlMyTHBDcFo1U2JhVHRSTEdBS3JsbldlRlE1RUR1MmVBTElVMFZGakxrV082WmxFTmdMTGFQUGRzWUpPZmtqT0VYUlpjbUFwcmtDQ0xfZUZWYjNhdmdlSEZJamFyZw?oc=5",
+      "source": "AI & Technology",
+      "published": "Sat, 12 Sep 2026 00:55:00 GMT",
+      "category": "AI & Technology",
+      "confidence": "Reported",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/21_LRS_Airmen_and_Space_Systems_Command_Team_Up_to_Revolutionize_Logistics_with_AI_%288833215%29.jpg/1280px-21_LRS_Airmen_and_Space_Systems_Command_Team_Up_to_Revolutionize_Logistics_with_AI_%288833215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "perspective_one": "AI risks need strict controls to avoid harm.",
+      "perspective_two": "Hysteria over AI distracts from its benefits.",
+      "uncertain": ""
+    },
+    {
+      "headline": "Inflation held steady in August as Iran war surges oil prices - The Hill",
+      "summary": "Inflation stayed steady in August despite oil prices rising due to the Iran war. This shows some stability in the economy amid global tensions.",
+      "why_it_matters": "Inflation affects cost of living and economic choices.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBORldvN284WjdRU0xfSzdRZWJ3bXlDam5EYlI2NlhKOURjdEU0R0NNUjJCbHN0MGFDdXdkNzYtNXM4MVM3elVXcWJWQkptOEpjelB5MEJaVFR6dndfdkdnR09EUF82YmhvajFNUUdjV2FmQ3A5N0HSAXZBVV95cUxQTkZXbzdvOFo3UVNMX0s3UWVid215Q2puRGJSNjZYSjlEY3RFNEdDTVIyQmxzdDBhQ3V3ZDc2LTVzODFTN3pVV3FiVkJKbThKY3pQeTBCWlRUenZ3X3ZHZ0dPRFBfNmJob2oxTVFHY1dhZkNwOTdB?oc=5",
+      "source": "Business & Economy",
+      "published": "Fri, 11 Sep 2026 12:42:00 GMT",
+      "category": "Business & Economy",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-inflation-held-steady-in-august-as-iran-war-surg-80ff60caac.webp",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Kevin Warsh under mounting pressure to raise rates as US inflation persists - Financial Times",
+      "summary": "Kevin Warsh faces growing pressure to raise interest rates due to ongoing US inflation. The debate centers on controlling prices without hurting growth.",
+      "why_it_matters": "Interest rate decisions impact the economy and people's money.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaU11OG1TVmxJZC1hcVgyX09selQzQUZ0NjJ0ZEhEeXl4ajFXY2M4VElKOXR2dkFXTnBXbGl3YW9WMXZqVWw4QjFVYmwzOHFBQ2xYUnNDeDVoT2g3elYwVWZqU0h3UEQ3akdxd2l5a0lVdkp2SHN6dUEzUXluTXRCMkpSaGE?oc=5",
+      "source": "Business & Economy",
+      "published": "Fri, 11 Sep 2026 12:30:53 GMT",
+      "category": "Business & Economy",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-kevin-warsh-under-mounting-pressure-to-raise-rat-a84d577903.webp",
+      "perspective_one": "Raising rates now helps control inflation early.",
+      "perspective_two": "Higher rates risk slowing growth and jobs.",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+      "summary": "We are in a time of big change with AI. How we act now will shape the future of society and technology.",
+      "why_it_matters": "Early decisions will define AI\u2019s benefits and risks.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "U.S. News Society",
+      "published": "Sat, 12 Sep 2026 06:48:29 GMT",
+      "category": "Society & Culture",
+      "confidence": "Reported",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Hochofen_5%2C_Halle_--_2024_--_4164_%28kreativ_4%29.jpg/1280px-Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Hochofen_5%2C_Halle_--_2024_--_4164_%28kreativ_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "perspective_one": "Use AI wisely to improve lives and fairness.",
+      "perspective_two": "Unchecked AI could harm privacy and jobs.",
+      "uncertain": ""
+    },
+    {
+      "headline": "Brewers become first NL team to clinch playoff berth: Three reasons why they can win their first World Series - CBS Sports",
+      "summary": "The Brewers are the first team in the National League to secure a playoff spot. They have strong chances to win their first World Series this year.",
+      "why_it_matters": "This marks a big moment for the team and fans.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVm9BeG8wcWx6UUlCMlE0REEzTklQb2lEOV84ZUxUX0U4TUhlUW1ORl93cVM3TjByb0tCSkxxVWFveVQtNGhNQngtZ1Y5UU9FclRKMF9oWl80TllfRTNxeFotX1p2M3JWVTBrZGlnRWtxLWpBWVF2SC04LWJOWm9EWm45cFpLczVoLU83TlhuLVo?oc=5",
+      "source": "CBS Sports MLB",
+      "published": "Sat, 12 Sep 2026 02:34:00 GMT",
+      "category": "Sports",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-brewers-become-first-nl-team-to-clinch-playoff-b-8ce9f7201f.webp",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "MLB playoff picture: AL and NL wild card standings, postseason bracket - centraloregondaily.com",
+      "summary": "The current standings show the AL and NL wild card teams for MLB playoffs. The postseason bracket is set for the upcoming games.",
+      "why_it_matters": "Fans track playoff chances and expect exciting games.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmp1QWZPaF9IOWRHcmFzaVJCZnM5M2FPWk1Hb3VzMGlVTE51U1FFeUxuZk1ZcDFURTBMUWZrSmV2R3lpSk9uM2daamQ3YUp2Yl9pbkN0YWtOdmRKSUlaTE5yTVpvME16M1pHZjB2TjJHTjVuUFZONmktZmJrbnlJcEVmTkZ4OFJiYVVTV0VpUGJWeU5xQmcwdlRyVlktczFhSUtLUDY5d19Ja0FSQTJnLUJtZFUtQWZmX1JPUEpHWUxQeGJ5dXBqSThEcjRGb0NLZ0QxX0tSd1BFZ3FKWVdtcll6b2tyXzBtRVVFMWNDMHlnZw?oc=5",
+      "source": "Braves Playoff Race",
+      "published": "Fri, 11 Sep 2026 16:44:42 GMT",
+      "category": "Sports",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-mlb-playoff-picture-al-and-nl-wild-card-standing-0619982b85.webp",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Luxurious Bath Complex Used by Roman Emperor Found in Serbia",
+      "summary": "A luxurious Roman bath complex used by Emperor Maximinus Daza was found in Serbia. It has pools and a sauna, showing ancient engineering skill.",
+      "why_it_matters": "New finds teach us about past cultures and technology.",
+      "url": "https://www.goodnewsnetwork.org/luxurious-bath-complex-used-by-roman-emperor-found-in-serbia/",
+      "source": "Good News Network",
+      "published": "Fri, 11 Sep 2026 13:00:55 +0000",
+      "category": "Good News",
+      "confidence": "Reported",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/courtesy-of-the-Institute-of-Archaeology-Serbia.jpg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Mayor of the 'Air Capital of the World' reacts to Trump's threats against Bombardier",
+      "summary": "Wichita Mayor Lily Wu talks about Trump\u2019s trade threats to Bombardier aircraft. She shares concerns about the impact on her city\u2019s economy.",
+      "why_it_matters": "Trade policies directly affect local jobs and businesses.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5963499/mayor-of-the-air-capital-of-the-world-reacts-to-trumps-threats-against-bombardier",
+      "source": "NPR Politics",
+      "published": "Fri, 11 Sep 2026 16:34:45 -0400",
+      "category": "U.S. Politics",
+      "confidence": "Reported",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "perspective_one": "Strong policies protect American industries and jobs.",
+      "perspective_two": "Trade wars harm global cooperation and local economies.",
+      "uncertain": ""
+    },
+    {
+      "headline": "Republicans suffered a stunning Supreme Court loss. It lasted minutes. - GNN | Latest News",
+      "summary": "The Supreme Court swiftly ruled against a key Republican position. The quick loss shocked many and had political consequences.",
+      "why_it_matters": "Court rulings shape laws and political power.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmoxS1VrbTdCMkFSTWJ0cUk4X095N19sc0tORTRDR3h2a2xRUG9RTzI4dzYta1k3Q2lyUWcyWElvc0RxRkxZRTY0M3Z6ZWt6SmZEY3MtRHZ2anFUT0RDWVh5ZDFjc1I1dElHdnh2bjFMTHlHUERSaFpSeGJsM3hPYldsNEsxalA1ZUhJSnhzR0RjM3VzdkI5M1VUQnE?oc=5",
+      "source": "U.S. Politics",
+      "published": "Sat, 12 Sep 2026 01:56:05 GMT",
+      "category": "U.S. Politics",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-republicans-suffered-a-stunning-supreme-court-lo-d6d39b043f.webp",
+      "perspective_one": "The Court upheld important legal protections.",
+      "perspective_two": "The Court overstepped and ignored voters' will.",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "CIA warned of threat of 'explosive airplane' years before 9/11, documents show",
+      "summary": "Declassified CIA documents show warnings of terrorist plans using airplanes before 9/11. The agency thought these plans were known among extremists.",
+      "why_it_matters": "Understanding warnings helps improve future security.",
+      "url": "https://www.bbc.co.uk/news/articles/c17j94ew1lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Fri, 11 Sep 2026 19:53:54 GMT",
+      "category": "U.S. News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5309/live/fded5d10-ae0f-11f1-b502-e5cdfe1c097c.jpg",
+      "perspective_one": "The CIA acted on threats when it could.",
+      "perspective_two": "Warning signs were ignored or missed in key ways.",
+      "uncertain": ""
+    },
+    {
+      "headline": "CIA releases dozens of presidential daily briefs on bin Laden and al-Qaida before Sept. 11 - WHEC.com",
+      "summary": "The CIA released many presidential briefs warning about bin Laden and al-Qaida before 9/11. The documents reveal past intelligence on the terrorist threat.",
+      "why_it_matters": "Transparency helps assess intelligence successes and gaps.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNby1ZbFRQalhoY0xreHhaMXQxUlk3b2lqdnRkLXpaOWIxSUhLclZpdXAwYjR2SWRTWER3M3J5MGhIS0tBZV85eEJkV2ctQUQwbEItQ0U0T1BQOE5TVFdqMEdVbGFGeXZ5NktzbkwwYllDc1lfX2w5aG9UcHI3enlrTjBzMGltdVRqZ1lMbkYxZ3ZVTTNESTRlU3M4ZXNXUENJYTV1Zjk4M0NYaGN3QlhLQTgxa2Z4RDZBU2xQS1VsZWk5dnJ3NkdBMkRJUDUybF9CTzZUd0tYVHh5SGdXLWc?oc=5",
+      "source": "Associated Press U.S.",
+      "published": "Sat, 12 Sep 2026 02:33:32 GMT",
+      "category": "U.S. News",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-cia-releases-dozens-of-presidential-daily-briefs-6db3d8ca21.webp",
+      "perspective_one": "Daily briefs helped presidents know the threats.",
+      "perspective_two": "Intelligence failed to prompt timely preventive action.",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "summary": "Houthi rebels captured a strategic Yemen coastline stretch. This fast move could deepen the Iran war\u2019s reach and risks.",
+      "why_it_matters": "More conflict worsens a fragile region and world safety.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 11 Sep 2026 19:44:58 GMT",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82b5/live/066e1ff0-ae16-11f1-aa28-67f8824e7b72.jpg",
+      "perspective_one": "The advance shows Houthi strength and Iran\u2019s reach.",
+      "perspective_two": "New fighting worsens suffering and instability.",
+      "uncertain": ""
+    },
+    {
+      "headline": "The other side of 9/11: Afghans reckon with America's long shadow",
+      "summary": "Nearly 25 years after the U.S. invasion, NPR visits Kabul. Afghans now under Taliban rule reflect on the 20-year war's impact.",
+      "why_it_matters": "Long wars leave deep effects on people and nations.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5949270/the-other-side-of-9-11-afghans-reckon-with-americas-long-shadow",
+      "source": "NPR World",
+      "published": "Fri, 11 Sep 2026 17:36:20 -0400",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "perspective_one": "The war brought freedom and education progress.",
+      "perspective_two": "The war caused death, displacement, and fear.",
+      "uncertain": ""
+    },
+    {
+      "headline": "Lebanese President rules out new Israel talks soon during visit to south shaken by blast and earthquake - thenationalnews.com",
+      "summary": "The Lebanese President said there will be no new talks with Israel soon. He visited southern Lebanon after a blast and earthquake shook the area.",
+      "why_it_matters": "Peace talks affect regional stability and safety.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcGZKUVJKbXVUY2xZVzQ0MHQ1Q0dJeTVKUXBiOXA1c29TQTlEYnVEOEZxSWlGVmF3Y0d3bk5RS0NjMVQ3S2J4YTVLa1hldW9mNjNxRkpZcVRnWEp6cGllb0plaExfZGlRN21RRnpRcXNKQ0JWdTlOeUU1MXJVZnlMN0ptNG5GeUZ6b3dfcnJEdGlRVU1KY1Q2dk1fWTFmSENONEpiSGJqek53N2V3eHEwbFRGV2poVU1qRE9qSW01RzVac1Q0SFJfSk1PV3dLUGdFd1VGcUFKaWtXN3VvUl9BbnJjaS13d2pqVERaUEdB?oc=5",
+      "source": "The National Middle East",
+      "published": "Sat, 12 Sep 2026 06:31:41 GMT",
+      "category": "Middle East Affairs",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-lebanese-president-rules-out-new-israel-talks-so-7b3a90eb93.webp",
+      "perspective_one": "Delaying talks keeps pressure to resolve issues.",
+      "perspective_two": "No talks prolong conflict and harm civilians.",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Opposition lawmaker warns S. Korea could become Iran's target if troops sent to Strait of Hormuz - \ud5e4\ub7f4\ub4dc\uacbd\uc81c",
+      "summary": "A South Korean opposition lawmaker warns that sending troops to the Strait of Hormuz might make Korea a target for Iran. The issue raises security concerns.",
+      "why_it_matters": "Troop deployments affect national safety and diplomacy.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UVlA3TDBIZzB6b2xCcDlIWUhNMDY5Qjc1M3dMQUd5Uno0YklJcURVUUhzOXgtNEhod2dELVR6bV93Z1JQZ1d2UnhsTU9nNDdOaThBWkNKcw?oc=5",
+      "source": "The National Middle East",
+      "published": "Fri, 11 Sep 2026 05:29:58 GMT",
+      "category": "Middle East Affairs",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-opposition-lawmaker-warns-s-korea-could-become-i-88d3956f7a.webp",
+      "perspective_one": "Protecting trade routes requires military presence.",
+      "perspective_two": "Military moves could provoke Iran to attack Korea.",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Nutromics\u2019 drug monitoring patch secures FDA breakthrough designation - Medical Device Network",
+      "summary": "Nutromics\u2019 drug monitoring patch got FDA breakthrough status. It promises better drug tracking for patient care and safety.",
+      "why_it_matters": "This tech can improve how medicine is given and monitored.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY29wR1FpdldLc1ZaQTJfbDBxczJZU2FEdzNlMlJ3QkF6Z3ZNQkZJdTRzZ1JTZmxLNGZfOGpxaHlTZUszUTdCY2tfeUNkdndITm1kX1hmMWJDYUc4OUh4STQyTmcyNUV2YzB1bkJKLUk2THcwNFUtSWd4dXJiYV9ZY2Y4X3ROVjJ3TU5OalZUM3dSN193dUFGOXAxSnBselN0bnhtRHVzeF80Y0syRkpXNDJ3?oc=5",
+      "source": "Health & Medicine",
+      "published": "Fri, 11 Sep 2026 15:12:46 GMT",
+      "category": "Health & Medicine",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-nutromics-drug-monitoring-patch-secures-fda-brea-cb49fd6f9a.webp",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "INEC Deepens Cybersecurity, AI Engagement Ahead of 2027 Election - TVC News",
+      "summary": "The Independent National Electoral Commission (INEC) is enhancing cybersecurity and AI use for the 2027 election. They aim to protect election integrity.",
+      "why_it_matters": "Secure elections help keep public trust and fairness.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzQ4RENnZmFlSElUY2xvcU9TZDlYaWszTlVmVHp6U2FPSE8wR2p6STJ2V2hNQWpDWHRNRTVrNnFuZ0tvN1NJYjJkdUVmOHdfX245WE9fcnU2MW96VER5YzExTW9zblVsbkxsYjRsZ1BSSTdEeWJuMnAxbUdWWkt3dVlsdzAzN1FnU1FtZHQ3ZUs?oc=5",
+      "source": "AI & Technology",
+      "published": "Fri, 11 Sep 2026 20:12:00 GMT",
+      "category": "AI & Technology",
+      "confidence": "Reported",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-12-am-inec-deepens-cybersecurity-ai-engagement-ahead-o-c31382ee24.webp",
+      "perspective_one": "Using AI improves election security and transparency.",
+      "perspective_two": "AI risks bias or errors that hurt elections.",
+      "uncertain": "",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    }
+  ],
+  "more_stories": {
+    "U.S. Politics": [
+      {
+        "headline": "Nebraska 2nd Congressional District 2026: Latest Polls - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWtCTl92RHlGbC03Z2RKNmUweTFnZnFUVUhRVlNfUF9zMHRrSTJmYlJVSEtsNGYyMldJSUNhNXFLVEZ2Q0FLZWtMVXRRam9TaXJpNk5tdHpFYnkxNk1CODlmNUg5ZzZ5QVk3WC13LURBb1BpTzlJY05VUFNLYzdlN0NDQQ?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Nebraska 2nd Congressional District 2026: Latest Polls The New York Times"
+      },
+      {
+        "headline": "Tracking the Battle to Reshape Congress (and Pick Up Seats) for the Midterms - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnY4WWo5YnVRSUJKeUZrdVh3di1FUjlCTmxmV3lheUNfOGNHM2FsbFVNLTVlc0VrUGVlSEZUTzhyaW5OZGFjUXMwWjBzdFQwa0tabmdlQUN6Y3J2WDJzaHdPdV8yQVo0a05JTVc1VW1lbDU0STd6cXdhdzhOYUVYaGxZNExlU1hmQzN3Y0xERkQ2UDRxRlE?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Tracking the Battle to Reshape Congress (and Pick Up Seats) for the Midterms The New York Times"
+      },
+      {
+        "headline": "Commerce Secretary Howard Lutnick says Trump's $5,000 dividend won't use taxpayer funds - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40QXk0THlMWkcta1U2WjVCYkFiWnJuOXhqZXhBRGRrTDA0SFhROU15VGNtbkxWaXpzMkFaYkxiWXJ1dXktYUJ1ZHZ2TVRianJrejVOVlZ2bVNGSnl3aTR0WVBUakQ2aTg0X1lqd2NpMEprQQ?oc=5",
+        "source": "USA Today Politics",
+        "summary": "Commerce Secretary Howard Lutnick says Trump's $5,000 dividend won't use taxpayer funds qz.com"
+      }
+    ],
+    "U.S. News": [
+      {
+        "headline": "In 9/11 remarks, Trump links war with Iran",
+        "url": "https://www.bbc.co.uk/news/videos/c5yjkj438eeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "At the Pentagon 9/11 commemorations, President Trump praised the military and highlighted how their work is continuing with the war in Iran."
+      },
+      {
+        "headline": "Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court",
+        "url": "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby."
+      },
+      {
+        "headline": "US prices remain high as fuel costs squeeze household budgets",
+        "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation."
+      }
+    ],
+    "World News": [
+      {
+        "headline": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
+      },
+      {
+        "headline": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+        "url": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+        "source": "NPR World",
+        "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten."
+      },
+      {
+        "headline": "Has Trump won over voters with his midterm convention?",
+        "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term."
+      }
+    ],
+    "Conflicts & Security": [],
+    "Middle East Affairs": [
+      {
+        "headline": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha - France 24",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmhxMGpwcUp4ekxXQnBpSUMxazB5dnZfb2JVQThIb0c4Tk15TklsNDhyVmEwMHFTV3kwWm5JUExnbld4SkVIQ25jakVoRzNNR1UtLW80R3FfakwzVTVTRnZ3OGJCTGNYUWh0VzFHd1FQTUktQ1lPZEJUeWxDcWMyalBDazVXZGc?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha France 24"
+      },
+      {
+        "headline": "Iraq dismisses commander over drone attacks on Saudi Arabia - Latest news from Azerbaijan",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ25EYjBRQmlZa0NzNVNvb3VpcUl3ekVTT0RVczhZdi00cERqOUoyWDdsMFBXY0l2YjVadkJkdVRTUldXUXp4WEtkYlNyU3pTeGJXWjFUNHlUczhIMVJrQkxnOFc2N3ZVczZKQ24zd3F0WnFUSTJHSmJGbC1GTFNzRnY0aXhUVGs?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Iraq dismisses commander over drone attacks on Saudi Arabia Latest news from Azerbaijan"
+      },
+      {
+        "headline": "Iraq races to contain fallout after local Iran-backed militias accused of attacking Saudi pipeline - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2RxMkl0ODFZXzI1R0xjamVHOTBYNWpTdDNDRERJeTloTXZzR3hFTHZ0TGNUT2NBSXI4cmVOVmgxM3JkVVVJc3VGcTF2U3dJeUxrXzg0Q3hXOU8xV1RmcVFVX0otWjFCWFVzTGxNTmxKd2tLRFlFVFhwUS1Pa0hjWE9fcVBVNGEtcGc0NmY3ekstR1dWbExvSk9qZFNhaUtFaTI5WGlLQy1xUFJKWXhCTDNSZm1SUTdZY2p3bzBtcVNRZw?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Iraq races to contain fallout after local Iran-backed militias accused of attacking Saudi pipeline The Washington Post"
+      }
+    ],
+    "Health & Medicine": [
+      {
+        "headline": "Psilocybin may help prevent chemo-induced nerve pain; Definium scores second FDA Breakthrough Therapy designation - The Microdose | Substack",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15ZTNyOFJMOVI1bnU2M0VGQzNZVlE2eFN3WXUybzEwTFNWaXhDS0ZxdTF6a3otLVhwT2ZtYTMyTDBRQ29ZTDBCOHFob3RqRnBibFBYejY5djhzMW92UmtjdUJKS3NZSEhmM1hIR0Q4Z1lPcTZUNjFrTg?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Psilocybin may help prevent chemo-induced nerve pain; Definium scores second FDA Breakthrough Therapy designation The Microdose | Substack"
+      },
+      {
+        "headline": "Thai FDA reports over 52m-baht peptide haul on September 11 - Nation Thailand",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSNElTRUJ5ZFc2TDdMYUVJemFrUmtLZWh5Y0VTVGl5a0R2NVd4bGdJclhYMTJxZmxUMU90S1JrcHc5RGFRamx1RXY4TzBxX2E2ZjZEZUhBOFE4c3c0THFQQ2NR?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Thai FDA reports over 52m-baht peptide haul on September 11 Nation Thailand"
+      },
+      {
+        "headline": "FDA authorizes second e-cigarette with age-gating features - The Cancer Letter",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZVE1meHBoeHVUakEyVUZxS1RHOWVaa09sb3doUDByUDNqVjFHemZielZSbnJ0T3ZrN2k5UjZHVmtfQnpNYlF0UG5LbGsyakY4aXFrYWdxWkxwQTRwb2Utcw?oc=5",
+        "source": "Health & Medicine",
+        "summary": "FDA authorizes second e-cigarette with age-gating features The Cancer Letter"
+      }
+    ],
+    "AI & Technology": [
+      {
+        "headline": "Huang said cybersecurity will be the next big hit in artificial intelligence after programming - dev.ua",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1THZURU54LU9JOWo5QWZNSV80X3lFTjF5Z1M4b1pEdEFTTXcyanIxYjktNy1UdVdGYkxvZkNmemhpcEpvbTU4S1dYNl93Y1c5VTg0OXNDZzZhQzVZMk1CcjRuSHE?oc=5",
+        "source": "AI & Technology",
+        "summary": "Huang said cybersecurity will be the next big hit in artificial intelligence after programming dev.ua"
+      },
+      {
+        "headline": "Patch My PC, QBS Software Expand EMEA Partner Access - Channel Insider",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnc1S1EzVzhEQ0ZITEplelhHQkExOHc3cmROQVZIRVhKUE5aNVJJU1M1VTZpOUFRcEx0cXQtdUM3QlY0OVN1dm1IQmNpckJoN1lpNDJFSV9vSlJLaU9UclhqNlJzUXI0bi1vT2dzeWtVZWJDeF8za1dDQ1BxdnZxTFJidFdpZw?oc=5",
+        "source": "AI & Technology",
+        "summary": "Patch My PC, QBS Software Expand EMEA Partner Access Channel Insider"
+      },
+      {
+        "headline": "E. Nieva (Check Point): \"Employees are entering source code, trade secrets and financial data into AI tools\" - Escudo Digital",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWlFM1gzQlN3ZG16MURHTktnSUVOZFNHMFBqTEFlVW9KeTFWZVYzY05NaGY5YjRXTnc3MEQwOU1NcjFTZjhWam5JNk8wczhYMnNhaWpDS2YzMGZtbUxfNUFWYXF1d3BhOUR6RVZPNHhRdGZ3c1hNcko1b0FBQkhEeWFDUnR5LTZnTFlaR09tZVNvYXhuLXFEMktZTGgweG15X1lySFdkTEdOMVRuVlNDZjhzZ3pKOV9mdmlmNjhWa3l1MVltc05UZjFic3BpN2QxVjAzSk5TZGdldndIOEE?oc=5",
+        "source": "AI & Technology",
+        "summary": "E. Nieva (Check Point): \"Employees are entering source code, trade secrets and financial data into AI tools\" Escudo Digital"
+      }
+    ],
+    "Business & Economy": [
+      {
+        "headline": "Trump's baffling Fed threat could be gift to Warsh - Awani International",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVm9GQTBSQ3pkS2tBSGZteTVUdkZMMTFudDFyVW05ZVhqbWd6aXFlTm8zX2s1b0JZLUZISmo5bXBMb19uNDdJTkxRT3FLMnd2bVB1eXREOGY2MkEyeW9jd2NFQUVLWC1jcTVXOE5GcHBDVC1Ld1FGTEgtUEpQdlA4Zkd1T3BERWJmT0RyVDZsMXlEOFlaTVlFd2x6RzVHQQ?oc=5",
+        "source": "Business & Economy",
+        "summary": "Trump's baffling Fed threat could be gift to Warsh Awani International"
+      },
+      {
+        "headline": "US consumers faced more high prices in August as Iran war raised energy costs - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTU5QUWRpbWRtdlpGWU5FMU96bG11czdKWDRIczNyTlhlbHZBd1VZbi1JTXg5aXcxaVlDM1IyUlFSLWpJUi1vVXJtVHpVX0FrTGJhbVF1a1VQTDRfeldlLUxnYTg2U0M3VVVIa2g2c0xJTWZISWlid2EzQVlheGFsandJcmZPd1E?oc=5",
+        "source": "Business & Economy",
+        "summary": "US consumers faced more high prices in August as Iran war raised energy costs The Guardian"
+      },
+      {
+        "headline": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMFFtaTVreE9NQ2hRcW9hc0JHQ21zU2w1OUY3Nm85MHVuZXZMejVBN2xrUFZORm1mRjRvYTdpNDdVWUIxRENhTWxJd0lTWGxzdlBSQjhoN1gzd0duaWxXTWQybC1QSjNVelU2cVRQa0hmdGg3V040Ng?oc=5",
+        "source": "Business & Economy",
+        "summary": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates The New York Times"
+      }
+    ],
+    "Society & Culture": [],
+    "Sports": [
+      {
+        "headline": "Indiana Hoosiers Sports News & Analysis - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMZk9YRVJZZU44dlZwa2V1YkFTU09OUkEwX3QxZENZZW0wTUV6cDVXdXk4WFJ3YWVlcmFwb3NfX0FKdmdFVEdlUmktMGQwd193NUNPSlJmeFZudmEtVHhueFFBSHpRMmxjYUh1bWRadw?oc=5",
+        "source": "College Sports",
+        "summary": "Indiana Hoosiers Sports News & Analysis USA Today"
+      },
+      {
+        "headline": "Raiders tight end Brock Bowers to miss season opener after knee surgery - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3VvTFF5UXplbmoycjB1YVdTY1BQckRFNlVGSjJRMUZ2OU5ZY3hfdERqXzhRT0RmQWpoVkdqR01QajFhaEl0Nmd3YUJZQkt2Znl3NTVDck5HQzdTaGt2RVllelNNSE5jUFFDZnVXSm5GZW5lRk9vRG5xOWx4RnFmNWUzS09UcmliQmxWTEUyYzN3dmQ3?oc=5",
+        "source": "NFL Opening Week",
+        "summary": "Raiders tight end Brock Bowers to miss season opener after knee surgery The New York Times"
+      },
+      {
+        "headline": "Philadelphia Phillies at Atlanta Braves MLB Prediction, Picks & Odds for Sept. 11, 2026 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlBIR2p4UUpwY21FNGpScnNZVzZJRkxUM2FqWnc4ZnZUZVBqRTl1MGJlSzV4QkdXZE9lWk1LamNicmRMQXpiZ21lcmtKNnJUQmN2MHEyTjhfVzV2ZHA5Y1hSTGNraHhfd2dwNG56VDJTYkwtVWtpYUhlLWtLdmdGcHhkRDFsY0ZpbVo4REcwVlcwYkk?oc=5",
+        "source": "Yahoo Sports MLB",
+        "summary": "Philadelphia Phillies at Atlanta Braves MLB Prediction, Picks & Odds for Sept. 11, 2026 Yahoo Sports"
+      }
+    ],
+    "Good News": [
+      {
+        "headline": "A \u2018Living Roof\u2019 is Growing Atop Ford\u2019s Largest Factory\u2013Saving Energy and Boosting Birds",
+        "url": "https://www.goodnewsnetwork.org/living-roof-grows-atop-fords-largest-factory-saving-energy-and-boosting-biodiversity/",
+        "source": "Good News Network",
+        "summary": "The year was 1915, and before Henry Ford decided to turn a 2,000 acre stretch of land along the River Rouge into one of America\u2019s largest manufacturing centers, he thought of turning it into a bird sanctuary. In a strange, roundabout way, that vision was recently achieved at the gargantuan Rogue Factory in Dearborn, Michigan, [\u2026] The post A \u2018Living Roof\u2019 is Growing Atop Ford\u2019s Largest Factory\u2013Saving Energy and Boosting Birds appeared first on Good News Network ."
+      },
+      {
+        "headline": "Arthritis Drug Demonstrates Substantial Hair Regrowth in 1,400 Alopecia Patients",
+        "url": "https://www.goodnewsnetwork.org/arthritis-drug-demonstrates-substantial-hair-regrowth-in-1400-alopecia-patients/",
+        "source": "Good News Network Science",
+        "summary": "An arthritis drug of all things was recently found in a study to restore up to 100% of hair in patients with severe alopecia. Around 2% of the world population live with alopecia areata, an autoimmune disorder where the human immune system mistakes hair follicles for harmful invaders. The condition can be reversed but it\u2019s [\u2026] The post Arthritis Drug Demonstrates Substantial Hair Regrowth in 1,400 Alopecia Patients appeared first on Good News Network ."
+      },
+      {
+        "headline": "Scientists Recreated Chirps of Jurassic Insects, Simulating a 165 Million-yo Soundscape (Listen)",
+        "url": "https://www.goodnewsnetwork.org/scientists-recreated-chirps-of-jurassic-insects-simulating-a-165-million-yo-soundscape-listen/",
+        "source": "Good News Network Science",
+        "summary": "It wasn\u2019t just the roars of the dinosaurs that made up the soundscape of the animal world during the Jurassic period. Crickets and grasshoppers communicated through a variety of songs and high-pitched sounds, some of which you can now listen to thanks to Thorin Jonsson from the Institute of Biology at the University of Graz. [\u2026] The post Scientists Recreated Chirps of Jurassic Insects, Simulating a 165 Million-yo Soundscape (Listen) appeared first on Good News Network ."
+      }
+    ]
+  }
+}
