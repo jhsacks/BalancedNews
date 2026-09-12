@@ -303,19 +303,69 @@ Supporters believe the merger will improve efficiency and accelerate innovation.
 Another perspective:
 Critics argue it could reduce competition and increase market concentration.
 
-The reader should finish each story feeling informed, not merely aware that an event occurred.
+The reader should finish each story understanding:
+
+- what happened
+- why it matters
+- what the disagreement actually is
+
+If the disagreement cannot be explained meaningfully,
+leave perspective_one and perspective_two blank.
+
+A weak perspective is worse than no perspective.
 
 UNCERTAINTY AND CONFIDENCE
 uncertain is optional. Use one short sentence only when a meaningful fact, consequence, attribution, or next step remains unresolved. Otherwise return an empty string.
 confidence must be Confirmed, Developing, Disputed, or Reported.
 
 QUALITY CHECK
+
 Before returning the JSON, verify for every story:
-1. A reader can identify what specifically happened.
-2. why_it_matters explains a consequence unique to that story.
-3. Any perspectives describe a substantive disagreement rather than generic approval and opposition.
-4. No unsupported detail was added.
-5. Every original story and required key is present.
+
+1. A reader can identify exactly what happened without opening the article.
+
+2. The summary contains at least one specific fact, action,
+decision, policy, court case, agency, company action,
+technology development, conflict development, treaty,
+election outcome, scientific finding, or other concrete event.
+
+3. The summary explains more than the headline.
+
+Do not simply restate the headline in different words.
+
+4. why_it_matters explains a consequence unique to that story.
+
+Avoid explanations that could apply to most stories.
+
+5. If the story involves a court ruling, election, policy,
+government action, conflict, treaty, business decision,
+scientific finding, or technology development,
+the summary should explain the actual issue under discussion.
+
+6. Perspectives must identify a substantive disagreement.
+
+The reader should understand what each side believes
+and what each side thinks is at stake.
+
+Avoid generic disagreement such as:
+
+- supporters agree
+- critics disagree
+- one side approves
+- the other side opposes
+
+7. If the disagreement is weak, unclear, or artificial,
+leave perspective_one and perspective_two blank.
+
+Strong perspectives are preferred to weak perspectives.
+
+8. Prefer specificity over simplification.
+
+The audience is an intelligent non-specialist reader.
+
+9. Do not add unsupported facts.
+
+10. Every original story and required key must remain present.
 
 Stories: '''+payload
   text=OpenAI(api_key=key).responses.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),input=prompt).output_text.strip().removeprefix('```json').removesuffix('```').strip(); result=json.loads(text)
