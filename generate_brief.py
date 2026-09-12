@@ -181,7 +181,43 @@ if key and chosen:
  try:
   from openai import OpenAI
   payload=json.dumps([{k:v for k,v in x.items() if not k.startswith('_')} for x in chosen])
-  prompt='''Return only a JSON array with every supplied story exactly once. Preserve URL, source, published, image, and category exactly. Write for readers with dyslexia: common words, active voice, one idea per sentence. Summary must be exactly two short sentences totaling 24-40 words. why_it_matters must be one sentence under 18 words. For anything remotely controversial, including politics, policy, courts, war, diplomacy, policing, identity, religion, health policy, economic policy, climate, education, labor, corporate power, technology risks, or fairness, perspective_one and perspective_two are REQUIRED. Each is one distinct good-faith view in 10-20 plain words. Do not create false balance about established facts. For clearly noncontroversial stories, leave both blank. uncertain is one short sentence only when a key fact is unresolved. confidence is Confirmed, Developing, Disputed, or Reported. Include every key for every story. Stories: '''+payload
+  prompt='''Return only a valid JSON array containing every supplied story exactly once and every original key. Preserve URL, source, published, image, category, image_credit, and image_source exactly when those keys are present. Never invent facts. Never return markdown.
+
+AUDIENCE AND STYLE
+Write for an intelligent non-specialist reader, such as a busy physician, executive, educator, or professional. Use clear language and short sentences, but preserve the important substance. Aim for concise, information-dense journalism rather than simplified or generic wording.
+
+SUMMARY
+For every story, write exactly two clear sentences totaling about 38-58 words.
+The first sentence must explain the specific event, ruling, policy, dispute, discovery, company action, conflict development, sports result, or other reported outcome. Include enough detail that the reader understands what actually happened without opening the article.
+The second sentence should add the most important context, consequence, limitation, or next step.
+Do not merely restate the headline. Do not write vague phrases such as major development, key ruling, significant decision, political consequences, important legal protections, or controversial issue unless the sentence immediately explains the specific substance.
+If the supplied article text does not identify a critical detail, say what remains unclear rather than guessing.
+
+WHY IT MATTERS
+why_it_matters is required for every story. Write one information-dense sentence of about 16-28 words explaining the concrete consequence or stakes of this specific event.
+Do not use broad statements that could fit almost any article, such as court rulings shape laws, the economy affects everyone, technology is changing rapidly, or the conflict could increase tensions.
+Explain who or what may be affected and how, while staying within the facts supplied.
+
+PERSPECTIVES
+Perspectives are required whenever a story is even mildly controversial or involves politics, policy, courts, elections, war, diplomacy, policing, public health, economics, education, labor, corporate power, technology risks, rights, fairness, or competing public priorities.
+perspective_one and perspective_two must each be one distinct, good-faith argument of about 18-32 words.
+Explain the actual point of disagreement and what each side believes is at stake. Do not write empty placeholders such as supporters say this protects rights, critics say the court overstepped, supporters approve, or critics disagree.
+Where possible, anchor each perspective to the specific legal principle, policy tradeoff, economic consequence, institutional concern, public-interest goal, or practical risk described in the supplied article.
+Do not create false balance around established facts. Leave both perspective fields blank only for clearly noncontroversial stories such as routine sports results, rescues, or straightforward discoveries.
+
+UNCERTAINTY AND CONFIDENCE
+uncertain is optional. Use one short sentence only when a meaningful fact, consequence, attribution, or next step remains unresolved. Otherwise return an empty string.
+confidence must be Confirmed, Developing, Disputed, or Reported.
+
+QUALITY CHECK
+Before returning the JSON, verify for every story:
+1. A reader can identify what specifically happened.
+2. why_it_matters explains a consequence unique to that story.
+3. Any perspectives describe a substantive disagreement rather than generic approval and opposition.
+4. No unsupported detail was added.
+5. Every original story and required key is present.
+
+Stories: '''+payload
   text=OpenAI(api_key=key).responses.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),input=prompt).output_text.strip().removeprefix('```json').removesuffix('```').strip(); result=json.loads(text)
   if isinstance(result,list) and len(result)==len(chosen):chosen=result
  except Exception as e:print('AI refinement skipped:',e)
