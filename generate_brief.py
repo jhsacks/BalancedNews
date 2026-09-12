@@ -264,9 +264,38 @@ key = os.getenv('OPENAI_API_KEY', '').strip()
 if key and chosen:
     try:
         from openai import OpenAI
-        payload = json.dumps([{key: value for key, value in story.items() if not key.startswith('_')} for story in chosen])
-        prompt = r'''Return only a valid JSON array containing every supplied story exactly once and every original key. Preserve URL, source, published, image, category, image_credit, and image_source exactly when present. Never invent facts and never return markdown.
 
+        ai_input = []
+
+        for story in chosen:
+            clean_story = {
+                key: value
+                for key, value in story.items()
+                if not key.startswith('_')
+            }
+
+            # Remove empty AI-generated fields so GPT must regenerate them
+            clean_story.pop('perspective_one', None)
+            clean_story.pop('perspective_two', None)
+            clean_story.pop('uncertain', None)
+
+            ai_input.append(clean_story)
+
+        payload = json.dumps(ai_input)
+
+        prompt = r'''Return only a valid JSON array containing every supplied story exactly once.
+
+Every story MUST contain these fields:
+
+headline
+summary
+why_it_matters
+perspective_one
+perspective_two
+uncertain
+confidence
+
+Preserve URL, source, published, image, category, image_credit, and image_source exactly when present. Never invent facts and never return markdown.
 Write for an intelligent non-specialist: a busy physician, executive, educator, or professional. Use clear language, but preserve the substance that makes the story worth knowing.
 
 SUMMARY
