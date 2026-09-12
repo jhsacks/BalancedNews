@@ -19,10 +19,13 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
       - run: pip install -r requirements.txt
+
       - name: Determine edition
         id: gate
         shell: python
@@ -30,11 +33,24 @@ jobs:
           import os
           from datetime import datetime
           from zoneinfo import ZoneInfo
-          event='${{ github.event_name }}'
-          manual='${{ inputs.edition }}'
-          now=datetime.now(ZoneInfo('America/New_York'))
-          edition=manual if event=='workflow_dispatch' else ('AM' if now.hour==5 and now.minute>=45 else 'PM' if now.hour==16 and now.minute<10 else '')
-          with open(os.environ['GITHUB_OUTPUT'],'a') as f:
+
+          event = '${{ github.event_name }}'
+          manual = '${{ inputs.edition }}'
+
+          now = datetime.now(ZoneInfo('America/New_York'))
+
+          if event == 'workflow_dispatch':
+              edition = manual
+          elif now.hour == 5:
+              edition = 'AM'
+          elif now.hour in (16, 17):
+              edition = 'PM'
+          else:
+              edition = ''
+
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"edition={edition}\n")
+              f.write(f"run={'true' if edition else 'false'}\n")
               f.write(f"edition={edition}\n")
               f.write(f"run={'true' if edition else 'false'}\n")
       - name: Generate briefing
