@@ -187,23 +187,123 @@ AUDIENCE AND STYLE
 Write for an intelligent non-specialist reader, such as a busy physician, executive, educator, or professional. Use clear language and short sentences, but preserve the important substance. Aim for concise, information-dense journalism rather than simplified or generic wording.
 
 SUMMARY
-For every story, write exactly two clear sentences totaling about 38-58 words.
-The first sentence must explain the specific event, ruling, policy, dispute, discovery, company action, conflict development, sports result, or other reported outcome. Include enough detail that the reader understands what actually happened without opening the article.
-The second sentence should add the most important context, consequence, limitation, or next step.
-Do not merely restate the headline. Do not write vague phrases such as major development, key ruling, significant decision, political consequences, important legal protections, or controversial issue unless the sentence immediately explains the specific substance.
-If the supplied article text does not identify a critical detail, say what remains unclear rather than guessing.
+
+Write 2-4 concise but information-rich sentences.
+
+Assume the audience is an educated professional who wants to understand the story without reading the full article.
+
+The first sentence must explain the actual event, decision, announcement, conflict, discovery, court case, policy change, business action, or development being reported.
+
+Avoid vague summaries that merely restate the headline.
+
+Avoid phrases such as:
+
+- major development
+- key ruling
+- significant decision
+- political consequences
+- legal protections
+- controversy erupted
+- sparked debate
+- supporters praised the move
+- critics pushed back
+
+Instead explain what specifically happened.
+
+After reading the summary, the reader should understand:
+
+1. What happened.
+2. Who was affected.
+3. Why the event matters.
+
+Prefer specificity over simplification.
+
+Do not remove important details merely to reduce reading level.
+
+Use plain language, but preserve the substance of the story.
 
 WHY IT MATTERS
-why_it_matters is required for every story. Write one information-dense sentence of about 16-28 words explaining the concrete consequence or stakes of this specific event.
-Do not use broad statements that could fit almost any article, such as court rulings shape laws, the economy affects everyone, technology is changing rapidly, or the conflict could increase tensions.
-Explain who or what may be affected and how, while staying within the facts supplied.
+
+why_it_matters is required for every story.
+
+Write one information-dense sentence of approximately 16-30 words.
+
+Explain the most important practical consequence of this specific development.
+
+Focus on:
+
+- policy impact
+- economic consequences
+- legal implications
+- technological effects
+- healthcare consequences
+- international significance
+- consumer impact
+- national security implications
+
+Avoid broad statements that could apply to many stories.
+
+Bad:
+Court rulings shape laws.
+
+Bad:
+The economy affects everyone.
+
+Bad:
+Technology continues to evolve.
+
+Good:
+The ruling may influence how future election disputes are handled in federal courts.
+
+Good:
+The approval could expand treatment options for patients with advanced cancer.
+
+Good:
+The move may strengthen domestic chip production while increasing costs for importers.
 
 PERSPECTIVES
-Perspectives are required whenever a story is even mildly controversial or involves politics, policy, courts, elections, war, diplomacy, policing, public health, economics, education, labor, corporate power, technology risks, rights, fairness, or competing public priorities.
-perspective_one and perspective_two must each be one distinct, good-faith argument of about 18-32 words.
-Explain the actual point of disagreement and what each side believes is at stake. Do not write empty placeholders such as supporters say this protects rights, critics say the court overstepped, supporters approve, or critics disagree.
-Where possible, anchor each perspective to the specific legal principle, policy tradeoff, economic consequence, institutional concern, public-interest goal, or practical risk described in the supplied article.
-Do not create false balance around established facts. Leave both perspective fields blank only for clearly noncontroversial stories such as routine sports results, rescues, or straightforward discoveries.
+
+Perspectives are required whenever a story involves politics, policy, courts, elections, war, diplomacy, economics, regulation, education, healthcare, technology governance, business power, labor, rights, fairness, public spending, or competing public priorities.
+
+perspective_one and perspective_two should each be approximately 18-40 words.
+
+Do not merely state that supporters agree and critics disagree.
+
+Instead explain:
+
+- what each side believes
+- what each side fears
+- what each side thinks is at stake
+
+Each perspective should teach the reader something about the disagreement.
+
+Avoid generic statements such as:
+
+Supporters say this protects rights.
+
+Critics say this goes too far.
+
+Supporters welcomed the decision.
+
+Critics oppose the policy.
+
+Instead identify the underlying tradeoff.
+
+Examples:
+
+One perspective:
+Supporters argue the ruling preserves existing voting-rights protections and provides consistent legal standards.
+
+Another perspective:
+Critics argue the decision limits state flexibility and leaves election administration disputes unresolved.
+
+One perspective:
+Supporters believe the merger will improve efficiency and accelerate innovation.
+
+Another perspective:
+Critics argue it could reduce competition and increase market concentration.
+
+The reader should finish each story feeling informed, not merely aware that an event occurred.
 
 UNCERTAINTY AND CONFIDENCE
 uncertain is optional. Use one short sentence only when a meaningful fact, consequence, attribution, or next step remains unresolved. Otherwise return an empty string.
