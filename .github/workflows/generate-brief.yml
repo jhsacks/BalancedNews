@@ -60,7 +60,7 @@ jobs:
           BRIEF_EDITION: ${{ steps.gate.outputs.edition }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4.1-mini
-        run: python list_kit_templates.py
+        run: python generate_brief.py
 
       - name: Generate missing story visuals
         if: steps.gate.outputs.run == 'true'
