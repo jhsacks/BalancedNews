@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T05:57:55.113248-04:00",
+  "generated_at": "2026-09-14T06:55:41.447434-04:00",
   "edition": "AM",
   "stories": [
     {
       "headline": "Trump downplays calls for AI slowdown",
-      "summary": "President Trump dismissed the dire warnings about AI as exaggerated, attributing alarming claims to \"negative forces.\" This response follows industry leaders' appeals to pause AI development due to potential risks.",
-      "why_it_matters": "Trump's dismissal may slow regulatory momentum on AI safety, affecting how the technology is governed amid growing concerns over its societal impact.",
-      "perspective_one": "Supporters argue that AI development should proceed without heavy-handed restrictions to maintain innovation and economic competitiveness.",
-      "perspective_two": "Critics contend that unregulated AI advancement risks unforeseen harms and advocate deliberate pauses for safety and ethical evaluation.",
+      "summary": "President Trump dismissed alarming forecasts about AI risks as exaggerated, claiming that \"negative forces\" are spreading false fears, despite industry leaders urging a halt on AI advances. This highlights ongoing tension between technological innovation advocates and those warning about AI's rapid unregulated growth.",
+      "why_it_matters": "Trump's dismissal may influence U.S. AI policy, potentially favoring accelerated development over precautionary regulation amid global concerns about AI safety and control.",
+      "perspective_one": "AI industry leaders argue that a temporary slowdown is essential to address ethical, safety, and societal impacts before further advancement risks irreversible harm.",
+      "perspective_two": "Trump and supporters believe that fears are overstated and that slowing AI development will hinder innovation and economic competitiveness in a critical technology sector.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
@@ -19,27 +19,27 @@
       "image_source": ""
     },
     {
-      "headline": "USA Cycling Gravel National Championships: Trek Driftless teammates Paige Onweller, Cobe Freeburn secure elite titles - Cyclingnews",
-      "summary": "Paige Onweller and Cobe Freeburn, teammates at Trek Driftless, won the elite titles at the USA Cycling Gravel National Championships. Their success highlights the growing prominence of gravel racing in competitive cycling.",
-      "why_it_matters": "The event emphasizes gravel cycling's elevation as a distinct and popular discipline, influencing athlete development and industry investment.",
+      "headline": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
+      "summary": "Oscar Isaac and Carey Mulligan lead the nominees for this year's Emmy Awards held in Los Angeles. Notably, the popular show Heated Rivalry is absent from the nominations, raising questions among fans.",
+      "why_it_matters": "The nominations signal industry recognition trends and highlight shifts in popular culture tastes, influencing viewer choices and future TV productions.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTXA5UV8tTDRMdHQ1Vkt2ckd1aU5mZWwyTGtObWNYbDR2Qld3bWFsR2FnbEhETTJ5WHFYRFpwMVlQTGhHWi1HeVdna3F6UE16OWRKWnZPeVd4dVZVWjlid1pkQkYtaWlpR2VmeEVNSVlNc29NeXpkRlhlVUhnSWVEXzUzNHhueGxIN3NoV3JvTjVMN01ILUwzNmJQYThzRTNIVG5CM3U3OHdIaURUSW1rbFM1TDhCYS05d3RCQnBEMWtXbWpLZDluUDJDUk5IaW5hM0JDWGp1Q1c5SGdpYXhqNmVXbnB2aFdBS3UyRVh4d0ppclRCY1piQ0w0cnBZS1Ft?oc=5",
-      "source": "USA Today U.S.",
-      "published": "Sun, 13 Sep 2026 08:29:45 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Sun, 13 Sep 2026 23:21:00 GMT",
       "category": "U.S. News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-14-am-usa-cycling-gravel-national-championships-trek-d-3cee87e6a8.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8ab/live/1b6694c0-b017-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_credit": "",
+      "image_source": ""
     },
     {
       "headline": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "summary": "President Trump announced the removal of the 15% tariffs on Irish whiskey that currently apply to EU goods entering the United States. This decision aims to ease trade tensions and boost Irish-US commercial relations.",
-      "why_it_matters": "Removing these tariffs could lower prices and increase market access for Irish whiskey, impacting trade balances and consumer choice.",
-      "perspective_one": "Supporters claim tariff removal will strengthen economic ties and benefit consumers through lower prices.",
-      "perspective_two": "Critics worry it could invite retaliatory measures or violate broader trade agreements with other partners.",
+      "summary": "President Trump pledged to eliminate the 15% tariff on whiskey imported from the Republic of Ireland during the conclusion of his two-day trip. The tariff removal could ease trade tensions and benefit Irish producers entering the U.S. market.",
+      "why_it_matters": "Ending these tariffs may improve trade relations between the U.S. and Ireland, boost exports for Irish whiskey producers, and influence broader EU-U.S. trade dynamics.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
@@ -52,10 +52,10 @@
     },
     {
       "headline": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
-      "summary": "India hosted the annual BRICS summit, convening leaders from 28 countries including the presidents of China and Iran, while the United States was notably absent. Discussions focused on geopolitical alignment and economic cooperation among emerging and developing nations.",
-      "why_it_matters": "The summit's outcomes could reshape global economic partnerships and challenge Western-led institutions.",
-      "perspective_one": "Proponents argue BRICS strengthens multipolar global governance and promotes developing countries' interests.",
-      "perspective_two": "Skeptics view BRICS as fragmented and unable to effectively counterbalance Western power due to internal disagreements.",
+      "summary": "India hosted the annual BRICS summit with leaders from 28 countries, including China and Iran's presidents, but the U.S. was absent. The summit highlighted emerging alliances and geopolitical realignments amid global tensions.",
+      "why_it_matters": "The BRICS meeting signals shifts in international power structures and potential new economic and political collaborations outside Western influence.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
@@ -68,10 +68,10 @@
     },
     {
       "headline": "Terror recruitment down in J&K, zero stone pelting incidents in 2025: Defence ministry - The Times of India",
-      "summary": "The Indian Defence Ministry reported a decrease in terror recruitment and zero stone pelting incidents in Jammu and Kashmir during 2025, signaling improved security. These statistics suggest effective counterterrorism and community engagement strategies.",
-      "why_it_matters": "Reduced violence in this volatile region could facilitate stability, economic development, and political reconciliation efforts.",
-      "perspective_one": "Supporters credit government security policies and local cooperation for the decline in unrest.",
-      "perspective_two": "Critics caution that underlying grievances remain unaddressed and that recent calm may be fragile or temporary.",
+      "summary": "India's Defence Ministry reported a reduction in terror recruitment and zero stone pelting incidents in Jammu & Kashmir for the year 2025. This marks a significant decline in violence-related activities in the region, indicating improved security conditions.",
+      "why_it_matters": "Lower militancy and public unrest in Jammu & Kashmir can enhance regional stability and open pathways for socio-economic development and dialogue.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNWRLRWc5RFFWQmhrNUhtSUlUbWMzNE40OU1RTXhzN0o0T3RpYURFR25mQ2VadWt3dVZhOV9aTkZqRmh4QVNvM1dOZUxfWmQzZDlPbF9jc1F6LVdCekN0MC1ycnVfZ1Nqcm5jY2RBWVpGQTVTdm8zV0tWT21RbjRBSmxoY01sSjJUNTZuMjNaWVczTEdubzh6U3lUSl82Z1U2SnpHSlJVMmpnYTcxVVpTNENCOUFXdDBBSVJxbnRQdDEwNHhuYll3bDdwcUp3RGhKakhvaE1IcEU1ZGhZdDZuR0lIRVhmT09TSVJiWklrZ9IB9AFBVV95cUxNTGtnYUNoaktPTm5zU0h3VXAtM3dVX2h1d0dFbUdRcmQ1VWREVS1aQ1J4UEUwU2dBSDV6SEktSS0zb3oxVmU4OEtvdkRhREJHM0lVREx6US0xRFJJaldxbFk3WG5SVUE2ckpxUmF6U21hQzh1WTRsQjVqUl9yZ25seG9wcHY1cmlEQkY1NFZ3aS01eHdjaG1xRGgtcG5COVA4Zzd3Q1ZOYm55TUo2MEJkb0xkMG1GSXRVdHhoR3VkOEQwcFhQSmZuS1d6b0wtdkJHWGJ2RGdMUXEzUllOX21BeVkxNzU4cGdnOTJLbEVSai1zQUo4?oc=5",
@@ -84,24 +84,24 @@
     },
     {
       "headline": "Update | Middle East diplomacy falters as war spreads and Hormuz talks stall - South China Morning Post",
-      "summary": "Diplomatic efforts to resolve ongoing Middle East conflicts have stalled amid escalating violence and failed negotiations over the Strait of Hormuz. The widening warfront has increased global concerns about oil supply insecurity and regional stability.",
-      "why_it_matters": "Prolonged conflict disruption in this strategic region threatens global energy markets and complicates international peace efforts.",
-      "perspective_one": "Some argue engagement must continue despite setbacks to prevent further regional fragmentation and economic harm.",
-      "perspective_two": "Others believe tougher measures or revised strategies are needed as current talks have proven ineffective and permissive of conflict escalation.",
+      "summary": "Diplomatic efforts to resolve Middle East conflicts are weakening as warfare expands and negotiations over the strategic Strait of Hormuz have stalled. This impasse risks escalating regional instability and disrupting global oil supplies.",
+      "why_it_matters": "Failure of diplomacy increases the risk of prolonged conflict in a critical oil transit region, potentially driving energy market volatility and international tensions.",
+      "perspective_one": "Some parties view talks as necessary to prevent further escalation and secure energy routes, advocating for renewed negotiations and compromise.",
+      "perspective_two": "Others perceive diplomatic delay as strategic leverage, believing military or political pressure can yield better positions in ongoing conflicts.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0luczhXaDM0bFZyOVFFLU5aY3BBS3lyWFBUVDV4S2t5Tkh3cXVoS1V5eUwwdXJPWTlxVEwxLVlwSGF2Z2kxV2NpY2d0MkpjRGZDYWNxR2o3bkNnM3ZUbU5MOXJEMXBiVzNSRmstUHdjVDVZamVYTmRSWW5rZFFsQXhMMG9fbnM3ejNaS3U0bUtqY25GUW1maUJIR3hrdUdLYVVBQlBWQjBOZ0IyMkkyQ1pQZFlJTVNwRGh6eGg0ONIBvwFBVV95cUxQSjVhQmU0dWhTU2dMN2hwWlNBMlZxQ2FOS0FabV9mM25VbTJSVnl2U3RPaGhVa1dwUlNGb192aU1wYldka3JDUnVYczF3WE1rTldHdFN3YnhjM3Z1QkJoanZoM05PdEhXcXhqVWUwMXN1bzcyY2hYdmRydWRyQlFXS3ZBX2xFNTlkaDNjTjVrakJZWGZFN2p4OWoxeFRwdmVPYzFnZzFwcjNUYTBWZjc4eEVCaWtLRUtDbFhPc1dmWQ?oc=5",
-      "source": "Middle East Affairs",
+      "source": "Arab News Middle East",
       "published": "Sun, 13 Sep 2026 18:57:50 GMT",
       "category": "Middle East Affairs",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-14-am-update-middle-east-diplomacy-falters-as-war-spre-f4abd0ceba.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg/1280px-2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 The Official CTBTO Photostream \u00b7 CC BY 2.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2nd_CTBT_Science_Diplomacy_Symposium_(27472625147).jpg"
     },
     {
       "headline": "FDA Approves Telix's Brain Cancer Imaging Drug Pixclara - PR Newswire",
-      "summary": "The FDA has approved Telix's Pixclara, an imaging drug designed to improve diagnosis of brain cancer. This advancement promises more precise tumor visualization aiding treatment planning.",
-      "why_it_matters": "Pixclara's approval enhances diagnostic capabilities potentially leading to better-targeted therapies and improved patient outcomes in neuro-oncology.",
+      "summary": "The FDA has approved Pixclara, a new imaging drug developed by Telix to improve brain cancer detection. This approval aims to enhance tumor visualization for better diagnosis and treatment planning.",
+      "why_it_matters": "Pixclara's approval may improve diagnostic accuracy and patient outcomes in brain cancer care by enabling earlier and more precise imaging.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -115,41 +115,25 @@
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Cybersecurity Is the Next Big Market for Artificial Intelligence (AI), According to Jensen Huang. This Super Stock-Split Stock Is the One to Own. - fool.com",
-      "summary": "Jensen Huang highlights cybersecurity as the emerging major market for AI applications, emphasizing its potential to transform threat detection. He identifies a leading stock positioned to capitalize on this growth.",
-      "why_it_matters": "AI-driven cybersecurity innovations could significantly enhance protection against evolving cyber threats, impacting investment and corporate risk management.",
-      "perspective_one": "Investors see AI as a critical tool to disrupt traditional cybersecurity markets and drive growth.",
-      "perspective_two": "Skeptics caution overhype and question AI's effectiveness against sophisticated or novel cyberattacks.",
+      "headline": "Cybersecurity Is the Next Big Market for Artificial Intelligence (AI), According to Jensen Huang. This Super Stock-Split Stock Is the One to Own. - The Motley Fool",
+      "summary": "NVIDIA CEO Jensen Huang predicts cybersecurity will be the next major growth area for AI technologies, highlighting investment potential. This position underscores AI's expanding role in protecting digital infrastructure against growing cyber threats.",
+      "why_it_matters": "AI-driven cybersecurity advancements could transform threat detection and defense, impacting technology markets and corporate security strategies globally.",
+      "perspective_one": "Proponents see AI as essential to counter increasingly sophisticated cyberattacks and believe investment in AI cybersecurity is timely and lucrative.",
+      "perspective_two": "Skeptics warn overreliance on AI in security may introduce new vulnerabilities and ethical challenges, requiring cautious implementation.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjk0Z2I2Nnh4MktjOVV4QTdLSHk5STJaLXozZXltWUFGN2ZUNzJ0Sm9QQ1dpX3ZVT05rWXhTLWYwenRCVWVaOGlzWENfOVlVakhwS1NEVVphaFVENmlMWWF6eUVhUjZGUTNNLWVxVUVJRXhyR0xtVl9xVkw3amw0UlNSMjB1cW9fbEtCbkUtRkMyZTFQWUJ0Zg?oc=5",
       "source": "AI & Technology",
       "published": "Sun, 13 Sep 2026 22:30:00 GMT",
       "category": "AI & Technology",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-14-am-cybersecurity-is-the-next-big-market-for-artific-176bb01090.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "All eyes on Warsh - The Star",
-      "summary": "The article discusses increased attention on Warsh in the context of current business and economic events. His influence is seen as pivotal amid evolving market conditions.",
-      "why_it_matters": "Warsh's decisions and perspectives could influence financial markets, regulatory approaches, or economic policy debates.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRU5xWjYweHM5YllUZkQyZGlpaFRjZjZlaEVuaWNSQU9oZFp5am9MOU5rUFpZcU4zSUR6VTFKR3R3ZU1sTUlCVGVrVlI5eVZXOUpjWTlVaHFwY20wZGhtYjFOQUd6V1Y1TzFFOG9OMHM1XzlmT3o2aGl5NmJPR3RXb3pLdTQ?oc=5",
-      "source": "Business & Economy",
-      "published": "Sun, 13 Sep 2026 23:49:09 GMT",
-      "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-14-am-all-eyes-on-warsh-the-star-1fb676a98c.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-14-am-cybersecurity-is-the-next-big-market-for-artific-42d5c33ff7.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
       "headline": "August CPI Is the Last Inflation Print Before the Fed\u2019s September Vote - BBN Times",
-      "summary": "August's Consumer Price Index report was released as the final inflation data before the Federal Reserve's upcoming September policy decision. This inflation readwill influence expectations about interest rates and monetary policy.",
-      "why_it_matters": "The CPI figures shape the Fed's stance on controlling inflation, affecting borrowing costs, investment decisions, and economic growth projections.",
+      "summary": "August's Consumer Price Index (CPI) data has been released as the final major inflation indicator before the Federal Reserve's September policy decision. The CPI figures will influence whether the Fed maintains or adjusts interest rates to manage inflation.",
+      "why_it_matters": "This inflation data is crucial for determining U.S. monetary policy, affecting borrowing costs, market stability, and economic growth prospects.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -163,9 +147,25 @@
       "image_source": "AI-generated fallback"
     },
     {
+      "headline": "'This is the test': All eyes on US Fed to tackle high inflation - The Business Standard",
+      "summary": "The U.S. Federal Reserve faces critical decisions on tackling persistent high inflation as markets closely watch upcoming policy moves. The Fed's actions will signal its ability to balance inflation control with economic growth preservation.",
+      "why_it_matters": "Fed decisions directly influence interest rates, consumer spending, and investment climates, shaping the U.S. and global economic outlook.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVQ5RjNhNlNrUHpwV0FLeEhJakk0NDZrRUw2aEdqUTNqUmNOa3BKWWVKV3ZVN1pETUxQS3JvanZYMENMQTlLbzNwWWphX1Y5Z2QyYlhja2RXOHlRdFYzZUJ1aTNHUFNHNTRZa2s2anNyRG5XTGtocEdoOEFHVEdwV2dlQ3JFTDDSAYwBQVVfeXFMTjkzY05RYkQ3bGpXOC1Pb08wRFhaXzMwV3dWSEEwa1NxTEZpd25hSmlDSElHc2czdVNaallNVDFYdWFTenhDbXlpWWNjRWhYQmpaMnJvMEZMdFlOOVB0VVhLUEJVU3hRMzdCMHQ4T3JRQ0lWT3Q1d1JtWGQ1YzZsdDE3a0E4clJtZ0ptQnU?oc=5",
+      "source": "Business & Economy",
+      "published": "Sun, 13 Sep 2026 20:05:25 GMT",
+      "category": "Business & Economy",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-14-am-this-is-the-test-all-eyes-on-us-fed-to-tackle-hi-da5ebd431e.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
       "headline": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
-      "summary": "Gates Notes highlights the arrival of a turbulent AI era where critical decisions must be made regarding its development and use. Responsible governance and ethical considerations are emphasized to navigate AI\u2019s disruptive potential.",
-      "why_it_matters": "How stakeholders manage AI today will shape societal impacts, economic equity, and global competitiveness for decades.",
+      "summary": "Bill Gates emphasizes the critical decisions humanity faces in managing AI's rapid advancements during this turbulent era. The future impacts will depend heavily on ethical governance, innovation speed, and societal adaptation.",
+      "why_it_matters": "Our approach to AI governance will shape global economic structures, job markets, privacy standards, and ethical boundaries for decades.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -180,8 +180,8 @@
     },
     {
       "headline": "Updated MLB Playoff Picture 2026, Standings, Wild Card Seedings and Bracket Outlook - Bleacher Report",
-      "summary": "The 2026 Major League Baseball playoff picture was updated, highlighting current team standings, wild card seedings, and bracket prospects. These standings guide fan expectations and strategic planning for postseason battles.",
-      "why_it_matters": "Accurate playoff projections influence team management decisions, fan engagement, and media coverage late in the regular season.",
+      "summary": "The latest MLB standings and playoff seedings have been updated as teams close in on the postseason in 2026. These updates provide critical insights into wild card positions and potential bracket outcomes.",
+      "why_it_matters": "Understanding current playoff standings aids teams, fans, and analysts in assessing competitive strategies and postseason prospects.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -196,8 +196,8 @@
     },
     {
       "headline": "Bills vs. Texans takeaways: Josh Allen overcomes Houston defense in potential AFC championship preview - CBS Sports",
-      "summary": "Josh Allen led a strong performance against the Houston Texans, overcoming their defense in a game considered a preview of a potential AFC championship. His play showcased leadership and resilience under pressure.",
-      "why_it_matters": "Allen\u2019s success signals the Bills\u2019 strong championship prospects and influences NFL playoff narratives and strategies.",
+      "summary": "Josh Allen's performance led the Buffalo Bills to outplay the Houston defense in a game seen as a preview of a potential AFC championship matchup. The Bills' offensive success highlighted Allen's leadership and skill under pressure.",
+      "why_it_matters": "This game provides insights into team strengths and weaknesses as the NFL season progresses toward playoff positioning and championship possibilities.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -211,25 +211,25 @@
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Good News in History September 13",
-      "summary": "Actor-comedian Jean Smart celebrates her 75th birthday, recognized for multiple Emmy and Golden Globe awards. A recent talk show segment highlighted her acclaimed performances on shows like Designing Women and Hacks.",
-      "why_it_matters": "Smart\u2019s enduring success exemplifies influential television artistry, inspiring audiences and actors across generations.",
+      "headline": "A Hungry Cleaning Lady Bit into an Apple and Solved the Case of Legendary Diamond Heist",
+      "summary": "A century ago, a cleaning lady's discovery during a snack break led to solving the mystery of the Grand Cond\u00e9 diamond heist. Her inadvertent finding helped keep the diamond in public view, enabling new museum exhibitions in France.",
+      "why_it_matters": "This story illustrates how unexpected contributions can preserve cultural heritage and solve longstanding historical mysteries.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/events060913/",
+      "url": "https://www.goodnewsnetwork.org/a-hungry-cleaning-lady-bit-into-an-apple-and-solved-the-case-of-legendary-diamond-heist/",
       "source": "Good News Network",
-      "published": "Sun, 13 Sep 2026 07:00:00 +0000",
+      "published": "Thu, 10 Sep 2026 15:30:31 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/09/Jean-Smart-in-Hacks-by-HBO-fairuse.jpg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-Grande-Conde-diamond-credit-Benjamin-Chelly-Ecole-of-Jewelry-Arts-press-photo-e1789031159266.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
       "headline": "Missouri 2022 congressional districts will govern November, state Supreme Court rules - eciks.org",
-      "summary": "Missouri's Supreme Court ruled that the 2022 congressional districts will be used for the upcoming November elections. This decision ends disputes over district boundaries and sets the stage for electoral contests.",
-      "why_it_matters": "The ruling determines representation and political dynamics in Missouri for the congressional term, impacting local and national balance of power.",
+      "summary": "Missouri's Supreme Court ruled that the 2022 congressional district map will be used for the upcoming November elections. This decision settles disputes over district boundaries that have implications for electoral representation.",
+      "why_it_matters": "Upholding the 2022 districts affects political balance in Missouri and influences voter enfranchisement and election fairness in the state.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -238,46 +238,30 @@
       "source": "U.S. Politics",
       "published": "Sun, 13 Sep 2026 18:26:07 GMT",
       "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-14-am-missouri-2022-congressional-districts-will-gover-35b7f2dc00.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
       "headline": "Election chaos in this red state just got even stranger for Republicans after Supreme Court ruling - Fox News",
-      "summary": "Following a Supreme Court ruling, election-related chaos in a Republican-leaning state has intensified, complicating voting procedures and party strategies. The ruling adds uncertainty to electoral processes ahead of upcoming contests.",
-      "why_it_matters": "The decision affects election integrity perceptions and could influence voter turnout and party control in a critical state.",
-      "perspective_one": "Republicans see the ruling as further complicating elections and potentially disadvantaging their candidates.",
-      "perspective_two": "Others view it as necessary judicial clarification ensuring fairer electoral administration.",
+      "summary": "A recent Supreme Court ruling intensified election-related confusion in a Republican stronghold state by altering procedures or outcomes. The decision complicates GOP efforts to navigate or secure election processes in upcoming contests.",
+      "why_it_matters": "This ruling could shape voter access, election integrity debates, and partisan control in a key political battleground, affecting state and national politics.",
+      "perspective_one": "Republicans argue the ruling undermines election security and voter confidence in a historically GOP state.",
+      "perspective_two": "Opponents contend the ruling corrects unfair barriers and promotes democratic participation.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDl0dWhOVXFQeHU1ZXZyOHlwcEhjRjgxNnlFM3ozRzdSNmw5bzBBT3dsbTlyUHhFREhWMENjZlhGY2FYZFR5dkMyZTZtYzdVd1VwM0cxV2hYS1luSkhyZXVfVzFLdGNzVzI2VzV0ZUtoLXBfVUsxQkxhRUpyWlFaNjg3SFRZYTlHZU1SZEtleEo1S21OaDJZVEFlNWpqZk5f?oc=5",
       "source": "U.S. Politics",
       "published": "Sun, 13 Sep 2026 16:34:12 GMT",
       "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
-      "summary": "The Emmy Awards ceremony in Los Angeles features nominations including Oscar Isaac and Carey Mulligan for Beef. The notable absence of the show Heated Rivalry sparked discussion among viewers and critics.",
-      "why_it_matters": "The nominations reflect current industry trends and influence public interest and viewership patterns for television.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sun, 13 Sep 2026 23:21:00 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8ab/live/1b6694c0-b017-11f1-b1d1-571ed4d7ff2c.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-14-am-election-chaos-in-this-red-state-just-got-even-s-4aaaa1e104.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
       "headline": "Carney gambles on the world's biggest investors betting on Canada",
-      "summary": "During a trade war with the US, Prime Minister Carney leveraged global financial connections to attract major investors into Canada. This strategy aims to bolster Canada's economic resilience and international investment appeal.",
-      "why_it_matters": "Securing large-scale investment amid trade tensions could stabilize Canada's economy and mitigate potential losses from US restrictions.",
+      "summary": "Amid an ongoing trade war with the United States, Canadian Prime Minister Carney leveraged global financial connections to attract some of the world's largest investors to Canada. This effort aims to solidify Canada's standing and counterbalance economic pressures.",
+      "why_it_matters": "Bringing major investors supports Canada's economic resilience and trade diversification as it navigates turbulent international trade relations.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -291,25 +275,41 @@
       "image_source": ""
     },
     {
-      "headline": "US congressman swims to safety after his plane is forced to land on a lake",
-      "summary": "Rep. Tom Tiffany's small plane experienced mechanical issues, forcing an emergency landing on a Wisconsin lake. The congressman then swam to safety, avoiding injury in the incident.",
-      "why_it_matters": "The event highlights aviation safety challenges and emergency preparedness for public officials traveling by small aircraft.",
+      "headline": "Wisconsin congressman survives emergency plane landing, swims to safety",
+      "summary": "Wisconsin Congressman Tom Tiffany survived an emergency plane landing in a lake and swam to shallow waters for safety. Both he and the pilot successfully called 911 from atop the partially submerged aircraft.",
+      "why_it_matters": "The incident highlights the importance of emergency preparedness and swift response for public officials and aviation safety protocols.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
+      "source": "NPR U.S.",
+      "published": "Sun, 13 Sep 2026 13:45:33 -0400",
+      "category": "U.S. News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/948x632+0+0/resize/948x632!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F67%2F2b021b4b466bb9ae948fbb055922%2F123-1.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Iran war reshapes Brics ties but also exposes divisions",
+      "summary": "Brics countries agree on the need for a new global order but face challenges in reaching consensus on what it should be and how to achieve it. The Iran war has both strengthened some alliances and revealed underlying fractures within the bloc.",
+      "why_it_matters": "These divisions may impact Brics' ability to act cohesively on global issues, affecting international diplomacy and economic strategies.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Sun, 13 Sep 2026 15:30:43 GMT",
+      "published": "Sun, 13 Sep 2026 11:23:42 GMT",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14d6/live/cd399ee0-af86-11f1-913a-7151f234deb3.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
       "headline": "At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability - Seymour Tribune",
-      "summary": "At the BRICS summit, Indian Prime Minister Modi warned that escalating geopolitical tensions and disruptions to supply chains pose risks to global stability. His speech called for cooperative international approaches to manage these challenges.",
-      "why_it_matters": "Modi's emphasis highlights vulnerabilities in the world economy and suggests BRICS nations may seek greater roles in steering global order.",
+      "summary": "At the BRICS summit, India\u2019s Prime Minister Modi cautioned that escalating geopolitical tensions and disruptions in global supply chains pose significant risks to worldwide stability. He urged member nations to collaborate to mitigate these challenges.",
+      "why_it_matters": "Modi\u2019s warning stresses the necessity for coordinated international responses to safeguard economic continuity and peace amid rising global frictions.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -323,25 +323,9 @@
       "image_source": ""
     },
     {
-      "headline": "Saudi Arabia closes its East-West pipeline after attacks from Iraq - FDD's Long War Journal",
-      "summary": "Following attacks from Iraq, Saudi Arabia closed its East-West oil pipeline to assess damages and security. The closure disrupts a critical energy transport route amid regional hostilities.",
-      "why_it_matters": "Pipeline closure threatens oil supply continuity, elevating global energy market volatility and geopolitical tensions in the Middle East.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa1RyZFphaVFzYzhqdU0zRV81V3dVU0Q4dnR4aHFsTHJuLW9kaVlkOE9zRmRTRGVTcVpYakFIM29UVUpkTXROM3lRY3pqQVNzd1NmNmVPOEc5c2ZUdjVHT0ItMm1JcjhMZl9LazZGSVZGRkszSEZpeV9Vd1ZKNTRBdDMwTDZkc2QtcU40bDc0bFJOMk9GMEFxSWdaZkdwRi1Nd1JkbF9YU0pDUFZxS0lJNkhRWjVyaTRUYnc?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sun, 13 Sep 2026 15:06:38 GMT",
-      "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
       "headline": "New attacks in Hormuz and Saudi test nerves as war's spread worsens oil disruption - Reuters",
-      "summary": "Recent attacks in the Strait of Hormuz and Saudi Arabia have raised alarm over escalating conflict and its impact on oil supply chains. These hostilities exacerbate risks of prolonged energy market instability.",
-      "why_it_matters": "Disruptions in this key energy transit region threaten global oil availability, with economic and geopolitical fallout.",
+      "summary": "Recent attacks in the strategic Hormuz Strait and Saudi Arabia escalate regional conflict, heightening concerns over destabilized oil shipping routes. These security tensions exacerbate disruptions to global energy supplies.",
+      "why_it_matters": "Escalating violence in key oil transit zones threatens energy markets and global economic stability by risking supply shortages and price spikes.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -355,32 +339,48 @@
       "image_source": ""
     },
     {
-      "headline": "Emyria to speak at US FDA hearing - The Australian",
-      "summary": "Emyria, a biotechnology company, has been invited to speak at an upcoming FDA hearing. The engagement signals progress in their regulatory process.",
-      "why_it_matters": "This hearing offers an opportunity for Emyria to influence regulatory decisions, potentially advancing novel medical treatments.",
+      "headline": "Direct from the Source: Meet Wholesale Power Strip Surge Protector Supplier at the China International Hardware Fair - EIN News",
+      "summary": "The China International Hardware Fair showcased wholesale suppliers of power strip surge protectors, presenting opportunities for international buyers. This event highlights global trade dynamics in electronics and hardware components.",
+      "why_it_matters": "Participation in such fairs facilitates supply chain expansion and technological diffusion in electrical safety products globally.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVFpNenlFRndZMVpWUTc1MHNFNWVEdTJvZGkxUTBqNElyNTFoaUlUb2w3V1Z1bFdFNUtNMVBUOGNuTk01S09zeUJ4ekoxRjF5UXV5b3oyUHVndHZ2NWEyS1JFYXNoQ3dlbWJpQl90c1JINzJISHFuNldDSkR2elUyUHFuT05laWxYNmEwdzkxYy1wZndqUXZRdnlTT3pJYnZHN1hHemEtQ25pZVJwVjdlNjJJLTAxNGhRRTZPb3ZQazZXVE1jMklrQlF4QXZQZlhJQXk4LVZKcGsxb1FqYUVDRFEtYTFET0U1LURGbmJ5NlVjSXJxVHfSAfsBQVVfeXFMTk9aLWp5SjZkYXhhUldKRlRxTFFSRFdnQWJSMW9Wa3hvckdiR2lHczVaMlRfVDh2ZVBUaHhXWEswOUtDbDc4cTJYZWp5Z1hwNWZlY0IyWWJaVTJONXFnNm9LUk9DeFhmZW4xeXZTRjFsNllJSDNPM3hSc04zbVB5ZE1aWFF4LWlOX3FaN3F5cVZtWml4dFQyUXY5N3hEZXg0Vk02SHJjQnNrMGo3RFV1dUUwNUtKRnVudTB2WjlhZ1g0dWVOZXAyS0pmRjZ5MHZWdmZHcWFNTF9iRldsaEJMZHg1bVVObzRiTTNMTkp6WnRhdkpLeU80SGlqcXM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWENzdll0Rk90YTJGYUZodWZ3ZGI3ZjNGWEhRcmIwdXFTVDkxcEdqaGhsVEZfdTBycVVNNFEyN2hhZUswMHBxOEgzUE10LW5LNE5YQ0VBTlBhY2ZBV1hhaFhmZWc5dUVUdG5aZ09RMFQ1SXVBYm1udHdMbWZGZ09aanpfTVhabGVJb0NTeDMzRG1NeS1Hak5KLWlHR21vV2dzZkE5VVVEUXFCSHBaOWJCQVZmWDNndHpUS09QdW9kN3pBMXJjTXJPcHdUV0lPQTlqVHNNS1JNcDlXMlpSS1psNy1lYzlQaHBLcUZyRG5n?oc=5",
+      "source": "The National Middle East",
+      "published": "Mon, 14 Sep 2026 09:54:00 GMT",
+      "category": "Middle East Affairs",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "FDA Approves Isembyld, First SMA Treatment To Target Muscle Loss - Dallas Express",
+      "summary": "The FDA approved Isembyld, the first treatment targeting muscle loss in spinal muscular atrophy (SMA) patients. This drug offers a novel therapeutic approach aimed at mitigating progressive muscle degeneration.",
+      "why_it_matters": "Isembyld expands treatment options for SMA, potentially improving patient mobility, quality of life, and long-term outcomes in this rare neuromuscular disease.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEUta1VkWGwzNnBPaEFaVjJ4c0RmWU1QY3ZDZjBIU3Exc2MwR19RUzFlaC1KRGcyWXViUXFnanJXc3hZaG1CSWdFdVB0Q05nbmdHaGNlbFZ3TDZJMk02c1ZXR1JGcDZVUG42eXluMmZTSVZJa0lSOTRhVmxXU3ZYN05TNXFNQWhkOFM3ZDFxY082Zmt0bFJYR2NBeU94Zw?oc=5",
       "source": "Health & Medicine",
-      "published": "Sun, 13 Sep 2026 21:52:23 GMT",
+      "published": "Sun, 13 Sep 2026 18:05:00 GMT",
       "category": "Health & Medicine",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Nigeria prepares AI defences for elections - ITWeb Africa",
-      "summary": "Nigeria is implementing AI-based systems to protect the integrity of upcoming elections. These measures aim to detect and counteract manipulative tactics and misinformation.",
-      "why_it_matters": "AI defences could safeguard democratic processes in Nigeria by reducing election fraud and improving transparency.",
+      "headline": "An Open Letter to African Leaders on Artificial Intelligence, Cybersecurity, Digital Sovereignty and the Protection of Africa's Future - Techzim",
+      "summary": "Tech experts issued an open letter urging African leaders to prioritize AI governance, cybersecurity, and digital sovereignty to protect the continent\u2019s future. The letter calls for policies that balance innovation benefits with security and autonomy.",
+      "why_it_matters": "Effective digital policies are vital for Africa\u2019s technological independence, economic growth, and resilience against external cyber threats.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkg1VHRJaWk0MTBZWjY1VFNrd2tBYnVuTzFNSVg2SVFqWXdpSlktbVJ2al9tRVpzRk9WRUcwSGNoNi1hY0RhUXhsU19la0p3c19jQ2wyaEtDVmpWa0hpSThMckNWTlBMeDFIOUdrZEJseVJBUURMaDdENndrVVh2Wlk4T3pMRXQzOFFILUx1VWtldw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDVBVWlpX0p1WjBSYzVOYk1Uc3k1WEFkQWIyUUtCeGstWk83a01GT0xDemw5Wk5qcHhOX0tBOWROTFMtVDVOWU5GYmJWVks2Y1R3RXBOMnEtSzJXSUpjOG1KV05XWmJGN252TmJrcmk3QnN2V0dWenhSQWNxMG9heUZoekVBbGVHRDZBLVlJb1FTRl9ZSFdlVE1vcTRSYXdQdG1NWHJ2MVJlMXRpajRNTHhsd2Y2TjhCZi1tU0dtUTAzRmp3bV9iclkyU1hFUG1HMnRiMXFjeU9haGhOdW5uazJSRkJYcGhzSmk4NG1lM2M0TndESXFBMk1n?oc=5",
       "source": "AI & Technology",
-      "published": "Mon, 14 Sep 2026 09:22:09 GMT",
+      "published": "Mon, 14 Sep 2026 10:31:27 GMT",
       "category": "AI & Technology",
       "image": "",
       "image_credit": "",
@@ -416,25 +416,19 @@
         "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors."
       },
       {
-        "headline": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-        "source": "USA Today U.S.",
-        "summary": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica"
-      },
-      {
         "headline": "Forecast says families will spend more to heat their homes this winter",
         "url": "https://www.npr.org/2026/09/14/nx-s1-5966663/forecast-says-families-will-spend-more-to-heat-their-homes-this-winter",
         "source": "NPR U.S.",
         "summary": "It's probably going to cost more to heat your home this winter. Forecasters say heating bills are likely to climb faster than overall inflation, despite what's expected to be a relatively mild winter."
+      },
+      {
+        "headline": "Kennedy Center board says venue could close soon due to financial woes",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968179/kennedy-center-board-says-venue-could-close-soon-due-to-financial-woes",
+        "source": "NPR U.S.",
+        "summary": "NPR's A Martinez speaks with Washington Post arts and government reporter Jonathan Edwards about internal documents showing the Kennedy Center could close as soon as Tuesday."
       }
     ],
     "World News": [
-      {
-        "headline": "Iran war reshapes Brics ties but also exposes divisions",
-        "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
-      },
       {
         "headline": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
         "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
@@ -446,15 +440,21 @@
         "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority."
+      },
+      {
+        "headline": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
+        "source": "NPR World",
+        "summary": "China's Ministry of Foreign Affairs on Monday hit back at a call from the head of Anthropic for the U.S. to curb China's artificial intelligence capabilities."
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Direct from the Source: Meet Wholesale Power Strip Surge Protector Supplier at the China International Hardware Fair - EIN News",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWENzdll0Rk90YTJGYUZodWZ3ZGI3ZjNGWEhRcmIwdXFTVDkxcEdqaGhsVEZfdTBycVVNNFEyN2hhZUswMHBxOEgzUE10LW5LNE5YQ0VBTlBhY2ZBV1hhaFhmZWc5dUVUdG5aZ09RMFQ1SXVBYm1udHdMbWZGZ09aanpfTVhabGVJb0NTeDMzRG1NeS1Hak5KLWlHR21vV2dzZkE5VVVEUXFCSHBaOWJCQVZmWDNndHpUS09QdW9kN3pBMXJjTXJPcHdUV0lPQTlqVHNNS1JNcDlXMlpSS1psNy1lYzlQaHBLcUZyRG5n?oc=5",
-        "source": "The National Middle East",
-        "summary": "Direct from the Source: Meet Wholesale Power Strip Surge Protector Supplier at the China International Hardware Fair EIN News"
+        "headline": "Oil Touches Two-Week High After Drone Attack on UAE Nuclear Power Plant - EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
+        "source": "Reuters Middle East",
+        "summary": "Oil Touches Two-Week High After Drone Attack on UAE Nuclear Power Plant EnergyNow.com"
       },
       {
         "headline": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
@@ -471,25 +471,31 @@
     ],
     "Health & Medicine": [
       {
-        "headline": "FDA Approves Isembyld, First SMA Treatment To Target Muscle Loss - Dallas Express",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEUta1VkWGwzNnBPaEFaVjJ4c0RmWU1QY3ZDZjBIU3Exc2MwR19RUzFlaC1KRGcyWXViUXFnanJXc3hZaG1CSWdFdVB0Q05nbmdHaGNlbFZ3TDZJMk02c1ZXR1JGcDZVUG42eXluMmZTSVZJa0lSOTRhVmxXU3ZYN05TNXFNQWhkOFM3ZDFxY082Zmt0bFJYR2NBeU94Zw?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA Approves Isembyld, First SMA Treatment To Target Muscle Loss Dallas Express"
-      },
-      {
-        "headline": "AI Is Transforming Medical Imaging: FDA Approvals, Smarter Scans and the Next Era of Radiology - sphericalinsights.com",
+        "headline": "AI Is Transforming Medical Imaging: FDA Approvals, Smarter Scans and the Next Era of Radiology - Spherical Insights",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckN0VUt2Z0RYblJrSThIS2U1UUlTYS1XVUM5X20tYldncGp5WGVWRmF4SGdTNjhwNkJ1T05rczhoY1JUbWVGdkF1ZDZIQk5NekMwMi02TXFNUXJZZzRWQmFKaFoxaWpwQkNIeHJwamNoT2xhSkR3YU9IanpwbWdrYmRscDk4N3NVTS04SFB0dGtIVGtvdGhlQU1ydW0xdUZOUGZCRnVPRTNIblNaR1RfQkFFZV9KUlMwcjVfOE1acTlpdDZVTUFnZ2dXSTc?oc=5",
         "source": "Health & Medicine",
-        "summary": "AI Is Transforming Medical Imaging: FDA Approvals, Smarter Scans and the Next Era of Radiology sphericalinsights.com"
+        "summary": "AI Is Transforming Medical Imaging: FDA Approvals, Smarter Scans and the Next Era of Radiology Spherical Insights"
       },
       {
         "headline": "Trump\u2019s FDA followed the science on vaping. Politicians are furious - Washington Examiner",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXlhRXY1aUo0b1hPcVJiNzI2R3hBeVlrZFlnMDg5eDVSNHg2dXFqVEJ2R3lmbWp1SEFYQnlQSU1QQUZtdnZvMEZycjNjYWZxZVJuX0x6Rk5heWVuel9JaTQ0VWJBTF9KRHVBVl9jY1B1ZWttaDNtZ0F1MUczeWxuUmxvUDZTd0xZZ2xyMTFVZ2pod19DeWJLMndJYzQtQQ?oc=5",
         "source": "Health & Medicine",
         "summary": "Trump\u2019s FDA followed the science on vaping. Politicians are furious Washington Examiner"
+      },
+      {
+        "headline": "Watertown Clinic Expands Functional Medicine Services With New FDA-Cleared Wellness Therapies, Sept. 15 Open House - Northeast Radio SD",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjFkcmJnSkpfY2NTTjAtRlIwSUl5RG1qSEU3bDRuVG9BMEV5N1pZRHlpaDhXb1F2LVZhbEJyUHQxWFpNYlJpV2NNQnFtNUZ4SUFLSW1icXItWWtzdHZ0aEpsSnNiN3c1UExtMlVid3pqUlNnYkhIZDV5c3ZuZXFQWmZCc1ZsRDNMdlEteWgwclIxT1cxcTJDWUVhMkkyRXEyWEZLSWRNRVVBb3RMM3FRYm12YVVPWnF6R2hNbTBVNjlhbHNBR3N5Nl9iMmFxQl85Smc?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Watertown Clinic Expands Functional Medicine Services With New FDA-Cleared Wellness Therapies, Sept. 15 Open House Northeast Radio SD"
       }
     ],
     "AI & Technology": [
+      {
+        "headline": "Nigeria prepares AI defences for elections - itweb.africa",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkg1VHRJaWk0MTBZWjY1VFNrd2tBYnVuTzFNSVg2SVFqWXdpSlktbVJ2al9tRVpzRk9WRUcwSGNoNi1hY0RhUXhsU19la0p3c19jQ2wyaEtDVmpWa0hpSThMckNWTlBMeDFIOUdrZEJseVJBUURMaDdENndrVVh2Wlk4T3pMRXQzOFFILUx1VWtldw?oc=5",
+        "source": "AI & Technology",
+        "summary": "Nigeria prepares AI defences for elections itweb.africa"
+      },
       {
         "headline": "AI safety warnings grow as New York officials weigh oversight - ABC7 New York",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnU3OGZTZnIxNnlaNUZVOS1oTVRuSFBNUmRHcHoyc1cwY1F3U1J0UDM4RTdxaEpNX05tZ08wc040NFBNWUtDaVVoOGh0a3ZCWnJBVlFIUk9LYlBuMTZmZlhPekRxVnFySnZIMFlJTzVENzl0cndTbENuaHZtOVZOLTBXdFBadXhkN21kN0pRVDBRaGhEc3dB0gGcAUFVX3lxTFBNb1kwckVFb0xSekxlRXY4cUJ2YmRyRTU1VnFXU0xPdVhUcERBWlFicVFTNjR5eENDbWpteUQ3cTNtQ3o3RTRWVVFRV2s0TUFZMEtpcTBzYWI1elRUZ3ViQ3hIaXU0R0JQSlFGVUFDU3MxcV9PV0NSYV8tUXhQNk45MnF0bHpzUFl4R2VORm5nd1RCRGRUVHNmbzNybg?oc=5",
@@ -497,16 +503,10 @@
         "summary": "AI safety warnings grow as New York officials weigh oversight ABC7 New York"
       },
       {
-        "headline": "Israeli experts are warning that AI is exponentially increasing cyber threats - The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcmNjcUVQQW5QRlNyRW1IOGlseG4yUG5RQm5KcmpDNFJyS2VWVHo0YmU1UE9TajVyajB1ZFp3ZVRubjZsWF9TYTVzMGVFRFFISGtTb1RKRUtKdlJKM1VYTjY3SGRBZkFGMUZqMA?oc=5",
-        "source": "AI & Technology",
-        "summary": "Israeli experts are warning that AI is exponentially increasing cyber threats The Jerusalem Post"
-      },
-      {
-        "headline": "Former CIA Digital Innovation Chief Jennifer Ewbank Warns of a Secret War for the Human Mind - Homeland Security Today",
+        "headline": "Former CIA Digital Innovation Chief Jennifer Ewbank Warns of a Secret War for the Human Mind - hstoday.us",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdUZabWV3QWRNalVCSUVJN2tqb3d3ekRGVjRGc081ZHhMU3JaQlJ3MGpIV3ppdDVYN2ozSklDZjR1UVppeENpdW5DZlUtRXhrbjlRelhISmhNbzFQQV82UlNLUHVoX3hLSWtZWmhYanJ3Tlh3cGxtQUxSa01GcENBbk5jdWE1UFhpRWZSNFhVU2YwUTc0RTU4d0t2Y3JvdUlsWDVPMXlodldPeGZKX0NHTjV6MmdfcUV2TklUVUUwNE0wODNVMG12M0FLZ1lFTHZ6N2JuY1huaU0zbDhPaDR0QjJFQUo?oc=5",
         "source": "AI & Technology",
-        "summary": "Former CIA Digital Innovation Chief Jennifer Ewbank Warns of a Secret War for the Human Mind Homeland Security Today"
+        "summary": "Former CIA Digital Innovation Chief Jennifer Ewbank Warns of a Secret War for the Human Mind hstoday.us"
       }
     ],
     "Business & Economy": [
@@ -517,16 +517,16 @@
         "summary": "Trump's Tariff Turnaround: Boost for Irish Whiskey Devdiscourse"
       },
       {
-        "headline": "Fed Chairman Warsh faces pressure to \u2018put up or shut up\u2019 after hot CPI report - Times West Virginian",
+        "headline": "Fed Chairman Warsh faces pressure to \u2018put up or shut up\u2019 after hot CPI report - timeswv.com",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYlJTa0lIc3o0Q0w5MVVOQzJaWURnb3I3c3lfOXN0TXN2UkxPWU84WDdvbllTV1F0eXl5d291RWJ6UnpmVUdMci13WVZyZk5oZEdvQkNqSFNFRllwWkI2Rldud1JmeWd4Zl9SM2Utd1NVZUhZRVZobklRZ01mMFQxWFg0T01YeG9aaDVWR3QyUXNkYk5tNWRZcUgyN2JjVElBelIwNnJ0c0JGWmtUVVBUaG5PR2VuRE5MazVGNFRBc0dZRjFaRHJVWnE1YnNTelhxU211UFZQSFRkb2FHX3pkSHRNcmVxamc4WjJtWk51NDNfSVVYaVE?oc=5",
         "source": "Business & Economy",
-        "summary": "Fed Chairman Warsh faces pressure to \u2018put up or shut up\u2019 after hot CPI report Times West Virginian"
+        "summary": "Fed Chairman Warsh faces pressure to \u2018put up or shut up\u2019 after hot CPI report timeswv.com"
       },
       {
-        "headline": "Mike Dolan | Trump\u2019s baffling Fed threat could be a gift to Warsh - news24.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeEp4eDZsN1FhTXp2eFNJYTRET09uU09LU3llZG8ycGdDWkcyQ2RRU3RIVzdtTU9GejZKQXJ0U1QtODhtdjc0MU5xem15Vmx0YWxnWnF3Q3BiVXk1alVXVkhEUGJBbmwzdXdhYjlFT2dZamc1T1ZMU1k5RlNUOG9FU0ZWeWR0Tl9FNUVFUDBmMGhrbDdrNEtkXzFKdVNoRlhaaDFZZk43UDBpTUg1cWJCYTlqQ0E0QUE?oc=5",
+        "headline": "Fed's table is set for a rate hike, a first under Warsh - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
         "source": "Business & Economy",
-        "summary": "Mike Dolan | Trump\u2019s baffling Fed threat could be a gift to Warsh news24.com"
+        "summary": "Fed's table is set for a rate hike, a first under Warsh Reuters"
       }
     ],
     "Society & Culture": [],
@@ -544,19 +544,13 @@
         "summary": "MLB playoff race: Which contenders have the easiest and toughest schedules in this final stretch? The New York Times"
       },
       {
-        "headline": "World Athletics Ultimate Championships: Was the three-day event a success? - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVFqLVNiWWFIbDVFN2RxZ0xlS3RFVFpuVFBEYTBoczZCdm9jSXRWQWptU0FvaDJMaEdNTnl5a2JIb3dwWDVPVjlTbm9rTTFiUF95aHVnNE1DbzNGQXNwUkk3d1FZT1FVSlk5NUYxbWd1bGFqalNINmdUNW5HYUtPc3JrSVZsOXdIbXdUTGEzM2JHc2hJcUlzMlRtdktHNWR5MGc?oc=5",
-        "source": "Major Sports",
-        "summary": "World Athletics Ultimate Championships: Was the three-day event a success? The New York Times"
+        "headline": "Vikings\u2019 Kyler Murray goes down with scary injury in season opener - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSm5mT2szMkc5a1AyX2dxUG5CdG9uN0VMemI4RllteVpZTVYzSUZaRVdyYzNmM2pMbUxWbm1qSjlBWXJPTGxFUGdyN2FtT1VOdFluVDJuakd6TFl2YVNFcVlRN2FPY0lMQ1V6dEl6ajBfeXBfdkw1RkdfXzN5cGl6eXZSbGQ4dw?oc=5",
+        "source": "NFL Opening Week",
+        "summary": "Vikings\u2019 Kyler Murray goes down with scary injury in season opener Yahoo Sports"
       }
     ],
     "Good News": [
-      {
-        "headline": "A Hungry Cleaning Lady Bit into an Apple and Solved the Case of Legendary Diamond Heist",
-        "url": "https://www.goodnewsnetwork.org/a-hungry-cleaning-lady-bit-into-an-apple-and-solved-the-case-of-legendary-diamond-heist/",
-        "source": "Good News Network",
-        "summary": "It\u2019s a beautiful stone no, the Grand Cond\u00e9 diamond? Its presence in the public eye was almost lost 100 years ago, but thanks\u2014of all people\u2014to a hungry cleaning lady, it can still be part of new exhibitions like the one upcoming at the Ch\u00e2teau de Chantilly near Paris. But first, some outrageous history. Suzanne Schiltz [\u2026] The post A Hungry Cleaning Lady Bit into an Apple and Solved the Case of Legendary Diamond Heist appeared first on Good News Network ."
-      },
       {
         "headline": "91-yo \u2018Greybeard\u2019 Becomes Oldest Person to Hike Appalachian Trail After 359 Days and 71 Falls",
         "url": "https://www.goodnewsnetwork.org/91-yo-greybeard-becomes-oldest-person-to-hike-the-appalachian-trial-after-359-days-and-71-falls/",
@@ -568,6 +562,12 @@
         "url": "https://www.goodnewsnetwork.org/indie-comic-creator-sells-out-thanks-to-viral-visit-from-reviewer-who-stopped-when-others-didnt/",
         "source": "Good News Network",
         "summary": "It\u2019s so tempting to dismiss social media as all doom scrolling through AI-generated slop and political arguments, but it also just turbo boosted this young comic book author\u2019s career. @slow_comics has accumulated 40K followers on his TikTok account through his own series of comics, and by his passion of visiting comic book conventions and stopping [\u2026] The post Indie Comic Creator Sells Out Thanks to Viral Visit from Reviewer Who Stopped When Others Didn\u2019t appeared first on Good News Network ."
+      },
+      {
+        "headline": "She \u2018Asked for a Sign\u2019 and Suddenly a Kingfisher Darts Up and Sits in Her Hand for 10 Minutes",
+        "url": "https://www.goodnewsnetwork.org/woman-asked-for-a-sign-and-a-kingfisher-sits-on-her-hand/",
+        "source": "Good News Network",
+        "summary": "A woman in England had just \u201casked for a sign\u201d when a kingfisher streaked in, and even landed on her hand\u2014staying there for ten minutes. \u201cI had just asked for a sign, then just moments later this happened,\u201d Laura O\u2019Brien told SWNS news. The 24-year-old says she was \u201camazed\u201d because the Eurasian Kingfisher (also known [\u2026] The post She \u2018Asked for a Sign\u2019 and Suddenly a Kingfisher Darts Up and Sits in Her Hand for 10 Minutes appeared first on Good News Network ."
       }
     ]
   }
