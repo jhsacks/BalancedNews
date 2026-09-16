@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-16T16:18:38.117279-04:00",
+  "generated_at": "2026-09-16T17:11:07.618937-04:00",
   "edition": "PM",
   "stories": [
     {
       "headline": "Trump bashes Supreme Court, Congress responds to AI warnings, more | The Takeout - Modern Ghana",
-      "summary": "Former President Trump criticized the Supreme Court, while the US Congress began addressing warnings related to artificial intelligence regulation and risks. These developments reflect escalating political attention on AI governance as its societal impacts grow rapidly.",
-      "why_it_matters": "Congressional actions on AI regulation could set critical legal and safety standards influencing technology deployment, privacy, and national security.",
-      "perspective_one": "Trump and some supporters argue that the judiciary and legislators are undermining traditional legal frameworks and political priorities through their AI-related actions.",
-      "perspective_two": "Lawmakers and experts urge proactive oversight, warning that unchecked AI development could threaten democratic institutions, privacy, and public safety.",
+      "summary": "Former President Trump criticized the Supreme Court while Congress is actively responding to emerging warnings about artificial intelligence risks and regulation. These developments highlight increasing political focus on AI's impact and legal implications within the U.S. government.",
+      "why_it_matters": "Political reactions shape AI regulation and judicial processes, affecting technology governance and public safety in the U.S.",
+      "perspective_one": "Trump believes the Supreme Court has acted improperly or inconsistently, impacting the balance of judicial power and political outcomes.",
+      "perspective_two": "Congress sees AI as a pressing issue requiring proactive legislative oversight to prevent technology risks and protect citizens.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NcFgySnQ1NC1TVGVXSzNwaExsaVlPeE44bVFtRkMxanJENVJBdWhtdE9DMVpJVlRlUnY0a3k3aVY2R2xseUplczU1bnBzVVBlelVjVlUyOTlPSlduX2NB0gFcQVVfeXFMTWM1NHVwbGJQQ0pyZG1kbm4yQW00Sk9uUFF1VUhycGNYWm9mZkdLanJ1N0pONF9ubk83cWJrTldldFdnc0piQm1zM3V5UHZZVTYxUVNqeU02cUp3S2U?oc=5",
       "source": "U.S. Politics",
       "published": "Wed, 16 Sep 2026 03:53:18 GMT",
       "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-trump-bashes-supreme-court-congress-responds-to--f358297eb5.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg/1280px-House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 DC Public Library Commons \u00b7 No restrictions",
+      "image_source": "https://commons.wikimedia.org/wiki/File:House_of_Representatives_Chamber_in_the_United_States_Capitol_building,_1868_(27603231870).jpg"
     },
     {
       "headline": "Why Trump is all-in on AI despite the warnings",
-      "summary": "US President Trump is prioritizing artificial intelligence development despite expert warnings about its risks, aiming to position AI as a cornerstone of American technological leadership. This stance involves calculated political risk as it risks alienating some supporters concerned about AI's societal impact.",
-      "why_it_matters": "Trump's aggressive AI push could accelerate innovation but also raises questions about ethical safeguards, public trust, and long-term consequences for AI governance.",
-      "perspective_one": "Supporters believe embracing AI fully is essential for economic growth and global competitiveness, prioritizing innovation over cautious regulation.",
-      "perspective_two": "Critics worry that disregarding expert warnings jeopardizes safety, privacy, and societal cohesion by enabling unregulated tech expansion.",
+      "summary": "U.S. President Trump has pushed artificial intelligence to the forefront of American politics despite warnings from experts and critics. His stance risks alienating some supporters while shaping national debate and policy on AI technology.",
+      "why_it_matters": "Trump's emphasis influences AI policy direction and public opinion, potentially affecting innovation, regulation, and political alignment in the U.S.",
+      "perspective_one": "Supporters view Trump's AI focus as visionary leadership that promotes U.S. technological competitiveness and economic growth.",
+      "perspective_two": "Critics argue Trump's approach downplays risks and undermines necessary caution, potentially endangering societal safety and ethical standards.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
@@ -35,27 +35,11 @@
       "image_source": ""
     },
     {
-      "headline": "Warsh Raises Rates for First Time Since 2023 as Iran War Drives Inflation to 3.7% - The Eastern Herald",
-      "summary": "Federal Reserve Governor Kevin Warsh raised interest rates for the first time since 2023, citing inflation rising to 3.7%, partly driven by inflationary pressure from the Iran war. The move signals renewed monetary tightening to combat escalating price increases amid geopolitical uncertainty.",
-      "why_it_matters": "Higher interest rates will increase borrowing costs, influencing business investment and consumer spending while aiming to control inflation influenced by external conflict risks.",
-      "perspective_one": "Proponents argue that raising rates is necessary to cool inflation and protect long-term economic stability despite short-term growth trade-offs.",
-      "perspective_two": "Critics warn that tightening monetary policy too quickly amid geopolitical shocks risks recession and financial market instability.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmRxLUtxRnduQnhsRS1mYWZ1Nmg5ZEUzbDZiSFpkU2pQX2NBMmZpVzdkS0tWOW44SmtnTnV6TDNVRHRtTEhVZFM0U0JlNHVnX1JGYWZTdUZPQWlkSUtVdG1ZQ1hTMnRfQ1Y1VUdHdm1rZldXWW9GdDBSRTRfSDNWOW5hS183dXlrdXo4?oc=5",
-      "source": "Associated Press World",
-      "published": "Wed, 16 Sep 2026 14:16:09 GMT",
-      "category": "World News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-warsh-raises-rates-for-first-time-since-2023-as--ed5e1fbfa0.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
       "headline": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-      "summary": "European Commission President Ursula von der Leyen proposed that Canada become the European Union's first associate member amid rising trade tensions with the US. This proposal reflects strategic pivoting as Ottawa seeks closer ties with Europe in response to US tariffs introduced by President Trump.",
-      "why_it_matters": "Granting associate membership to Canada could deepen economic integration and signal shifting alliances in global trade amid US protectionist policies.",
-      "perspective_one": "Supporters view associate membership as a pragmatic step to diversify Canada\u2019s trade partnerships and enhance economic resilience.",
-      "perspective_two": "Critics worry this move might complicate Canada-US relations and raise questions about sovereignty and regulatory alignment.",
+      "summary": "European Commission President Ursula von der Leyen proposed on Wednesday that Canada become the European Union's first associate member. This suggestion arises amid tensions from U.S. tariffs pushing Canada to seek closer economic and political ties with Europe.",
+      "why_it_matters": "Canada\u2019s potential EU association could reshape trade relations and geopolitical alignments in North America and Europe amid global tariffs.",
+      "perspective_one": "EU leaders see Canadian association as an opportunity to strengthen transatlantic ties and deepen economic integration.",
+      "perspective_two": "Some U.S. policymakers may view this move as undermining U.S.-Canada relations and complicating trade dynamics amid tariff disputes.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
@@ -67,11 +51,27 @@
       "image_source": ""
     },
     {
+      "headline": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
+      "summary": "A European Union-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during his country\u2019s war for independence from Serbia and sentenced him to 25 years imprisonment. This verdict marks a significant milestone in international justice for Balkan conflict abuses.",
+      "why_it_matters": "Thaci\u2019s conviction establishes accountability for wartime atrocities and reinforces the role of international courts in post-conflict justice.",
+      "perspective_one": "Prosecutors and victims see the conviction as overdue justice and deterrence for future leaders committing war crimes.",
+      "perspective_two": "Some Kosovo supporters argue the trial politicized justice and risk destabilizing fragile regional peace.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
+      "source": "NPR World",
+      "published": "Wed, 16 Sep 2026 05:57:03 -0400",
+      "category": "World News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3407+0+0/resize/5000x3407!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F1e%2Fa8a05440450690bdca01f44b5ddc%2Fap26258396368489.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
       "headline": "Building collapse in Gaza kills 21 as perilous conditions persist for Palestinians during truce - The Tribune-Democrat",
-      "summary": "A building collapsed in Gaza, killing 21 people amid fragile truce conditions, highlighting ongoing risks for Palestinians despite ceasefire efforts. The collapse exacerbates humanitarian concerns as infrastructure damage and instability continue following recent conflicts.",
-      "why_it_matters": "This tragedy underscores urgent needs for reconstruction and safety improvements in Gaza, affecting civilian welfare and regional stability.",
-      "perspective_one": "Human rights advocates emphasize the detrimental humanitarian impact of war-torn infrastructure on civilians\u2019 survival and dignity.",
-      "perspective_two": "Some political actors assert that ceasefire enforcement and reconstruction are impeded by ongoing security and governance challenges.",
+      "summary": "A building in Gaza collapsed, killing 21 people during an ongoing truce while vulnerable Palestinians continue to face perilous living conditions. The collapse underscores the fragility of infrastructure in conflict-affected areas and ongoing humanitarian risks.",
+      "why_it_matters": "This incident highlights the urgent need for rebuilding efforts and humanitarian support to protect civilians in conflict zones.",
+      "perspective_one": "Humanitarian groups stress the collapse reveals the consequences of prolonged conflict and blockades on civilian safety and infrastructure.",
+      "perspective_two": "Some parties underscore the security concerns that delay reconstruction and complicate aid distribution in Gaza.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORXM5Zkxpcm5yOTQ4M3NnVFZYMUhhN0tZVXBRLXBpdmFvSElRNVBtcTFhNV9yTU1yRWVRWm1SZ0FPcWktcXpNbW1TRU1DSVZOMkdpLWMtUEM2YUtHZVBYaVlwMXlndElSbHVoejFMb0UxcFhyMzRjWjlNeVRiZjV5NW9SLWtPeEM3XzFDZWFiSkhPRjgzNXJHYnI5WGY4UjV2UkVHMnU1Z2tHS2tuNDJQcWNDV1phMW5hSzJkVEhpU2Y0S3JjU2ZjTk5yT3hzbkwtVVNyX2doUGRFQmMweE05emg5Y1diWUstZUxreWRVVkpGNHNfazN0ZDNwazBFNFJ6Yzd3YlFlRnluV3RRTVd6ZTlxck0?oc=5",
@@ -84,26 +84,26 @@
     },
     {
       "headline": "How the Iran war could affect oil prices, Gulf exports and US inflation - The Jerusalem Post",
-      "summary": "The ongoing war involving Iran is impacting global oil prices, Gulf exports, and contributing to rising US inflation levels. The conflict threatens energy supply chains while intensifying inflationary pressures in global markets.",
-      "why_it_matters": "Fluctuations in oil and export markets driven by conflict will affect energy costs, inflation, and economic stability worldwide.",
-      "perspective_one": "Some analysts argue that sanctions and conflict-related disruptions necessitate adjustments in global energy security strategies.",
-      "perspective_two": "Others believe that markets will stabilize over time as diplomatic efforts advance and supply alternatives emerge.",
+      "summary": "The ongoing Iran war is likely to influence global oil prices, disrupt Gulf exports, and contribute to inflationary pressures in the United States. Such conflict-related supply shocks may exacerbate economic uncertainty and inflation policy challenges globally.",
+      "why_it_matters": "Changes to oil supply and prices can directly impact global energy markets, U.S. inflation, and economic stability, influencing monetary policy decisions.",
+      "perspective_one": "Proponents suggest addressing geopolitical risks is essential to stabilize supply and mitigate inflationary spikes.",
+      "perspective_two": "Others warn that escalating conflict could provoke deeper economic disruptions and unpredictable market volatility.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjSThobURpdjVCaUJrWlVwN0xhVWViZmhmRTFobG1aN3FOa1c1V2VUTGU3WnVoaG85M1dqMzRiTFlfT1JPeDN5a1J6NWl0T1lLYklGclFNOThDYllrSXBZckEyTzZjdGYtRFE?oc=5",
       "source": "Reuters Middle East",
       "published": "Wed, 16 Sep 2026 08:14:38 GMT",
       "category": "Middle East Affairs",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-how-the-iran-war-could-affect-oil-prices-gulf-ex-79b42ea65e.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg/1280px-2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 The Official CTBTO Photostream \u00b7 CC BY 2.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2nd_CTBT_Science_Diplomacy_Symposium_(27472625147).jpg"
     },
     {
       "headline": "STAT+: Sen. Warren demands to see Trump drug-pricing pharma contracts, accuses RFK Jr. of hiding them",
-      "summary": "Senator Elizabeth Warren demanded transparency on pharmaceutical contracts related to drug pricing negotiated during the Trump administration and accused Robert F. Kennedy Jr. of withholding relevant documents. The debate signals intensifying scrutiny of drug pricing policies ahead of midterm elections.",
-      "why_it_matters": "Transparency in drug pricing contracts could influence legislation on pharmaceutical regulation, affecting costs, access, and healthcare policy.",
-      "perspective_one": "Warren and advocates insist that public disclosure is vital to hold corporations accountable for drug price manipulation.",
-      "perspective_two": "Critics, including RFK Jr., argue confidentiality protects sensitive negotiation strategies that facilitate competitive pricing.",
+      "summary": "Senator Elizabeth Warren called for transparency by demanding access to drug-pricing contracts negotiated during the Trump administration and accused Robert F. Kennedy Jr. of withholding these documents. This occurs amid FDA efforts to accelerate drug development and Democratic healthcare investigations.",
+      "why_it_matters": "Scrutiny of drug pricing contracts impacts pharmaceutical regulation, healthcare costs, and patient access to medicines in the U.S.",
+      "perspective_one": "Warren and allies argue transparency is vital to prevent hidden profiteering and ensure drug affordability for Americans.",
+      "perspective_two": "Critics contend contract confidentiality protects business interests and accelerated development programs from political interference.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.statnews.com/2026/09/16/biotech-news-sen-warren-demands-to-see-trump-drug-pricing-contracts/?utm_campaign=rss",
@@ -116,8 +116,8 @@
     },
     {
       "headline": "The 23rd Annual Globee\u00ae Awards for Cybersecurity Invite Artificial Intelligence Security Achievement Nominations Worldwide - Yahoo Finance",
-      "summary": "The Globee\u00ae Awards announced nominations for artificial intelligence security achievements worldwide, recognizing innovation in cybersecurity. The event highlights notable advances and encourages broader focus on AI's role in safeguarding digital assets.",
-      "why_it_matters": "Recognition of AI security innovations fosters adoption of robust defenses against increasingly sophisticated cyber threats targeting global infrastructure.",
+      "summary": "The 23rd Annual Globee Awards for Cybersecurity is calling for global nominations recognizing outstanding achievements in artificial intelligence security. This program seeks to highlight advances in AI security addressing emerging technology risks internationally.",
+      "why_it_matters": "Recognition of AI security innovations encourages development of safer, more resilient artificial intelligence systems critical for digital trust.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -131,48 +131,48 @@
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Warsh says US economy has strengthened, inflation is the problem - Reuters",
-      "summary": "Kevin Warsh stated that the US economy shows signs of strengthening, but inflation remains the primary challenge requiring focused policy response. His remarks suggest ongoing Federal Reserve efforts to balance growth with price stability.",
-      "why_it_matters": "Warsh's assessment informs monetary policy expectations, affecting markets, consumers, and borrowing costs during inflation management.",
-      "perspective_one": "Supporters assert that targeted inflation control measures will sustain economic expansion without derailing recovery.",
-      "perspective_two": "Skeptics caution that persistent inflation could undermine consumer purchasing power and wage growth.",
+      "headline": "Warsh says US economy has strengthened, inflation is the problem - reuters.com",
+      "summary": "Federal Reserve Chair Kevin Warsh stated that while the U.S. economy has shown signs of strengthening, inflation remains the primary economic challenge. His comments underscore ongoing monetary policy focus on controlling price growth despite growth signals.",
+      "why_it_matters": "Policy adjustments targeting inflation impact interest rates, borrowing costs, and economic growth trajectories in the U.S.",
+      "perspective_one": "Warsh emphasizes the necessity of continued vigilance and potential rate hikes to stabilize inflation without derailing recovery.",
+      "perspective_two": "Others warn that aggressive inflation control risks slowing economic progress and increasing unemployment.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbllURXEwS3oyMW52bTBuU2F1R3loYk96LS15b2NqS2FMRmd6VUM1N0wySlVWVzV6X2R0eVR4N09kSWJEV3hGX3oxYjlwWFBKbldNMGVlWU1VYmVIb1BBYVQwOUcwY1hMZXZRRHMxUHU3RjdvbU1tejdXemUzbVpoQlBIRE03OXZET2xUUEZEQjB5dl8zRkp4QVhfRmUybExCZGR1SzViMA?oc=5",
       "source": "Business & Economy",
       "published": "Wed, 16 Sep 2026 19:09:45 GMT",
       "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-warsh-says-us-economy-has-strengthened-inflation-9a69d39fad.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Federal_Reserve_Chair_Kevin_Warsh_delivers_remarks_at_his_swearing-in_ceremony_in_the_East_Room_of_the_White_House%2C_Friday%2C_May_22%2C_2026._%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 The White House \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Chair_Kevin_Warsh_delivers_remarks_at_his_swearing-in_ceremony_in_the_East_Room_of_the_White_House,_Friday,_May_22,_2026._(Cropped).jpg"
     },
     {
-      "headline": "\u2018Inflation is too high, for too long\u2019: Kevin Warsh signals Fed\u2019s focus remains on prices - Firstpost",
-      "summary": "Kevin Warsh emphasized that inflation remains excessively high over an extended period, reinforcing the Federal Reserve\u2019s priority to control rising prices. This remark signals continued monetary policy vigilance amid economic growth concerns.",
-      "why_it_matters": "Persistent inflation challenges complicate Federal Reserve decisions on interest rates and impact consumer costs and investor confidence.",
-      "perspective_one": "Advocates argue sustained rate hikes are necessary to anchor inflation expectations and protect long-term economic health.",
-      "perspective_two": "Opponents worry prolonged tightening risks triggering recession and harming labor markets.",
+      "headline": "Fed raises interest rates by quarter point to tackle inflation - The Washington Post",
+      "summary": "The U.S. Federal Reserve increased interest rates by a quarter percentage point in an effort to combat persistent inflation. This decision reflects the Fed\u2019s strategy to tighten monetary policy while balancing economic growth risks.",
+      "why_it_matters": "Higher interest rates raise borrowing costs, affecting consumer spending, business investment, and overall economic activity across the nation.",
+      "perspective_one": "The Fed argues that gradual rate hikes are necessary to keep inflation in check and maintain price stability.",
+      "perspective_two": "Critics caution that prolonged rate increases might slow economic growth or trigger a recession.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSFlLTGpYSjRiam1RaG5Tc2hTVV90aWpvREI3UTN0Y2R0d0NFVkVXSmdDTkRBZDk2MmRROGlNUFRaWS1LV2wteG44cGZielJqcXRnOFNocDlxdXRGVS1ibEZZV1oxODQ3Q2xKQl81Qmx2ZmpLSTZUSDloODZFT3NrblQyMUZUaFROaWptR2pueEtMWDhWanN6Ty1naWZhSHAwU21JOWVkVm1jeTBTRTA3eVFaT2pHTVgtRVBJeG1oS19USVpqZUdreHZIWdIB0AFBVV95cUxPQW55Q0c1MjJMS0xpRzF1ZE4wZ0xPVlRDdnJwRjRkMHc4ZzkwaW56LThtZTBPcktMbkIxWVV2ODdWWHV4Q2lEbGhLZVY5anlMWGFfbDdLQkJwZXlxNFBMNXZVZnZDRHV2VnV4dmVYSFRGX3liRFlzcWR1d2NfY044NkRUUy1aVGVuVTBHNE1NNmpvTmV6TWREYUJKdUhWbTE4SFNaWlZERzc2X3BQMWp6UEVoRzVvZnJHX2x3UEpKTzVkY2pVclRoc2ZvRDRLWFpx?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVoeUNBMTNYV2tDbGpKekd3Y3l6RGJLM0JrekZhRElkQjI0OFFsNmFCUzNUTk5ndUFWQkstdGZfeFVDdDZPUVQ0NEpkTjBQQk54VDh0dTNrQmE3MF9Rb2xBV2NLTUF5LUlsb19rMmU3MHNEOFdzbVhVQzFDQkJobmY0REljQ2R2cFR0LTFiZ2hYcDI4NkpKZkNuOGxlWEtZNVNB?oc=5",
       "source": "Business & Economy",
-      "published": "Wed, 16 Sep 2026 19:06:34 GMT",
+      "published": "Wed, 16 Sep 2026 21:08:53 GMT",
       "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-inflation-is-too-high-for-too-long-kevin-warsh-s-ddf1057426.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-fed-raises-interest-rates-by-quarter-point-to-ta-13af89bdab.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
       "headline": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
-      "summary": "Technology leader Bill Gates reflects on the arrival of the turbulent artificial intelligence era, emphasizing that current decisions about AI will shape its impact on society. His insights highlight the urgency for balanced governance and ethical AI development.",
-      "why_it_matters": "Strategic AI choices now will influence technological benefits, risks, regulatory frameworks, and societal trust for decades.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "summary": "The accelerating integration of artificial intelligence into society presents urgent decisions on governance, ethics, and technology development. The path chosen now will decisively shape AI\u2019s impact on security, economy, and human welfare.",
+      "why_it_matters": "Early strategic choices about AI regulation and deployment directly influence global safety, fairness, and innovation trajectories.",
+      "perspective_one": "Advocates call for proactive regulation and ethical frameworks to harness AI benefits responsibly and mitigate risks.",
+      "perspective_two": "Skeptics warn that overregulation could stifle innovation and Western competitiveness in the emerging AI economy.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
       "source": "U.S. News Society",
-      "published": "Wed, 16 Sep 2026 16:42:59 GMT",
+      "published": "Wed, 16 Sep 2026 19:37:28 GMT",
       "category": "Society & Culture",
       "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-the-turbulent-ai-era-is-here-the-choices-we-make-84fb38e124.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
@@ -180,10 +180,10 @@
     },
     {
       "headline": "Where Do Phillies Stand in Playoff Race Amid Poor September Stretch? - Yahoo Sports",
-      "summary": "The Philadelphia Phillies' performance has faltered in September, raising questions about their position in the playoff race. Their struggle impacts postseason prospects and intensifies pressure on the team to improve.",
-      "why_it_matters": "The Phillies\u2019 playoff chances affect fan engagement, revenue, and strategic decisions for the franchise's future competitiveness.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "summary": "The Philadelphia Phillies face challenges in their playoff race due to a poor performance stretch in September. Their current standing raises questions about postseason qualification and team strategy adjustments required.",
+      "why_it_matters": "The Phillies' playoff prospects affect fan engagement, team financials, and competitive balance in Major League Baseball.",
+      "perspective_one": "Supporters urge patience, believing the team\u2019s talent will overcome recent setbacks and secure postseason berth.",
+      "perspective_two": "Critics question the management and player consistency that led to the September slump jeopardizing playoff chances.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaEFvUUpTWW9rZ0VFQ195dDlISUxFamVGcDlYeTFSanVqTWdyb2cyeTRHQUVqUmd2SzVaVURuSjE4LS1mbm85SXVTSVJia0U2MXUycmRiRlo1Q3dnNGRFcHdmLW5yQlhzZnpQZm10c2Q4djhyNXlZV2xQNFJOQmwyY1JjRjhfMm45ZEE?oc=5",
@@ -196,8 +196,8 @@
     },
     {
       "headline": "The 2026 Big Ten College Football Playoff Picture: Week 3 - Last Word On Sports",
-      "summary": "The Big Ten football playoff picture for 2026 was analyzed after week 3, highlighting team standings and key matchups shaping contenders. This context helps predict which teams are positioned for postseason success.",
-      "why_it_matters": "Understanding playoff dynamics informs fan interest, broadcast ratings, and athletic department planning ahead of the college football postseason.",
+      "summary": "Week 3 analysis of the 2026 Big Ten College Football playoff picture details team standings, key performances, and prospects. This snapshot informs fans and stakeholders on playoff qualification outlook mid-season.",
+      "why_it_matters": "College football playoff positioning influences team strategies, recruitment, revenue, and fan engagement in a major collegiate sport.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -211,27 +211,27 @@
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Scientists Determine Australia\u2019s Vast Red Deserts Could Fuel a Hydrogen-Powered Energy Revolution",
-      "summary": "Researchers identified the potential of magnetite-rich areas in Australia's Pilbara region to support a hydrogen energy revolution. This discovery offers a path to substantial green energy production and export opportunities.",
-      "why_it_matters": "Harnessing this resource could reduce reliance on fossil fuels and position Australia as a leader in sustainable hydrogen energy markets.",
+      "headline": "Mexico Reintroduced Bison into Precious Desert Ecosystem After Century-Long Absence",
+      "summary": "Mexican conservationists have reintroduced bison to the Chihuahua Desert ecosystem after a 200-year absence to restore their critical ecological role as vegetation anchors. Their return marks a major ecological step to strengthen arid grasslands in this biosphere reserve.",
+      "why_it_matters": "Restoring bison supports biodiversity, ecosystem health, and resilience in Mexico\u2019s fragile desert environments.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/scientists-determine-australias-vast-red-deserts-could-fuel-a-hydrogen-powered-energy-revolution/",
-      "source": "Good News Network Science",
-      "published": "Wed, 16 Sep 2026 15:35:16 +0000",
+      "url": "https://www.goodnewsnetwork.org/mexico-reintroduced-bison-into-precious-desert-ecosystem-after-century-long-absence/",
+      "source": "Good News Network",
+      "published": "Wed, 16 Sep 2026 13:00:13 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Classic-Australian-Pilbara-region-banded-iron-formations-credit-Edith-Cowan-University-released.jpg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/01/credit-Jordan-Crawford-via-Unsplash.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
       "headline": "Congress is under pressure to act on AI \u2014 here's what that could look like",
-      "summary": "US lawmakers show growing willingness to regulate artificial intelligence, but variable priorities suggest regulation details remain unresolved. The path ahead may involve gradual steps balancing innovation with risk mitigation.",
-      "why_it_matters": "Congressional decisions will influence AI's ethical use, economic impact, and risk management frameworks across technology sectors.",
-      "perspective_one": "Some legislators advocate for swift regulation to prevent misuse, bias, and safety hazards of AI systems.",
-      "perspective_two": "Others emphasize caution to avoid stifling innovation, favoring voluntary guidelines over prescriptive rules.",
+      "summary": "U.S. lawmakers express increasing readiness to regulate artificial intelligence, but agree that legislation is likely to be a gradual, complex process. Approaches will need to balance innovation incentives with safety and ethical concerns.",
+      "why_it_matters": "AI legislation will define technology development boundaries and societal protections, impacting business, security, and rights.",
+      "perspective_one": "Proponents argue swift regulatory action is needed to mitigate AI risks and protect consumers and labor markets.",
+      "perspective_two": "Opponents caution that rushed regulation could hamper U.S. competitiveness and restrict technological advancement.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
@@ -244,8 +244,8 @@
     },
     {
       "headline": "How are rising prices affecting you? NPR wants to know",
-      "summary": "NPR is seeking public input on how inflation, gas prices, and cost of living increases impact daily life amid the upcoming election season. The inquiry aims to gather real-world effects for reporting and policy considerations.",
-      "why_it_matters": "Understanding public experiences with rising costs can inform policymaking and highlight economic stressors facing voters.",
+      "summary": "With inflation, gasoline prices, and living costs rising ahead of elections, NPR solicits public feedback on how these economic pressures influence daily life decisions. The campaign aims to gather diverse perspectives on cost-of-living challenges.",
+      "why_it_matters": "Understanding public impact of inflation informs policy responses and political accountability during critical electoral cycles.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -259,9 +259,9 @@
       "image_source": ""
     },
     {
-      "headline": "Trump's Chief of Staff Susie Wiles announces she's cancer-free",
-      "summary": "White House Chief of Staff Susie Wiles, aged 69 and a close ally of President Trump, announced she is cancer-free following treatment. Her recovery offers relief within the administration during ongoing political challenges.",
-      "why_it_matters": "Her health update may stabilize leadership continuity in a high-pressure role during a politically sensitive period.",
+      "headline": "Trump chief of staff Susie Wiles announces she's cancer-free",
+      "summary": "White House Chief of Staff Susie Wiles, 69, announced she is now cancer-free after treatment. She remains a key advisor close to former President Trump.",
+      "why_it_matters": "Wiles\u2019 health recovery preserves continuity of leadership and influence within Trump's political circle.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -276,8 +276,8 @@
     },
     {
       "headline": "Congressional Black Caucus Foundation marks 50 years at pivotal time - USA Today",
-      "summary": "The Congressional Black Caucus Foundation celebrates its 50th anniversary amid ongoing social and political challenges. The milestone highlights the organization's role in advocating for African American communities and influencing policy.",
-      "why_it_matters": "The Foundation's work continues to shape legislative priorities impacting racial equity, social justice, and community development nationwide.",
+      "summary": "The Congressional Black Caucus Foundation celebrated 50 years amidst significant political and social challenges. The milestone highlights the Foundation's ongoing role in advancing African American leadership and policy influence.",
+      "why_it_matters": "The Foundation's work impacts legislative priorities, community empowerment, and political representation for Black Americans.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -286,32 +286,16 @@
       "source": "USA Today U.S.",
       "published": "Wed, 16 Sep 2026 14:43:00 GMT",
       "category": "U.S. News",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
-      "summary": "A European Union-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during the Kosovo war for independence, sentencing him to 25 years imprisonment. The verdict marks a significant moment in post-conflict justice and regional reconciliation efforts.",
-      "why_it_matters": "This ruling impacts justice narratives in the Balkans and influences ongoing dialogues on accountability and stability in the region.",
-      "perspective_one": "Proponents believe the conviction upholds international justice and deters future war crimes.",
-      "perspective_two": "Opponents argue the sentence may deepen ethnic tensions and complicate Kosovo\u2019s political future.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
-      "source": "NPR World",
-      "published": "Wed, 16 Sep 2026 05:57:03 -0400",
-      "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3407+0+0/resize/5000x3407!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F1e%2Fa8a05440450690bdca01f44b5ddc%2Fap26258396368489.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-congressional-black-caucus-foundation-marks-50-y-a3fef0dcc0.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
       "headline": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "A six-storey war-damaged building in Gaza City collapsed, killing 21 people including eight children, with about 10 families reported living there. The incident highlights continuing dangers faced by civilians amid infrastructure devastation in Gaza.",
-      "why_it_matters": "Civilian casualties from collapsing structures raise urgent calls for infrastructural repair and intensified protection during ceasefires.",
-      "perspective_one": "Humanitarian groups stress the need for international aid and reconstruction to safeguard civilian life.",
-      "perspective_two": "Some political groups blame ongoing hostilities for preventing adequate safety measures and rebuilding efforts.",
+      "summary": "A six-storey building in Gaza City that housed 10 families collapsed, killing 21 people including eight children, with the building previously damaged by an Israeli strike last year. The tragedy highlights the enduring dangers faced by civilians in conflict-affected Gaza.",
+      "why_it_matters": "Repeated infrastructure failures threaten civilian lives and complicate humanitarian assistance in a fragile ceasefire environment.",
+      "perspective_one": "Humanitarians call for urgent rebuilding efforts and protection for noncombatants in Gaza.",
+      "perspective_two": "Security stakeholders emphasize risks posed by militant activities complicating reconstruction plans.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
@@ -323,64 +307,80 @@
       "image_source": ""
     },
     {
+      "headline": "Eight German state premiers back Merz amid speculation over future",
+      "summary": "Ahead of upcoming state elections, eight premiers from German states have publicly endorsed Chancellor Merz, consolidating support within the Christian Democratic Union leadership. The backing comes amid speculation about Merz\u2019s political future and party stability.",
+      "why_it_matters": "The endorsements could influence election outcomes and signal party unity or factional tensions in Germany\u2019s governing coalition.",
+      "perspective_one": "Supporters argue that endorsing Merz strengthens leadership ahead of critical electoral tests.",
+      "perspective_two": "Opponents fear this support masks unresolved divisions and may not secure voter confidence.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Wed, 16 Sep 2026 14:50:26 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
       "headline": "Burnham warns of \u2018difficult decisions\u2019 in budget as inflation rises to 3.1% - The Guardian",
-      "summary": "A public official named Burnham warned that the upcoming budget will require difficult decisions due to inflation rising to 3.1%. This forecast suggests fiscal challenges ahead as inflation pressures heighten economic uncertainty.",
-      "why_it_matters": "Inflation-driven budget decisions will affect public spending priorities, taxation, and social programs.",
-      "perspective_one": "Proponents of fiscal restraint argue that tough decisions are necessary to ensure financial sustainability.",
-      "perspective_two": "Critics caution that austerity amid inflation could harm vulnerable populations and slow economic recovery.",
+      "summary": "Political leader Burnham cautioned that rising inflation reaching 3.1% will necessitate tough budgetary decisions ahead. The warning highlights economic pressures complicating fiscal planning amid cost-of-living increases.",
+      "why_it_matters": "Budget constraints and inflation impacts force governmental prioritization affecting social services, taxation, and economic policy.",
+      "perspective_one": "Some demand austerity measures to restore fiscal balance and control inflation.",
+      "perspective_two": "Others emphasize protecting social programs to mitigate inflation\u2019s impact on vulnerable populations.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXdQUjdCU2FXdFNtRUZ6b0dob0ZkbmpMeWk3Vy0wVGd3ZTVHZ3BfQ1VQQndCVzJYR3Rrb0RLdER1d0YxUmY0V1BmZEl6TXZPeTI4REhuOUJXZDFFbkJPTVM1SjJBTkRsY3RyeVRhUW1rZjJEOTkzQUJGUVJPTlMtQUk3a0pGdE44OE9ma2NFYUpmWk9NTXFVckhIYnAtRDJsVjdTdjJlNzlON2hDUGtXUGVHdmlYejNvMDQ0cjN3?oc=5",
       "source": "The National Middle East",
       "published": "Wed, 16 Sep 2026 06:01:00 GMT",
       "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-burnham-warns-of-difficult-decisions-in-budget-a-34456e1354.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Saudis pound Yemen as Houthis solidify gains in new theatre of Middle East war - The Express Tribune",
-      "summary": "Saudi Arabia intensified military strikes on Yemen as Houthi forces consolidate territorial gains, opening a new front in the Middle East conflict. This escalation complicates regional dynamics and prolongs humanitarian crises.",
-      "why_it_matters": "The advancing conflict threatens to destabilize neighboring countries, worsen civilian suffering, and challenge international peace efforts.",
-      "perspective_one": "Saudi-led coalition aims to restore recognized government control and counter Iranian influence.",
-      "perspective_two": "Houthi leaders claim legitimate resistance against foreign aggression and seek to expand strategic positions.",
+      "headline": "Can Lebanon\u2019s former president Michel Aoun be prosecuted over Beirut port blast? - Arab News",
+      "summary": "Questions are being raised about the prosecutability of Lebanon\u2019s former president Michel Aoun in connection with the Beirut port blast investigation. The issue involves legal, political, and international implications for accountability in this devastating event.",
+      "why_it_matters": "Prosecuting high-level officials impacts rule of law, corruption deterrence, and Lebanon\u2019s political stability.",
+      "perspective_one": "Advocates for prosecution stress the necessity of accountability for justice and reform.",
+      "perspective_two": "Opponents argue legal immunity and political turmoil complicate potential prosecution efforts.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlNBNE1ucTRyTFlJZ095eE8zS2FmRVNsZVZZeVpHZEJMdXAyNW5iNTdKc3k5eGZyRXROLTYxa3RwTmtuQktBMzB2MEdueVJUUzBYU2Z4RmRoM040SlM3SFl5Tk5jQzRPejh2c2luUENPSXQ2c1lNMlJkc2xLRlUxTXZtemlCLWJSckFYWlQ3RUw0XzRLaERQTFdOWEFBRU9GN3plTTQ5RW9rbl91M1BRQWVCZThnd9IBvgFBVV95cUxPZ3FHVEFhM2g2NFM1RGxuYjhndFA0SDAzcWFaNGx1UWpMMG9fNy1mNHJUdTRhQnpTZVM3eWo4QTVzVmo5aFo3SktqQlB0WHQtWUFZTmJxRzN1Y1RYMlJoWndNUjUyZ29ibW5qNFFSLUVRMWluWVl3SUh5MUd3LXNBRDlNYTREMm9ucnZlb3BxaTZVcFFPS1RUcVJQVm5tOWx6T2lHbzZFTXFuNmpyRlN1Q1Uyb3FXaE8yd21zZXRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUhrT196bGc1Z1VNRnVBWkQzNHA0TlFUWm9jdlY2UEo1NTRWQV9RU0pYaTJFOEVRRDRNWllla0d1MzNTSmY3N3RmWnVEZ2N6VmhLQnBwWTJ3YWNQblBVNGgtcEotMy0zRkZqRmJxdU1sTEllMjBJU2lYbGJudHBVTE9pSG15QVg0VjNad01VSXN4V2NKWjJxUHI2Y3lEREtVWjBfb2tuZ1E1OTN1X2s4SzFKZHNHZTQxRlQyd2hXUzk?oc=5",
       "source": "Arab News Middle East",
-      "published": "Wed, 16 Sep 2026 14:32:44 GMT",
+      "published": "Wed, 16 Sep 2026 20:55:57 GMT",
       "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-can-lebanon-s-former-president-michel-aoun-be-pr-376e551a89.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
       "headline": "Heart Risks, Provider Misconduct, and a 21-Year-Old's Death Sharpen Safety Warnings as FDA Weighs Psychedelic Care - Medical Daily",
-      "summary": "Reports of heart risks, provider misconduct, and a 21-year-old's death have intensified safety concerns as the FDA considers approval of psychedelic therapies. These events spotlight the need for rigorous oversight in emerging treatment modalities.",
-      "why_it_matters": "Safety concerns could influence FDA regulations, public acceptance, and the therapeutic use of psychedelic drugs in mental health care.",
-      "perspective_one": "Advocates argue such therapies offer breakthrough potential for treatment-resistant conditions with manageable risks.",
-      "perspective_two": "Critics demand stricter controls and more evidence to prevent harm from premature or unregulated use.",
+      "summary": "Recent concerns over heart risks, provider misconduct, and the death of a 21-year-old have intensified safety warnings as the FDA considers psychedelic therapies. These incidents underscore the need for rigorous standards and oversight in emerging psychedelic treatments.",
+      "why_it_matters": "Patient safety and clinical integrity are crucial as psychedelics move toward mainstream medical use and regulatory approval.",
+      "perspective_one": "Advocates stress carefully managed psychedelic therapy can provide significant mental health benefits if safety issues are addressed.",
+      "perspective_two": "Critics warn premature adoption without adequate safeguards may cause harm and undermine public trust in treatments.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1NhdlJpRzR5OWZzeU1qS0dhaU9WWWlOSTJsNlhNNTFEVGp3RUNFUFIzQk0tbGplZ1hFdERia3M5U2piSlEtUWdtSHJqbERZcnF2dk9PNUxBRW5MWE0zNE9qa1NQWW5zNWpxZHJnVnV2bkNudmxvY3Y2elB1MUdTeGJyaC0zVWxVd3d6bl9qMHFaUjQ?oc=5",
       "source": "Health & Medicine",
       "published": "Wed, 16 Sep 2026 13:30:10 GMT",
       "category": "Health & Medicine",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-pm-heart-risks-provider-misconduct-and-a-21-year-ol-532120fa17.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
-      "headline": "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips - 24/7 Wall St.",
-      "summary": "Shares of SoundHound AI declined 4% amid broader selling of speculative software stocks, with UiPath dropping 3% and C3.ai also down. The market activity reflects increased investor caution around AI-related speculative investments.",
-      "why_it_matters": "Stock price volatility in AI software firms may impact technology funding, innovation pace, and market valuations.",
-      "perspective_one": "Investors worried about overvaluation are trimming speculative AI holdings to reduce risk exposure.",
-      "perspective_two": "Optimists view price dips as temporary corrections in a growth sector poised for long-term gains.",
+      "headline": "Experts raise awareness on cybersecurity, AI at tech varsity in Radaur - The Tribune",
+      "summary": "Experts held sessions to raise awareness about cybersecurity and artificial intelligence at a technology university in Radaur. The initiative aims to educate students and professionals on emerging threats and AI-related opportunities.",
+      "why_it_matters": "Enhancing knowledge in cybersecurity and AI supports workforce preparedness and resilience against growing digital risks.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMWtJVFI2NHg3bC04QlA0eUJxYjVOWE56aHAtN0w1bURHUVpUVGZmMmVMMnNqbDh3b1BSbHhtUlZCTVVLeno3VTVWaE91cjYyMWYyMDhVUTdSUnZjaFVPRUxxb01fU1RmNi13RDd5TVNQTncxR2J6RjQzOWJfRjItQVBYZHRZaFZ6d2NaNjRJdC0tRHlxTzBwVlJIT3RUTTluczZMT0JWYzVtVkdJOWthdVJSdEtnRlZycFU5QWt6Tk00ZUhWbXlCWGNLRzFPMVBVdFBEZ2hnZVZjcHFNZlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2dtYnhKMVNzRExnX1dZc3dTek5NQ2dQbE5QZzhxcXoyYWtGY2hyZG9HR0o3TlRLdUFta3hrZmZCTnR6NnQzY0k2dWE1X3hzVzRxa2k1aFBZUTE4SnZ1a1NYMWNJbzZLc1dTWmhOaW5vYzh1NVFzNnJxVjFkT29yRURCLVQxNVJTeGo5Qi1hR0JrOUVNXzdFTXZMQ3B0dWJXckVFb2hmbWh3N2xLY29STFln0gG2AUFVX3lxTFBFenlWV09ZdG1Vdmx0T0E0MUI0YUZUZlVFVU1sbW01SnFkZTRxd3lhMHE1aGladHRhSE1ycDBfM3dySXFKZXVIcm9mOTRaek1zdE5mRWFyTzFwamlfNmFnNHhuQjhtSXd6czA2eWlVS1k5bkZ2anlXaFhORlNkc2Nqa3kxWExaUVlxXzlJZDF4anZuODNHUUtTNGs0U1EzUWFoMkJFMHBTUWpEM1I4Y0xEdFZsTVNR?oc=5",
       "source": "AI & Technology",
-      "published": "Wed, 16 Sep 2026 16:56:00 GMT",
+      "published": "Wed, 16 Sep 2026 20:48:37 GMT",
       "category": "AI & Technology",
       "image": "",
       "image_credit": "",
@@ -396,16 +396,16 @@
         "summary": "What the Supreme Court\u2019s cryptic mail ballot ruling means for future elections CNN"
       },
       {
+        "headline": "After Supreme Court rejects bid to limit voting by mail, AG says Trump was right to slam the ruling - Tucson Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNclV6aWU0SXBmRGVrczg4SDROMWVTcDBWOFcyLUhjcEVkUHdMZDhKVzVQcTFIakNYSV9rVi1BRDdNRmRnT1QtaVM0NkVmQ2h0Wm4wcmlpSFBKT0c1MmNzb0hYdzlGamQ4QUZBQ0Y1VU1kdXdRb0F4ZzF4TzFFVTVFVlV0ai05X1BLMXN6TE8wLXBWaEw1OHVYb0RvQ2dXRGpZdG9IR2NCdFFpclBwbHJoa2FVMzhnb2lDSTRiN0NMdy0wM21MZV9zSWIyelJQMmRRX2JsTERHVUdJSVk0RzVCeUxLVDNHVlMzM0hfVklRd2s?oc=5",
+        "source": "U.S. Politics",
+        "summary": "After Supreme Court rejects bid to limit voting by mail, AG says Trump was right to slam the ruling Tucson Sentinel"
+      },
+      {
         "headline": "Hegseth avoids impeachment vote with early House election recess - CNBC",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGJNT3l0SzRpS2dLZUUxUklVcGtVaEdTem5MMW0zbjQ3SDBWS2pJdEg4T3FlTk1QanNWSEJWeXd0d1N3NUZWTjZBd0U4dXRSOC0zd2h5Mi1oRExjMVNPOUlaVy1SNTRYX255V255QTN2dV9DNjRhY2FVUWpzX1M1T2xNbDPSAYoBQVVfeXFMTUdKTzZXOTZ0VkRYbXhOc3RjRGJJZzh2dllmeWZ3Rk43QjJKbTNOeHBfcGtodWhKdTJHS0JMRVpFd2ozMWhjZnB3N0c5TzNyWTVQYjBWV01DOFB5ZE5wa29BVkZzeGdiMktVa1l1R21BUlZ2cFZZVjlFcEVhX3NaRi1yOWEyb0lCU2NB?oc=5",
         "source": "U.S. Politics",
         "summary": "Hegseth avoids impeachment vote with early House election recess CNBC"
-      },
-      {
-        "headline": "Why are election officials in the US preparing for chaos before midterms? - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU0zeVJrc0t2bWRfUHRvUDFkeVdWRDI2MER1TVJMREF2SFZSVlQ5UlBuZDV5RlhVMWx0QWdBYTAxSG9vU050cHM0bllNNW1VMFo2MVlWdzRZT0lBamFoYmRNNjc4ZmRnVjlBeXFjVDBHNjNZcnV0U1VvMEZMazBQa1VtSTBQdDNGX1NWWTF1WkpLSnM0NUMyYWl4THhERnNFcl9wOHM3LWdab29YS0xQZDFxZ9IBuAFBVV95cUxPVDZ1Nlg5SWo2NXZ2UnFOSW8teWItQUN2alhlX00tbGI2TWtFX2FBZmJPMURLZTQzc0VrdlZUVDRfZEJkck9wQ25EejdONl9rN3lWd2hDUDBfdmVXMDg3T2lkbFFTN1J0bFhNVlpJaHpTQTJtVEFkTzJhM19iV1RMZFRBNE9HOEhqTlJmYUMwZWpMWXJCczIzamJmNi1DcVlQVEFFZTJhSExCaUU2N0xJS1VvSnNQcUV4?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Why are election officials in the US preparing for chaos before midterms? Al Jazeera"
       }
     ],
     "U.S. News": [
@@ -430,46 +430,52 @@
     ],
     "World News": [
       {
-        "headline": "Eight German state premiers back Merz amid speculation over future",
-        "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend."
-      },
-      {
         "headline": "Philippines' Duterte seen in person at International Criminal Court for first time",
         "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "summary": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs."
       },
       {
-        "headline": "Cricket: Harry Brook\u2019s 114 Crushes Sri Lanka as England Win First T20I by 119 Runs - The Eastern Herald",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUF5SFhBUjRueFh5MnVLVUxydEZTQS0wZF9VeGZwRVFoWG9FY2drYkNFN1NFbDJfOXF0c01IRkc1di0tVDRyS2ZyemJxVmRJYlJCSUoxeHlSRFJGRnNNZ3BiZ2szck5la2VVRUNScEFhNk1LWUhCQ3g2MDluZ1RYTFRfdi1hcTdtdTl0X0pacw?oc=5",
+        "headline": "UN chief urges global AI cooperation saying world can't afford 'a race to the bottom on AI safety' - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNDJkUVQ4V3hfWmJ3VHotQTk2M3BQSjhRZGNKTnpUM0hMbUJkT0czdEZ5UTliclJmV2k2N3oxOU12ZThBUUlUYXE3YTJLeXhnSkNHNkk0enlvVW41SjNINTdiVmlkUWh6UENpbHdkQXpSM3lGRmJwb0RlZEI1VERraXN1bmZyUElJbjFDanhEa0R1UzVpTk9TN2VuR3ZGd0thUldDajVCd2psMFV4VUI4UHdsVTN3SWpTVTNhMlgwXy1icllfY2ZFdTVudw?oc=5",
         "source": "Associated Press World",
-        "summary": "Cricket: Harry Brook\u2019s 114 Crushes Sri Lanka as England Win First T20I by 119 Runs The Eastern Herald"
+        "summary": "UN chief urges global AI cooperation saying world can't afford 'a race to the bottom on AI safety' WRAL"
+      },
+      {
+        "headline": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+        "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender."
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "'We feel powerless,' Saudi sources reveal the extent of the Kingdom's anger toward Washington & the Houthis - i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM2o0N0NPNGJfNkNmejFreXhNcnYwNEE4VDBvdDFuSFdKd0g1ODItRV9sRTZ3dDFVaXVVQ1FLZjh0cGUyZDBXZ0dWNHNKUXBmYUx6c3FPcUxUb0p6dGR4Z2xqZGpHZEVqYkhORVpTdXZIeUdWd0NoVml6ZGM1Y2xWcmVubW9uLXdMWm5CdjJMZkFfa1dId3dJeWY2MUdYNk44OUlzaU9nVzVhd1hocXdjZERvdC1Fcm9OSWcxZF9WWXhOOEJCdE10YlB2a3FnOF9VT2NyTG1PYVpsTVUzSVBjaElrckE?oc=5",
-        "source": "Arab News Middle East",
-        "summary": "'We feel powerless,' Saudi sources reveal the extent of the Kingdom's anger toward Washington & the Houthis i24NEWS"
-      },
-      {
-        "headline": "US warns Houthis that Washington will not negotiate with them - Arab News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGlMazBMdzVDdWVhd3pOcm5wT05fazE3d1IwOVptY2gxbGlnaTQ5VlpKbXBjOEtROVJPczNXZVNFMmJENXdLTEl4bjVBM0hMM2xZdnIwM0o5eUFMaDZQZnlRMlE1YzZQaDRQS2w3LWc5UVM1cWFyUVJEbElWcG1FWmJOckZQMkEwaUhXU1BmczFfQ2x6TG03Mlk3bXAtem54eHBwZHZjMThwZw?oc=5",
-        "source": "Arab News Middle East",
-        "summary": "US warns Houthis that Washington will not negotiate with them Arab News"
-      },
-      {
-        "headline": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+        "headline": "Iraq continues investigating attack on Saudi Arabia from Iraqi territory - FDD's Long War Journal",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTndPcmYwUTZDb1hxakR4MVFaNE1lVUU3TUt2SE5qd25CN001dGlEVjMxVzAzRjEwRVctYmtpX2t6Y3pkY3FFMlZCVlhKTko4ZTUyRWlZMmtmbllXbF9MN1E4Yk1iN21Ja3RmTnBLSWlkbzlCdElqOVpDZGVnSENicksxbFR6MWhJNHFBZ0hjZ2NrV3g4MzVwS002d09Fa0hfRFhFb3VwbHBmTVBXQVRTdFhJUXJaU3o2QjVjSUlMT1hFdw?oc=5",
         "source": "Middle East Affairs",
-        "summary": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica"
+        "summary": "Iraq continues investigating attack on Saudi Arabia from Iraqi territory FDD's Long War Journal"
+      },
+      {
+        "headline": "Trump\u2019s Unauthorized Iran War Hits American Wallets With $107 Billion Gas and Diesel Price Tag - The Source Magazine",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXBHaHNhWlB6WWNNV0Zsa3NqcGc5Y3lZZFQwRHJlM3dFUHA3Vzh3YVZ1Z1ZVN1h0dVR5bzdTNXZka1YyV2lyb0JVbllHNUVvZjlTMjBkSjlWeXM2TXFSdFNrMGlabFBvWTZNNnJVd282N3o3cFE0Snc3NlpMQXZDbXg1RUhXVHJkQ3JzZkx2Mk1KcjB1M3l6aWpLTXFGSVhmWWNfOTVFckZJWDJnQXQ0NlFpekEzSlRVRG1LRFZrS2oyYmtT?oc=5",
+        "source": "The National Middle East",
+        "summary": "Trump\u2019s Unauthorized Iran War Hits American Wallets With $107 Billion Gas and Diesel Price Tag The Source Magazine"
+      },
+      {
+        "headline": "Saudis pound Yemen as Houthis solidify gains in new theatre of Middle East war - The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlNBNE1ucTRyTFlJZ095eE8zS2FmRVNsZVZZeVpHZEJMdXAyNW5iNTdKc3k5eGZyRXROLTYxa3RwTmtuQktBMzB2MEdueVJUUzBYU2Z4RmRoM040SlM3SFl5Tk5jQzRPejh2c2luUENPSXQ2c1lNMlJkc2xLRlUxTXZtemlCLWJSckFYWlQ3RUw0XzRLaERQTFdOWEFBRU9GN3plTTQ5RW9rbl91M1BRQWVCZThnd9IBvgFBVV95cUxPZ3FHVEFhM2g2NFM1RGxuYjhndFA0SDAzcWFaNGx1UWpMMG9fNy1mNHJUdTRhQnpTZVM3eWo4QTVzVmo5aFo3SktqQlB0WHQtWUFZTmJxRzN1Y1RYMlJoWndNUjUyZ29ibW5qNFFSLUVRMWluWVl3SUh5MUd3LXNBRDlNYTREMm9ucnZlb3BxaTZVcFFPS1RUcVJQVm5tOWx6T2lHbzZFTXFuNmpyRlN1Q1Uyb3FXaE8yd21zZXRB?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Saudis pound Yemen as Houthis solidify gains in new theatre of Middle East war The Express Tribune"
       }
     ],
     "Health & Medicine": [
+      {
+        "headline": "Flow Neuroscience launches FL-100 in the US, the first FDA-approved at-home tDCS treatment for depression - The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUnJ1MTl1VzFFb1dRYVczUmNra0FKTVpYRjEtZWdIbVRhUzRHSTNhRHZDXzVkWlNLbzhQSWxGNXhrVlVpU2ZQQm1Pbkl6eDZOWl90Q2k0YmYwMmpWWjB3bVJVVm9Sam1QSmFhX1BsMWFoWVB0dXozOFdWUFdxaVYtSld4OW9VdHExM0M2a0UyRkRTbDhQX0FGSzN0NzNVdVk1bWtVZEF4dUlxcXgtdC1oS0pFRWNaaDdRWWlqQUItUlJRTnhnNUJvZ0Z2SWNVeWR3ZDN4N08tSHNiYVpFODE5b2FzdGZ6dHBNc3FCdXdJQm9ZYUs4SVB1bG9hSFV5OG9UY2plRWZzX1FVQdIBjwJBVV95cUxNeU9XNW10SVlwN2o0UVZxVldudVBGaGhSTHNXVGVLZmRWYVVndWJuRzM2ZHNCT3l2bjZjWHV4bXU5aV9MY05FNHR2bG82X1hON3hlZGkxa05TUlRTTkhyRUhyaGk2WWpGOUw5NFFSXzkxeWJpRHNuUFlKak95UUpiakpNMXJGdkpNVmczSDZ3ekI0U0RnbGxkNFNkVmhyVENYT25wdXh0bHJ3OTFSeTZoNDNvd0xXVEJrbWJhdVZGekh5SE51QVhRaVg1OXN1cF9DU2kzV0lTNWtZQmJRU0JUb0w4b0VQd2RjYU92cV84V1dYdDczYmVPZmlJdUJjeVlFWGVIWndObzZYTW5CcHpN?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Flow Neuroscience launches FL-100 in the US, the first FDA-approved at-home tDCS treatment for depression The Manila Times"
+      },
       {
         "headline": "FDA effort aims to speed up drug development - Axios",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kTGdiY3FQQVlMNWlMMXg5LTkzUlB1LTdzLWNRRTg3bFd2N3N2Vy1aWmpmSnIyd3lEUy1Yd2g3cVV4T1cyQlhLaGczTVRDcTR5MVZfbmhzaDQ1dzdrNmZzVWx4dk1NeGk5QmU4?oc=5",
@@ -481,15 +487,15 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVR5TjR5U1BnZDZMd2QtbkFCc2RMRHkxYnRNWWFENjVIWXdQN3dwNDRxTnVYWWxvLTZvLUlkR2VjZ0RvS3pENHB4NjRLRUE0UDRCbi1pUTREel9GZzF3TUl0M0xXVk4tNjhhcEs2Sml1UmlWR0l0SE1sZWpZMVhOdUVMUHgzU3M3czd0XzBFTnJNLVRGYlVtVnh4a21OSng1eWhqZTNpUzg?oc=5",
         "source": "Health & Medicine",
         "summary": "FDA unveils expedited IND pilot, begins accepting applications The Pharma Letter"
-      },
-      {
-        "headline": "FDA's IND Pilot Puts CMC Review First - PharmTech.com",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxZGE0QU9vQ2ViMlViM3NtZ2F2Mk9TNkRaUC1WRHBJcENaNEJvX0FfeWhCeGVOeDhSMEhXZzZ3XzY0SDdxTXdsNWFteFAwUTl5YVZXRzlFcDBvQ2M3Q3hQNXpmUWJPNG5ONWZXZ210dDNEN25wTW1n?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA's IND Pilot Puts CMC Review First PharmTech.com"
       }
     ],
     "AI & Technology": [
+      {
+        "headline": "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMWtJVFI2NHg3bC04QlA0eUJxYjVOWE56aHAtN0w1bURHUVpUVGZmMmVMMnNqbDh3b1BSbHhtUlZCTVVLeno3VTVWaE91cjYyMWYyMDhVUTdSUnZjaFVPRUxxb01fU1RmNi13RDd5TVNQTncxR2J6RjQzOWJfRjItQVBYZHRZaFZ6d2NaNjRJdC0tRHlxTzBwVlJIT3RUTTluczZMT0JWYzVtVkdJOWthdVJSdEtnRlZycFU5QWt6Tk00ZUhWbXlCWGNLRzFPMVBVdFBEZ2hnZVZjcHFNZlE?oc=5",
+        "source": "AI & Technology",
+        "summary": "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips 24/7 Wall St."
+      },
       {
         "headline": "Cybersecurity Innovation Takes Centre Stage in International Cyber Expo Awards Shortlist - IT Security Guru",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaUNmQXJuZXl1V2lVVGhRWW9ydGc2OFpmVXFLVmZ4bGhCOW5oWHdvaXBaOTVuVWREZG9sT3VZdnJJb1g1LVRPYVM0V3J3OTc1cHg0MXZFRUR0YnJwMW5XdnE0dUM4NndqNjFhTURkTFlhR2pub2w4UHB5Uk9NelVicUN6akRfazB6dldKTHhJSzdnTlVn?oc=5",
@@ -497,24 +503,18 @@
         "summary": "Cybersecurity Innovation Takes Centre Stage in International Cyber Expo Awards Shortlist IT Security Guru"
       },
       {
-        "headline": "Senior Google AI researcher quits, warns technology could \u2018kill us all\u2019 - Ynetnews",
+        "headline": "Senior Google AI researcher quits, warns technology could \u2018kill us all\u2019 - ynetnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OUFQtZ3Z5SVNpTjFyRkh4dVZNWjhCbEdBS29LT3BpVkkyNzdkMzlKQ0VsV082T2FwSkFTcC1YTm5tOHYwdnJEY2lzeDN0Uko2czJNYTlIRk5kdmZwVXZ5YW51ZFd6MzR0ODN6cg?oc=5",
         "source": "AI & Technology",
-        "summary": "Senior Google AI researcher quits, warns technology could \u2018kill us all\u2019 Ynetnews"
-      },
-      {
-        "headline": "Thinking About Artificial Intelligence Minds in the Context of Homeland Security - Homeland Security Today",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT0hCNkY2Yl9oZnRTcDRKSE5BbnBfOGw4aEEyM2ZySFUyMzlnQk9RbFBtNkNxMW9BTHBLWFRJMlJDR0o3NWNRSVBJaGF3WEtxR0NzNkYyWXNOcXd3OUFvdjhqYTNhMVoxRkVEUTFyX0FVTWRmSWJIZTl5QnpsNmxfTWFuTXZzODhuZWFfQkZ2Rl9kNExqWF8xRjNQRFJIUndnRHkxV2ttQnBnbnhxQnBxRTVKNDF3MzltOURMdTA5bS1nY0V2TUhDNG80Qjd0bW51V0EtSHJn?oc=5",
-        "source": "AI & Technology",
-        "summary": "Thinking About Artificial Intelligence Minds in the Context of Homeland Security Homeland Security Today"
+        "summary": "Senior Google AI researcher quits, warns technology could \u2018kill us all\u2019 ynetnews.com"
       }
     ],
     "Business & Economy": [
       {
-        "headline": "Fed Chairman Kevin Warsh\u2019s Postmeeting Press Conference - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzVHY0VFSV9DTVhFSklMYVRPT3A0djdreG1wWEJKc09YVEJLbjZxWTVYUTZvLXoxR29HNkx6OC1udUI0OUZka1dqXzdyOGZBNklKZGg3d1g1V2xQTGxSTzVseVNWSjBiY3pNczVwWFdERkpSTUktT1RVVGsyRjVtWkx2TEVPUExSNTFMMklCaDRFY2lpeU1GdzNsWUhqUXB1ZFpYVXBn?oc=5",
+        "headline": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead - reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
         "source": "Business & Economy",
-        "summary": "Fed Chairman Kevin Warsh\u2019s Postmeeting Press Conference WSJ"
+        "summary": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead reuters.com"
       },
       {
         "headline": "Markets are spooked by the prospect of more rate hikes as the Fed battles inflation - Business Insider",
@@ -523,10 +523,10 @@
         "summary": "Markets are spooked by the prospect of more rate hikes as the Fed battles inflation Business Insider"
       },
       {
-        "headline": "Fed raises interest rates by quarter point to tackle inflation - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVoeUNBMTNYV2tDbGpKekd3Y3l6RGJLM0JrekZhRElkQjI0OFFsNmFCUzNUTk5ndUFWQkstdGZfeFVDdDZPUVQ0NEpkTjBQQk54VDh0dTNrQmE3MF9Rb2xBV2NLTUF5LUlsb19rMmU3MHNEOFdzbVhVQzFDQkJobmY0REljQ2R2cFR0LTFiZ2hYcDI4NkpKZkNuOGxlWEtZNVNB?oc=5",
+        "headline": "Fed Chairman Kevin Warsh\u2019s Postmeeting Press Conference - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzVHY0VFSV9DTVhFSklMYVRPT3A0djdreG1wWEJKc09YVEJLbjZxWTVYUTZvLXoxR29HNkx6OC1udUI0OUZka1dqXzdyOGZBNklKZGg3d1g1V2xQTGxSTzVseVNWSjBiY3pNczVwWFdERkpSTUktT1RVVGsyRjVtWkx2TEVPUExSNTFMMklCaDRFY2lpeU1GdzNsWUhqUXB1ZFpYVXBn?oc=5",
         "source": "Business & Economy",
-        "summary": "Fed raises interest rates by quarter point to tackle inflation The Washington Post"
+        "summary": "Fed Chairman Kevin Warsh\u2019s Postmeeting Press Conference WSJ"
       }
     ],
     "Society & Culture": [],
@@ -552,12 +552,6 @@
     ],
     "Good News": [
       {
-        "headline": "Mexico Reintroduced Bison into Precious Desert Ecosystem After Century-Long Absence",
-        "url": "https://www.goodnewsnetwork.org/mexico-reintroduced-bison-into-precious-desert-ecosystem-after-century-long-absence/",
-        "source": "Good News Network",
-        "summary": "A series of reintroductions have seen the bison return to a landscape in Mexico\u2019s Chihuahua Desert after a 200 year absence. Having acted as ecosystem anchors for the vegetation is this vital biosphere reserve for millennia, their return is seen as a major step towards fortifying the area\u2019s sensitive arid grasslands. A vast bison herd [\u2026] The post Mexico Reintroduced Bison into Precious Desert Ecosystem After Century-Long Absence appeared first on Good News Network ."
-      },
-      {
         "headline": "Good News in History September 13",
         "url": "https://www.goodnewsnetwork.org/events060913/",
         "source": "Good News Network",
@@ -568,6 +562,12 @@
         "url": "https://www.goodnewsnetwork.org/nashville-singer-songwriter-becomes-local-celebrity-rescuing-foxes-and-saving-them-from-mange/",
         "source": "Good News Network",
         "summary": "A Nashville singer-songwriter has become a star\u2014but not because of his guitar playing. Jerry Vandiver, whose songs have been recorded by country stars like Tim McGraw, moonlights as a volunteer hero to the local red fox population. As Tennessee suffers from a serious mange epidemic, particularly bad in the area around Vandiver\u2019s adopted home of [\u2026] The post Nashville Singer-Songwriter Becomes Local Celebrity Rescuing Foxes and Saving Them from Mange appeared first on Good News Network ."
+      },
+      {
+        "headline": "10 Pounds of Viking Silver Found in Finland Extend Incredible Year for Scandinavian Treasure Hunts",
+        "url": "https://www.goodnewsnetwork.org/10-pounds-of-viking-silver-found-in-finland-extend-incredible-year-for-scandinavian-treasure-hunts/",
+        "source": "Good News Network",
+        "summary": "Metal detectors have had a banner year in Scandinavia, where records for the largest recovered Viking silver hoards have been made in Norway, Denmark, and now Finland. A man found two large hoards of silver in southern Finland, containing thousands of coins, as well as pieces of jewelry and scrap silver, that together weighed around [\u2026] The post 10 Pounds of Viking Silver Found in Finland Extend Incredible Year for Scandinavian Treasure Hunts appeared first on Good News Network ."
       }
     ]
   }
