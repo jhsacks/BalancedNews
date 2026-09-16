@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-16T05:55:31.698601-04:00",
+  "generated_at": "2026-09-16T06:55:40.590749-04:00",
   "edition": "AM",
   "stories": [
     {
       "headline": "Trump bashes Supreme Court, Congress responds to AI warnings, more | The Takeout - Modern Ghana",
-      "summary": "Former President Trump criticized the Supreme Court prominently while Congress began addressing warnings about artificial intelligence risks. These simultaneous events highlight ongoing tensions in U.S. governance regarding technology and judicial oversight.",
-      "why_it_matters": "Congressional reactions to AI warnings will influence how AI development is regulated, balancing innovation with safety and ethical concerns in technology policy.",
-      "perspective_one": "Supporters of Trump view his criticism of the Supreme Court as highlighting perceived judicial overreach threatening conservative values and policy agendas.",
-      "perspective_two": "Critics argue that Trump's attacks undermine judicial independence and distract from urgent legislative actions needed to address AI risks effectively.",
+      "summary": "Former President Trump criticized the Supreme Court amid ongoing debates over AI regulation and technology policy. Congress is actively responding to warnings about AI risks, signaling intensified legislative focus on technology oversight.",
+      "why_it_matters": "This story highlights the growing political tensions surrounding AI governance, which will shape legislative and judicial approaches to technology risks and innovation.",
+      "perspective_one": "Trump emphasizes the need for aggressive AI development to maintain American global competitiveness, downplaying cautionary voices about AI dangers.",
+      "perspective_two": "Congressional actors advocate for stronger AI regulations to prevent potentially catastrophic societal and economic impacts from unmanaged AI advancement.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56bjV6Qy1IblpQdzdnQ2lWdlhKYWkxcFdGX0xnRFBJQnF1YmFHaVd2ckVQNWx3N21LblFMUDFMVHEwX1QtVWpPSnhEYUd2b1lkdW0yclpCMlJwODM3dzg00gFcQVVfeXFMTWM1NHVwbGJQQ0pyZG1kbm4yQW00Sk9uUFF1VUhycGNYWm9mZkdLanJ1N0pONF9ubk83cWJrTldldFdnc0piQm1zM3V5UHZZVTYxUVNqeU02cUp3S2U?oc=5",
       "source": "U.S. Politics",
       "published": "Wed, 16 Sep 2026 04:50:00 GMT",
       "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-trump-bashes-supreme-court-congress-responds-to--f358297eb5.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg/1280px-House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 DC Public Library Commons \u00b7 No restrictions",
+      "image_source": "https://commons.wikimedia.org/wiki/File:House_of_Representatives_Chamber_in_the_United_States_Capitol_building,_1868_(27603231870).jpg"
     },
     {
       "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
-      "summary": "The Supreme Court rejected President Trump's attempt to impose mail-in voting restrictions for the upcoming midterm election. This decision preserves broader access to mail-in ballots amid ongoing political disputes over election integrity.",
-      "why_it_matters": "The ruling affects voting procedures nationwide by maintaining easier access to mail-in ballots, which influences voter turnout and election fairness debates.",
-      "perspective_one": "Trump and supporters argue that mail-in voting invites fraud, jeopardizing election security and calling for tighter restrictions to ensure integrity.",
-      "perspective_two": "Opponents contend that restrictions disproportionately block voter access, suppress turnout, and undermine democratic participation, especially for marginalized groups.",
+      "summary": "The Supreme Court rejected President Trump's effort to impose new mail-in voting restrictions ahead of the 2026 midterm elections. The ruling preserves current mail balloting rules, maintaining access amid ongoing electoral integrity debates.",
+      "why_it_matters": "This decision affects voter accessibility and election administration, influencing turnout and confidence in the voting process during a politically charged election cycle.",
+      "perspective_one": "Supporters argue restrictions are necessary to prevent fraud and protect election integrity, emphasizing security concerns.",
+      "perspective_two": "Opponents contend the restrictions would disenfranchise voters, particularly marginalized communities, undermining democratic participation.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
@@ -35,11 +35,27 @@
       "image_source": ""
     },
     {
+      "headline": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
+      "summary": "Former Kosovo President Hashim Thaci was convicted by a European Union-backed tribunal of war crimes committed during Kosovo's war for independence and sentenced to 25 years imprisonment. The verdict reflects ongoing efforts to address war-era atrocities and regional justice.",
+      "why_it_matters": "The conviction will impact Kosovo's reconciliation process and international perceptions of transitional justice efficacy in post-conflict societies.",
+      "perspective_one": "Supporters of the verdict view it as a necessary accountability step for war crimes, reinforcing international law.",
+      "perspective_two": "Some critics argue the trial may deepen ethnic divisions and hinder political stability in the Balkans.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
+      "source": "NPR World",
+      "published": "Wed, 16 Sep 2026 05:57:03 -0400",
+      "category": "World News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3407+0+0/resize/5000x3407!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F1e%2Fa8a05440450690bdca01f44b5ddc%2Fap26258396368489.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
       "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "summary": "A Pentagon inspector confirmed that the war involving Iran has caused shortages in U.S. munitions supplies. This contradicts President Trump's earlier claims that American military supplies were virtually limitless and reveals logistical bottlenecks in resupply efforts.",
-      "why_it_matters": "Munitions shortfalls constrain U.S. military readiness and operational capacity, impacting national security and strategy in ongoing conflicts.",
-      "perspective_one": "Defense officials acknowledge supply chain challenges but emphasize efforts to ramp up production and logistics to meet operational demands.",
-      "perspective_two": "Critics argue that leadership mismanagement and underestimation of conflict intensity have driven dangerous shortages, risking military effectiveness.",
+      "summary": "A Pentagon inspector confirmed that ongoing conflict involving Iran has caused significant shortages in US military munitions, contradicting President Trump's claims of near-limitless supplies. The report highlights resupply bottlenecks amid sustained military engagements.",
+      "why_it_matters": "Munition shortfalls constrain US military readiness and operational capacity, influencing defense strategy and international security calculations.",
+      "perspective_one": "The Pentagon stresses the need for increased defense production and supply chain improvements to sustain combat operations.",
+      "perspective_two": "Critics suggest that the administration underestimated conflict duration and resource demands, resulting in inadequate preparedness.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
@@ -51,75 +67,59 @@
       "image_source": ""
     },
     {
-      "headline": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
-      "summary": "The Supreme Court blocked Trump's proposed limitations on mail-in voting for the midterm elections. Meanwhile, the Kennedy Center declared it faces bankruptcy and risks imminent closure due to financial distress.",
-      "why_it_matters": "The court decision affects election administration and voter access, while the Kennedy Center's crisis threatens a major cultural institution and its community contributions.",
-      "perspective_one": "Advocates for unrestricted mail voting stress the importance of inclusive elections and fear any restrictions suppress turnout.",
-      "perspective_two": "Supporters of voting limits argue they protect election security and integrity from potential fraud or abuse.",
+      "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com",
+      "summary": "A live update service is tracking ongoing developments in Israel, Iran, and the broader Middle East amid escalating conflicts and diplomatic activities. The evolving situation involves military actions, political statements, and regional security dynamics.",
+      "why_it_matters": "Continuous updates provide critical situational awareness for policymakers, security analysts, and international actors monitoring Middle East stability.",
+      "perspective_one": "Israeli and allied governments emphasize self-defense and counterterrorism measures as essential for regional security.",
+      "perspective_two": "Opposing factions and international observers warn of humanitarian consequences and call for diplomatic resolutions.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
-      "source": "NPR World",
-      "published": "Tue, 15 Sep 2026 07:35:49 -0400",
-      "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7436x4183+0+253/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F08%2F1c91c9824a0c9623c3dd3a579051%2Fgettyimages-2278806765.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "summary": "Ongoing conflict developments in Israel, Iran, and the broader Middle East continue to unfold with live updates provided by The Jerusalem Post. These events highlight the region's persistent instability and geopolitical complexity.",
-      "why_it_matters": "Real-time updates are critical for understanding rapidly evolving security threats that impact regional stability and international diplomacy.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWem5PZUs2ZmR3UXFFQ0hfdGtCc3RBY3ZqSC1wbkxmZ3FrMG1zaHFTbjNrYWtkSEt5eGY0cWFHSDliTFRLNEdDS2hpWTZrLVFna09nY1N1T2RsSkl2dEtUMTZENWdvUzdGN2E2QlRaVjZrNXlDTFotTjhtQWZONFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWem5PZUs2ZmR3UXFFQ0hfdGtCc3RBY3ZqSC1wbkxmZ3FrMG1zaHFTbjNrYWtkSEt5eGY0cWFHSDliTFRLNEdDS2hpWTZrLVFna09nY1N1T2RsSkl2dEtUMTZENWdvUzdGN2E2QlRaVjZrNXlDTLotTjhtQWZONFE?oc=5",
       "source": "Conflicts & Security",
       "published": "Wed, 16 Sep 2026 06:00:05 GMT",
       "category": "Conflicts & Security",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-live-updates-latest-from-israel-iran-and-the-mid-aa1bc53423.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Coin_%22Diplomacy%22a.png/1280px-Coin_%22Diplomacy%22a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 \u041d\u0411\u0423, \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0422\u0430\u0440\u0430\u043d, \u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0425\u0430\u0440\u0443\u043a, \u0421\u0435\u0440\u0433\u0456\u0439 \u0425\u0430\u0440\u0443\u043a \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Coin_%22Diplomacy%22a.png"
     },
     {
-      "headline": "How the Iran war could affect oil prices, Gulf exports and US inflation - The Jerusalem Post",
-      "summary": "The ongoing conflict involving Iran poses risks to regional oil supplies, potentially driving oil prices higher and disrupting Gulf exports. This escalation could contribute significantly to rising inflation in the United States by increasing energy costs.",
-      "why_it_matters": "Energy market disruptions affect global economic stability and consumer prices, potentially slowing growth and raising costs for businesses and households.",
-      "perspective_one": "Some analysts warn that prolonged conflict may severely curtail Gulf oil output, intensifying inflationary pressures worldwide.",
-      "perspective_two": "Others suggest that strategic petroleum reserves and diplomatic efforts might mitigate supply shocks, limiting long-term inflation impacts.",
+      "headline": "How the Iran war could affect oil prices, Gulf exports and US inflation - jpost.com",
+      "summary": "The ongoing conflict in Iran is expected to disrupt oil exports from the Gulf region, potentially driving oil prices higher and increasing US inflation pressures. Economic ramifications may extend globally, affecting energy markets and trade flows.",
+      "why_it_matters": "Price volatility in energy markets can influence inflation trends, monetary policy decisions, and geopolitical alliances affecting global economies.",
+      "perspective_one": "Gulf producers warn of export risks and urge conflict de-escalation to stabilize markets.",
+      "perspective_two": "Market analysts highlight uncertainty in oil supply continuity amid evolving combat conditions and sanctions.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjSThobURpdjVCaUJrWlVwN0xhVWViZmhmRTFobG1aN3FOa1c1V2VUTGU3WnVoaG85M1dqMzRiTFlfT1JPeDN5a1J6NWl0T1lLYklGclFNOThDYllrSXBZckEyTzZjdGYtRFE?oc=5",
       "source": "Reuters Middle East",
       "published": "Wed, 16 Sep 2026 08:14:38 GMT",
       "category": "Middle East Affairs",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg/1280px-2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons \u00b7 The Official CTBTO Photostream \u00b7 CC BY 2.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:2nd_CTBT_Science_Diplomacy_Symposium_(27472625147).jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2026_Iran_War_Map_%28Simplified%29.png/1280px-2026_Iran_War_Map_%28Simplified%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Ganesha811 \u00b7 CC0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2026_Iran_War_Map_(Simplified).png"
     },
     {
-      "headline": "FDA Launches Expedited IND Pilot to Speed Up Clinical Trials - megadoctornews.com",
-      "summary": "The FDA has initiated an expedited Investigational New Drug (IND) pilot program designed to accelerate the clinical trial process. This initiative aims to shorten development timelines and bring treatments to patients faster.",
-      "why_it_matters": "Faster clinical trial approvals can improve patient access to innovative therapies and reduce costs associated with drug development.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "FDA Launches Expedited IND Pilot to Speed Up Clinical Trials - Mega Doctor News",
+      "summary": "The FDA has initiated an expedited Investigational New Drug (IND) pilot program aimed at accelerating clinical trial approvals. This initiative intends to shorten timelines for innovative therapies reaching patients.",
+      "why_it_matters": "Quicker clinical trial starts can enhance drug development efficiency, bringing potentially life-saving treatments to market faster.",
+      "perspective_one": "The FDA emphasizes innovation facilitation and streamlining regulatory hurdles to boost medical advancement.",
+      "perspective_two": "Some experts caution that speeding processes risks compromising trial rigor and patient safety.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1pRcFZzNVFsektabXRGRFY0dlBUdUZlZW1xTjlPb2R6b0lEbEU2Y29RTktzRkdHd0NBbDh4R2dNWkwwcGd1SkxWT2VGZ3FMRU84TXkxMEpxNGl1TmRyRjdvMEVFZnVHY3I1MkdobzJZSTJVY002dmk0NUJXTTFpWWNDZ3J3TWtjMmdveUVoRlE1dw?oc=5",
       "source": "Health & Medicine",
       "published": "Tue, 15 Sep 2026 16:55:42 GMT",
       "category": "Health & Medicine",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-fda-launches-expedited-ind-pilot-to-speed-up-cli-cc059e2ea6.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-fda-launches-expedited-ind-pilot-to-speed-up-cli-6b9f877cde.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
       "headline": "Australia Warns AI Agents Could Exploit Its Aging Technology: Cyber Chief Calls for Early Warning System - eWeek",
-      "summary": "Australia's cybersecurity chief warned that outdated national technology infrastructure could be vulnerable to exploitation by AI agents. He called for an early warning system to detect and mitigate AI-driven cyber threats before significant damage occurs.",
-      "why_it_matters": "Without proactive safeguards, aging technology could be compromised, risking critical infrastructure, data security, and public safety due to increasingly sophisticated AI cyberattacks.",
-      "perspective_one": "The government stresses urgent modernization and AI threat detection capabilities to safeguard national security and digital assets.",
-      "perspective_two": "Some industry voices caution that early-warning measures must balance security needs with innovation and privacy considerations.",
+      "summary": "Australia's cyber chief warned that AI agents could exploit outdated government technology infrastructure, urging the development of an early warning system. This highlights vulnerabilities in public sector cybersecurity amid rapid AI adoption.",
+      "why_it_matters": "Addressing these technological risks is critical to protect national security, public services, and sensitive data from emerging AI-driven cyber threats.",
+      "perspective_one": "Cybersecurity officials prioritize building alert mechanisms to detect and counter AI exploits preemptively.",
+      "perspective_two": "Skeptics question the feasibility and cost of implementing comprehensive early warning systems on aging infrastructure.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PN1ZpUVFwc3QtZ09KbDJzQ3h1MDhaVTZucjAwMVRMenpiaGliSGowdkUzbVA4NE10cE9RWjBlYU5WY1ZmQm04cmJWV25OYnFvMk9rbUtnd2JoM2N2SnEtLTA0d2pvXzJLQ3lJM3p0djdrc04tRF9BUU9MaWtwQzg?oc=5",
@@ -131,57 +131,73 @@
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "UK inflation rises to 3.1% as motor fuel prices jump by almost a quarter - The Guardian",
-      "summary": "UK inflation increased to 3.1%, driven primarily by a nearly 25% surge in motor fuel prices. This rise exacerbates cost-of-living pressures and may influence monetary policy decisions.",
-      "why_it_matters": "Rising inflation erodes consumer purchasing power and impacts economic stability, potentially prompting the Bank of England to adjust interest rates.",
-      "perspective_one": "Some economists argue inflation is transitory and linked to specific supply shocks like fuel, suggesting gradual policy tightening.",
-      "perspective_two": "Others warn that sustained fuel price hikes could entrench inflation expectations, requiring aggressive monetary interventions to prevent economic damage.",
+      "headline": "WTO Warns Weakened Trade Rules Could Cut Global GDP Up To 10% By 2050: 20 outlets compared - NewsCord",
+      "summary": "The World Trade Organization warns that erosion of global trade rules could reduce world GDP by up to 10% by 2050. This projection underscores risks posed by rising protectionism and weaker trade cooperation.",
+      "why_it_matters": "Global economic growth depends on robust trade frameworks; weakening them could stifle development, increase costs, and destabilize markets worldwide.",
+      "perspective_one": "Proponents of free trade highlight that strong rules support economic integration and prosperity.",
+      "perspective_two": "Critics argue for more protectionist policies to safeguard domestic industries and jobs from global competition.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXdQUjdCU2FXdFNtRUZ6b0dob0ZkbmpMeWk3Vy0wVGd3ZTVHZ3BfQ1VQQndCVzJYR3Rrb0RLdER1d0YxUmY0V1BmZEl6TXZPeTI4REhuOUJXZDFFbkJPTVM1SjJBTkRsY3RyeVRhUW1rZjJEOTkzQUJGUVJPTlMtQUk3a0pGdE44OE9ma2NFYUpmWk9NTXFVckhIYnAtRDJsVjdTdjJlNzlON2hDUGtXUGVHdmlYejNvMDQ0cjN3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSDJGbHJDOU9LYlVyc0MxTHEzWk0wUE9zWFhNT283R1kyX2RzS1Fselpseno3ajZ1bVh5blFSenlFak5QVVI5T3VDcTZ3MGt3R09iSGZrNjhqYm5rUG8wSVdReE81bG9nSVhJa2dEX2YwZVJSeVBLZDNKQUYzMGs4WkJjRjRiWl9UbjdaU1p2cHNTQVJBa2RNN1lSR2JCTk5xWXJuMG40SFlMMHJiNFJUZHVGaW5SdVlLNkhzMjJ4eHVlOXg3ZnBMUUkwVzc1NTctMFR2SU80cDc1Zw?oc=5",
       "source": "Business & Economy",
-      "published": "Wed, 16 Sep 2026 06:01:00 GMT",
+      "published": "Wed, 16 Sep 2026 10:38:07 GMT",
       "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-uk-inflation-rises-to-3-1-as-motor-fuel-prices-j-1e1af25b69.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-wto-warns-weakened-trade-rules-could-cut-global--8fcecb220e.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Warsh likely to side with financial markets over Trump as Fed rate hike expected - Audacy",
-      "summary": "Economic analyst Kevin Warsh is expected to align with financial markets anticipating a Federal Reserve interest rate increase. This comes amid differing views between market expectations and former President Trump's stance on monetary policy.",
-      "why_it_matters": "Fed rate hikes influence borrowing costs, investment decisions, and economic growth, with potential impacts on inflation and market stability.",
-      "perspective_one": "Warsh and markets predict rate increases to curb inflation and stabilize economic overheating risks.",
-      "perspective_two": "Trump advocates for looser monetary policy to support growth and employment, warning rate hikes could harm economic recovery.",
+      "headline": "Warsh's words may matter more than the anticipated Fed rate hike - Reuters",
+      "summary": "Former Federal Reserve official Warsh's recent comments may have more impact on markets than the expected Fed interest rate increase. His insights are being closely watched for indications of future monetary policy direction.",
+      "why_it_matters": "Market reactions to these statements can influence investor behavior, economic forecasts, and the effectiveness of central bank strategies to control inflation.",
+      "perspective_one": "Some analysts believe Warsh's views signal caution, potentially tempering rate hike enthusiasm.",
+      "perspective_two": "Others argue that while influential, ultimate policy decisions rest with the Fed's consensus, minimizing his individual effect.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUZ5R2pPbTlILWZ2SGtaa3lqR2Y3dUVJTnBjWnRnYlJSeTVZemhqc2U4UE9YTUt5U2h2aXo1YjdWb21CVzB6eXRRZFNGLVNndm4wU3dBWm56X29jMXVNdDV2ZElpOXpHMWRqWDBrSkFEU2liMTVaQVNVVUNWcldDOVM1VzZ3RUp3R3dXdFNlWDZTczVfdEhIUW1BRHdINjVzWVRMeGM0akQ0SnB5eE1PdnlR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
       "source": "Business & Economy",
-      "published": "Wed, 16 Sep 2026 04:01:00 GMT",
+      "published": "Wed, 16 Sep 2026 10:17:13 GMT",
       "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-warsh-likely-to-side-with-financial-markets-over-3e419f3ded.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-warsh-s-words-may-matter-more-than-the-anticipat-fbae0df37c.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
-      "summary": "Bill Gates emphasizes that the AI era is entering a turbulent phase requiring critical decisions on development and governance. Reckoning with AI's risks and benefits now will shape society's technological future and ethical framework.",
-      "why_it_matters": "Strategic choices in AI policy and innovation directly affect technological impact on economy, security, human rights, and global competitiveness.",
-      "perspective_one": "Some experts advocate cautious, well-regulated AI to safely harness benefits while minimizing harm and inequality.",
-      "perspective_two": "Others stress rapid innovation to maintain competitive advantage and economic growth, arguing that over-regulation could stifle progress.",
+      "headline": "Mental health at work - World Health Organization (WHO)",
+      "summary": "The World Health Organization highlights mental health challenges in workplace environments and the importance of supportive policies. Addressing these issues can improve employee well-being and productivity worldwide.",
+      "why_it_matters": "Workplace mental health initiatives can reduce absenteeism, enhance job satisfaction, and lower healthcare costs, benefiting organizations and economies.",
+      "perspective_one": "Employers emphasize creating healthier work cultures to retain talent and reduce stress-related losses.",
+      "perspective_two": "Some view mental health programs as costly or stigmatizing without guaranteed improvements unless well-designed.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWHhvaHJPZVMxUDN4NExHdHptZElnaV9xOENsUGlhX0sxc1pwUUtpcmpTamFuN1BwRFhwNGFCdnlkVWRWQmxCYjMzR19LemdLeG9xNmNIdjJzemcydVBnakpDQ2htcXZpd3B4MmlUY0RXekk1MnU0bUd3?oc=5",
       "source": "U.S. News Society",
-      "published": "Wed, 16 Sep 2026 04:35:35 GMT",
+      "published": "Wed, 16 Sep 2026 07:41:34 GMT",
       "category": "Society & Culture",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-mental-health-at-work-world-health-organization--307763aed9.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "MLB playoff picture: AL and NL wild card standings, postseason bracket - USA Today",
+      "summary": "The MLB wild card playoff standings have solidified as teams compete for postseason berths in the American and National Leagues. The current bracket outlines matchups shaping the road to the World Series.",
+      "why_it_matters": "Playoff positioning determines team strategies, fan engagement, and commercial revenues during the high-stakes postseason.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcmJtQ2xJMk8zQjRvTGZwV3B3c09sUUt3RXlpQ3gxczg3UDNSODJQNXowOE1PdlFkTjNvS0VoeXlza0E2c2N4T093UHR6MGk3aXZ3ZEVaTVM4T2hSVFlYODQ1Qk1BbTNrb2VBU3M1Z0FvRnM1Mk5LSFdFa2FwbFM2cWpZMzN6dVZVb3VWOUVyY1lTN19OOTR6UUVHU0hmTVA4bGxWQlRFOFV0NGRFYmFPeVhYMDY1WU9jSjdN?oc=5",
+      "source": "Braves Playoff Race",
+      "published": "Wed, 16 Sep 2026 10:18:00 GMT",
+      "category": "Sports",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-mlb-playoff-picture-al-and-nl-wild-card-standing-c5e07c0093.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
       "headline": "Why Luis Garcia Jr. is Yankees' MLB playoffs wild card - Yahoo Sports",
-      "summary": "Luis Garcia Jr. has emerged as a key factor in the Yankees\u2019 prospects for the MLB playoffs, delivering crucial performances. His impact could influence the team's postseason success and strategic lineup decisions.",
-      "why_it_matters": "Garcia's contributions enhance the Yankees' competitive edge, affecting playoff outcomes and fan expectations in a tightly contested baseball season.",
+      "summary": "Luis Garcia Jr.'s recent performances have positioned him as a critical player in the New York Yankees' quest for the MLB playoffs wild card. His pitching contributions bolster the team's postseason prospects.",
+      "why_it_matters": "Garcia's success influences Yankees' competitive edge and playoff viability, affecting team dynamics and fan expectations.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -195,43 +211,27 @@
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "ESPN ranks Top 25 teams with highest chance to make College Football Playoff after Week 2 - On3",
-      "summary": "After Week 2 of the college football season, ESPN released rankings identifying the top 25 teams most likely to secure College Football Playoff spots. These rankings influence team strategies and fan engagement heading into the season\u2019s crucial stages.",
-      "why_it_matters": "Playoff rankings affect recruitment, broadcasting rights, and competitive dynamics in collegiate football.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "$1,000 Bonus for Every Year of Work: Casino Employees Shocked at Company\u2019s 50th Anniversary",
+      "summary": "Station Casinos surprised its 10,000 employees by awarding a $1,000 bonus for every year worked during its 50th anniversary celebration. This profit-sharing gesture reflects strong company performance and employee appreciation.",
+      "why_it_matters": "Generous bonus distributions can boost employee morale, retention, and demonstrate corporate commitment to workforce wellbeing.",
+      "perspective_one": "Management views the bonus as recognition of employee contributions to company success and loyalty.",
+      "perspective_two": "Some may question the sustainability of such payouts during fluctuating market conditions.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1lNWWtLZzdjSkpyZllvVko5MDBGMGZyVkpXRHVWZE9UcVNXU3Y0djA0ZWdjRXp2RGV0WS16Mmp0NFFpaUhRSFdIc25YYVFDQjZHZFVaWFRtQWdjcnAyOTJsc0NtZkNwbF9lRFdaT2NyR3haYW1lYnhaaTBOM0ZHYmZQWlc1MVdob2lSY01nUVE2Vi1TVzBKZWV2VmNzUkNwT0FONXNyLUZYQXdrQkhReFF1QmFlSmdDSE43YlR5LUoyZldKcEhuNGs1U1hqQWJxa2hXLQ?oc=5",
-      "source": "College Sports",
-      "published": "Tue, 15 Sep 2026 18:24:06 GMT",
-      "category": "Sports",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-espn-ranks-top-25-teams-with-highest-chance-to-m-fc7bf12bc5.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Good News in History September 13",
-      "summary": "Actor-comedian Jean Smart celebrated her 75th birthday, marking a distinguished career with seven Emmys and three Golden Globes for her roles in Designing Women, Frasier, and Hacks. A recent talk show segment honored her HBO series Hacks, highlighting her enduring cultural impact.",
-      "why_it_matters": "Smart's achievements illustrate longevity and excellence in television, inspiring artists and affirming diverse storytelling in popular culture.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/events060913/",
+      "url": "https://www.goodnewsnetwork.org/1000-bonus-for-every-year-at-the-company-casino-employees-shocked-at-companys-50th-anniversary/",
       "source": "Good News Network",
-      "published": "Sun, 13 Sep 2026 07:00:00 +0000",
+      "published": "Tue, 15 Sep 2026 15:30:43 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/09/Jean-Smart-in-Hacks-by-HBO-fairuse.jpg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Station-Casinos-released-to-the-press.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
       "headline": "Election watchers brace for Trump\u2019s next move after Supreme Court ruling - Politico",
-      "summary": "Analysts and political observers are preparing for former President Donald Trump's potential reactions following the Supreme Court\u2019s rejection of his mail-in voting restrictions. This anticipation reflects concerns about how Trump\u2019s response could influence electoral dynamics and political stability.",
-      "why_it_matters": "Trump\u2019s next actions may affect voter confidence, election administration, and the trajectory of U.S. political conflict before the midterms.",
-      "perspective_one": "Trump\u2019s supporters may view his moves as necessary to secure election integrity against perceived fraud.",
-      "perspective_two": "Opponents fear that continued challenges will erode democratic norms and suppress voter participation.",
+      "summary": "Following the Supreme Court's rejection of Trump's mail voting restrictions, political observers are preparing for his next strategic actions ahead of upcoming elections. This signals potential shifts in campaign tactics and election law debates.",
+      "why_it_matters": "Trump's future moves may influence voter turnout, electoral integrity discussions, and partisan dynamics during a crucial midterm cycle.",
+      "perspective_one": "Trump supporters expect continued efforts to tighten election rules and mobilize his base.",
+      "perspective_two": "Opponents warn such tactics risk undermining democratic processes and voter access.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWE0aGMxZ2xBWkFMMHQycUhuVFcyTV9nbzdDcFhOdm5ub3ItaUlQNXRvdTVDNEdPWi1RSkhRV0RCcmhrbk9FNE5tS1daZ0dJYll4cmlka2czMjBYUnJ5eFd4dEVMNm5FTEFCaTRxbDVuRkQ0WkNOV0NTUC1ZQVJRaXh5Tjl6VFhIdHIxcXdfbkhYay1WQXE1b1dn?oc=5",
@@ -244,10 +244,10 @@
     },
     {
       "headline": "Trump says developing AI is a critical race, downplaying fears",
-      "summary": "President Trump continues to advocate aggressive development of advanced artificial intelligence, framing it as a critical competition against China. He downplays industry warnings about AI risks, emphasizing geopolitical and economic imperatives.",
-      "why_it_matters": "This approach influences U.S. AI policy to prioritize rapid innovation over cautious risk management, affecting global technology leadership and safety.",
-      "perspective_one": "Trump and supporters view AI development as essential to national security and economic dominance, fearing Chinese technological supremacy.",
-      "perspective_two": "Critics warn that ignoring AI safety increases risks of societal harm, ethical breaches, and loss of control over powerful technologies.",
+      "summary": "President Trump advocates for rapid advancement in artificial intelligence, framing it as a crucial competition with China despite industry warnings about existential risks. He prioritizes innovation over cautious regulation.",
+      "why_it_matters": "His stance shapes US AI policy and international technological leadership, influencing investment, regulation, and global competition dynamics.",
+      "perspective_one": "Proponents see AI development as essential to national security and economic dominance.",
+      "perspective_two": "Critics worry neglecting AI risks could bring severe societal harms and ethical challenges.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.npr.org/2026/09/15/nx-s1-5968682/trump-says-developing-ai-is-a-critical-race-downplaying-fears",
@@ -260,24 +260,24 @@
     },
     {
       "headline": "Why Trump is all-in on AI despite the warnings",
-      "summary": "President Trump has placed AI development at the forefront of his political agenda, despite concerns from experts about its potential dangers. His commitment risks alienating some supporters but aims to maintain U.S. technological competitiveness.",
-      "why_it_matters": "Trump\u2019s prioritization shapes national AI strategy, impacting innovation pace, regulation, and public trust in emerging technologies.",
-      "perspective_one": "Supporters believe strong AI investment is crucial to ensure U.S. leadership and economic advantage internationally.",
-      "perspective_two": "Skeptics emphasize the need for robust safeguards to prevent unintended consequences and societal harms from unchecked AI growth.",
+      "summary": "Trump has elevated artificial intelligence to a central issue in American politics, pushing its development despite warnings from experts and some supporters who fear the consequences. His approach weighs economic opportunity against potential risks.",
+      "why_it_matters": "The administration's AI policies will affect regulatory frameworks, innovation incentives, and public trust in emerging technologies.",
+      "perspective_one": "Supporters argue aggressive AI development is necessary to outpace global rivals and fuel the economy.",
+      "perspective_two": "Opponents emphasize the urgent need for safety measures to avoid long-term societal harm.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC U.S.",
       "published": "Wed, 16 Sep 2026 08:41:44 GMT",
       "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c0a/live/6439c3e0-b1aa-11f1-8b77-cd7827f05bee.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be3/live/9028dcb0-b1b5-11f1-bdcf-d393eb724fa3.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
       "headline": "2026 Delaware Primary Election Results from AP - Delaware Public Media",
-      "summary": "The Associated Press reported on the 2026 Delaware primary election results, detailing candidate outcomes and voter participation levels. These results shape the political landscape ahead of the general election.",
-      "why_it_matters": "Primary outcomes influence party nominations, campaign strategies, and voter mobilization efforts in Delaware's key races.",
+      "summary": "The 2026 Delaware primary election results were reported by the Associated Press, detailing candidate standings and party nominations for the general election. These outcomes shape political landscape and campaign strategies in the state.",
+      "why_it_matters": "Primary results influence candidate viability, party control, and voter mobilization in upcoming elections.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
@@ -286,64 +286,64 @@
       "source": "Associated Press U.S.",
       "published": "Tue, 15 Sep 2026 13:06:00 GMT",
       "category": "U.S. News",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-2026-delaware-primary-election-results-from-ap-d-510a3bf789.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Anthropic co-founder says slowing AI is a 'collective action problem'",
-      "summary": "Anthropic co-founder Jack Clark highlighted that slowing artificial intelligence development is a collective action problem requiring cooperation among tech companies. He emphasized shared responsibility to reduce AI risks and ensure safety.",
-      "why_it_matters": "Coordinated industry efforts are essential to manage AI risks and shape policies that prevent harmful outcomes amid rapid technological advances.",
-      "perspective_one": "Clark argues that without collective agreements, competitive pressures will hinder effective AI risk mitigation.",
-      "perspective_two": "Some in industry fear that slowing AI may reduce innovation incentives and raise barriers to progress.",
+      "headline": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+      "summary": "The Supreme Court rejected President Trump's attempts to restrict mail-in voting ahead of midterm elections while the Kennedy Center announced financial insolvency risks requiring urgent intervention. These simultaneous developments impact US democracy and cultural institutions.",
+      "why_it_matters": "The Court's ruling preserves voter access, and the Kennedy Center's crisis highlights funding challenges threatening major arts organizations' futures.",
+      "perspective_one": "Voter rights advocates welcome the mail-in ballot protections as vital to democratic participation.",
+      "perspective_two": "Fiscal conservatives caution about bailouts, stressing financial responsibility for cultural institutions.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-jack-clark-ai-risks-safety",
+      "url": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
       "source": "NPR World",
-      "published": "Tue, 15 Sep 2026 04:45:04 -0400",
+      "published": "Tue, 15 Sep 2026 07:35:49 -0400",
       "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5080x3433+0+0/resize/5080x3433!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2Ffd%2Fb74b306d450cacb8a9e3b83c4e85%2Fgettyimages-2271185645.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7436x4183+0+253/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F08%2F1c91c9824a0c9623c3dd3a579051%2Fgettyimages-2278806765.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "At least 20 killed after war-damaged Gaza building collapses",
-      "summary": "A building in Gaza City, weakened by war damage, collapsed killing at least 20 people, with many more missing under the rubble. Ten families had reportedly been living in the structurally compromised residence prior to the collapse.",
-      "why_it_matters": "The incident underscores the severe humanitarian risks facing civilians in conflict zones and the urgent need for protective measures and reconstruction.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
+      "headline": "South African president vows justice as more women's bodies found near Johannesburg",
+      "summary": "The South African president has promised justice following the discovery of additional women's bodies near Johannesburg. Authorities have yet to determine if these killings are linked to a serial offender, but investigations continue.",
+      "why_it_matters": "This situation raises urgent concerns about public safety, gender-based violence, and law enforcement effectiveness in South Africa.",
+      "perspective_one": "The government highlights commitment to solving cases and protecting vulnerable populations.",
+      "perspective_two": "Critics point to systemic failures in policing and prevention of violence against women.",
+      "uncertain": "Link to serial killing is unconfirmed and under investigation.",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Wed, 16 Sep 2026 09:45:19 GMT",
+      "published": "Wed, 16 Sep 2026 10:44:02 GMT",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b82a/live/307fc680-b1a0-11f1-b1d1-571ed4d7ff2c.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df85/live/639ca450-b10c-11f1-9065-997784e11373.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "IDF, Shin Bet kill Hamas commander Ahmad Batash in northern Gaza strike - The Jerusalem Post",
-      "summary": "Israeli Defense Forces and Shin Bet intelligence operatives conducted a targeted strike in northern Gaza that killed Hamas commander Ahmad Batash. This operation is part of ongoing military efforts against Hamas leadership.",
-      "why_it_matters": "Removing senior commanders disrupts militant operations and impacts conflict dynamics, potentially affecting security and peace efforts in the region.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "IDF, Shin Bet kill Hamas commander Ahmad Batash in northern Gaza strike - jpost.com",
+      "summary": "Israeli Defense Forces and Shin Bet security service killed Hamas commander Ahmad Batash in a targeted strike in northern Gaza. This operation targets militant leadership amid ongoing conflict escalation.",
+      "why_it_matters": "Removing key Hamas figures aims to disrupt terrorist operations but may provoke retaliatory violence, affecting regional security.",
+      "perspective_one": "Israeli authorities stress necessity of targeting militants to safeguard civilians and national security.",
+      "perspective_two": "Palestinian groups and critics argue these strikes inflame tensions and cause civilian hardship.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HVTQwb0hzRHNUU0xwWUtMbnZhZ19vYlh6QnM0dF9uTF9xbmRYREhGYjgxZ1ZLNTJsdl9mbjY5VzczMXlPM0tqZlgzN1BBaklvR0VZN2V4eEFHNmNic3dYUUhrM3VpS1FKWHBvVnpB?oc=5",
       "source": "Conflicts & Security",
       "published": "Tue, 15 Sep 2026 19:32:42 GMT",
       "category": "Conflicts & Security",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-16-am-idf-shin-bet-kill-hamas-commander-ahmad-batash-i-994343cb91.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
       "headline": "US tariff threat, Saudi pipeline shutdown: Will the Indian economy face the heat? - Firstpost",
-      "summary": "The U.S. has threatened tariffs while Saudi Arabia faces a pipeline shutdown, both posing risks to the Indian economy. These developments could disrupt oil supplies and trade, challenging India's energy security and inflation control.",
-      "why_it_matters": "India\u2019s economic growth and inflation trajectory depend heavily on stable energy imports and international trade relations, which are now under pressure.",
-      "perspective_one": "Some experts warn that rising input costs and trade barriers may slow India's economic recovery and increase consumer prices.",
-      "perspective_two": "Others believe India can mitigate impacts through diversification and strategic partnerships to maintain energy and trade flows.",
+      "summary": "India faces economic risks from potential US tariffs and disruptions due to a Saudi pipeline shutdown, raising concerns about inflation and supply chain impacts. The combined challenges could strain growth and trade balances.",
+      "why_it_matters": "These factors threaten India's energy security and export competitiveness, influencing domestic inflation and geopolitical alignments.",
+      "perspective_one": "Indian policymakers emphasize diversification and resilience-building to mitigate external shocks.",
+      "perspective_two": "Critics warn of vulnerability to global market volatility without decisive intervention.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2tseENBQ2wwSjRIQkYzZ1FDWGFkaHpveGlzVVdCSXNnS280ZnNqOGZ4R2htcDMxQXphMnhydlRqOU1vSEdONC02QzJ0aFc3c3JfZ2JmRjFwX3puZ0pYRUFRMmFZSF9XZ2laa3lOMTdsY3ktZHFLMUZkNEctbHVSUm0zVUNCc0pqdzB4VkdLWjF3bkxib0oycE84SHlwTm9ZQVVDZ1EzekE0VFZvWlJfc3hkX2pqT2NMOUJkRTd30gHDAUFVX3lxTE45T0VJUXBReVdvVk1sbGoxc2NyR3pWeGwwOGx2NW91THh3aXREYVlPaHY0T2kzcDBMZmpFd3RvTWs0TUdUMjgwN3h0azRHOFI4TkE1WmwweXlObmJRTXpva1FiYUlMNEw5bHdsNXEwbjA4Ukh4eWo3RG1oN2F2Ykc2MzF4WWZqU1lzWnVGX1pOek91aEpYRlFzVHE3ZFFPWG5JSmd6TmhXVTBQQ1dzRTVMdTRLSGs4SS1jckFGcGF5NEZlNA?oc=5",
@@ -356,10 +356,10 @@
     },
     {
       "headline": "Saudi Arabia warns of \u2018red line\u2019 after Houthi drone intercepted close to holy city of Mecca - The Guardian",
-      "summary": "Saudi Arabia has declared a 'red line' after intercepting a Houthi drone near the holy city of Mecca, signaling heightened tensions in the region. The warning underscores the kingdom's zero tolerance for threats near religious sites.",
-      "why_it_matters": "This escalation could provoke military retaliation or diplomatic crises, affecting regional security and the safety of sacred sites.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "summary": "Saudi Arabia issued a \u2018red line\u2019 warning following interception of a Houthi drone near the holy city of Mecca, heightening tensions in the regional conflict. This incident underscores security threats near one of Islam's most sacred sites.",
+      "why_it_matters": "Escalation near Mecca could provoke broader military responses and impact religious tourism and regional stability.",
+      "perspective_one": "Saudi leadership demands firm military and diplomatic action to prevent future incursions.",
+      "perspective_two": "Houthi representatives may view drone strikes as resistance tactics against Saudi influence.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmZ1OWh2aUxOSFFBdTdUNVJRcWwzQlRaNGp6aGVqTEViX3AyeGxibFAzanZ0NUxJdm9HdG5CSXFGRjExTVZYTWZ5ZzVqT3JsNEV0aGNYNm9vRE9LNjdjVXZSY1N3Sk5jOWhIYXpzYWY1NVNCQnNiT1YwMEY1VVhtWWloMVVfZlNwNUZGaXRCRG9tN1pNNWhqOUVjaHZxZHE2VVgxRGlocw?oc=5",
@@ -372,10 +372,10 @@
     },
     {
       "headline": "FDA Hears 80 Speakers on Psychedelic Drug Therapy Standards - The Clinical Trial Vanguard",
-      "summary": "The FDA convened a panel of 80 speakers to discuss standards for psychedelic drug therapies, focusing on safety, efficacy, and clinical trial protocols. This dialogue reflects growing interest in psychedelic medicines for mental health treatment.",
-      "why_it_matters": "Establishing regulatory standards will guide research and therapeutic use of psychedelics, impacting treatment accessibility and drug approval pathways.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "summary": "The FDA convened 80 expert speakers to discuss standards for psychedelic drug therapies, assessing safety, efficacy, and regulatory pathways. This consultation aims to guide clinical trial protocols and therapeutic use frameworks.",
+      "why_it_matters": "Establishing clear standards could accelerate development and approval of psychedelics for mental health conditions, potentially transforming treatment options.",
+      "perspective_one": "Scientists advocate rigorous protocols to validate psychedelics' therapeutic potential while ensuring patient safety.",
+      "perspective_two": "Skeptics stress unknown long-term effects and emphasize cautious regulatory approaches.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1VvTGtHNmdJeEZ0b2dIYXRXemd5bXFFaXJzU1l6MVBsWlQ2NUhpbk84REUzSnRLejM4bGlZdkJjVjhwYWRzSzVodGtUamJ4bXUtNWRkTzMySWNqeDJpeVkwMXZ2VHE3WmFldzF1TkRSZW1WVkNtZlNhV0ZBbXBtZWh4aWQtX2RUbTNFM2V2RUlsRzVkMzZldjBsYUp2R3c4Zmd5aWRQbm5CTGVhNU52YzJhN3p1YmpYWXc?oc=5",
@@ -388,10 +388,10 @@
     },
     {
       "headline": "AI Safety Warning Roils US Stocks: Cybersecurity Shares Surge as Software-Chip Divergence Hits Record - finance.biggo.com",
-      "summary": "Warnings about AI safety risks have unsettled U.S. stock markets, causing cybersecurity company shares to surge while software and chip stocks diverged sharply. Investors are recalibrating risk amid growing uncertainty about AI impacts on tech sectors.",
-      "why_it_matters": "Market volatility related to AI reflects investor concerns about regulatory, operational, and competitive risks affecting technology companies' valuations.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "summary": "A recent AI safety warning has unsettled US stock markets, triggering a surge in cybersecurity stocks while creating a historic divergence between software and semiconductor shares. Investor attention centers on risks related to AI development and market sectors.",
+      "why_it_matters": "Stock market reactions to AI concerns reflect growing investor sensitivity to technology risk and sector-specific vulnerabilities.",
+      "perspective_one": "Cybersecurity advocates emphasize increasing need for defense solutions against AI-driven threats.",
+      "perspective_two": "Technology hardware providers focus on innovation and recovering chip market share amid volatility.",
       "uncertain": "",
       "confidence": "Reported",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YcW5WbEhROGJoRmt2ZXJrS0FkS2F3WU90a3NCM3JYRlJrd2tUQncyVXF5Y2lZekNpS1k0UEo2MFFRSmtKMVE2ZTBBMElZN1RKU1ZQOGc3d1ZkdHZCRWJkREZhT3JlS1YtUkw1dzRianEzemhFU3c?oc=5",
@@ -403,16 +403,16 @@
       "image_source": ""
     },
     {
-      "headline": "Mental health at work - World Health Organization (WHO)",
-      "summary": "WHO emphasized the importance of mental health in the workplace, promoting strategies to support employee well-being and reduce stress. This focus addresses growing recognition of mental health challenges' impact on productivity and quality of life.",
-      "why_it_matters": "Improved workplace mental health policies can reduce absenteeism, increase morale, and enhance overall organizational performance globally.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+      "summary": "Bill Gates emphasizes the arrival of a turbulent AI era, underscoring that present decisions will determine how society manages opportunities and risks associated with AI. He calls for urgent action to shape responsible AI development.",
+      "why_it_matters": "This perspective highlights the need for balanced AI governance to harness technological benefits while mitigating harms.",
+      "perspective_one": "Advocates support accelerated AI innovation coupled with ethical frameworks to guide progress.",
+      "perspective_two": "Critics warn against unchecked AI deployment that could exacerbate inequality and control issues.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVWHhvaHJPZVMxUDN4NExHdHptZElnaV9xOENsUGlhX0sxc1pwUUtpcmpTamFuN1BwRFhwNGFCdnlkVWRWQmxCYjMzR19LemdLeG9xNmNIdjJzemcydVBnakpDQ2htcXZpd3B4MmlUY0RXekk1MnU0bUd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
       "source": "U.S. News Society",
-      "published": "Wed, 16 Sep 2026 04:13:42 GMT",
+      "published": "Wed, 16 Sep 2026 07:36:12 GMT",
       "category": "Society & Culture",
       "image": "",
       "image_credit": "",
@@ -462,37 +462,37 @@
     ],
     "World News": [
       {
+        "headline": "Anthropic co-founder says slowing AI is a 'collective action problem'",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-jack-clark-ai-risks-safety",
+        "source": "NPR World",
+        "summary": "Anthropic co-founder Jack Clark discusses growing concerns about artificial intelligence, recent warning signs and what he says companies should do to reduce the risks."
+      },
+      {
+        "headline": "At least 20 killed after war-damaged Gaza building collapses",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living."
+      },
+      {
         "headline": "EU chief opens door for Canada to become 'associate member'",
         "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
-      },
-      {
-        "headline": "Five takeaways from Canada's push to woo the world's richest investors",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit."
-      },
-      {
-        "headline": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
-        "source": "NPR World",
-        "summary": "Billions of dollars worth of gold is held in Turkish households outside the banking system. The government aims to convince citizens to put it into the mainstream financial system to help the economy."
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
+        "headline": "State Department scrambles to help Americans stranded in Middle East war zone - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVDBkeGxmWnJBbmtqdC1XT2VxblJfa0J1ZEJFazZIb29TQUhkX21JSFJuYlQyVDVNYjRLR3dKQlZsNXkwSXlvendvY1pla0ZhZXVuakNXV3NMSUd1azVXUGFpcDVLaVJfaHlFODRtS2pTYzJOazJuYzNDaUdyUU9ic1QtcU55VHhuT0FPbm1seEpyNFlOMWF6eDJtTVg1UVZhOW1neXNlVWNacnc1Z0HSAbMBQVVfeXFMUDBJZ0dCczBZdmUyM3ROUGhONzhnWTZpTjQ2TzJ5eXc5RWN5amtoVWFCWkJkdDFXaEdSQkdfTWhuQ1NIOFhqNjU0djdDRnpjU192VkxEU09HUmVTQWRwZlZqVDNoemRCNkYwUmZpVHpzR2NydTAzOXlIRGg2eGpkZ3A4eWtMXzc4amVQakVjQXBrNU9XZzRsdWh0US1HN3J4RmFzX0NMbWllN25SNUFOeVZvYWs?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "State Department scrambles to help Americans stranded in Middle East war zone ABC News - Breaking News, Latest News and Videos"
+      },
+      {
         "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - The Guardian",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVSS0d4ekNlSEVvSWtYajNDcFN4SjBsZDhZU3VLdTc3eFBTV2g1ZTkweGZyaHpBRzB2Q2JaLTBxWEVGM1JYSVBWSUZyc193VXU2Q056di1CZmJ4cGZORVJ5eWZDSS1PWTRqTW1WSzBnUkVwUVRhUTZ4NnJSRjBjc3g1SU9YYWRPNkpjU2RRS1Yza1ZNWGhQNmQxSUFsMnJiRC1kRmtOamVWQlNQRjdoYmljVVpka3NLVHpLTw?oc=5",
         "source": "Arab News Middle East",
         "summary": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen The Guardian"
-      },
-      {
-        "headline": "Warning signs your debt is no longer manageable - hometownstations.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1RNZFN0NlR0LXdEb1drbDdOYXU3cUc0SmJXV2sxU3I2bnozVmx1aUw3X0NNRi1yM2pLNzV6c1RHLThOMFhxQU9aTF9ReS1KREgtNDk3MmZwSkNtMmpCU09yV1VXQmhXY2tnWl9GdHJWYUhhbmpGS21nVlI5SG9WQkRKNE9hSmFjejZ4MUN4NEZrZF9Wd21jaTg1Ukh2ckE?oc=5",
-        "source": "The National Middle East",
-        "summary": "Warning signs your debt is no longer manageable hometownstations.com"
       },
       {
         "headline": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says - Reuters",
@@ -502,6 +502,12 @@
       }
     ],
     "Health & Medicine": [
+      {
+        "headline": "Virginia prepares for potential FDA approval of psilocybin - Axios",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUlzYlFWTWRHWGg5Wmd5cHdjQzFMMHhRSnpzVVA1MWp3R3QwQWhiUVdQR05rbk1FbE5SbkNUdnBaLTNEU0Iyc25DVk1WSWlqTmxxSFpCR0Q2RXVqOVJsT1UyQkpndmJWQk5qWEpKLVRGNjNTZlNsYkJmUEdzclVDOU9uQWR2WlRDRDVEM191djhva2tXTFl6ekkxVDk?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Virginia prepares for potential FDA approval of psilocybin Axios"
+      },
       {
         "headline": "STAT+: House Democrats may use oversight powers to plan for health care overhaul",
         "url": "https://www.statnews.com/2026/09/16/healthcare-reform-house-democrats-oversight-targets-after-midterms/?utm_campaign=rss",
@@ -513,12 +519,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVJ3Y3cxMUxPdlJqMm5GWDBKcVVBdjZINGtMT0JjN1d0Q1dEVjluRndtR1hwUDR0Q3JZWl9vQ214bjNyUFBDMUVGZkJOTU1IY2xidkJlREQwZkx1cnNRRGhUMExiSGNnSmlYay1IWUNUd0pOSmtrNVlHMUh4U0JXaDk3TDNzcnIzR1J3c0xWMEpoamhJellBUk44VEZDdFg0ekRQSkx3ZXo2aXp3Ul9zNXIwSVBSZk1pSzhYUDJUSjFPdlNSQ05LVGhGU0htcnh1SmRUbFA4T1oxTHlZM3M3MjB0Z0dVRDg?oc=5",
         "source": "Health & Medicine",
         "summary": "Benchmark Scores Don\u2019t Save Patients: Why Clinical AI Needs RCT-Grade Evidence Before It Touches a Workflow The Clinical Trial Vanguard"
-      },
-      {
-        "headline": "Indian Medical Industry Backs Maharashtra FDA Crackdown On Device Markups - Health and Me",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2ozN2FEcXBkemhzRU1NWHBMRzN5M2YyWFdtOWhGYXlkYjN5djk1RHZiRTFzUVlEN0xHYklaU2tQNFBWZTdxUEpTUGdndUZsTEFLTEMzM0s0UVhTbEt5LXRyXzJNR2FSVllFT3ZPNnZfSFFsOVAyMk9FWDNCWjVzZTVpRG5KY1pINTVSV0FZdXRsa1k1LU9sLWx0Q2NORVFwcERBd0lVTktDNld5WHI0cVJ1V1lGcXIydmZXajRpWURPRTRnYWtWVkE5RQ?oc=5",
-        "source": "Health & Medicine",
-        "summary": "Indian Medical Industry Backs Maharashtra FDA Crackdown On Device Markups Health and Me"
       }
     ],
     "AI & Technology": [
@@ -529,36 +529,36 @@
         "summary": "EU countries to discuss AI rules as Trump calls safety warnings a \u2018hoax\u2019 politico.eu"
       },
       {
-        "headline": "ISO 9001 update for first time in a decade, with China shaping AI, cybersecurity - South China Morning Post",
+        "headline": "ISO 9001 update for first time in a decade, with China shaping AI, cybersecurity - scmp.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYlYxTE12OHJ6OXNxeWdCTl8yVW1hWDVvQVdPZ3REWTV5RTZTMVpyRUhCUS14NHIzMW1JODJub2JkWjFTZnBmWWlIWEg1Vl9YU2xfMDhGTUJXbjRGVkFiRXFrYVZKMUhGb3VOelRhTXZsU05hc3QxUkVLUGNJd0paX2M3SHd0SVVpM0NPWGdELWpyMG1NSUE2aEYtRWhJZy15TTV5TG1JMjZlN1AzTHU0MHBXMHkyRHhCSVRoUNIBvAFBVV95cUxQbkxjd1pLR0d3VTd2b21rVWJNZEFoaG5aSnR5bTV0S1BXd1ZyTzh6ZXhWZTBtcWRYODJkTHhxUXJDYVZRTFhLN3pGLS11OG9ta1BFT0RFTWdqWHk3TGUwdVZBc21HWHVLREpZdXpfbGFJdXZyUDItRXlVWm1OQjd2NXRucU9vVE1NY0lOR0pCRXNRVTQwSG94OVA4T19HVXI2dU1QcnQyc2NCLUpkOXVFU2hBczNfamp3TzFpaw?oc=5",
         "source": "AI & Technology",
-        "summary": "ISO 9001 update for first time in a decade, with China shaping AI, cybersecurity South China Morning Post"
+        "summary": "ISO 9001 update for first time in a decade, with China shaping AI, cybersecurity scmp.com"
       },
       {
-        "headline": "BDC commits $360M fund-of-funds to Canadian defence tech - Dealroom",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVdQbEt2d0Z2dDRZQjZqbDFGcDVhQWVOc0g4NnJsTmRJdV85XzNRbkJLdGRSUWlfTUNKR0FwTVl0RHFZWGtBdERUdHEwdE1WNGxLRE03cDF6TFVMOEZwMDR4eFlHQVFyQ2JrejQxTk9xZHhwTHZVNUR0cE5Kak5qcDFPTUdmZlFHZ3VjVlBvSlUtaXM?oc=5",
+        "headline": "MIC Electronics sets up wholly-owned subsidiary to expand defence, aerospace focus - ET Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPaEhVcUlRVW9TRnV2WmtPWS1mY3MtTVFtY3hVVkRuYWpUSWdZZ3J5R2FoU2w3ekVESFFsVVpKSHpNMGFTUkxVWmpCMVVGY2ZQeEwxU1FvUkVDV0ZrdUxjSE9qVF82a0N1LXRNZEV3M2tDZFQ1Wkg0eHM2allvZE1rQzZQcEtHSVBrZmRhLTgzUXR4NHRfRldvbTVTTExsRF9naUIyYjAzNjg5UVVrVDA3SGNkb2dDbE9TM1hFdVB0cGJnTUR3Y183Rk9mMzZaY1NiYzFiM1ZBV2t4dzRabDhnSUJWYTdDUnQyNDl5RFFvcnBMcUdFeEUyUjN6alN0Qk1tSFhta2pqS3l2QVNYWTAzR2w0SjhmRWp1bENLalFtTm10NDZiN1dv0gHwAUFVX3lxTFBrQ2pYbnY0T2VQeExITkRubXZ5dWt5MUdUTDYzRnl1dldkMkFyaEs1YzRaVU5yTEItSDdCU09vUjlPaUs2RjZYcFdvNGd1LXZ5dWdOT3gyVlgxRFhNUDN1T3BXUTVhVURFalA0T20zTnktT1ZNV0doUWpzdEhLcWZyUml0d1JELWFIRE85dm9XdjA3QXBOTDhmRi1IU3VYVjNZUnhNdS04aUFmY0E4NVRDVVhpN2wydXZzQXVic2ppYktRRTE3Mnl2WlBrZjR3WlBqVUZhZl9PdlZ3ejFDV0U4bnVZNlgtOElsemZvQ3Y0WQ?oc=5",
         "source": "AI & Technology",
-        "summary": "BDC commits $360M fund-of-funds to Canadian defence tech Dealroom"
+        "summary": "MIC Electronics sets up wholly-owned subsidiary to expand defence, aerospace focus ET Manufacturing"
       }
     ],
     "Business & Economy": [
       {
-        "headline": "American incomes finally top pre-pandemic levels, fighting against inflation all the way - Greeley Tribune",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5MVlaRldLa2l0QWtDb2R3V3JRVFdYMks2M0V5X0NjbU12bmpXR3pUQ1pEX1VUdnA5aXc1Y0NlZzhmcm5xaEx3ZXNSbTkzamp3WThISF9qRWpTYzdNT3dCQUUydDVrUTBYWXJtMw?oc=5",
+        "headline": "UK inflation rises to 3.1% as motor fuel prices jump by almost a quarter - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXdQUjdCU2FXdFNtRUZ6b0dob0ZkbmpMeWk3Vy0wVGd3ZTVHZ3BfQ1VQQndCVzJYR3Rrb0RLdER1d0YxUmY0V1BmZEl6TXZPeTI4REhuOUJXZDFFbkJPTVM1SjJBTkRsY3RyeVRhUW1rZjJEOTkzQUJGUVJPTlMtQUk3a0pGdE44OE9ma2NFYUpmWk9NTXFVckhIYnAtRDJsVjdTdjJlNzlON2hDUGtXUGVHdmlYejNvMDQ0cjN3?oc=5",
         "source": "Business & Economy",
-        "summary": "American incomes finally top pre-pandemic levels, fighting against inflation all the way Greeley Tribune"
+        "summary": "UK inflation rises to 3.1% as motor fuel prices jump by almost a quarter The Guardian"
       },
       {
-        "headline": "Fed Interest Rate Hike May Put Warsh on Collision Course With Trump - Realtor.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVF9tVWVuMXN0WXJzYndDbmNJdkl1ajl4UGd2Q05NVDQzSEx0LU5fS1JTdlhLUXJFQk1sWkswa0ZCT3FEY0tLaENKZXhKbjhSX0J5cWJseTVRa2VyR0hNUFI2V2NVNEptMVhod0lZenV1MC1lWjdxdTlaOW0tVVpMeXROcGZWa2VRenpWVHdCYkcyWEM1ZXk4cmRISWpYZ0djRE9KUTNPNzc?oc=5",
+        "headline": "Hiring worse than expected in June, but White House says labor market on 'upward trajectory' - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGNFemF1MkxCY1FJcC0xZE41RFpxb3NFQWlaNE9PNUNUMWtaRUFaVXlIWUdKa0lTVkc4UWFpbVE2cnZjOERHcUhIbDU1akF4ajBvUHdkU0RHUUxGblE5WENBcHBEYmxHZXhGbGxqNk8yZWQ3aW12SEpxbmtkbDU0aFJkcDdyOEEzb18xR1NiQy3SAZYBQVVfeXFMTjEtazlZUUpJRDNTYlpJSUlzNVNnbXhKT1p0cV9mODk2SDNzVU13R3VwYU9KR1dlU3BIaU1ySlJObmFnR1NBYzZhNmFERFpvbV8yQTh4VzRmX3ZUTGFSa0hxOWM3Q2E5MnpuRDJBSnZQYmtmSHpxeTZPY1B3OWNLdEF3VXJPWEtRSklicG9RcGFKTGMxUThR?oc=5",
         "source": "Business & Economy",
-        "summary": "Fed Interest Rate Hike May Put Warsh on Collision Course With Trump Realtor.com"
+        "summary": "Hiring worse than expected in June, but White House says labor market on 'upward trajectory' ABC News - Breaking News, Latest News and Videos"
       },
       {
-        "headline": "Sept FOMC Preview: More Inflation Coming; the Fed Rarely Stops After One Move - The Conference Board",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3YyY201THRXZG5YZW9udjR2a3F5NFNHUHJkR1Y0UFFReWMtc2ZRTl9fUldFcWlQYURkemhHdWpxb0lYbDVxc0pyNTc2WlhpdWItWEwxcjJYX2FCcXJpaVAzbzlNOHZzSThRNHU0M3JRNHZwazNGQTExVXRVWkhqVDVEcmVFY3E0NmNjVl9PTQ?oc=5",
+        "headline": "Warsh likely to side with financial markets over Trump as Fed rate hike expected - lancasteronline.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOXzFseVJhLWxqMnQ4UDBza1lsNjNsQXV2LWMxTE45OENTS25PcEV1OFJ2cXhKeG43WU9XNDZZSHRRaXhWbjNqT0x5RHk4Nk96NXJUYnVrZEUtdEZUWC1HQ21pWXdFVDA3MjlYRUVJVVFHQVFxM2lrZnU0NDNPanI0ekxaajg4dUNfN1dZSVZ4WnlJM2FQNk92MDZMd3FRYjdVN1huaElxd1l3Y0x5enRteW91VGZ5VGFkSUUxcG1tVTNGTVVkTEpoN2Vqa2lxa0NRN3Nid3lzcWFlR2k2M2YwS1c0Z3BMdTZ4VjdXOE9UVGstTnN4eE9SbGdJTF9VUG9CSHZHZ0h1Sl9nUVBa?oc=5",
         "source": "Business & Economy",
-        "summary": "Sept FOMC Preview: More Inflation Coming; the Fed Rarely Stops After One Move The Conference Board"
+        "summary": "Warsh likely to side with financial markets over Trump as Fed rate hike expected lancasteronline.com"
       }
     ],
     "Society & Culture": [
@@ -571,6 +571,12 @@
     ],
     "Sports": [
       {
+        "headline": "ESPN ranks Top 25 teams with highest chance to make College Football Playoff after Week 2 - On3",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1lNWWtLZzdjSkpyZllvVko5MDBGMGZyVkpXRHVWZE9UcVNXU3Y0djA0ZWdjRXp2RGV0WS16Mmp0NFFpaUhRSFdIc25YYVFDQjZHZFVaWFRtQWdjcnAyOTJsc0NtZkNwbF9lRFdaT2NyR3haYW1lYnhaaTBOM0ZHYmZQWlc1MVdob2lSY01nUVE2Vi1TVzBKZWV2VmNzUkNwT0FONXNyLUZYQXdrQkhReFF1QmFlSmdDSE43YlR5LUoyZldKcEhuNGs1U1hqQWJxa2hXLQ?oc=5",
+        "source": "College Sports",
+        "summary": "ESPN ranks Top 25 teams with highest chance to make College Football Playoff after Week 2 On3"
+      },
+      {
         "headline": "Predicting the Atlanta Braves playoff roster (2.0) - SportsTalk ATL",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2g2eXd5QkowZ2xEREZWNGZzWnAyUWhwcW5MTlgtUW5fZVBDTHJGODJOZVhtQ2RjbzE5WjVzQVU3R1F3LTZmdFlwN2E3WlI4dGs5MzFEUFZsdC1SZkhmS3c3OE8zWk95Qi1ub0hJLXg5VUZOUFNaZ0NnbFctWll4eg?oc=5",
         "source": "Atlanta Sports",
@@ -581,21 +587,9 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEUxa3VaSEo4TmlxWGxFUWQ1Z3JOYnpNcnMzeVVyczR5bUVjcHVEdV91aUw0dF9ZTXRPd2ZCSW0xcVdZUkZlZEUtdG14UmR2bG1jbkhDZUtjLTNndG1WVmRTQmRJZjByZHZUcDRUYTNNTnM5ZW51SW1RSW5FaXJ1WTIyRXg4NFE5?oc=5",
         "source": "College Sports",
         "summary": "College Football Playoff 2026: Bubble Watch after Week 2 6abc Philadelphia"
-      },
-      {
-        "headline": "2026 Biltmore Championship Asheville odds, picks: Surprising predictions by model that's nailed 17 majors - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONVNVeGg5ZkJIU2pVcDlDUlIwcWRYRy0wVXpZY2J1VHFNNlU0NVIyUjlyWG5MSVJMd1ZWYUgtSm9BcE9renhFbjlLanU1dE5YdF9LZFZIQTdYdUFhU1JIZFZMSWlSN2hNMHFscEZLU1dpWUFBYzRISWZDSUJ5MC13dTNvWDlrd1JEZGFjRkYwR1YtdHRWMXpXZWlwNDJOdW03b3YyV2MwcTcwaGJiZzU4MUZzMXRVdjFHZ21NQnEtSENmQjZ1Mm5YRDhB?oc=5",
-        "source": "CBS Sports MLB",
-        "summary": "2026 Biltmore Championship Asheville odds, picks: Surprising predictions by model that's nailed 17 majors CBS Sports"
       }
     ],
     "Good News": [
-      {
-        "headline": "$1,000 Bonus for Every Year of Work: Casino Employees Shocked at Company\u2019s 50th Anniversary",
-        "url": "https://www.goodnewsnetwork.org/1000-bonus-for-every-year-at-the-company-casino-employees-shocked-at-companys-50th-anniversary/",
-        "source": "Good News Network",
-        "summary": "When thousands of employees at Station Casinos arrived at one of the company\u2019s resorts to celebrate its 50th anniversary, they hadn\u2019t a clue what was about to happen. They were going to hit the jackpot. In a stunning display of profit sharing, business moguls the Fertitta brothers announced that each of Station Casinos\u2019 10,000 employees [\u2026] The post $1,000 Bonus for Every Year of Work: Casino Employees Shocked at Company\u2019s 50th Anniversary appeared first on Good News Network ."
-      },
       {
         "headline": "UK Runner Makes Improbable Comeback to Conquer the Grueling Trail Run That Nearly Killed Him",
         "url": "https://www.goodnewsnetwork.org/uk-runner-makes-improbable-comeback-to-conquer-the-grueling-trail-run-that-nearly-killed-him/",
@@ -607,6 +601,12 @@
         "url": "https://www.goodnewsnetwork.org/wind-turbines-have-made-up-half-this-ranchers-income-since-fateful-choice-to-allow-them-on-his-land/",
         "source": "Good News Network",
         "summary": "In 2006, the largest wind power project in Kansas was turned on among the Flint Hills. Today, the royalties it has generated for rancher Peter Ferrell are allowing him to pass the farm down to his children. The 50 turbines\u2014which Ferrell barely notices these days\u2014have provided half of his income since then, insulating him and [\u2026] The post Wind Turbines Provide Half of Rancher\u2019s Income Since He Decided to Invite Them on His Land appeared first on Good News Network ."
+      },
+      {
+        "headline": "Elephants Can Think Before They Act and Resist Impulsive Behavior, Shows Study",
+        "url": "https://www.goodnewsnetwork.org/elephants-can-think-before-they-act-and-resist-impulsive-behavior/",
+        "source": "Good News Network",
+        "summary": "Elephants can think before they act, as well as resist impulsive behavior, reveals new research that adds to growing evidence of elephants possessing sophisticated cognitive skills. Experiments at the National Elephant Institute in Thailand show Asian pachyderms are able to deny their impulses and choose a more rational course of action, in order to solve [\u2026] The post Elephants Can Think Before They Act and Resist Impulsive Behavior, Shows Study appeared first on Good News Network ."
       }
     ]
   }
