@@ -131,20 +131,28 @@ def cap(category):
     return CFG.get('category_limits', {}).get(category, CFG['max_per_category'])
 
 
-old_good = []
-history = now - timedelta(days=CFG.get('good_news_history_days', 14))
+recent_briefings = []
 for path in DATA.glob('*.json'):
     try:
         briefing = json.loads(path.read_text())
         generated = datetime.fromisoformat(briefing['generated_at'])
-        if generated >= history:
-            old_good += [story for story in briefing.get('stories', []) if story.get('category') == 'Good News']
+        recent_briefings.append((generated, briefing))
     except Exception:
         pass
 
+# Compare candidates with the four most recent completed editions.
+recent_briefings.sort(key=lambda item: item[0], reverse=True)
+recent_featured = []
+for _, briefing in recent_briefings[:4]:
+    recent_featured.extend(briefing.get('stories', []))
 
-def repeated_good(story):
-    return story['category'] == 'Good News' and any(story.get('url') == old.get('url') or same_story(story, old) for old in old_good)
+
+def repeated_recent(story):
+    return any(
+        story.get('url') == previous.get('url')
+        or same_story(story, previous)
+        for previous in recent_featured
+    )
 
 
 def load_feed(feed):
@@ -218,27 +226,41 @@ def add_story(story):
 
 for category in CFG['category_order']:
     candidates = [story for story in ranked if story.get('category') == category]
-    target = max(1, min(CFG.get('category_targets', {}).get(category, CFG.get('default_category_target', 1)), cap(category)))
+
+    # Baseline: one distinct recent story per category when one is available.
     for story in candidates:
-        if counts.get(category, 0) >= target:
+        if counts.get(category, 0) >= 1:
             break
-        if repeated_good(story) or duplicate(story, chosen) or not team_allowed(story) or not source_allowed(story, counts.get(category, 0) == 0):
+        if repeated_recent(story) or duplicate(story, chosen):
+            continue
+        if not team_allowed(story):
+            continue
+        if not source_allowed(story, category_pass=True):
             continue
         add_story(story)
 
+# Additional cards must be both distinct and significant.
+# Fewer stories are preferable to filler or repeated coverage.
+extra_story_min_score = CFG.get('extra_story_min_score', 5)
 for category in CFG['category_order']:
     candidates = [story for story in ranked if story.get('category') == category]
     for story in candidates:
+        if len(chosen) >= CFG.get('max_stories', 16):
+            break
         if counts.get(category, 0) >= cap(category):
             break
-        if repeated_good(story) or duplicate(story, chosen) or not team_allowed(story) or not source_allowed(story):
+        if story.get('_score', 0) < extra_story_min_score:
+            continue
+        if repeated_recent(story) or duplicate(story, chosen):
+            continue
+        if not team_allowed(story) or not source_allowed(story):
             continue
         add_story(story)
 
 selected_urls = {story['url'] for story in chosen}
 more = {category: [] for category in CFG['category_order']}
 for story in ranked:
-    if story['url'] in selected_urls or repeated_good(story) or len(more[story['category']]) >= CFG['more_links_per_category'] or duplicate(story, chosen + more[story['category']]):
+    if story['url'] in selected_urls or repeated_recent(story) or len(more[story['category']]) >= CFG['more_links_per_category'] or duplicate(story, chosen + more[story['category']]):
         continue
     more[story['category']].append({'headline': story['headline'], 'url': story['url'], 'source': story['source'], 'summary': story['summary']})
 
