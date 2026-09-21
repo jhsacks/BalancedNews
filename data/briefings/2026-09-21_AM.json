@@ -1,260 +1,260 @@
 {
-  "generated_at": "2026-09-21T05:55:12.337140-04:00",
+  "generated_at": "2026-09-21T06:54:35.013512-04:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "In Colorado, a GOP candidate says his differences with Trump show he's with the voters",
-      "summary": "Republican Congressman Jeff Hurd is running for reelection in Colorado by emphasizing his policy breaks with former President Trump as evidence of alignment with local voters. His campaign aims to appeal to constituents who may be wary of Trump's influence on the GOP.",
-      "why_it_matters": "Hurd's strategy could influence voter dynamics and party alignment in a key battleground state, impacting the broader balance of power within the Republican Party and future election outcomes.",
-      "perspective_one": "Supporters argue Hurd's independence from Trump represents responsible leadership and responsiveness to Colorado voters' unique preferences, promising more moderate governance.",
-      "perspective_two": "Critics contend distancing from Trump risks alienating the core GOP base that remains loyal to Trump, possibly weakening party unity and electoral prospects.",
+      "headline": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
+      "summary": "Many Republican candidates continue to support President Trump's unfounded claims about the 2020 election's integrity, despite widespread debunking. Meanwhile, a significant portion of GOP voters express readiness to move past these controversies.",
+      "why_it_matters": "This divide within the GOP affects voter behavior and party unity, influencing election strategies and the broader political landscape ahead of critical races.",
+      "perspective_one": "Supporters argue that raising concerns about election integrity is essential for ensuring future electoral transparency and voter confidence.",
+      "perspective_two": "Critics contend that perpetuating disproven election claims undermines democratic institutions and distracts from pressing policy issues.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5973077/in-colorado-a-gop-candidate-says-his-differences-with-trump-show-hes-with-the-voters",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
       "source": "NPR Politics",
-      "published": "Sun, 20 Sep 2026 08:05:41 -0400",
+      "published": "Mon, 21 Sep 2026 05:00:00 -0400",
       "category": "U.S. Politics",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3844x2563+0+0/resize/3844x2563!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F21%2Fc6adda7d44988f3665a75e2d71ce%2Fap26168067968733.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Election News: Latest Results from Local and National Races - NBC News",
-      "summary": "NBC News reports on recent local and national election results covering various races across the United States. The updates provide a snapshot of current electoral standings and voter preferences as election cycles progress.",
-      "why_it_matters": "Tracking election results is crucial to understanding shifts in political power dynamics, voter turnout trends, and potential policy changes at multiple government levels.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "America 250: What presidential speech resonates most with you? - Tri-City Herald",
+      "summary": "The Tri-City Herald invites readers to reflect on which presidential speech they find most impactful during America's 250th anniversary. This engagement highlights diverse historical perspectives on leadership and national identity.",
+      "why_it_matters": "Understanding public sentiment about presidential rhetoric offers insights into how historical speeches shape collective memory and contemporary political values.",
+      "perspective_one": "Supporters see presidential speeches as vital expressions of national ideals that inspire unity and patriotism across generations.",
+      "perspective_two": "Some critique the historical impact of certain speeches, arguing they sometimes mask deeper societal conflicts or policy failures.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlWm15dllnbTZZcmRUa3VjR2ktNXAzQy1RcHViWlhiMW5GMVBGVkNmdTdRTXhtV3RLM3pjZmNmRVF2UldubnczM05DdDhRWWd2T1Bkcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeEV6UUtIbFJ2OWtlX3BLWEN3ZmhOM0E3S1U4S0ZrS0hvNUl4LUtOTExNbnMwbTdvemJzQUo0UWQ1Wk9UajR4Qk9lZ2FnRWx6eWNtN1A3US1YZGZQbTl6WGFCRDNfOUZ3TDlBT0s5cHFORVFHTXEyRTFJcGV3Y2drMFg5RWZ3Zw?oc=5",
       "source": "USA Today U.S.",
-      "published": "Sun, 20 Sep 2026 19:40:08 GMT",
+      "published": "Mon, 21 Sep 2026 10:01:00 GMT",
       "category": "U.S. News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-election-news-latest-results-from-local-and-nati-cfa71ead63.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Christian_herald_and_signs_of_our_times_%281886%29_%2814779415341%29.jpg/1280px-Christian_herald_and_signs_of_our_times_%281886%29_%2814779415341%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Internet Archive Book Images \u00b7 No restrictions",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Christian_herald_and_signs_of_our_times_(1886)_(14779415341).jpg"
     },
     {
-      "headline": "Defining global leadership in AI at Trump-Xi summit",
-      "summary": "Former U.S. deputy national security advisor Anne Neuberger is monitoring the Trump-Xi summit for indicators of competition and cooperation on artificial intelligence governance. The summit could set precedents for international AI leadership and regulatory frameworks.",
-      "why_it_matters": "Outcomes from this summit may shape global AI development trajectories, impacting international security, economic competitiveness, and ethical standards for AI applications.",
-      "perspective_one": "One perspective advocates for cooperation to manage AI risks collaboratively, ensuring global stability and shared technological benefits.",
-      "perspective_two": "Another argues that competition is inevitable as nations seek dominance in AI innovation, potentially increasing geopolitical tensions and strategic rivalries.",
-      "uncertain": "Unclear whether the summit will lead to substantive agreements or deepen AI-related competition.",
+      "headline": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "summary": "Chancellor Friedrich Merz's center-right party suffered major losses in two German state elections, while the far-right Alternative for Germany party gained significant ground. Merz commits to pursuing reforms despite this electoral setback.",
+      "why_it_matters": "These results reveal shifting political dynamics in Germany that may influence national policy direction and the stability of Merz's government.",
+      "perspective_one": "Merz's supporters believe continuing reforms is necessary to address economic challenges and maintain Germany's global competitiveness.",
+      "perspective_two": "Opponents worry that ignoring voter backlash risks alienating citizens and empowering far-right forces undermining democratic values.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
+      "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
       "source": "NPR World",
-      "published": "Sun, 20 Sep 2026 17:15:56 -0400",
+      "published": "Sun, 20 Sep 2026 13:29:29 -0400",
       "category": "World News",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7489x4992+0+0/resize/7489x4992!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F9e%2F55e4991d44b1a77d05ebbbdf2f6b%2Fap26263591596464.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Take a look inside Israel\u2019s war room on the day Hamas invaded - New York Post",
-      "summary": "The New York Post provides an inside view of Israel\u2019s military operations center on the day Hamas launched its invasion. The report highlights real-time decision-making and strategic responses during this critical conflict escalation.",
-      "why_it_matters": "Understanding Israel\u2019s command and control during the initial Hamas attack reveals insights into military readiness and crisis management, influencing regional security and future conflict deterrence.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "Houthis warn against joining Saudi Arabia in Yemen's civil war - The New Arab",
+      "summary": "The Houthi movement strongly advises against any collaboration with Saudi Arabia in Yemen's ongoing civil war. This warning underscores tensions and the complexity of foreign involvement in the conflict.",
+      "why_it_matters": "This stance affects regional alliances and could influence escalation or de-escalation prospects in a prolonged and devastating war.",
+      "perspective_one": "The Houthis view Saudi involvement as an aggressive intrusion worsening Yemen's humanitarian crisis.",
+      "perspective_two": "Saudi Arabia and its allies argue their intervention aims to restore legitimate governance and counter hostile groups.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlZmRGJoMHV2cTlUd1VzS2F2WGdLdTliTTQyTEMxSW1jS1M4ZGZFR0xHWEc0cmtTeW4xUmdaX3lwRkR4dWxwNHplcEZlVlFmVjhYMGZKT3hiOXRCNGViakhzc3pvblprcVN4b0lYWTVwUEhzUV9WS3BwUXZ4SUE0bW9tLWxHaGJ1aUptdVUzZXM5NGVu?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Sun, 20 Sep 2026 12:00:00 GMT",
-      "category": "Conflicts & Security",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-take-a-look-inside-israel-s-war-room-on-the-day--3d59b20086.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjduZ1FtZFFUdTVFTkJSV3ppOUt5OXZadGcwTVJOUzF4cXpLQ29NWUJVeWZMZlZpbU9vWGpVNWg0UHdDd1ZNdDZBVmo5VGw2ZVhSMTg0ZVpDS2hreDIwcG5xWUZndnN2SGwzS2oxNUdpTE1UbDN5dEFVODl0WlZ6U0NwYlN2VjlYWjM2N3pENzPSAZYBQVVfeXFMT0hKNHp3Mk1TbXFOdDhibVlnci1IakJZaXJpckVQV1dfQ0lJZzl1NmpTekNXZlVXWmszOU4wMGJJNUlUUUVrM2FhMlFWdUpQVjVsU1FEck1CeUJmbGdFYWZlRjRmSE9ETnNmT1ktZ2VqN3VBNll6OXRGck9PQUZmR19VLTZMVVBCUU9PNXRxeG16UTM1ZnBn?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Sun, 20 Sep 2026 18:31:50 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2015_Events_Collage_new.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 The ganymedian \u00b7 CC BY-SA 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2015_Events_Collage_new.png"
     },
     {
-      "headline": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war - The Business Times",
-      "summary": "Oil prices dropped to a one-week low amid optimism that diplomacy could reduce conflict in the Iran war. Market sentiment reflects expectations that easing tensions will stabilize supply and demand balances.",
-      "why_it_matters": "Changes in oil prices driven by diplomatic developments affect global energy markets, economic forecasts, and geopolitical strategies related to Middle Eastern security.",
-      "perspective_one": "Traders optimistic about diplomatic progress argue it will improve market stability and reduce risks to oil supply chains.",
-      "perspective_two": "Skeptics warn that unresolved underlying conflicts could quickly reverse diplomatic gains, maintaining volatility in oil prices.",
-      "uncertain": "The durability of diplomatic efforts and their real impact on conflict dynamics remain uncertain.",
+      "headline": "FDA Warned COVID Vaccine Safety Tool Was Broken, Then Silenced Doctor Who Told Them, Report Finds - studyfinds.com",
+      "summary": "A report reveals the FDA was alerted that its COVID vaccine safety monitoring tool was malfunctioning but subsequently silenced the doctor who reported the issue. This raises concerns about transparency in overseeing vaccine safety.",
+      "why_it_matters": "Trust in public health agencies and vaccine programs could be undermined if safety monitoring is perceived as compromised, affecting vaccination efforts.",
+      "perspective_one": "Some argue maintaining strict control over safety data communication is necessary to prevent misinformation and panic.",
+      "perspective_two": "Others contend that suppressing whistleblowers hinders accountability and endangers public trust in health institutions.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVp4SWpBd1NpUlJRLXFNdnhHdTdaV29DaVNGbFh0MXdUMHVNTm1NLWdJV0UyYmxoM3N2U1BmclRid2FMWG5JUV9CWFhjZE5TNXJZR1VBRXVrbi1pWkxxaE9Da0dyZWJMTkNkVzRubzIzWXF1Y1NyRkhIODhvY3Jhb2JocGxQbFdiR1VBOVNIeV85N2QtRkFLUVlTRmxDa21PWTlVNEpuYmpDa0ZHVjZvOFpRZDZzMlg1cFdCZjVseHZQTUE?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sun, 20 Sep 2026 22:40:00 GMT",
-      "category": "Middle East Affairs",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGR2enNRMFJRemhaTmNmWEk2Uk5nV19WaG5MUEFnMVgxS2NOUUg3NUduNGpfUzZEb193SXRKMnRCVUVXbUdoUlphakVsT19TWmhFY2xyS29BSHJlbk5ydzNueDJwekxPOFlaR1pMVUFSWG1MNUtMVG1zT3lyNld4SlFlYVlWbFQ4eTR1dU8zSmVUbFJMQnV2RldnbmxIa3BIbEphRFloTlFvd2tsTnRqVEtRb09CQQ?oc=5",
+      "source": "Health & Medicine",
+      "published": "Sun, 20 Sep 2026 13:20:08 GMT",
+      "category": "Health & Medicine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
+    },
+    {
+      "headline": "AI 'warning shots' focus Beijing on national security risks - Japan Today",
+      "summary": "Recent AI developments have prompted Beijing to issue cautionary measures addressing national security risks linked to artificial intelligence advancements. This reflects growing governmental concern about AI\u2019s potential misuse or strategic vulnerabilities.",
+      "why_it_matters": "China's focus on AI security signals increased state intervention in technology governance, affecting innovation, international AI competition, and geopolitical dynamics.",
+      "perspective_one": "Proponents of strict oversight argue that safeguarding national security and public safety requires proactive regulation of AI technologies.",
+      "perspective_two": "Critics warn that excessive control may stifle innovation, competitiveness, and the free flow of information necessary for AI's full potential.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOem9QdWxzSEtEZ2FJUzZpa2U3SS1WbFBfZnR5azNaUmNDakJTYkoxSVh4Y2FWdWxFYjhIRDNaSVQ1R21uYUZyOE55U1J1R2Q3UzllTHBrdlpBV0xXSFpyNUJmclBhMDZYYkxYTTVEandWazEtckdVRmxNdDE1ZUpzcHRPSGFSdGMyRWNKcVROb2NJQWhyWktGTFRDUGc?oc=5",
+      "source": "AI & Technology",
+      "published": "Sun, 20 Sep 2026 21:00:00 GMT",
+      "category": "AI & Technology",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Zaize_prince_hui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 Sanshichiro Yamamoto \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Zaize_prince_hui.jpg"
+    },
+    {
+      "headline": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - ABC News - Breaking News, Latest News and Videos",
+      "summary": "The U.S. Federal Reserve raised interest rates again in response to persistent inflation and unexpectedly rapid economic growth. This adjustment marks a shift from prior assumptions about inflation\u2019s transitory nature.",
+      "why_it_matters": "Higher interest rates will increase borrowing costs, potentially slowing consumer spending and investment, with broad implications for markets and economic stability.",
+      "perspective_one": "Supporters of the hike believe it is necessary to prevent the economy from overheating and keep inflation under control.",
+      "perspective_two": "Critics warn that rapid rate increases could risk triggering a recession and hurt job growth.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkJ1aGZOVHowUUNJZmxGNFR5RFgzMGZEbkFVQ0lMdUs4TlFhenV3WmZPRjZnREFXVzJRWVNiVVp2V3M2X0dia3JKUWRFcmJVdDlGWm0zem5fbk9MdnpVWThwT3IyVDAwVjNOQ1JzeEJFR1RORVR4ZjVsSkFWVDV5NU1GY0hmajdHMmZtaDJxSjJwSXMzaWowbU9HMlFaak1KR0HSAacBQVVfeXFMUFc0UzNFTTFSX2NTaWVHT1pncHJoMDdCS0x1czIxbFJHeUszT3ZSelhvX2RmeXk1SjVYM3NlNTZoZjRpN2Rhb245bG8wX3BwQVBjR0VvNm45UDE2dGRKN2ZQTmZwbEJ2d1pwZHVVRE4zZW1nMnZIbnZMMGktYWxuT0F0MmNhdmxMTUpTQzNjcjVrelczWnZERVQ5SEFGMGI1NnlLTmtNVkE?oc=5",
+      "source": "Business & Economy",
+      "published": "Sun, 20 Sep 2026 14:04:49 GMT",
+      "category": "Business & Economy",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/PIIGS_Mk_4_map.png/1280px-PIIGS_Mk_4_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "image_credit": "Wikimedia Commons \u00b7 The original uploader was Snow storm in Eastern Asia at English Wikipedia . \u00b7 CC BY 3.0",
       "image_source": "https://commons.wikimedia.org/wiki/File:PIIGS_Mk_4_map.png"
     },
     {
-      "headline": "FDA Advisory No.2026-1059 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product \u201cFOODMAN Butter Toast\u201d - fda.gov.ph",
-      "summary": "The Philippine FDA issued an advisory warning consumers not to purchase or consume the unregistered food product \u201cFOODMAN Butter Toast.\u201d This public health alert aims to protect consumers from potentially unsafe or counterfeit food products lacking regulatory approval.",
-      "why_it_matters": "Unregistered food products may contain contaminants or unauthorized ingredients, posing significant health risks to the public and undermining food safety standards.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+      "summary": "The introduction of advanced AI technologies marks a pivotal era requiring deliberate decision-making regarding its development and ethical use. Choices made will shape societal outcomes related to economy, security, and human welfare.",
+      "why_it_matters": "Responsible governance and innovation policies now could determine whether AI benefits broadly or exacerbates inequality, insecurity, and unintended harms.",
+      "perspective_one": "Optimists highlight AI's potential to solve complex problems and boost productivity if guided with foresight and inclusivity.",
+      "perspective_two": "Skeptics caution that without safeguards, rapid AI deployment risks job disruption, surveillance abuse, and loss of human control.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa1ZHUERaYVNXaFJyLXRUTGhRa3ViS3VQWnFybTNQQVVSaWhVejFsZUhvSkNOVlJVUnJ2U2lQTnhNZDY3T3VYcFhXMU92TlJPaDc3X21PbG4waFNKbHhpaUJlaExxYzR1bVE0TnR3a29MeGloMlhfeFBmWkh3clV4S0JYcG1sZnJWN05UMFcta0RzTkg3VHFvSHdFU1hydnZwUUZqOURmbk94Zmd1LWJHRWpvZncyYy1qS1YxSlppVGpaR2FpUGZqTG1mbFd4N3BPOXlqX2E1aW1DNTRyemttVWdobGtEdWcyOWtxOE50Z3REZC1h?oc=5",
-      "source": "Health & Medicine",
-      "published": "Mon, 21 Sep 2026 08:33:44 GMT",
-      "category": "Health & Medicine",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-fda-advisory-no-2026-1059-public-health-warning--f08d918d22.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "U.S. News Society",
+      "published": "Mon, 21 Sep 2026 08:40:18 GMT",
+      "category": "Society & Culture",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Hochofen_5%2C_Halle_--_2024_--_4164_%28kreativ_4%29.jpg/1280px-Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Hochofen_5%2C_Halle_--_2024_--_4164_%28kreativ_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Dietmar Rabich \u00b7 CC BY-SA 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Duisburg,_Landschaftspark_Duisburg-Nord,_Hochofen_5,_Halle_--_2024_--_4164_(kreativ_4).jpg"
     },
     {
-      "headline": "President Trump to Create an \u201cAI Force,\u201d Appoint an AI Czar as AI Fears Grow - 24/7 Wall St.",
-      "summary": "President Trump announced plans to establish a dedicated AI Force and appoint an AI czar to oversee artificial intelligence policies amid rising public and governmental concerns. This initiative reflects increasing governmental recognition of AI's strategic and societal impacts.",
-      "why_it_matters": "Centralizing AI governance could shape national AI development, regulatory approaches, and ethical oversight, affecting technological innovation and security.",
-      "perspective_one": "Proponents argue that a focused AI task force and czar are necessary to coordinate policy, mitigate risks, and maintain U.S. competitiveness in AI.",
-      "perspective_two": "Critics warn that such appointments may politicize AI regulation or fail to deliver effective oversight without broader, transparent stakeholder involvement.",
+      "headline": "Red Sox clinch playoff berth: Three reasons why Boston is a legitimate World Series contender - CBS Sports",
+      "summary": "The Boston Red Sox officially secured a playoff spot this season, strengthening their position as a serious World Series contender. Key factors include their strong pitching, consistent offense, and clutch performance in critical games.",
+      "why_it_matters": "Boston's playoff qualification influences MLB playoff dynamics, fan engagement, and the team's strategic decisions moving forward.",
+      "perspective_one": "Fans and analysts praise the team's depth and resilience as indicators of potential championship success.",
+      "perspective_two": "Skeptics point to inconsistency and injuries as risks that could derail the Red Sox's postseason ambitions.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1uR0dsSC1IUU5pamJvS00ySVkxc0tyOW1VQWd4aGViVUU2bmI3R3dqNHNlQzA4eVJJLUtmTmZaRGUzYXdTX19Rc0toLW1qZ1g5VVR6MmpjYmNIb01WN3RScTVxTEpoaW1YaGw2TjRsdlNkX2hRRWNyY3U3RDUzSVg4WUU5YlVzVE53eVVia2hZSXRVUC1fa090UkdZdmZnYldpdnBGVGZDMUdCemVuaVVRRFN6X2xx?oc=5",
-      "source": "AI & Technology",
-      "published": "Sun, 20 Sep 2026 17:03:00 GMT",
-      "category": "AI & Technology",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-president-trump-to-create-an-ai-force-appoint-an-086fb9ddff.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Fed\u2019s Kashkari says inflation is still too high across US economy - Business Recorder",
-      "summary": "Federal Reserve official Kashkari stated that inflation remains elevated across the United States despite ongoing economic adjustments. Persistent inflation complicates monetary policy decisions aimed at stabilizing prices without hindering growth.",
-      "why_it_matters": "Continued inflation pressures affect consumer costs, wage negotiations, and Federal Reserve policy, influencing economic stability and financial markets.",
-      "perspective_one": "Some policymakers emphasize the need for sustained interest rate hikes to further reduce inflation even at the risk of slower growth.",
-      "perspective_two": "Others caution that aggressive tightening could trigger economic downturns, advocating for a more measured approach balancing inflation control with growth preservation.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ScDhjbEhRelVrTFkzbGlmTEp2RGFQMHdaTEhyc3lZSDh6SUY3WFQ5emFvNGRfLS14U3doLTVsYUJLeGJPSW14OW8xSFBUVmtWVmp0b2EwazjSAVZBVV95cUxQem1fN3hQbHBJNEZNaVl4bzNwUVo5T3lMMlRDTFJBaWVFd2VMeWdBOGNaVG5xbEF6TFZJWTVHYjF2dVFyOEdRVzFXTU5hanNHazJ3TVRsdw?oc=5",
-      "source": "Business & Economy",
-      "published": "Sun, 20 Sep 2026 23:53:46 GMT",
-      "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-fed-s-kashkari-says-inflation-is-still-too-high--157e999cc7.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Updated MLB Playoff Picture 2026, Wild Card Standings, Full Bracket for AL and NL - Bleacher Report",
-      "summary": "Bleacher Report provides the latest updates on the 2026 MLB playoff seedings, including detailed wild card standings and full brackets for the American and National Leagues. These projections help fans and analysts gauge which teams are most likely to advance in the postseason.",
-      "why_it_matters": "Updated playoff standings drive fan engagement, influence team strategies, and impact revenue streams tied to postseason performance.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdC1Rc3hBeVF1NXFlbDk0eXFITmhTSEt5V0FBQmUxb0N4RUlVWEY1UXFhLWpSYS1ZNTMxOUhvZFpLd3VjNFV2cGZyWV9ITlc2MGlXX19uVnozTWtiZW56RXdwOFdBM1RoSk8xb01SN0l5V3FQQXBfaFBTQXpGa0N5ZDBxSEFrLUZvSlVwQWgzSnhJMF9IYXpRRWlGSlZXdHRvWDhrTzBudTAwMjhBSGx0WFp6alFTZ0RNdjFJbw?oc=5",
-      "source": "Braves Playoff Race",
-      "published": "Sun, 20 Sep 2026 23:22:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON3htY2hnQmxUYmZvR1lpcHhwaGt2LUtlWGkya2RvQ3pMVlg2SWNkTmNfSW00MGdWdWN6STlyUnRZQ0NRSUE2dEQ1Z29KYmdxQk15MTJJaVE5aFdFMlVZdlVyX3FvcThwMzYwZG03SjJXRFJlZjVWeWUzM05qcHM1em9UVTRoT3R4RnBFYUhubUM?oc=5",
+      "source": "CBS Sports MLB",
+      "published": "Sun, 20 Sep 2026 20:58:32 GMT",
       "category": "Sports",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-updated-mlb-playoff-picture-2026-wild-card-stand-fd468f8498.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2007-10-31_sox_champs_01web.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 Office of Governor Deval Patrick of Massachusetts \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2007-10-31_sox_champs_01web.jpg"
     },
     {
-      "headline": "Team Sequesters Plastic and Makes New Products Before it Breaks Down in Environment",
-      "summary": "In San Carlos, California, Nick Schick and his parents are recycling hard-to-recycle thermoplastics by converting them into new products, preventing environmental degradation. This approach addresses a recycling gap that typical methods cannot manage effectively.",
-      "why_it_matters": "Innovative recycling strategies targeting challenging plastics reduce landfill waste and environmental pollution, enhancing sustainable resource management.",
+      "headline": "Good News in History September 21",
+      "summary": "On September 21, 45 years ago, Sandra Day O\u2019Connor became the first female Supreme Court Justice, confirmed unanimously by the Senate despite one member's absence. Her confirmation marked a significant milestone for gender equality in the judiciary.",
+      "why_it_matters": "O\u2019Connor\u2019s appointment paved the way for increased female representation and inspired ongoing efforts to achieve diversity in law and government.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/team-sequesters-plastic-and-makes-new-products-before-it-breaks-down-in-environment/",
+      "url": "https://www.goodnewsnetwork.org/events060921/",
       "source": "Good News Network",
-      "published": "Thu, 17 Sep 2026 18:30:31 +0000",
+      "published": "Mon, 21 Sep 2026 07:00:00 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Young-Nick-Schick-takes-a-large-plastic-sheet-off-a-mold-credit-family-photo-submitted-to-CBS.jpg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/Sandra-Day-OConnor-being-sworn-in-public-domain.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Politics chat: Trump announces a Greenland deal, bans more media from the White House",
-      "summary": "President Trump announced a deal involving Greenland and simultaneously imposed bans on additional media outlets from White House coverage. These actions have potential implications for U.S. foreign policy and press freedom debates.",
-      "why_it_matters": "The Greenland deal affects strategic territorial interests, while media bans raise concerns about government transparency and democratic norms.",
-      "perspective_one": "Supporters view the Greenland deal as advancing U.S. national interests and defend media restrictions as protecting official communication integrity.",
-      "perspective_two": "Critics argue the media bans undermine free press rights and that the Greenland deal lacks sufficient transparency and public input.",
+      "headline": "President Trump navigates tough political waters with UNGA, Xi visit and AI",
+      "summary": "President Trump is engaged in significant diplomatic and strategic discussions this week, spanning the United Nations General Assembly and a visit by Chinese President Xi at the White House. Key topics include global cooperation and emerging technologies like artificial intelligence.",
+      "why_it_matters": "Trump\u2019s engagements signal how U.S. foreign policy priorities will address geopolitical tensions and technological competition on the world stage.",
+      "perspective_one": "Supporters view these efforts as crucial for restoring U.S. influence and securing competitive advantages in AI.",
+      "perspective_two": "Critics caution that confrontational stances may exacerbate international friction and hamper diplomatic progress.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5971253/politics-chat-trump-announces-a-greenland-deal-bans-more-media-from-the-white-house",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5975459/president-trump-navigates-tough-political-waters-with-unga-xi-visit-and-ai",
       "source": "NPR Politics",
-      "published": "Sun, 20 Sep 2026 08:05:38 -0400",
+      "published": "Sun, 20 Sep 2026 17:14:01 -0400",
       "category": "U.S. Politics",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Supreme Court agrees to list Mamata Banerjee plea against ECI freeze on Trinamool Congress name, symbol - Bar and Bench",
-      "summary": "India's Supreme Court has agreed to hear Mamata Banerjee's petition challenging the Election Commission\u2019s freeze on the Trinamool Congress party\u2019s name and symbol. The case involves legal questions about party identity and election regulations ahead of upcoming polls.",
-      "why_it_matters": "The ruling will impact party legitimacy, election participation rights, and voter recognition in a politically sensitive region.",
-      "perspective_one": "The petition argues that the freeze unfairly restricts political expression and voter choice, undermining democratic processes.",
-      "perspective_two": "The Election Commission contends the freeze ensures compliance with electoral laws and prevents confusion over party representation.",
+      "headline": "Some Michigan Republicans see a 'huge struggle' ahead in fall election - Belleville News-Democrat",
+      "summary": "Several Michigan Republicans anticipate a difficult battle in the upcoming fall elections as political competition intensifies. Concerns focus on fund-raising, voter engagement, and candidate positioning in a diverse electorate.",
+      "why_it_matters": "The outcome could influence party control and policy priorities in Michigan, a key battleground state with national electoral implications.",
+      "perspective_one": "Some Republicans believe strong ground campaigns and clear messaging will overcome challenges.",
+      "perspective_two": "Others fear demographic shifts and internal divisions might weaken the party\u2019s chances significantly.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSGs1NTB3Snk2UExncjlueGtieTh0ZU9mS1hfeFlOTnU5TzJXVjBRX0xCR21IZkpqSFhDTVBiVkVkMmFlOG5zUG10U1poZV9SOEZCNDlmLW1GMW04a2ctUzJVbEUtYmE2Y2xDeG1pYUpyVm1WaGl3V2JMcXJRVGMycVM1X3cxbHl3dWZ3ZzUzaVlaMGpjSnV6R01kZl83OGw2SklFVTN1bGN4MGZEZFRuUV9US2VIODJsVFVZZkdLZk1NM3lpYVBhRGNWeDE4NVg4S1J6a2cyRHVIYVhQbXZtbG9Rb2JSMHpPMXpPQw?oc=5",
-      "source": "U.S. Politics",
-      "published": "Mon, 21 Sep 2026 05:30:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lNzJkUmxBU0ZMTDVXZGFMRlZEcFFEWHlNU1JJS2w5cjgtRGFLUzc2Y3QtUkVqUjBIQjNDbkFSaHRHcHNLd3JvUzJPSGs2U2U1SVVMMkpiSEN6ZnJqWThocDBfeTQ0cjFWalhWSWlxdGttQXN0TnYw?oc=5",
+      "source": "USA Today Politics",
+      "published": "Sun, 20 Sep 2026 04:02:00 GMT",
       "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-supreme-court-agrees-to-list-mamata-banerjee-ple-95b31acf41.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-some-michigan-republicans-see-a-huge-struggle-ah-b300683f34.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
-      "summary": "The Texas 2026 primary election results show incumbents Cornyn and Paxton advancing to a runoff, while challenger Talarico also progresses. These outcomes shape the final candidate lineups for upcoming statewide elections.",
-      "why_it_matters": "Primary results set the stage for general elections, influencing party control, policymaking direction, and statewide political leadership.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "Trump says his D.C. arch will serve as 'military complex' with snipers and weaponry",
+      "summary": "President Trump announced that his planned monumental arch in Washington D.C. will function as a military complex, equipped with snipers and weaponry. This proposal faces significant criticism and regulatory hurdles due to security and urban planning concerns.",
+      "why_it_matters": "The militarization of a public monument challenges norms around civil infrastructure and raises debates about security, symbolism, and governance in the nation's capital.",
+      "perspective_one": "Trump supporters argue the arch will strengthen national security and symbolize strength.",
+      "perspective_two": "Critics view the militarization as an unnecessary and provocative display that threatens public safety and democratic space.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
-      "source": "Associated Press U.S.",
-      "published": "Sun, 20 Sep 2026 09:04:17 GMT",
-      "category": "U.S. News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-21-am-texas-2026-live-primary-election-results-cornyn--44a0e276f4.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Morning news brief",
-      "summary": "World leaders convened in New York for the U.N. General Assembly while President Trump described his proposed D.C. arch as a \"military complex\" and the FAA launched AI-enhanced air traffic software. These developments reflect evolving international diplomacy, urban design ambitions, and technology integration in aviation.",
-      "why_it_matters": "The U.N. gathering influences global cooperation on pressing issues, Trump\u2019s arch signifies shifts in federal infrastructure projects, and FAA's AI use could transform national airspace management.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/21/nx-s1-5972897/morning-news-brief",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5975462/trump-says-his-d-c-arch-will-serve-as-military-complex-with-snipers-and-weaponry",
       "source": "NPR U.S.",
-      "published": "Mon, 21 Sep 2026 04:41:50 -0400",
+      "published": "Mon, 21 Sep 2026 04:40:30 -0400",
       "category": "U.S. News",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "How Russia's parliamentary election might affect the war in Ukraine",
-      "summary": "NPR's Steve Inskeep interviews Russian foreign policy expert Hanna Notte about the recent Russian parliamentary elections and their implications for the ongoing war in Ukraine. Election results could influence Moscow's political legitimacy and war strategy.",
-      "why_it_matters": "Understanding electoral outcomes helps assess Russia\u2019s internal political stability and forecasting shifts in military and diplomatic approaches to the Ukraine conflict.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "Retired major general questions Trump's plan for a militarized monumental arch",
+      "summary": "Retired Major General Randy Manner publicly critiques President Trump\u2019s plan to militarize a monumental arch in D.C., raising concerns about practicality and symbolism. The general questions the military and civic implications of such a project.",
+      "why_it_matters": "Military expert skepticism highlights potential risks to public perception and resource allocation in blending military functions with public monuments.",
+      "perspective_one": "The general emphasizes the importance of maintaining clear roles and avoiding militarization of civilian spaces to protect democratic norms.",
+      "perspective_two": "Trump supporters insist the plan enhances defense readiness and deters threats.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine",
-      "source": "NPR World",
-      "published": "Mon, 21 Sep 2026 04:39:56 -0400",
-      "category": "World News",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5975429/retired-major-general-questions-trumps-plan-for-a-militarized-monumental-arch",
+      "source": "NPR U.S.",
+      "published": "Mon, 21 Sep 2026 04:40:15 -0400",
+      "category": "U.S. News",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Workers came across human remains \u2013 and unearthed a mass grave of 572 people",
-      "summary": "Construction workers in northern Sri Lanka discovered the country's largest known mass grave containing 572 human remains, reopening wounds from the civil war. This site may provide important forensic evidence regarding past atrocities.",
-      "why_it_matters": "Exposing mass graves supports accountability and transitional justice efforts, while also confronting unresolved issues of reconciliation and historical narrative in Sri Lanka.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "summary": "Chancellor Friedrich Merz described the recent state election losses for his center-right CDU party as a 'disaster,' yet pledged to continue his leadership role. The results highlight electoral challenges in Mecklenburg-Vorpommern and Berlin.",
+      "why_it_matters": "Merz\u2019s response to setbacks could shape his party\u2019s resilience and Germany\u2019s political stability leading up to federal elections.",
+      "perspective_one": "Merz supporters see perseverance as critical to reforming the party and regaining voter trust.",
+      "perspective_two": "Opponents argue stronger leadership change is needed to overcome public dissatisfaction.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Sun, 20 Sep 2026 22:28:15 GMT",
+      "published": "Mon, 21 Sep 2026 08:56:27 GMT",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7729/live/b2490a80-b238-11f1-9f5d-fbda72f7de0b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93f5/live/3af71800-b571-11f1-9877-152b2e8b38a0.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "'No surprises' as results emerge in Russian parliamentary election",
+      "summary": "Early results from the Russian parliamentary election indicate that the Kremlin-backed United Russia party is on track to maintain its constitutional majority. These outcomes align with expectations given the controlled political environment.",
+      "why_it_matters": "The continued dominance of United Russia solidifies political continuity but raises concerns about democratic plurality and genuine opposition presence in Russia.",
+      "perspective_one": "Supporters claim stable leadership ensures national unity and policy consistency.",
+      "perspective_two": "Critics argue that electoral fairness is compromised, limiting political competition and citizen choice.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Mon, 21 Sep 2026 06:58:30 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5c1/live/fcd0fb50-b588-11f1-bc1f-3f186ca4140c.jpg",
       "image_credit": "",
       "image_source": ""
     }
@@ -262,83 +262,83 @@
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
-        "url": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
-        "source": "NPR Politics",
-        "summary": "While many Republican candidates, even in some critical tossup races, still back President Trump's baseless claims about election integrity, some GOP voters say they are ready to move on."
+        "headline": "Trump bans 3 media outlets from White House in further step towards dictatorship - World Socialist Web Site",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxejNGRFNZYmVQNVJlTURaMGR3eW8tZ0tmNGdkZ3FRUUFLeXRLRzZOZ3EtZmJXTTZvbWVUYml3Sm1ZTmNTWkpnRWw5dmp5ejdoSnNEa0JvdF8tNzFMQS1ESnpNQkp4NzdD?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Trump bans 3 media outlets from White House in further step towards dictatorship World Socialist Web Site"
       },
       {
-        "headline": "President Trump navigates tough political waters with UNGA, Xi visit and AI",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975459/president-trump-navigates-tough-political-waters-with-unga-xi-visit-and-ai",
-        "source": "NPR Politics",
-        "summary": "President Trump has a big week on the international stage, from the United Nations General Assembly to hosting the Chinese president at the White House."
+        "headline": "Trump Returns to White House as Iran Crisis, China Summit and Midterms Collide - finchannel",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOEFMbmxid20wNW9rVDdQY3RZUXhreVF5bUFUMmNXMGNoYWEyWW9EUTFyTFhmeVFaMmZEQlE4dFhxd0EzQXRZVW1NMnRNWjZleklyLXZvUk9wSlZhbUJFRUVSVGRpMTdubEtPTm5TTmpJRDk2TW1hRXB3cU9zVURnR0JncnpWSlFjRmRSSzUybmRLcDlUUTVPQkpQenQ3aUU3OGF1RHVITVY5Vk9FZGoxcFB6OXJ5TDBON3FNOTJRaVV5STZzWWFsRHY2VVRtSm8wWlZ5WDBHRQ?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Trump Returns to White House as Iran Crisis, China Summit and Midterms Collide finchannel"
       },
       {
-        "headline": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
-        "source": "NPR Politics",
-        "summary": "President Trump has claimed that military operations are needed at his proposed triumphal arch in Washington D.C., in order to protect national security. A federal court is weighing the arch's legality."
+        "headline": "'This Week' Transcript 9-20-26: Illinois Gov. JB Pritzker & House Majority Leader Rep. Steve Scalise - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemJ3X2RBM2JHR3h6bDVFVlRRSUVYUXo1LUhfVkdXdi02eGtwZ1NaYTB4d1FxMllZekRWOVQxZlV2SFg2MXM1b0hIMHVVaDlhaVBYV29zd21nSXlxczJPT3dfVzFnZXNsSnFON1N1dWc2ZnRBMXZkM0F5aWZTa2V6TWdKaXFvUUl6VnR0OUNJaGjSAZYBQVVfeXFMTjBGejZ2bndTRldlTGUzSU5NTzVINll1V0hJMXNETzZoblM2LTdycjhHODRWM09lSGpwdkdFYUlFTmNUdTRGVlJxb21NV1RwVzY4ZGdzNTFlZjRrWlRRdVdHYUpvZHdFaWM1SFdiTHpzNG1jTUEtRy1VYTdQdVBEQ245WmlVYUk0eHZZTWFCbUI3bDlkOWln?oc=5",
+        "source": "U.S. Politics",
+        "summary": "'This Week' Transcript 9-20-26: Illinois Gov. JB Pritzker & House Majority Leader Rep. Steve Scalise ABC News - Breaking News, Latest News and Videos"
       }
     ],
     "U.S. News": [
-      {
-        "headline": "Trump says his D.C. arch will serve as 'military complex' with snipers and weaponry",
-        "url": "https://www.npr.org/2026/09/21/nx-s1-5975462/trump-says-his-d-c-arch-will-serve-as-military-complex-with-snipers-and-weaponry",
-        "source": "NPR U.S.",
-        "summary": "President Trump says his planned arch will also serve as a military complex as he faces pushback on his multiple construction projects in the nation's capital."
-      },
-      {
-        "headline": "Retired major general questions Trump's plan for a militarized monumental arch",
-        "url": "https://www.npr.org/2026/09/21/nx-s1-5975429/retired-major-general-questions-trumps-plan-for-a-militarized-monumental-arch",
-        "source": "NPR U.S.",
-        "summary": "NPR's Michel Martin speaks with retired Major General Randy Manner about President Trump's militarization plans for a monumental arch."
-      },
       {
         "headline": "FAA to launch AI-enhanced software to help manage the nation's airspace",
         "url": "https://www.npr.org/2026/09/21/nx-s1-5973216/faa-to-launch-ai-enhanced-software-to-help-manage-the-nations-airspace",
         "source": "NPR U.S.",
         "summary": "Regulators at the Federal Aviation Administration are preparing to roll out AI-enhanced software in an $875 million overhaul to manage the nation's airspace."
+      },
+      {
+        "headline": "U.S. citizen's detention in China may be a topic of discussion during D.C. visit",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5973801/u-s-citizens-detention-in-china-may-be-a-topic-of-discussion-during-d-c-visit",
+        "source": "NPR U.S.",
+        "summary": "In June, U.S. citizen and prominent Myanmar scholar Min Zin was taken into custody in China. Min Zin's detention will likely be on the agenda during Chinese President Xi Jinping's visit to Washington."
+      },
+      {
+        "headline": "TreVeyon Henderson explosive in season debut - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVlBRm1qemh2eVBiaWxfUEZ2SEdkcEVxQ3ctY2J0dUUxNzlZM2VEWkVLc3l4MVM0TEQ0ZW1Lc2ZIRHpBSlNUUEdKUWZKOGdGX3FyUW5KVGVQeXVEYWFDaU5iYkc0MS1icGVlSzdDbElERFZTRFdPby1JT1FqcGJrVldqZERpVS1jUDFsb2xVbEM5dkMw?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "TreVeyon Henderson explosive in season debut Yahoo Sports"
       }
     ],
     "World News": [
       {
-        "headline": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-        "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+        "headline": "What to know as world leaders converge at the United Nations this week",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
         "source": "NPR World",
-        "summary": "German Chancellor Friedrich Merz has faced a major electoral setback in two state elections, with his center-right party losing ground. The far-right Alternative for Germany party made significant gains."
+        "summary": "United Nations head Ant\u00f3nio Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions."
       },
       {
-        "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin."
+        "headline": "18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
+        "source": "NPR World",
+        "summary": "Eighteen suspects who were arrested in the July 2021 killing of Haitian President Jovenel Mo\u00efse were being extradited to the U.S. on Sunday to face justice in Florida."
       },
       {
-        "headline": "'No surprises' as results emerge in Russian parliamentary election",
-        "url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
+        "headline": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority."
+        "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU."
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Houthis warn against joining Saudi Arabia in Yemen's civil war - The New Arab",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjduZ1FtZFFUdTVFTkJSV3ppOUt5OXZadGcwTVJOUzF4cXpLQ29NWUJVeWZMZlZpbU9vWGpVNWg0UHdDd1ZNdDZBVmo5VGw2ZVhSMTg0ZVpDS2hreDIwcG5xWUZndnN2SGwzS2oxNUdpTE1UbDN5dEFVODl0WlZ6U0NwYlN2VjlYWjM2N3pENzPSAZYBQVVfeXFMT0hKNHp3Mk1TbXFOdDhibVlnci1IakJZaXJpckVQV1dfQ0lJZzl1NmpTekNXZlVXWmszOU4wMGJJNUlUUUVrM2FhMlFWdUpQVjVsU1FEck1CeUJmbGdFYWZlRjRmSE9ETnNmT1ktZ2VqN3VBNll6OXRGck9PQUZmR19VLTZMVVBCUU9PNXRxeG16UTM1ZnBn?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "Houthis warn against joining Saudi Arabia in Yemen's civil war The New Arab"
-      },
-      {
-        "headline": "Netanyahu and Pezeshkian Will Address UNGA Within 24 Hours of Each Other as Iran War Enters Eighth Month - The Eastern Herald",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTBPeFhka3ppT21SVm05UldSNzlOc3lnSW1WTC1CVEdIWVpxa052WTQ0Z3IwUEhseDY4TG0zUFo3UXRNVEdVMkU3d0d3VTBRcXFKSk1OdWk2M2g2YmpSbUo2ZWk2dUJ3eGVJOTFUTUp6MGZwbVh3bUNWbnJXeUV3WDlmdGxSWjFkVDRpRQ?oc=5",
-        "source": "The National Middle East",
-        "summary": "Netanyahu and Pezeshkian Will Address UNGA Within 24 Hours of Each Other as Iran War Enters Eighth Month The Eastern Herald"
-      },
-      {
         "headline": "World leaders return to UN amid wars in Middle East and Ukraine - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5",
         "source": "Reuters Middle East",
         "summary": "World leaders return to UN amid wars in Middle East and Ukraine Reuters"
+      },
+      {
+        "headline": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica"
+      },
+      {
+        "headline": "CIA Chief in Cairo as Iran War Pushes Washington Toward Arab Mediation - The Eastern Herald",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdllwQkRVZi1JaGVFX0Y3MlUxRWcxOVRQM0k0cmowUzk5WTRqOUx2V1NneURZUjNKZ25sM3pxMjBwNndYVVFBb3R3bmVVSmpwa09oUC1tRnRCWFFRSG51U3JzOFUxakNBVkVvV0k3Y0QyelJGcUVhSEJURlM2SF9BZTFMRUpTWHoxWGdRTDh2V0I?oc=5",
+        "source": "The National Middle East",
+        "summary": "CIA Chief in Cairo as Iran War Pushes Washington Toward Arab Mediation The Eastern Herald"
       }
     ],
     "Health & Medicine": [
@@ -349,10 +349,10 @@
         "summary": "ITM Isotope Technologies Munich SE and Telix Pharmaceuticals, two leading companies in the burgeoning radiopharmaceuticals field, are merging."
       },
       {
-        "headline": "Excipient Selection Strategies to Mitigate Nitrosamine Risks - pharmtech.com",
+        "headline": "Excipient Selection Strategies to Mitigate Nitrosamine Risks - PharmTech.com",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTJHZjJPX3NlWWJ3NFp1TFZZNEtROTNGeHdFclg1N2JTRFp5RjF5UXk2RWF4Z0dRbU1uWlNpYmRlSHIzRXRmQzVVeGRPZjV0RVRRN3F4MGp5NlBWbTFFR3NiOThrMnVsbXJCUTUtVHU2U2d0QTg2UkhGYWpZTEJOdDV2LWhCLWZxV292RTRNWW1zTy1hWGc?oc=5",
         "source": "Health & Medicine",
-        "summary": "Excipient Selection Strategies to Mitigate Nitrosamine Risks pharmtech.com"
+        "summary": "Excipient Selection Strategies to Mitigate Nitrosamine Risks PharmTech.com"
       },
       {
         "headline": "FDA, Duke-Margolis workshop to examine evidence standards for rare diseases (XBI:NYSEARCA) - Seeking Alpha",
@@ -369,24 +369,24 @@
         "summary": "Hackers who broke into OpenAI warn the AI industry has a security problem The Washington Post"
       },
       {
+        "headline": "Turnbull warns cheap Chinese AI will win global tech race - AFR",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXlkd1ZDM0pmRnlCNHEyNkJtWGluaWhjOFp1WHhIck1od2JTazEyRzVKQmNhSC1kYlpZd19qbWdBUEhpRE92MmdNVTJaRUc1dS1KdUxSbmFjdEFHUWxnOS10OXhCanZZMHUxZ0dqNkJVaUtUUVBPNllyN3k1b182Z29tekdxb19wMnVJbHRaX0hocE5HZzEya2JCT09XWUdZeVRsWU5wTnM2ckd6Y2VN?oc=5",
+        "source": "AI & Technology",
+        "summary": "Turnbull warns cheap Chinese AI will win global tech race AFR"
+      },
+      {
         "headline": "AI models are escaping human control \u2014 and cybersecurity is showing the first warning sign - Firstpost",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPazFDTHl4VUZfZW9MSUJ6aFgxOS04SGdKYUN0NGRSUVFMODF4a0xhZkNYN3BTVmZMM1pTdTgwN25qWEJrSGNOakVwbVJuZ19XcGQyXzIxS19OcnFpQzhaLTdOWkRVdzQ1akRUZ0xCVlg1M1B0My1RYjJ1eGRaWFdoZ2JvRTZ0NEZQb3dnZGpzX1JzQnpGdUJ0cDlHaW1xZDBIMHhjOGZaVVBHUGN6MWp0S28xcHFCUGpWVnZ4VXQtQm9oX2JpWFQ5VnB2WUswd9IB0wFBVV95cUxOcTZnRktXUmotYUNha0NCMHQxWGlsR3dLSnF4MVlDYWNpYnpkbTJrQ0ctcFlOSFlwMHdFeW50SFgzZzFISTVxSFJJQXdONmlLWHI2VzFEWU9PMlFNTTZTY2xWUk9fZWRRWFg4ZFJVbjNva1c4Sm5od1ZrX0RkYlFXUDhSVmhOTU5fYkpuRHRfWGpBMThoYkhJbVB6OTJlMTRnX0lkUTJ2aVBDdTJCcVRSQmRPMVRDYkdhX1NPckgzWkVqSjdERE5UUUpoUnV3VGE4SGE4?oc=5",
         "source": "AI & Technology",
         "summary": "AI models are escaping human control \u2014 and cybersecurity is showing the first warning sign Firstpost"
-      },
-      {
-        "headline": "How AI Threats Are Driving the Shift Toward Collective Cyber Defence - Finance Magnates",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnoxRmowenRqalJtQkRDWUZMSVBKZExCRFR1WTBXajd0c09nZ3Myb0JpeFFDckUyNDhMZ0ZPaTdQMmRhMWt3MngzNUhIUWI5Y2VDb3RrMWdnR2xCZ1lBSDVsd3VaWUJrSEdNRW9LSk5iX3E0cC1wMEZlRmZFZGNiLWN4WEdIV0FaN1RZUWJsVGdPZlV0SXJ6V1l3cHFWbXpZV1VhTk5CVQ?oc=5",
-        "source": "AI & Technology",
-        "summary": "How AI Threats Are Driving the Shift Toward Collective Cyber Defence Finance Magnates"
       }
     ],
     "Business & Economy": [
       {
-        "headline": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkJ1aGZOVHowUUNJZmxGNFR5RFgzMGZEbkFVQ0lMdUs4TlFhenV3WmZPRjZnREFXVzJRWVNiVVp2V3M2X0dia3JKUWRFcmJVdDlGWm0zem5fbk9MdnpVWThwT3IyVDAwVjNOQ1JzeEJFR1RORVR4ZjVsSkFWVDV5NU1GY0hmajdHMmZtaDJxSjJwSXMzaWowbU9HMlFaak1KR0HSAacBQVVfeXFMUFc0UzNFTTFSX2NTaWVHT1pncHJoMDdCS0x1czIxbFJHeUszT3ZSelhvX2RmeXk1SjVYM3NlNTZoZjRpN2Rhb245bG8wX3BwQVBjR0VvNm45UDE2dGRKN2ZQTmZwbEJ2d1pwZHVVRE4zZW1nMnZIbnZMMGktYWxuT0F0MmNhdmxMTUpTQzNjcjVrelczWnZERVQ5SEFGMGI1NnlLTmtNVkE?oc=5",
+        "headline": "Fed's Goolsbee: Strong demand may be adding to US inflation, 'no ambiguity' how Fed would react - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
         "source": "Business & Economy",
-        "summary": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth ABC News - Breaking News, Latest News and Videos"
+        "summary": "Fed's Goolsbee: Strong demand may be adding to US inflation, 'no ambiguity' how Fed would react Reuters"
       },
       {
         "headline": "Workers just hit a record low that explains why you feel broke - thestreet.com",
@@ -404,6 +404,12 @@
     "Society & Culture": [],
     "Sports": [
       {
+        "headline": "Tigers officially eliminated from playoff race with ugly loss to White Sox - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1NZN3YwY0NUQ3pwbUtjckZZd1NpaldaX21pbmFPeE53S054eGFNREFscGNHV1Z1eTdEaWJHb2V5SGlzN25UVnFDRmxYM09WTG1vM04ybUV3SFJVb09UWURNdE1ibjBEMDF3MEpTT1Q2R0l5bmVnOERTTVA3YzBlajZyVkxuNUcwTDhYNDZ5WFIxTWNk?oc=5",
+        "source": "Yahoo Sports MLB",
+        "summary": "Tigers officially eliminated from playoff race with ugly loss to White Sox Yahoo Sports"
+      },
+      {
         "headline": "Vikings Show Grit in Win, Bears Lose Caleb Williams to Injury | FOX NFL Kickoff - FOX Sports",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5amdxTEFYcGZwNXhUQ3RJdnE3YXY5Nlk0SjdzcXpBQ3JnNUN2cFVXVncxWmh1VDA2cUl0bFNwbVJoU0pPYXgzenQ1czk5TjB3U0VZYUpMaVVkdThoNjlGZlBB?oc=5",
         "source": "NFL Opening Week",
@@ -414,12 +420,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOU9oVXJGZGNxaTZPRUJrWnZ6OVQyRmxPbkdMNnQzcnFnUVY3eE1JSmw1akwxVHhlZ19KUGVjRXJNd05XTFZSbm9mUjN1VDNsSXpRNkdTWkxoU3Q1bVA0N0U0N0h1Qm1WZ2ttWmZJQnRoSXNuZEY4alpvOC1WcXdiaUc2ZG5kTGhL?oc=5",
         "source": "College Sports",
         "summary": "Penn State Nittany Lions vs Wisconsin Badgers \u00bb Best Odds and Stats Odds Scanner"
-      },
-      {
-        "headline": "Evaluating the State of the AL Wild Card, Heading Into the Final Week of the Regular Season - Sportsnaut",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LZi1aUFB4ZGdHTlFhMDgyM3JLV1I4bFVYZEhkeTRxcWVCTGpMLWlfcVhPQ2lUb3dIME1rZUN1YzNfdHBtY2tXT1hPSGVlX3ZhdVRqNy1aMEEwU1FDSTk0?oc=5",
-        "source": "Braves Playoff Race",
-        "summary": "Evaluating the State of the AL Wild Card, Heading Into the Final Week of the Regular Season Sportsnaut"
       }
     ],
     "Good News": [
