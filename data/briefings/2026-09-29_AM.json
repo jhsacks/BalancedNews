@@ -1,260 +1,260 @@
 {
-  "generated_at": "2026-09-29T12:10:00.755952-04:00",
+  "generated_at": "2026-09-29T12:40:38.073508-04:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "Who\u2019s Winning the Race for Congress? 2026 Midterm Elections - The New York Times",
-      "summary": "The New York Times reports on the current standings and key factors influencing the 2026 midterm elections for Congress. The analysis includes voter sentiment shifts and campaign strategies shaping the contest's trajectory.",
-      "why_it_matters": "Midterm election outcomes will determine legislative control and influence policymaking on critical issues like healthcare, economy, and national security.",
-      "perspective_one": "Supporters argue that each party\u2019s message and ground game reflect the electorate\u2019s evolving priorities, critical for effective representation.",
-      "perspective_two": "Critics contend that partisan tactics and media biases distort voter choice and exacerbate polarization, undermining democratic processes.",
+      "headline": "US Midterm Elections Put Control of Congress and 36 Governorships at Stake - slguardian.org",
+      "summary": "The 2026 US midterm elections will decide which party controls Congress and 36 governorships nationwide. These elections will shape legislative priorities and state leadership while reflecting public sentiment on current federal policies.",
+      "why_it_matters": "The election results directly influence federal and state policymaking on critical issues such as healthcare, the economy, and national security for the next two years.",
+      "perspective_one": "Supporters of the incumbent party argue maintaining control ensures policy continuity and stability during challenging times.",
+      "perspective_two": "Opponents claim a change in leadership is necessary to correct perceived policy failures and better represent voter interests.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXdnWmxsdlhpMXNkS1dVREFNcEgyRnotR3JFYktIUFdfbTczMVhpZVRtanFOcnQ4RGd2c3JkVGMza1lhWVNoV3p0QnpLMDBsRzZxcXJYNGdtR1ZwYktXMndlYzk5aXR2Y3JZUHVqV0pNbENzYVdMYzlwbTZZRTU1MGpVbw?oc=5",
-      "source": "USA Today Politics",
-      "published": "Mon, 28 Sep 2026 09:03:59 GMT",
-      "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-who-s-winning-the-race-for-congress-2026-midterm-36fc70fdd6.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Man released on bail after 41 years on death row",
-      "summary": "DNA analysis excluded Douglas Stewart Carter, now 71, as the perpetrator in a killing for which he was convicted decades ago. Carter, who has always claimed innocence, was granted bail following the new evidence challenging his conviction.",
-      "why_it_matters": "This case highlights the critical role of DNA testing in overturning wrongful convictions and addressing lifelong injustices in the criminal justice system.",
-      "perspective_one": "Legal advocates emphasize the necessity of revisiting convictions with modern forensics to prevent miscarriages of justice.",
-      "perspective_two": "Some believe prolonged appeals and bail after decades risk undermining convictions and public confidence in the judicial process.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr71xpj4gpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Tue, 29 Sep 2026 13:39:16 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2704/live/51841780-bbfc-11f1-90b9-913e4354ed35.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-      "summary": "Jordan Bardella, leader of France\u2019s National Rally, announced plans to sue for libel over antisemitism allegations linked to his youth activism. Bardella denies those claims, framing them as a politically motivated campaign by adversaries.",
-      "why_it_matters": "The legal battle underscores the ongoing polarization in French politics and the weaponization of sensitive accusations for political gain.",
-      "perspective_one": "Bardella argues that such accusations unjustly damage reputations and silence legitimate political voices on the right.",
-      "perspective_two": "Opponents contend these issues reveal underlying antisemitism that threatens social cohesion and democratic values in France.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Tue, 29 Sep 2026 12:20:02 GMT",
-      "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b1a/live/145292d0-bbfa-11f1-90b9-913e4354ed35.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "IDF Kills October 7 Abductor of Noa Argamani as Gaza Manhunt Continues - The SOFX Report",
-      "summary": "Israeli Defense Forces reported killing the individual responsible for abducting Noa Argamani during the violent events of October 7, as their manhunt in Gaza advances. Operations continue amid heightened regional tensions and security measures.",
-      "why_it_matters": "This operation reflects Israel\u2019s ongoing efforts to respond to attacks and safeguard civilians, impacting security and political stability in the region.",
-      "perspective_one": "Israeli authorities assert military operations are vital for national defense and deterring future attacks.",
-      "perspective_two": "Critics warn that such actions escalate conflict and worsen humanitarian conditions, complicating peace efforts.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUTQ0djhEOWFmS0M4dDBIbHFzSXhvNUVuS2VvSWcxUWFtVFB1OGxQWElXRngwUmFLT0FxaTVwQ2F3ZGNfVkU5WWRkdzRjb2hWT29lVEdHbk0zT2UxNUpOMW0zNzJ6dUVQM1RWeDVDTzZsaU5vUEl0WnZadFlBaDEwVmpCemk5UnBQbUhqQUVGZVpGNDRIYkxR?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Tue, 29 Sep 2026 08:50:37 GMT",
-      "category": "Conflicts & Security",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-idf-kills-october-7-abductor-of-noa-argamani-as--243f3b8adf.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Are Houthis using new modified cruise missiles in Yemen\u2019s war? - Al Jazeera",
-      "summary": "Reports suggest that the Houthi movement in Yemen may have deployed newly modified cruise missiles in ongoing conflict operations. Analysts examine the technological enhancements and tactical implications of these weapons in the war.",
-      "why_it_matters": "The introduction of advanced missile technology could shift the military balance, exacerbate regional instability, and complicate conflict resolution efforts in Yemen.",
-      "perspective_one": "Supporters of the Houthis view these missiles as necessary tools for defense against foreign intervention.",
-      "perspective_two": "Opponents see their use as escalatory, threatening civilian safety and violating international law.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3h6NTdxaWU0WU1NWE1YTk5GUGtaTWtWOWM5UUFEYi1FenZwUmxablJtUzJjQVphR180WUp0OFJPcnFHb0dRREhWX1VqbU1LQW9xQ0haRzRWVm11MFprNTU3My16Z196d3c0c2dCMlFYZmV0Zy04NTBILVF1Y1ZVVHU1TlZpY1ZyRUdHQzFvdl9rSnV2SnM2R0lWRlhCTWRjWXoxMHcxMmLSAa4BQVVfeXFMT0dCWC1DeUlfclZIX0tYOUlOWWhVZ0w4Vm5nODJUTkJsMmxOSHQ2ZFlXZTR1WWlNUW85NFRGcXM2YzJYemx2ekVuOTFnTjFVUkpid1lLcVFoVTFJMzNMd044MTdELXlkazdrS21fU0pEaXFCXzEwRklMeWMtYkk1ZURxN1FTTnRVX1hjMGtnWmRzWjZnVUhNOGhIRGxmaFBmaDZsMjBTS3cySzJNWW13?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Tue, 29 Sep 2026 13:22:40 GMT",
-      "category": "Middle East Affairs",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-are-houthis-using-new-modified-cruise-missiles-i-463dbba82f.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "STAT+: The last \u2018breakthrough\u2019 devices to get special treatment from Medicare",
-      "summary": "The FDA\u2019s recent policy change means new medical devices labeled as \"breakthrough\" will no longer automatically receive additional Medicare reimbursement. This alters prior incentives for device innovation and market access.",
-      "why_it_matters": "Modifying Medicare payment policy for breakthrough devices may affect adoption rates, medical innovation funding, and patient access to cutting-edge treatments.",
-      "perspective_one": "Proponents argue that the change ensures payments better reflect device value and controls health spending.",
-      "perspective_two": "Opponents worry it could slow innovation and delay patient benefits by reducing financial support for new technologies.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.statnews.com/2026/09/29/fda-breakthrough-medical-devices-special-treatment-medicare/?utm_campaign=rss",
-      "source": "STAT Health & Medicine",
-      "published": "Tue, 29 Sep 2026 08:30:00 +0000",
-      "category": "Health & Medicine",
-      "image": "https://www.statnews.com/wp-content/uploads/2025/11/AdobeStock_917911475-1024x576.jpeg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "HCLSoftware and Catalonia Trade Delegation Deepen Ties on Sovereign AI and Digital Infrastructure - CXOToday.com",
-      "summary": "HCLSoftware and the Catalonia Trade Delegation announced a partnership focused on advancing sovereign AI capabilities and enhancing digital infrastructure. Their collaboration aims to bolster regional technology independence and innovation ecosystems.",
-      "why_it_matters": "Strengthening AI sovereignty and digital infrastructure supports data security, economic growth, and strategic autonomy in an increasingly competitive global tech environment.",
-      "perspective_one": "Proponents highlight the need for localized AI development to reduce reliance on foreign technologies and protect sensitive data.",
-      "perspective_two": "Critics caution that fragmentation of technology markets could hamper global collaboration and increase costs.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVF1b1V5ZHlEek4tVWI4ZGtGbnFLWVRuWEZQN08yeWZDVzAzRDZTNTNRNVJyYi0zM21ZNzdkV281SEF4S0RyaExvTHdNUW1Ccjh3ZWFDRTFIQ0czM0Zac0xZeTF0TFdFVmljNVVId0JVVFNaSVJRX2hKczNzVDhPZHY3ZzRjNVlVV3dHVmtKenFGNDNIdHBwVFlJei1oRGVoX1gxUzI5UnhWblpoaFoyUVM2bGoyclV6cmQtTE8tN3VxSWJ5dElSWHVPMlU1aEk?oc=5",
-      "source": "AI & Technology",
-      "published": "Tue, 29 Sep 2026 12:12:14 GMT",
-      "category": "AI & Technology",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-hclsoftware-and-catalonia-trade-delegation-deepe-bfc0c536c4.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "'Open the Strait': Texas firms warn Middle East chaos reigniting inflation - TradingView",
-      "summary": "Texas-based companies warn that escalating Middle East conflicts, especially around strategic shipping routes, threaten to reignite global inflation through supply chain disruptions. They urge reopening the Strait of Hormuz to stabilize energy flows.",
-      "why_it_matters": "Disruptions in vital energy corridors can rapidly increase fuel prices, inflating costs across sectors and impacting consumer prices worldwide.",
-      "perspective_one": "Business leaders stress that uninterrupted shipping lanes are essential to prevent economic shocks and price surges.",
-      "perspective_two": "Some policymakers argue that geopolitical security challenges require managing risks beyond economic considerations, even if prices rise temporarily.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdV9uMXBTT0MySWo0YnFqZTlTbk1VaENsVHNZT0F3eGdhYTJVZ216enlBSllyMWRVSGVoVVktZ2dBaGZ3aFFvZ3BncWZ5cW5kNlpJdnZhcHBiNUkxdlQ5RVo2RzB6cGNwbzE3TXRsUnBrdXZQR0lKVE5KaW00bXNvaTIwb0Z0X2NUa3BHLXptRi1CN2lrX3dGaGpDUk5ZMUgwWEZPV2NBc3ZMVm9abUdwaVdnRUNSc1pOVU15cFhwcFVPMFN5blc4M3FfS3pCZlk?oc=5",
-      "source": "Business & Economy",
-      "published": "Mon, 28 Sep 2026 18:45:03 GMT",
-      "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-open-the-strait-texas-firms-warn-middle-east-cha-94cb598098.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "15 Million Americans Live in a County With No General Surgeon - PR Newswire",
-      "summary": "An estimated 15 million Americans reside in US counties lacking a general surgeon, limiting access to essential surgical care. This shortage poses major challenges for healthcare delivery in rural and underserved areas.",
-      "why_it_matters": "Absence of surgical providers increases health risks, delays treatments, and contributes to disparities in medical outcomes across communities.",
-      "perspective_one": "Healthcare advocates stress greater investment in rural medical infrastructure and workforce incentives to address gaps.",
-      "perspective_two": "Some policymakers highlight budget constraints and advocate for alternative care models instead of expanding surgical services everywhere.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHAwMUJwZEZoVkMtWV9oa1p6TFdFRDd5Qmx2NjFBdnZDMElQUURWS0NHdnpUakhMN0VjWVk1VVEwbnRlbGxlc2pwdEF2dlFBTUhYSUZndlpQbUQ0eldwaFpNamdNdGJOb1NZUjZyMF9fWHVwSWNjd2VvVzR0Vy1SX2pUWWFpclo3V2s2aEQzbGZuR0otQkJiSC1Bdkd1bm9UMG90bXdfSVVqYWdCck15Z2hTNVk3Yzlv?oc=5",
-      "source": "U.S. News Society",
-      "published": "Mon, 28 Sep 2026 11:00:00 GMT",
-      "category": "Society & Culture",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Captain_H.C._Gray_Balloon_Basket_-_DPLA_-_bab59faf69932dc71a2a98720256a9ed_%28page_1%29.jpg/1280px-Captain_H.C._Gray_Balloon_Basket_-_DPLA_-_bab59faf69932dc71a2a98720256a9ed_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons \u00b7 CC0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:Captain_H.C._Gray_Balloon_Basket_-_DPLA_-_bab59faf69932dc71a2a98720256a9ed_(page_1).jpg"
-    },
-    {
-      "headline": "2026 MLB playoff predictions: Expert picks for Yankees vs. Red Sox, Cubs vs. Padres and every Wild Card Series - CBS Sports",
-      "summary": "CBS Sports provides expert predictions for the 2026 MLB playoffs, including key match-ups like Yankees vs. Red Sox and Cubs vs. Padres. Analysis focuses on team strengths, player form, and strategic factors shaping postseason outcomes.",
-      "why_it_matters": "These predictions inform fans and stakeholders about competitive prospects, influencing engagement, betting markets, and team preparations.",
-      "perspective_one": "Experts believe team momentum and pitching depth will prove decisive in playoff success this year.",
-      "perspective_two": "Others argue that unpredictable injuries and game-day tactics could disrupt favored matchups and expectations.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVU1JdXQ3MFhOWmhuX3ZVMnpIMWtYdTJuX1FicFRhQWpvbE9XaTRhck1DdmN2dGJYcWNyVFJZZmVvcjh3MVhVT3ZCNThHQ0V1dW9yR3VmdkhNdThIVlI5T2JxdVRhN01DZWM4UnRlWElKQWFmUzVPVldJNHlIM3ZmbjQwM1JEQWdhd0pOUnA1MXhWSnctY3Z3XzBn?oc=5",
-      "source": "CBS Sports MLB",
-      "published": "Tue, 29 Sep 2026 12:18:00 GMT",
-      "category": "Sports",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-2026-mlb-playoff-predictions-expert-picks-for-ya-3b7b675356.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Good News in History September 27",
-      "summary": "September 27 marks the 50th birthday of Francesco Totti, a legendary Italian football forward renowned for his 25-year career at AS Roma. He appeared in 619 matches and scored 250 goals, earning recognition as one of the greatest players of his generation.",
-      "why_it_matters": "Celebrating Totti\u2019s milestone honors his lasting impact on sports culture and inspires appreciation for athletic dedication and talent.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/events060927/",
-      "source": "Good News Network",
-      "published": "Sun, 27 Sep 2026 07:00:00 +0000",
-      "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/Mural-graffiti-dedicated-to-Francesco-Totti-in-the-Rome-district-Monti-celebrating-the-victory-of-AS-Roma.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "The Supreme Court is building power no one gave it - SCOTUSblog",
-      "summary": "SCOTUSblog critiques the U.S. Supreme Court for expanding its authority beyond its constitutionally granted powers. The analysis underscores concerns about potential impacts on the balance of government and rule of law.",
-      "why_it_matters": "Unchecked judicial power growth can alter democratic governance, affect legal precedents, and shape societal rights and freedoms.",
-      "perspective_one": "Some view the Court\u2019s expansion as necessary to uphold constitutional principles amid political challenges.",
-      "perspective_two": "Others warn it threatens separation of powers and risks judicial overreach undermining democracy.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkNCdm84U0p1cGhUMEtzaENoZkpEVzhEdG5zMGhub05tbHdVNkVXeW1wa0ttM0xxRC1IenBUQzE1WDlYaUdEdG55YVZUNlAxUW1CRFk2eFJmaldBSTFrLU1KNGFXSVlLUVliSWJWOTRGVFdVT1JpSEtZaWtVS0xMSWYzRnN2c1B6ZmI5QVpUNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWG0tMVBKUnB5UDhoQ0laeF8xZXREdm5QenZPaWlLUVFEb0I1Mmo1c2dWb2FxT2pEV24xR2pHU21HeWd1Q3NxRHR3NnJXQ2tGbHRWLUZvY1Q3bnl0OFBMRnRsVUdOTjFGaUNDWGFWUElYLTNRXzBla0V4cUJ5LVRVUGg2d2tVMmdqdG16SXRlMzFmbkpTclBRcm5XdnFDYW8?oc=5",
       "source": "U.S. Politics",
-      "published": "Tue, 29 Sep 2026 13:32:01 GMT",
+      "published": "Tue, 29 Sep 2026 05:05:34 GMT",
       "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-the-supreme-court-is-building-power-no-one-gave--4a5df5271a.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-us-midterm-elections-put-control-of-congress-and-72cd6ef78a.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "News organizations ask court to bar White House enforcement of access ban",
-      "summary": "Three news outlets banned by President Trump from White House grounds have petitioned a federal court to halt enforcement of the ban pending litigation. The groups argue their exclusion infringes on press freedoms and public transparency.",
-      "why_it_matters": "The case could set precedent for how government balances security with press access rights, influencing media-government relations.",
-      "perspective_one": "News organizations emphasize the necessity of unimpeded access for independent journalism and democracy.",
-      "perspective_two": "The administration contends restrictions are justified for security and order on federal property.",
+      "headline": "Trump rules out joint US-China venture to develop AI",
+      "summary": "President Trump rejects proposals for a collaborative US-China effort to regulate artificial intelligence development. He argues such multinational controls would hinder AI innovation and economic growth amid global competition.",
+      "why_it_matters": "The US-China impasse on AI collaboration raises concerns about unchecked AI risks and intensifies geopolitical competition in a critical emerging technology.",
+      "perspective_one": "Proponents of joint ventures believe international coordination is essential to establish safety standards and prevent harmful AI misuse.",
+      "perspective_two": "Trump and supporters contend that independent national AI strategies spur innovation and protect US economic and security interests.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
-      "source": "NPR Politics",
-      "published": "Tue, 29 Sep 2026 04:13:11 -0400",
-      "category": "U.S. Politics",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x4128+0+0/resize/6192x4128!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F39%2F65c7ab674292a366b64a2ffb7bad%2Fap26269461154343.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-      "summary": "The United States enacted a ban on Canadian alcohol and dairy imports following the breakdown of trade negotiations in late August. No timeline has been announced for restoring talks, signaling prolonged trade tensions.",
-      "why_it_matters": "The ban exacerbates economic strain and uncertainty for producers and consumers, straining the vital US-Canada trade relationship.",
-      "perspective_one": "US officials argue the measures protect domestic industries from unfair Canadian trade practices.",
-      "perspective_two": "Canadian stakeholders view the ban as punitive and counterproductive, harming cross-border commerce and cooperation.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC U.S.",
-      "published": "Tue, 29 Sep 2026 13:38:06 GMT",
+      "published": "Tue, 29 Sep 2026 16:09:26 GMT",
       "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db51/live/1fd12340-bb7a-11f1-a430-4d16ee157c41.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/94a2/live/12c9a5e0-bc1b-11f1-b84f-b5367b64d530.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Car brands with the best warranty coverage in 2026 - Bradenton Herald",
-      "summary": "Bradenton Herald ranks car manufacturers according to their warranty coverage quality in 2026. The list helps consumers evaluate reliability and manufacturer commitment to vehicle maintenance support.",
-      "why_it_matters": "Warranty coverage impacts consumer protection, repair costs, and brand trust, shaping purchasing decisions in a competitive auto market.",
-      "perspective_one": "Manufacturers with superior warranties argue they demonstrate confidence in product quality and customer satisfaction.",
-      "perspective_two": "Critics highlight that warranty terms can vary widely and may not always reflect actual service experiences or long-term reliability.",
+      "headline": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+      "summary": "Turkey is positioning itself to expand regional influence amid waning US involvement in the Middle East. This follows regional upheavals starting with the 2023 Hamas attack on Israel and ongoing conflicts involving Iran.",
+      "why_it_matters": "Turkey's increased regional engagement could reshape alliances, power dynamics, and conflict resolution efforts across the Middle East.",
+      "perspective_one": "Turkey sees this as an opportunity to assert leadership and serve regional interests where the US is retracting.",
+      "perspective_two": "Critics warn that Turkey\u2019s ambitions may destabilize existing balances and complicate peace prospects.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTkkwMDNoRTNpZTFRbjdoY1Mxcm5sWWllS1h1eDhYdU1YR3RIOEZseGJrSEstRGpNRzhWbUJCbkc4WjRUZTlqcGwxdVZ4emlxX1FFUjZlVU8wcVN5RnEwM3JoWWt6d0NzRmlrUTZsWlNwdGZhRmprTm10cGVWRkU?oc=5",
-      "source": "USA Today U.S.",
-      "published": "Tue, 29 Sep 2026 11:56:00 GMT",
-      "category": "U.S. News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-car-brands-with-the-best-warranty-coverage-in-20-be7aaf92a8.webp",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+      "source": "NPR World",
+      "published": "Tue, 29 Sep 2026 05:00:00 -0400",
+      "category": "World News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5634x3756+0+0/resize/5634x3756!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F70%2F23eeab59427cb164218e9b77c20b%2Fap26265582716871.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
+      "summary": "Recent military strikes by Israel and the US have reignited conflict involving Iran. This escalation underscores ongoing tensions in the Middle East with potential for broader regional destabilization.",
+      "why_it_matters": "Renewed conflict risks increasing casualties, disrupting global energy supplies, and forcing shifts in international diplomatic and security policies.",
+      "perspective_one": "Israel and US justify strikes as necessary defense against Iranian-backed groups threatening regional security.",
+      "perspective_two": "Iran and its allies view military actions as aggression worsening regional instability and violating sovereignty.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Tue, 29 Sep 2026 12:53:09 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-live-updates-war-returns-to-iran-with-israel-us--220970ea6e.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Netanyahu\u2019s secret UAE visit: Why Israel PM met Sheikh Mohamed bin Zayed amid October 7 warning row - indianexpress.com",
-      "summary": "Israeli Prime Minister Netanyahu made an undisclosed visit to the UAE to meet Sheikh Mohamed bin Zayed amid tensions over Israel\u2019s October 7 security warnings. The meeting aimed to discuss security cooperation and diplomatic issues in the Gulf region.",
-      "why_it_matters": "The visit signals ongoing behind-the-scenes diplomacy shaping Middle East alliances and responses to regional security challenges.",
-      "perspective_one": "Supporters view the engagement as crucial for strengthening strategic ties and regional stability.",
-      "perspective_two": "Critics question the transparency and timing, suspecting attempts to manage political fallout from security controversies.",
+      "headline": "FDA Advisory No.2026-1306 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product \u201cZMZ Peptides Tirzepatide Compounded in USA For subcutaneous use Vial 15 mg and ZMZ Reconstitution Solution 0.9% Benzyl Alcohol R - fda.gov.ph",
+      "summary": "The Philippine FDA issued a warning against purchasing or using ZMZ Peptides Tirzepatide, an unregistered compounded drug product. The agency advises consumers to avoid it due to potential safety and efficacy risks.",
+      "why_it_matters": "Consuming unregistered compounded drugs can cause serious health risks due to lack of regulatory oversight and quality assurance.",
+      "perspective_one": "Health authorities emphasize the importance of regulatory approval to ensure drug safety and protect public health.",
+      "perspective_two": "Some patients seeking novel treatments may distrust government warnings and pursue alternative drug sources despite risks.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzNzR2lJRlN6N0Y3QmZxeGNseVc5LWxnWjJsUTk2emVSN3JnLVJtQWNsTy1jU0p0RVYxWHNBSEhMS3VzZllNU2FPMzdpN3FfVHVvakFTTF9EZ1R2WGkyQkItWEFPS25MZDNtellNcVlYeVZ5VjB3VGZmaEpUa19INHBlNy1uV2YtQW5IYWpuMWVJZE5LVHdJci1iZmp4TmxTQnMzTG1kcDFNYUNaMTJN0gG2AUFVX3lxTFBPaGJCbEJmTDFaTjBRWVdXTnBVdEFCeW1nQU53TWlfWGpfRVJleldqNU43NlgxdVRaRk1DcXd6WFdZZUlDeHZhV2xzWnV2LVdPZ0FMMlFoSmdtWDhvMk91ZnNXT0JZN04zRV9xeHhCQ3VJQ0VzN0tRc0k3anZha1ZrdXh3d0dTZGJfUVR5c000T2dydGgyNEV4YlgtQUp2U2RpZU81MTRFRDlqaWlFVE5KWUxjYnBB?oc=5",
-      "source": "Associated Press World",
-      "published": "Tue, 29 Sep 2026 13:33:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQ1lLYTMwaDdyXzEwU1ZWb05feG16UERKd3VQQ3Z2N0pMY1o2b0tZeGZHSHZucGRvTDFJOVFyNVY4MWtNelRzWEkxd2JzbzE0RDJTMmJyMk1Uc3dXQTllSnBGYVgyZnV0U2c2T2UtZWFDblZJUWNrMHZHX1VwcEFJcnlGSU9Mc2l1dEJ2T0ZsVldFRHkwbUdSaE1jTC1ud0cwNUVGQVFNcDNFVlpFa0xfeXdURnkxdFVSUDNrTmJzcWREb3VtMUVkX1B6U01abGFwWW03QnpwU1FCMjFSeFNXNzc0SmZvYkRrZTR2RFY4akNfRW9XMGo0T2pmWUpHeW13endKVnVsUzJZelRWc1dMOEJ5V1VlY1VQcEVnTTdwdzJIT1ZzSVZsRU9jQ0dJa2Q5Z2xDWTZtaw?oc=5",
+      "source": "Health & Medicine",
+      "published": "Tue, 29 Sep 2026 06:14:58 GMT",
+      "category": "Health & Medicine",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-fda-advisory-no-2026-1306-public-health-warning--f245779a72.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Nvidia releases software to prevent AI security incidents - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Nvidia has launched new software designed to reduce security risks associated with artificial intelligence systems. The tool aims to detect and prevent vulnerabilities that could be exploited in AI applications.",
+      "why_it_matters": "As AI adoption grows, enhancing security tools is crucial to safeguard data, maintain system integrity, and avoid malicious exploitation of AI technologies.",
+      "perspective_one": "Tech advocates see this as a vital step toward responsible AI deployment and protecting users from emerging threats.",
+      "perspective_two": "Some critics worry that new software alone may be insufficient against rapidly evolving AI risks and require broader regulation.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWNrT0d5d2ZiWlh4QWU3cHFSVjJjY1VzbEM1U0gzN0ZyRmE4S1MzMHZlb3BGLUQ2OEgzbVFuRWRrMEk3SndNVWU0bHRqTElMaGp1RVhObzNZVXdNTUFKOFNvWHBsN3gwN3ZrQXpUcTZDbXNvMEVlOUJwTjZ2TWJjZjExN20taWNYYUgxZDBTTXduQmpTZXdqYUhlWGdMaC15TzRjZdIBqgFBVV95cUxNX3RSQkE4M21ac3luMlFQakotdGhRWnFTT2N3b3NqMFM2ZzU5UVRaTjJBUzhYY2FzanRzUUR3NnZyY1ZLNGM3aTZaVlQ5TUJlMUtaVmNwYzloMk9UNzBIMzU1cjZ3OFRUZFdxakV2RUd3amVncjR0bUdMSTAyX1BCZmh6WmtjOUhkLV85YlM2eUotVG9XaW00M2paSVhJVlA3aE04Z0daWGZSZw?oc=5",
+      "source": "AI & Technology",
+      "published": "Tue, 29 Sep 2026 06:06:37 GMT",
+      "category": "AI & Technology",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-nvidia-releases-software-to-prevent-ai-security--5facd2520f.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "US consumer confidence sinks to 12-year low over inflation, stagnant wages - South China Morning Post",
+      "summary": "US consumer confidence has dropped to its lowest level in 12 years, driven by persistent inflation and stagnant wages. The declining sentiment indicates growing public concern about economic challenges affecting purchasing power.",
+      "why_it_matters": "Low consumer confidence often depresses spending, potentially slowing economic growth and complicating policymaker efforts to balance inflation and employment.",
+      "perspective_one": "Some experts argue that inflation outpacing wage growth erodes living standards, fueling consumer pessimism.",
+      "perspective_two": "Others believe optimism may rebound as fiscal and monetary policies adjust to stabilize the economy.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYlhrM0ZxNEM2X0FaaGZ4NUFWUVdsVl9TNTNGbkc2cFVLWG9FY19xRWxNY0d0UUlBQUdWUkNDa1FtYVg1ZUJkYjVseFVRZ0pFWm1xWDlNNU5rdTExQktoWElrZzNyLTBSRVNtLXZPWEFoa3JMSUJWSDJJNXpzOWo0U3hCd0NTVmphdnhQTzhUUEFFdHZXQkI0WWZPZDJaRkdMS1BqOHBNMTR4dXBTNFk4QkZQRXFfenoxOVdLYjd2N0JxMzBkRXpKM0dIZjh4V2xxcjk2cw?oc=5",
+      "source": "Business & Economy",
+      "published": "Tue, 29 Sep 2026 15:48:09 GMT",
+      "category": "Business & Economy",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_cycle_of_Cathay%2C_or%2C_China%2C_south_and_north_%281897%29_%2814782340545%29.jpg/1280px-A_cycle_of_Cathay%2C_or%2C_China%2C_south_and_north_%281897%29_%2814782340545%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Internet Archive Book Images \u00b7 No restrictions",
+      "image_source": "https://commons.wikimedia.org/wiki/File:A_cycle_of_Cathay,_or,_China,_south_and_north_(1897)_(14782340545).jpg"
+    },
+    {
+      "headline": "College football playoff odds for all 18 Big Ten teams entering Week 5 - AOL.com",
+      "summary": "AOL.com has published updated playoff odds for all 18 Big Ten college football teams entering Week 5 of the season. These probabilities reflect current team performance and influence fan and analyst expectations.",
+      "why_it_matters": "Understanding playoff odds informs coaching strategies, recruiting momentum, and fan engagement during a critical phase of the college football season.",
+      "perspective_one": "Optimistic teams and supporters view favorable odds as validation of strong season starts and future playoff potential.",
+      "perspective_two": "Skeptics highlight challenges ahead that could quickly alter projections, emphasizing the volatility of sports rankings.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0lSUlNFQ01mQzAzM1JRc1ZIODRGNTNSWWUwNDMwUUZWYndJV2VtUlhfTFdoSUF2RGo5S1dHMmJvaTVlN3FKd0VBWE5HdWhIRnoxa19qaVBlY0NmYmdIQzQ3WVlGRGdMbzZjUlZkbTI1Y2RjcjAzRkhCbWhmSkd3aG53?oc=5",
+      "source": "College Sports",
+      "published": "Tue, 29 Sep 2026 11:01:57 GMT",
+      "category": "Sports",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-college-football-playoff-odds-for-all-18-big-ten-77ff645bd5.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Nike Founder Phil Knight Gives Away a Billion Dollars \u2013 the Largest Single Donation to a Public University",
+      "summary": "Phil Knight, Nike\u2019s co-founder, donated $1 billion to the University of Oregon, marking the largest single gift to a public university. This donation supports educational and research initiatives at his alma mater.",
+      "why_it_matters": "Such unprecedented philanthropy significantly boosts public university funding, enhancing academic programs and research capabilities.",
+      "perspective_one": "Supporters praise the gift as transformative for higher education accessibility and innovation.",
+      "perspective_two": "Some critics question the influence of billionaire donations on public university priorities and independence.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
+      "source": "Good News Network",
+      "published": "Sat, 26 Sep 2026 22:29:05 +0000",
+      "category": "Good News",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/08/Phil-Knight-wife-Penny-and-Knight-Cancer-Institute-Director-Dr.-Druker-credit-OSHU-released.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Top AI leaders to meet with Trump at White House amid dire warnings about technology - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Leading artificial intelligence experts are set to meet with President Trump at the White House to discuss urgent concerns about AI risks. This meeting highlights increasing governmental engagement with AI safety and policy challenges.",
+      "why_it_matters": "High-level dialogue could influence AI governance priorities and regulatory approaches critical for balancing innovation with public safety.",
+      "perspective_one": "AI leaders urge swift government action to implement safeguards mitigating existential and societal AI risks.",
+      "perspective_two": "Some caution that overregulation could curtail technological progress and US competitiveness in AI development.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanlhb3luTWNPUUpYbzhHV2tQdUF1dEVhN3d5VDJZdGwzRU1fT1Nsb2ZrNjRNeHNiem1HNTZaSzdQcU80MTVwSE44a0pvR1J3eTZIRG0yRjhnSWdVVjJuek1qTDVIOVAwTDZRRXlPR25xUU83NWkyd2swVWFsbE5ELVYyNzFCU1RETWY2S21pVlNBYVEw0gGaAUFVX3lxTE5qYlFleHFIUHFxbnkxTDVvZmx5RmI5SHRCY1Bnc0wxejY5emRkd2RsWDA4WUNndklFbG1qVzBBRkdreUtGZ0VLc3hlNWVHc3d1NHdiUzRKZkhNczhTZTBBSXdzZlZGM2ZTbndUaFlob0R4Q2pQT0t0aXlUTnhfYnJPQkRNWlVGOG80U240NHR1U3hnSVpCN0Y4QVE?oc=5",
+      "source": "USA Today Politics",
+      "published": "Tue, 29 Sep 2026 14:28:47 GMT",
+      "category": "U.S. Politics",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-top-ai-leaders-to-meet-with-trump-at-white-house-d0ad46be1f.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Montclair CRC Holds Forum On Voting Even As Trump Works to Undermine Free and Fair Elections - TAPinto",
+      "summary": "Montclair Community Relations Committee held a public forum on voting rights amidst ongoing efforts by President Trump to challenge election integrity. The forum aims to educate and mobilize voters on safeguarding democracy.",
+      "why_it_matters": "Public engagement events strengthen community awareness and resilience against attempts to weaken electoral processes.",
+      "perspective_one": "Advocates emphasize protecting voting rights as fundamental to democracy and civic participation.",
+      "perspective_two": "Critics aligned with Trump argue their actions expose and address electoral irregularities to ensure fair outcomes.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdllpNXIyVnFfVWZsaHh6QzVNaXM5dnhJR2p2dmRHNUR0UmtHVzVSZ3NlLUIwd04xRzJZX0pZcGhHRjNBM0xhN01OenN3bEFiZFN4SEo0VXV6TktNS004ZWFUUTdmc0JzM3NRWVpucXY4WGhLd3lkbTBORDBESUR6RExRUTBrNksyTjRDSzBhd2lBRnQ0M000ZXF1Nzh5bXdoVENJUUExaGNtRkhyMFROdUctU0JpeEhpT3NHZnN5aFlWdXhxU3NvN3ZLNXk3YXgxa1VJSFZmXzZzU2tqOXY4V2p2UlFlaUwwZHRnTUJ3?oc=5",
+      "source": "U.S. Politics",
+      "published": "Tue, 29 Sep 2026 03:40:33 GMT",
+      "category": "U.S. Politics",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-montclair-crc-holds-forum-on-voting-even-as-trum-7802a8cf59.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Rep. Bice questions Trump's strategy in Iran War | Exclusive - Wichita Eagle",
+      "summary": "US Representative Bice publicly criticizes President Trump\u2019s approach to the ongoing conflict involving Iran. Bice questions the strategic effectiveness and potential consequences of the administration\u2019s military and diplomatic tactics.",
+      "why_it_matters": "Divergent views within US leadership highlight debate over foreign policy direction and risk management in a volatile region.",
+      "perspective_one": "Bice argues that current strategies may escalate conflict and undermine long-term security objectives.",
+      "perspective_two": "Trump\u2019s supporters maintain that a hardline approach deters aggression and protects US interests.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jRlo5WWtBOTVRTXdzQk1VVjdkM25OSkw0eEV0VjVtYXcwS0o2R2FfQUx2d3BTWkhjZFJkN1lzWE5CVkg2U2xxMUlZZGhKT1BmWkluVEUzSjV1Mk8xaXp4NHhqaGJ3LU55MEVIUEptWWU3Vnk0ckQ1QnZmWQ?oc=5",
+      "source": "USA Today U.S.",
+      "published": "Tue, 29 Sep 2026 10:20:00 GMT",
+      "category": "U.S. News",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Are Trump's US government funded ads illegal?",
+      "summary": "President Trump faces scrutiny over advertisements financed by US government funds, raising questions about legality. Critics argue that these ads may violate rules governing political use of government resources.",
+      "why_it_matters": "Clarifying legality affects campaign finance enforcement, public trust, and norms separating government activity from political promotion.",
+      "perspective_one": "Critics assert the ads misuse taxpayer funds for partisan advantage, undermining fair political processes.",
+      "perspective_two": "Trump supporters claim government funding was properly allocated and ads are legitimate communications.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Tue, 29 Sep 2026 01:12:52 GMT",
+      "category": "U.S. News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e14/live/0a5827b0-bb85-11f1-a430-4d16ee157c41.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "summary": "Argentina's President Javier Milei has given a two-week ultimatum to halt UK oil exploration in the Falkland Islands' Sea Lion oilfield. Failure to comply may result in Argentina pursuing international legal measures.",
+      "why_it_matters": "The dispute escalates sovereignty tensions over the resource-rich Falklands, potentially affecting diplomatic relations and regional stability in the South Atlantic.",
+      "perspective_one": "Argentina insists the Falklands belong to its territory and any extraction violates its sovereignty rights.",
+      "perspective_two": "The UK maintains its sovereign control and rights to resource development in the islands.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Tue, 29 Sep 2026 03:50:40 GMT",
       "category": "World News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-netanyahu-s-secret-uae-visit-why-israel-pm-met-s-5c5c7dbc89.webp",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d54/live/ced3b090-bb9f-11f1-a430-4d16ee157c41.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are at War Again - The New York Times",
+      "summary": "The Iran-backed Houthi movement in Yemen has resumed conflict with Saudi Arabia after recent escalations. This renewed war reflects ongoing regional power struggles influenced by external actors.",
+      "why_it_matters": "The conflict exacerbates humanitarian crises in Yemen and fuels wider regional instability involving major Middle Eastern powers.",
+      "perspective_one": "Houthis view their fight as resistance against Saudi aggression and for Yemen\u2019s sovereignty.",
+      "perspective_two": "Saudi Arabia frames the conflict as a defense against Iranian proxy actions threatening its security.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3ZvZG1DVHkwY2JmZkZlVjJLeFRCTE1udWpqdnZKcEJwWjQ4eW5RUTR0dGp1ak1uODluWFY4YlNWakV3SmxMQi02OWprNHhyT252RHprcjRIVDhGTHRMRUx0VEs0c1UtLXdlZ3huMGJxNTJPMkhfYXdQdlZ6aWFoR21aZks5amM?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Tue, 29 Sep 2026 07:39:26 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-why-the-iran-backed-houthis-in-yemen-and-saudi-a-4b2ac77057.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "UAE president discussed bilateral relations with Israel's Netanyahu, state news agency says - Reuters",
+      "summary": "The UAE President held discussions with Israel's Prime Minister Netanyahu focusing on bilateral relations. This follows ongoing diplomatic engagement aimed at strengthening regional cooperation.",
+      "why_it_matters": "Improved UAE-Israel ties could deepen economic, security, and political collaboration, impacting Middle East peace and alliances.",
+      "perspective_one": "Supporters see this cooperation as a path to regional stability and prosperity through dialogue and partnership.",
+      "perspective_two": "Critics question the implications for Palestinian issues and regional power balances from closer UAE-Israel relations.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazRQYzVlZmhxU1lnQU1XNnlzN1BnYkhvZnNFUDh0QXk0Skg2OWZJRUhCWjlqYWFwWno2ZDFlWThPZVZzay1OeHM0YlNZMGJFVXJvMlk3RUpXVkFzQklhcE5Qalp6anpyX2tOVUVlQ21NSjFlWC1hSzBVdDR3U1pYNXBSVFdnV1NrOW4yMUZkTVpOSGZnV3BYTnNudUZ1cVFyVm5WZ0pacG5hZXZFc3ZNWkdabzZuelplNWEyY1FlMmR2QkdhZjJTVFFMZw?oc=5",
+      "source": "Reuters Middle East",
+      "published": "Mon, 28 Sep 2026 21:04:09 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-29-am-uae-president-discussed-bilateral-relations-with-9abf4d33e8.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     }
@@ -262,91 +262,91 @@
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "Montclair CRC Holds Forum On Voting Even As Trump Works to Undermine Free and Fair Elections - TAPinto",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdllpNXIyVnFfVWZsaHh6QzVNaXM5dnhJR2p2dmRHNUR0UmtHVzVSZ3NlLUIwd04xRzJZX0pZcGhHRjNBM0xhN01OenN3bEFiZFN4SEo0VXV6TktNS004ZWFUUTdmc0JzM3NRWVpucXY4WGhLd3lkbTBORDBESUR6RExRUTBrNksyTjRDSzBhd2lBRnQ0M000ZXF1Nzh5bXdoVENJUUExaGNtRkhyMFROdUctU0JpeEhpT3NHZnN5aFlWdXhxU3NvN3ZLNXk3YXgxa1VJSFZmXzZzU2tqOXY4V2p2UlFlaUwwZHRnTUJ3?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Montclair CRC Holds Forum On Voting Even As Trump Works to Undermine Free and Fair Elections TAPinto"
-      },
-      {
-        "headline": "Trump Election Challenge Lawyer Kurt Olsen Leaves US Justice Department - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+        "headline": "Trump Election Challenge Lawyer Kurt Olsen Leaves US Justice Department - mezha.net",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NcDRhWHRKZU5GTkpKdXhJVFNtSGczZHM2Y3FUQVIwX2I5Z2RSZzVQaWszNUhKeWlPOGtmYWFXb1FFVHd6T2cwbXFzdHZLeWF1QU1VZUR3Y2JOeWk3X2tlMlpkaWtEOTNkWGszam5B?oc=5",
         "source": "U.S. Politics",
-        "summary": "Trump Election Challenge Lawyer Kurt Olsen Leaves US Justice Department \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
+        "summary": "Trump Election Challenge Lawyer Kurt Olsen Leaves US Justice Department mezha.net"
       },
       {
         "headline": "Trump can\u2019t force election changes by blocking counterterrorism funds to states, judge says - Baltimore Sun",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3duczJTRWFvUVJ6Tm5WV1VVbjNGQlZNY1RfeXpzT0Jsd0piMVloMk5TWU5MaTN2X1RIRy1sVXJCV2dLZVk0ZTBoaTFuSnVuUnVKTDkyU3E3SDNpYy0wMUtLaGlMcXFCT2dIYXlRVndoZDF3V3h2YnB4TGtNTFJOdm11clBfT2s?oc=5",
         "source": "U.S. Politics",
         "summary": "Trump can\u2019t force election changes by blocking counterterrorism funds to states, judge says Baltimore Sun"
+      },
+      {
+        "headline": "EXCLUSIVE: Judge Blocks Trump Administration From Using Hundreds of Millions of Dollars in Anti-Terror Cash to Force Election Changes - RadarOnline",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclc4aFE5SXEtYXBfU1JqcHREZFk1cUcxV0NVS3FuakZ3dW9XQXhRSUd4dkF0N1ZmVmVEZ3N5MzVYSGd2Q3AxVVpOTzlnbEU4RGxtY1JjMjY5Y0RLSDhfdjJmQl9qQWZyb3N5NUhvMTFXUjVMNFhJVnVwdjN4Q3MyZnlFN1BSQ3ZYVkJGN0RQcGNhUld1UEVMX2Nfb2RqZ3NDU3ZOOS0wbGU?oc=5",
+        "source": "U.S. Politics",
+        "summary": "EXCLUSIVE: Judge Blocks Trump Administration From Using Hundreds of Millions of Dollars in Anti-Terror Cash to Force Election Changes RadarOnline"
       }
     ],
     "U.S. News": [
-      {
-        "headline": "Rep. Bice questions Trump's strategy in Iran War | Exclusive - Wichita Eagle",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jRlo5WWtBOTVRTXdzQk1VVjdkM25OSkw0eEV0VjVtYXcwS0o2R2FfQUx2d3BTWkhjZFJkN1lzWE5CVkg2U2xxMUlZZGhKT1BmWkluVEUzSjV1Mk8xaXp4NHhqaGJ3LU55MEVIUEptWWU3Vnk0ckQ1QnZmWQ?oc=5",
-        "source": "USA Today U.S.",
-        "summary": "Rep. Bice questions Trump's strategy in Iran War | Exclusive Wichita Eagle"
-      },
-      {
-        "headline": "Are Trump's US government funded ads illegal?",
-        "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC U.S.",
-        "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government."
-      },
       {
         "headline": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
         "url": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-idaho-dairy-industry",
         "source": "NPR U.S.",
         "summary": "America's farms have largely escaped the president's aggressive immigration crackdown. But as ICE sweeps continue across the nation, farmers are uneasy because many still can't find enough workers."
+      },
+      {
+        "headline": "Tennessee to execute a woman for first time in over 200 years - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1pEbl9oNGo5aExtRF9XRUFQSFlCbTBJTXZVMWtDMDNCWWs0d0wwZWdjbEZGLVdGMDd4cWJEeG80Y2RSMDNQSzlqOG5oQkxCUjBXbm5fRmZfUVVHSG9wellLY3d0SWt0TjFTN2tFUHdDTmxwSXYzU2h0Rk1LQmlMcXRKVWhLcjdDd1h1aFJFVXB5ZUY4akl1OXRtdjFVY2p5cTN2S1ZQeEhKQU1CaW8xaDNUenI2ZW82RFdR?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "Tennessee to execute a woman for first time in over 200 years The Washington Post"
+      },
+      {
+        "headline": "No astronauts have launched from the US in 6 months. Crew-13 is next - Merced Sun-Star",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHNVSTZBQnhFdHhfUmY0amtiamgxR3VTVi1jYVk4T0ZHNHpjNDRReXFCZG9VeEQwN09kZzRsU2xCT3ZxaHRYdi00dnJmbzlfMHVobVk1T1g5X21DdjNzRFIwLXlMbjRmRzl5X29pd01RSXZjWFQ0d0puQXVFYnBCaUlIZ2w?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "No astronauts have launched from the US in 6 months. Crew-13 is next Merced Sun-Star"
       }
     ],
     "World News": [
       {
-        "headline": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
-        "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-        "source": "NPR World",
-        "summary": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran."
+        "headline": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days."
       },
       {
-        "headline": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+        "headline": "Dutch police arrest suspected member of group that claimed FBI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped."
+        "summary": "The suspect, 24, was arrested before the alleged cyber attack took place."
       },
       {
-        "headline": "Are Trump's US government funded ads illegal?",
-        "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+        "headline": "Nigerian dances non-stop for seven days in world record bid",
+        "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government."
+        "summary": "Crowds cheered on Ben Dancer as completed his challenge and he has now gone to hospital for a check-up"
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "Live Updates: War returns to Iran with Israel, US strikes Dawn"
-      },
-      {
-        "headline": "UAE president discussed bilateral relations with Israel's Netanyahu, state news agency says - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSlJHNGg0eHJmajRpVEJkRUJGSzZtbG9JSFA4eU5RbWYzVERrTjVnWDhkMHR2NE5KU2lraWZvUjB4eV85bkNFVmpaUFd6TU4wSEJjR1VOY3FZZjctTUI2Y3RtU2NFY0ZnQm9PeG5EbVJKb3NpUy0xd1p0Nl81aXFna1BEeXlRUGFuaFJOdUpXZ1hqWWMxLTNJWklKM3R4UE9fa1lDRDE5Ri1WUDdZREttallJRDFrbG1NUFJnX3VJMXFqaUJKcFJJcUpDcExxTnJ1Z3c?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "UAE president discussed bilateral relations with Israel's Netanyahu, state news agency says \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9"
-      },
-      {
         "headline": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
         "source": "Middle East Affairs",
         "summary": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica"
+      },
+      {
+        "headline": "Cholera and measles threaten displaced in Yemen after renewed fighting uproots 142,000, UN warns - Arab News",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMWlxelg1RzAxSVZFYldIazhMUVk4eE1aaXNwUTRaMEhGaGFmdURmV1V4RWJWUUowWHpHNWQxYTlUb3dIM0wtYktkTUxjVDdEdzJZYmMzZW80c0hCQm5BQVpkZi1yMVVxVkJoLXd6ZzMzNS1CV3ExemZwMFB0SkduUHpucHQ1WjNHcWNzQW8zZ3hXLW5veHlFX1dicmozOHpIblg4cU1PZ3ZxQ1MxeGNtWkw0R09tR1h1WFlIbndFV3VkOWlqdDd0N2NXZVJWam1SZVFCYW1B?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Cholera and measles threaten displaced in Yemen after renewed fighting uproots 142,000, UN warns Arab News"
+      },
+      {
+        "headline": "Regional conflict \u2018eroding boundaries of what\u2019s acceptable,\u2019 Algerian FM warns UN - Arab News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmVHb1FUc0dqSXV1c3F5OFBHR2RzanlsUl96R0d4d2J0MU5TVjNzck9YN05DVlVMRGFHczZYOVpnejUtelEweHZacWZxcFZBZmIxZ19SZGJNQ3NscWtpMXZ4aFJ6Z2wzNTZBdkktSDgxb0ZwQlZxanY5UUtpMFNiRFV1ZVY0YW1kTldXQklOc1VnbV95WE03N3Rjd01PQUNZalJ6TzBVbGFsYWdkWTBkNkhrdlFCUm1uRlRpQzV3bw?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Regional conflict \u2018eroding boundaries of what\u2019s acceptable,\u2019 Algerian FM warns UN Arab News"
       }
     ],
     "Health & Medicine": [
       {
-        "headline": "FDA Advisory No.2026-1306 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product \u201cZMZ Peptides Tirzepatide Compounded in USA For subcutaneous use Vial 15 mg and ZMZ Reconstitution Solution 0.9% Benzyl Alcohol R - fda.gov.ph",
-        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQ1lLYTMwaDdyXzEwU1ZWb05feG16UERKd3VQQ3Z2N0pMY1o2b0tZeGZHSHZucGRvTDFJOVFyNVY4MWtNelRzWEkxd2JzbzE0RDJTMmJyMk1Uc3dXQTllSnBGYVgyZnV0U2c2T2UtZWFDblZJUWNrMHZHX1VwcEFJcnlGSU9Mc2l1dEJ2T0ZsVldFRHkwbUdSaE1jTC1ud0cwNUVGQVFNcDNFVlpFa0xfeXdURnkxdFVSUDNrTmJzcWREb3VtMUVkX1B6U01abGFwWW03QnpwU1FCMjFSeFNXNzc0SmZvYkRrZTR2RFY4akNfRW9XMGo0T2pmWUpHeW13endKVnVsUzJZelRWc1dMOEJ5V1VlY1VQcEVnTTdwdzJIT1ZzSVZsRU9jQ0dJa2Q5Z2xDWTZtaw?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA Advisory No.2026-1306 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product \u201cZMZ Peptides Tirzepatide Compounded in USA For subcutaneous use Vial 15 mg and ZMZ Reconstitution Solution 0.9% Benzyl Alcohol R fda.gov.ph"
+        "headline": "STAT+: Overton won\u2019t get a vote before midterms",
+        "url": "https://www.statnews.com/2026/09/29/heidi-overton-fda-commissioner-vote-midterms-health-care-policy/?utm_campaign=rss",
+        "source": "STAT Health & Medicine",
+        "summary": "Health department nominees await Senate votes, and we map out what the elections mean for healthy policy."
       },
       {
         "headline": "Sinai Hospital begins using first FDA-authorized AI diagnostic tool for sepsis | Newswise - Newswise",
@@ -355,19 +355,13 @@
         "summary": "Sinai Hospital begins using first FDA-authorized AI diagnostic tool for sepsis | Newswise Newswise"
       },
       {
-        "headline": "FDA Seeks Input on Regulatory Framework for Generative AI-Enabled Medical Devices - JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUJPOW5Kenp0dEhybUNIeTRtRTRPYzAyZUR1NW5ZNjg2b2EtcEZWUFZOMjJZazVZVDd1eDRreEIwZ1p6dWhpdGw0djFXbnJQb01nS1RwUDdYaDhVbzJYTkhoMkJta253VFdMTjBtRVBLRlFVVlRuZDdPM3lORGxzMm92dHNvMVpoTUE?oc=5",
+        "headline": "How much of a cancer drug is too much? Patients, researchers challenge FDA-approved dosages - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LLXZhcHFLVk0zWUFvLU9Zb2w3ZXR6V3gtUGdnamREN3NZM0RfcmcyV0VGcXh5QWM0YnltZFpJR2JteDBkby1lY3B1NjhsTGtnN09pZ1BjWjg4WFFCbHRDYjRIQzdGV0t4YjRoTlU4MEtWZkctZ08xRA?oc=5",
         "source": "Health & Medicine",
-        "summary": "FDA Seeks Input on Regulatory Framework for Generative AI-Enabled Medical Devices JD Supra"
+        "summary": "How much of a cancer drug is too much? Patients, researchers challenge FDA-approved dosages AOL.com"
       }
     ],
     "AI & Technology": [
-      {
-        "headline": "Nvidia releases software to prevent AI security incidents - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWNrT0d5d2ZiWlh4QWU3cHFSVjJjY1VzbEM1U0gzN0ZyRmE4S1MzMHZlb3BGLUQ2OEgzbVFuRWRrMEk3SndNVWU0bHRqTElMaGp1RVhObzNZVXdNTUFKOFNvWHBsN3gwN3ZrQXpUcTZDbXNvMEVlOUJwTjZ2TWJjZjExN20taWNYYUgxZDBTTXduQmpTZXdqYUhlWGdMaC15TzRjZdIBqgFBVV95cUxNX3RSQkE4M21ac3luMlFQakotdGhRWnFTT2N3b3NqMFM2ZzU5UVRaTjJBUzhYY2FzanRzUUR3NnZyY1ZLNGM3aTZaVlQ5TUJlMUtaVmNwYzloMk9UNzBIMzU1cjZ3OFRUZFdxakV2RUd3amVncjR0bUdMSTAyX1BCZmh6WmtjOUhkLV85YlM2eUotVG9XaW00M2paSVhJVlA3aE04Z0daWGZSZw?oc=5",
-        "source": "AI & Technology",
-        "summary": "Nvidia releases software to prevent AI security incidents ABC News - Breaking News, Latest News and Videos"
-      },
       {
         "headline": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets - Reuters",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjRtRWQ1MGhkMkFob2pTU1p1WWVFcXdvVGZSLUktbk04YVRWZFVhT3c3NGdQNjNxZVE4enV4YWp1NTI3a0hraHRZQWxmSm9QZVNOeUJnNVZwcU13dVIxS05VcExhVm1Pc25HUjMxLUV0aVJkVXNvNkYwaER5YmdMZ2VwQWlGamRzOTdwRTRVY0VXMEYyX2tpeGZzTTBpbjVtZHVnX0hoSDl6UVhWUFBpQ1M1RjNFVmJnTVpZRk9yVW5YU2hkcWlKdS1YYWU?oc=5",
@@ -379,6 +373,12 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVhaZHBVa0I5R29BelNxRElsLXZFd191WHE4OUhkTnRhM2tOTHRHaWFOaFVXVGtPU2NzVnFFMzBvcUlBeTVOWGVYVmx2MEFsd2xkRG5HS2s5M214SmNHRWRqamtqc0xSNjVpZkx4Vmd5Q2M1QUQwU1NjU0NVNHlvQnoxSVE?oc=5",
         "source": "AI & Technology",
         "summary": "SOFTSWISS report says AI is reshaping iGaming jobs IT Brief UK"
+      },
+      {
+        "headline": "Quantum EMotion Buys Plurilock For C$33.8 Million In Cash And Stock - Quantum Zeitgeist",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rcGl6a0J5N0YySVNnd2tLWXhua3BLbW9iMFFpLXZSVUlCUktHdHZzUWFBYVNVSERacUpiUkktbjdmSUZLZGE3WHhXVWhGSkVUbU01eFAwMUFhU1VpRmxVVl9mc3FUM0hJQlNCWi1ucDRNaUU?oc=5",
+        "source": "AI & Technology",
+        "summary": "Quantum EMotion Buys Plurilock For C$33.8 Million In Cash And Stock Quantum Zeitgeist"
       }
     ],
     "Business & Economy": [
@@ -395,20 +395,14 @@
         "summary": "Compelling risk-reward in US 10-year bonds \u2013 Market Outlook sc.com"
       },
       {
-        "headline": "Wall Street Highlights: S&P 500, Nasdaq Tumble As US-Iran Stalemate Stokes Inflation Concerns - ndtvprofit.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV01fLTZwMGM2SEtDV2hfYTlhVmpVZ3VEVTdNWjF1Uk1DcGJBa3FsTTBEQW9mcFVkR1BOMnRrLXlVaDlZVjl4dzItMGtSTWJ2Q1MwRElsUEJoWGVVVjRpQ04yOXVUbVcxSHRwWTU3cjdJSVhUaVE0T2ItT1hxaFlpSDZmQ1JldzEtcEluTklJMEVfWWFRcUM1VmZ1OXBJZXlCTl8zSHdWSHFWVloxNUc1SDlRR2Y2dDNPbjRjeUE2TkdZMUhBOERMRU5DbDVfVzZEdlN0Y0ppNUXSAdgBQVVfeXFMTVdNXy02cDBjNkhLQ1doX2E5YVZqVWd1RFU3TVoxdVJNQ3BiQWtxbE0wREFvZnBVZEdQTjJ0ay15VWg5WVY5eHcyLTBrUk1idkNTMERJbFBCaFhlVVY0aUNOMjl1VG1XMUh0cFk1N3I3SUlYVGlRNE9iLU9YcWhZaUg2ZkNSZXcxLXBJbk5JSTBFX1lhUXFDNVZmdTlwSWV5Qk5fM0h3VkhxVlZaMTVHNUg5UUdmNnQzT240Y3lBNk5HWTFIQThETEVOQ2w1X1c2RHZTdGNKaTVF?oc=5",
+        "headline": "Gold slips towards Rs 1.46 lakh: Will the fall continue from here? - India Today",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWMxTldsNEhZZF9MMVU1RElOdENrT2lEVHV5Y252N2dncWtNa2dOUG9mZjRGUHM3U2pVeWVWcGZhZWwySG1NNlRqMWl2cl9VN2RscW1HRkYxcXkzNTBLUHVWMDBKeDdHZTRiSXd2LTRuel84UkdKa3h3cEJuTHM0RF9qa0ZiM3VhM3QwaTZWLXFKbkN6aGdubzJaWVZ6X0VxVTFjSzk5RWRaZVRwcm14NkZTMFlBTWhkalVRUld5ZkQ3YVRlTHVpZWQ3VUROZ0Vu0gHWAUFVX3lxTE9kcDYxR0pJcFdYa0VqRjVzQVdtWVAwM2c0RW1aZ2ljU0xRSGxLY2t6OG1pZ0VDNEEyeGQzRERzcElyaGlJSUM1OWlHdjkwQVZEVU93bjM2RXNQcWdva0lnbFFybUhVZ25RaHdXU0JEMkJMSEJQUHBXcTlxaUF4OTQ2Z1RQUXpHaF9Fcko4YjRtbXkxT0Jid3RaMG5haFF6VG56ZFEtcDJjVFFZbWNQSHV2bDBJR2wtcWdWclppei1BeUtGN0xONUlPanBYM3FoejVGdUg4b2c?oc=5",
         "source": "Business & Economy",
-        "summary": "Wall Street Highlights: S&P 500, Nasdaq Tumble As US-Iran Stalemate Stokes Inflation Concerns ndtvprofit.com"
+        "summary": "Gold slips towards Rs 1.46 lakh: Will the fall continue from here? India Today"
       }
     ],
     "Society & Culture": [],
     "Sports": [
-      {
-        "headline": "College football playoff odds for all 18 Big Ten teams entering Week 5 - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0lSUlNFQ01mQzAzM1JRc1ZIODRGNTNSWWUwNDMwUUZWYndJV2VtUlhfTFdoSUF2RGo5S1dHMmJvaTVlN3FKd0VBWE5HdWhIRnoxa19qaVBlY0NmYmdIQzQ3WVlGRGdMbzZjUlZkbTI1Y2RjcjAzRkhCbWhmSkd3aG53?oc=5",
-        "source": "College Sports",
-        "summary": "College football playoff odds for all 18 Big Ten teams entering Week 5 AOL.com"
-      },
       {
         "headline": "MLB free live streams: How to watch 2026 Wild Card playoff games online without cable - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTUpDZTZsMkJXb1dVUVNGVHo3dVRKazVrQnBTaVdQdzdEaGw5Q1pZWXItdGdldFEtY0dpNDFORmFBZ3BKSVJqY09ydmN2SllySWRlc3FQcGZzV3lZZm05Ql92VWVKY3dkdnpvOUUwdUs0RmpnNHdyOUxGbWt1cld0NE13?oc=5",
@@ -420,6 +414,12 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUhSRUptUjdkLWphUlgtVFEzTTZ0RHZmYldONnJ5SXNZVEh5eXpySF9rVGRHTHU4aFBOZnowQ1A0akx2dGRiWVo5LWN2MFNoX1VJVzdWSGg5TXRxZTVCandYMTUySkJ0RVRHVXIzQ2NBNGFfYzQ2ZTduSHlOcEZfX0FWMEIwU1pIYTAyVWY0TWg2T0VCNzlsZ2lrQUhTQUpGSlpRQ0o1c1kxRWd3N3IyWmFqaGlaeUYzdnNlU3NBNnhpUQ?oc=5",
         "source": "Atlanta Sports",
         "summary": "Hawks Believe Luguentz Dort, Aaron Wiggins Bring Championship Habits From Thunder roundtable.io"
+      },
+      {
+        "headline": "MLB playoff picture 2026: Who clinched, bracket, schedule - ABC7 Los Angeles",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9DZ0hZMUg4QjFKamxEOTR2ekh0d3pEMEY0VHRncmRYMkRpQ3RxblBJUlhQWlVVN2E1SlQ1S09Ydw?oc=5",
+        "source": "Braves Playoff Race",
+        "summary": "MLB playoff picture 2026: Who clinched, bracket, schedule ABC7 Los Angeles"
       }
     ],
     "Good News": [
