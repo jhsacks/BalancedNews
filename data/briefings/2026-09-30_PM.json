@@ -1,272 +1,250 @@
 {
-  "generated_at": "2026-09-30T19:40:24.567617-04:00",
+  "generated_at": "2026-09-30T20:23:12.179056-04:00",
   "edition": "PM",
   "stories": [
     {
-      "headline": "Trump says top tech firms have signed accord to 'self-police' AI development",
-      "summary": "President Trump announced that he and leaders of major AI companies signed a voluntary accord to implement internal and external reviews of AI development. This agreement aims to promote responsible AI innovation while addressing growing concerns about AI safety and ethics.",
-      "why_it_matters": "This accord could set a precedent for tech firms to regulate AI development proactively, potentially influencing AI safety standards and reducing regulatory intervention.",
-      "perspective_one": "Supporters argue that voluntary self-policing by tech firms can foster innovation while maintaining flexibility and speed in AI development without burdensome government regulations.",
-      "perspective_two": "Critics contend that voluntary accords lack enforceability and transparency, risking insufficient oversight of AI risks that might harm society or exacerbate existing inequalities.",
+      "headline": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents - NBC News",
+      "summary": "OpenAI CEO Sam Altman has decided not to attend a scheduled congressional hearing concerning rogue AI agents. This raises questions about AI regulation and the company's accountability in managing autonomous AI systems.",
+      "why_it_matters": "Altman's absence could affect congressional efforts to understand and regulate emerging risks from advanced autonomous AI, influencing future AI policy and oversight.",
+      "perspective_one": "Some lawmakers argue Altman should testify, as OpenAI bears responsibility for AI safety and transparency to prevent harm from uncontrolled AI behaviors.",
+      "perspective_two": "OpenAI and supporters may view the hearing as premature or not constructive, preferring technical work over political hearings to address AI challenges.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development",
-      "source": "NPR Politics",
-      "published": "Wed, 30 Sep 2026 02:54:43 -0400",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
+      "source": "U.S. Politics",
+      "published": "Wed, 30 Sep 2026 20:24:05 GMT",
       "category": "U.S. Politics",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5457x3638+0+0/resize/5457x3638!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F43%2F40604dd94db38e8430dc71dbe138%2Fap26272734335711.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg/1280px-House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 DC Public Library Commons \u00b7 No restrictions",
+      "image_source": "https://commons.wikimedia.org/wiki/File:House_of_Representatives_Chamber_in_the_United_States_Capitol_building,_1868_(27603231870).jpg"
     },
     {
-      "headline": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
-      "summary": "Secretary of Defense Pete Hegseth told junior military leaders that the Trump administration achieved a cultural shift within the military. He emphasized changes in values and priorities reflecting a political approach aligned with conservative social agendas.",
-      "why_it_matters": "This cultural shift may affect military cohesion, recruitment, and policy orientation, influencing how the U.S. military integrates social issues and manages its workforce.",
-      "perspective_one": "Proponents believe these changes restore traditional military discipline and patriotism, preventing perceived political correctness from undermining mission readiness.",
-      "perspective_two": "Opponents warn that politicizing the military culture risks divisiveness and alienation of service members who value inclusivity and neutrality.",
-      "uncertain": "",
+      "headline": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "summary": "Valar Atomics plans to install over 450 nuclear reactors on more than 9,500 acres in Utah to power one of the world's largest data center projects. This initiative aims to combine advanced nuclear technology with data infrastructure but raises concerns over safety, environmental impact, and regulatory approval.",
+      "why_it_matters": "If approved, this project could reshape energy sourcing for large-scale data centers, advancing nuclear energy use but requiring new regulatory frameworks for safety on public land.",
+      "perspective_one": "Proponents emphasize the potential for clean, reliable energy to meet growing data demands and reduce carbon footprints compared to fossil fuels.",
+      "perspective_two": "Critics worry about environmental risks, nuclear waste management, and public safety, questioning whether public lands are appropriate for such large nuclear projects.",
+      "uncertain": "Regulatory clearances and local government approvals remain unresolved.",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
       "source": "NPR U.S.",
-      "published": "Wed, 30 Sep 2026 17:51:20 -0400",
+      "published": "Wed, 30 Sep 2026 05:01:00 -0400",
       "category": "U.S. News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5467x3645+0+0/resize/5467x3645!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F72%2F7a6d5650409787e3d3aa85f45059%2Fgettyimages-2297938762.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3813x2542+0+0/resize/3813x2542!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2F8d%2Fdfada92447689b6490f5d6f578de%2Fap26050704729644.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "summary": "Russian President Putin is expected to continue the full-scale invasion of Ukraine, according to recent foreign policy signals. This prolongs conflict uncertainty and ongoing destruction in the region despite international opposition.",
-      "why_it_matters": "Continued Russian military aggression threatens European stability, global energy markets, and international norms governing sovereignty and conflict resolution.",
-      "perspective_one": "Supporters of Putin's policy argue that maintaining military pressure defends Russian interests and counters Western expansionism.",
-      "perspective_two": "Critics assert the invasion is unjustified aggression causing humanitarian crises and undermining global security frameworks.",
-      "uncertain": "",
+      "headline": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
+      "summary": "Twenty-three years after the U.S. invasion of Iraq that triggered insurgency and civil conflict, the United States has completed the withdrawal of its military forces. Iraq remains challenged by ongoing Iranian influence and internal instability despite the departure of U.S. troops.",
+      "why_it_matters": "This marks a significant shift in U.S. Middle East military policy and may affect regional power balances and Iraq's sovereignty amid complex Iranian involvement.",
+      "perspective_one": "Some view the withdrawal as necessary to end America's longest war and respect Iraq's autonomy in a volatile region.",
+      "perspective_two": "Others warn it risks destabilizing Iraq further by weakening anti-Iranian factions and leaving a security vacuum.",
+      "uncertain": "Long-term stability of Iraq and the regional implications of U.S. absence remain uncertain.",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Wed, 30 Sep 2026 23:10:06 GMT",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
+      "source": "NPR World",
+      "published": "Wed, 30 Sep 2026 04:43:00 -0400",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c37/live/eac38c60-bce6-11f1-8ce2-417f8f7cb095.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fa4%2F804bc8ed418196634b31e74a5953%2Fgettyimages-2297156537.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "The pilots of the Flydubai plane were citizens of Oman and the UAE, - media - open.kg",
-      "summary": "Media reports confirmed that the pilots of the Flydubai plane were citizens of Oman and the UAE. This clarification addresses initial questions regarding the nationalities involved in the incident.",
-      "why_it_matters": "Knowing the pilots' nationalities informs diplomatic and aviation safety investigations impacting regional air travel protocols.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
+      "headline": "France steps up defences against Russian drone and cyber attacks - nationalsecuritynews.com",
+      "summary": "France has enhanced its military and cybersecurity defenses in response to increasing Russian drone incursions and cyberattacks. These measures aim to protect critical infrastructure and national security amid rising tensions with Russia.",
+      "why_it_matters": "Improved countermeasures will help France defend against hybrid warfare tactics, influencing European security and NATO preparedness.",
+      "perspective_one": "French officials stress the necessity of robust defense against unconventional Russian threats to maintain sovereignty and deter aggression.",
+      "perspective_two": "Skeptics question the effectiveness of these measures, warning that escalating defensive postures could further provoke Moscow and destabilize the region.",
+      "uncertain": "The evolving scale and intent of Russian hybrid attacks remain unpredictable.",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTloQmRDZXpzNTFHeWdIaF9nZFJQWkFyUjNiWXphc1E0eHZRZGRSSlVmWERTeHlSWU1zc2VFTV95ZURHR1JzcVhHVWNmNmJ4cEk1VFFYdWZtRWVvdzFuT3dlbkdDQVVSYy1QWnNTdTNwakxUZFR5QUdLeWxWX1N2X3ZYRmhxcVVIeE1QQ1JRRkU1QzBaOTAtZDh1SnNVeDVVWGlYYnB2RFI1dWduVi1qdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUpMd1d4Rk5SRHBEamRBSDhpOEIycGdtS1gtdGxyYkh1OW94eUE2YnFMZTVpQ0V2blNDUnYxTDduNGg4Um5yak5wODlfdzVjS21RT1NtRU5PQUdWaFVZX1g5amdDV0w0R3lNUEtzcmpxN2hMLVlEUE0yeTgzRmw2NVZPZy1FQlMyb0RCc0xZOGtoMDF0Q0QzZy1mNnhhUmdDcWs2Wm1rZTFNa2lzSElB0gGvAUFVX3lxTE5lSkx3V3hGTlJEcERqZEFIOGk4QjJwZ21LWC10bHJiSHU5b3h5QTZicUxlNWlDRXZuU0NSdjFMN240aDhSbnJqTnA4OV93NWNLbVFPU21FTk9BR1ZoVVlfWDlqZ0NXTDRHeU1QS3NyanE3aEwtWURQTTJ5ODNGbDY1Vk9nLUVCUzJvREJzTFk4a2hwMDF0Q0QzZy1mNnhhUmdDcWs2Wm1rZTFNa2lzSElB?oc=5",
       "source": "Conflicts & Security",
-      "published": "Wed, 30 Sep 2026 11:49:54 GMT",
+      "published": "Wed, 30 Sep 2026 10:49:05 GMT",
       "category": "Conflicts & Security",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-the-pilots-of-the-flydubai-plane-were-citizens-o-0257a66edc.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/FLAGS_OF_THE_RUSSIAN_LEGION_IN_FRANCE_%281918%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 Underwood & Underwood \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:FLAGS_OF_THE_RUSSIAN_LEGION_IN_FRANCE_(1918).png"
     },
     {
-      "headline": "US oil, gas output up in Q3, producers wary of price outlook, Dallas Fed says - Reuters",
-      "summary": "U.S. oil and natural gas production increased in the third quarter, but producers expressed caution about future price trends. Rising supply meets uncertain demand amid geopolitical tensions and market volatility.",
-      "why_it_matters": "Producer wariness about prices may limit investment and affect energy market stability, influencing economic growth and energy security.",
-      "perspective_one": "Producers hope increased output captures market share and revenue despite price uncertainty by maintaining production levels.",
-      "perspective_two": "Critics argue cautious producers risk oversupply that could depress prices or underinvestment that could tighten future supply.",
+      "headline": "Netanyahu briefed UAE leader on new Israeli intelligence on Iran\u2019s nuclear program: Report - Latest news from Azerbaijan",
+      "summary": "Israeli Prime Minister Netanyahu recently shared updated intelligence with the UAE leader concerning Iran\u2019s nuclear program. This briefing reflects deepening strategic communication amid regional concerns over Iran's nuclear ambitions.",
+      "why_it_matters": "Increased intelligence-sharing may strengthen the Israel-UAE alliance and influence regional security dynamics related to Iran\u2019s nuclear development.",
+      "perspective_one": "Israel sees this as a critical step to build trust and coordinate regional responses to Iran\u2019s nuclear threat.",
+      "perspective_two": "Some regional actors worry that such cooperation escalates tensions and may provoke further destabilization in the Middle East.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJmckhvcEF2eGlycEZxakpEWU9PdGhueEptR25MUXlsbkJMN0tiS2piSUlkeGtlNkxyaldDNUFNWjFlVGFIU1QzbnU1R1pXSWJnWTh2dDFhS1drZ0JRSHBLaTNJY0hwTXZ2c09hYXI4VlI0ZEhDdFpHRERnMWRTSDQxMHBXVWo1cVRVekpSSVkzQ0ZWMkhyWVRKNTRYc3U0X0pfY2VYNjFHZ0QwdGZQYWZjVENzUmt6MnI3ZlAyNzJpLWdQbDQ1NGd3?oc=5",
-      "source": "Reuters Middle East",
-      "published": "Wed, 30 Sep 2026 16:34:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTFuQUx1Ri1uMFRCcFJ0M0k2ZThIZE45WEhfcDg1UWFFNFpsTkRCTHZVeE9XaG1JSFdIdHJmWE5sbExENUZoaUFscVZKdzNRbG91dWdESm1OUnBQb0g4S2ItdU4yY3RzdVM5MllsbWFyU3R4MDVaRExsTEVZZ1dZdC02czJReG5fbEljbFRUbUd3RG1zOWJDSUVwLXF1NjJJaEJXazJGbXkycmcyX2ZV?oc=5",
+      "source": "The National Middle East",
+      "published": "Wed, 30 Sep 2026 09:00:41 GMT",
       "category": "Middle East Affairs",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg/1280px-2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons \u00b7 The Official CTBTO Photostream \u00b7 CC BY 2.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:2nd_CTBT_Science_Diplomacy_Symposium_(27472625147).jpg"
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-netanyahu-briefed-uae-leader-on-new-israeli-inte-cd496c73fd.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
-      "headline": "ICUS Files Landmark FDA Petitions Seeking Expanded Use of Contrast-Enhanced Ultrasound and Removal of Outdated \u201cBlack Box\u201d Warnings - Business Wire",
-      "summary": "ICUS submitted FDA petitions requesting broader use of contrast-enhanced ultrasound and removal of obsolete black box warnings. They argue that updated evidence supports safer, expanded clinical applications for this imaging technology.",
-      "why_it_matters": "If approved, the expanded use and relaxed warnings could improve diagnostic capabilities and patient safety while reducing reliance on more invasive tests.",
-      "perspective_one": "ICUS advocates say revised regulations reflect technological advances and enable better patient care through safer imaging options.",
-      "perspective_two": "Some caution that removing black box warnings without comprehensive evidence might expose patients to unforeseen risks or limit physician oversight.",
+      "headline": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it \u2018manufactured earnings\u2019 to hide declining profits",
+      "summary": "A federal judge has refused UnitedHealth Group's motion to dismiss a lawsuit alleging it manipulated earnings to conceal profit declines. This allows investors to pursue claims that the company misrepresented its financial health.",
+      "why_it_matters": "The lawsuit's progression could lead to significant financial and reputational impacts for UnitedHealth and influence corporate transparency and investor protections in healthcare.",
+      "perspective_one": "Investors contend that UnitedHealth\u2019s alleged misconduct misled shareholders about the company's true performance, requiring accountability.",
+      "perspective_two": "UnitedHealth may argue the financial reporting was accurate and dismiss the claims as unfounded to protect business operations.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYXdGWEhaV0szUzFYVzZLU0Vmdl8zWndBRldVX2Z0dUQ5ZDJrT1JUOVo2b0JlMVNPT3dzeG9EMk9IakFnQm96X1ZiWmZ0R0YtUEhidXA2RkJKWWV0eGtJNjVXRU9Lemx1bm1La0FEc2tHSXJ1QVRENXdHX1NzQnhpV2dQZElBRjRvUmdUTldMbklFek9NejdWczhEUjR1VUZualdFS3h3d1NPczNZNnlrb2pFdUk3U0c0VDhMa2xJVnMtM0RFRGJ5dktZSTBCaXYyYXJxRUk0UFFEWnFPR0xOMlJhVWx0TkxFRXh0NUxjYnRjX3RiOVViSDBmeWpCRk9qb0FaUFBCMjFtMzJyQzJCMzVBc1Y?oc=5",
-      "source": "Health & Medicine",
-      "published": "Wed, 30 Sep 2026 21:45:00 GMT",
+      "url": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
+      "source": "STAT Health & Medicine",
+      "published": "Wed, 30 Sep 2026 22:40:54 +0000",
       "category": "Health & Medicine",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-icus-files-landmark-fda-petitions-seeking-expand-e4c3afb577.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://www.statnews.com/wp-content/uploads/2025/03/240720_UnitedHealthGroupDrone_0286-1024x576.jpg",
+      "image_credit": "",
+      "image_source": ""
     },
     {
-      "headline": "MI5 Warns UK Universities To Cut Ties With China General Technology Research Institute: 12 outlets compared - NewsCord",
-      "summary": "MI5 warned UK universities to sever connections with China General Technology Research Institute over national security concerns. This reflects rising tensions about espionage and intellectual property risks linked to Chinese research collaborations.",
-      "why_it_matters": "The advisory impacts academic cooperation and innovation pipelines, forcing universities to balance global partnerships against security risks.",
-      "perspective_one": "Security advocates argue cutting ties protects sensitive research and national interests from foreign exploitation.",
-      "perspective_two": "Critics warn that severing collaborations could hinder academic progress and damage diplomatic relations with China.",
+      "headline": "UAE warns of fake jobs and deepfakes in new cyber campaign - Gulf News",
+      "summary": "The UAE government has launched a cyber awareness campaign to alert citizens about fake job offers and the rise of deepfake technology used in scams. The campaign aims to protect individuals and organizations from increasingly sophisticated digital fraud.",
+      "why_it_matters": "This initiative highlights concerns about cybercrime's growing complexity and its threat to economic trust and personal security in the UAE.",
+      "perspective_one": "Authorities emphasize the need for public vigilance to combat evolving cyber threats that exploit AI-generated fake content.",
+      "perspective_two": "Some critics suggest awareness campaigns alone are insufficient without stronger regulations and technological safeguards against deepfakes.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcVNYTGRsX3dvYS1CdjA4cUdVVVdVNHRyaXhwUFlhcVFoQ3R0blJ2b09NckU0R0RaSkI4SEJMaHhrZGNzTEZJLThCRDFZNHJLMkp0ZWZxQkdxU2hLY1pydk9MSnc0RmNEY3JQV3NnSWRjTjhzWDRYT0hRYl9ybW1tYVNNUXB1RTdqazRDQVp5QkZjc0YtR2w2bXZ6dHloT25TSjNDNkpRelV0X1Bmb3ZybGlXMFVFOU1CZXpWOEtKTHFDNHYwcFdvc21wNnI1UWwxTVRzSHJrYlFnVnQwUFlLYlU5VGREdng2Qnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmlsSnBOMTF1YmVZbUVwMHhxaXl4UnExc3FIWmt2ZmxSa3FOOGltVVFSdXFHQTZCRzBBeGtaRkpQeXRPVndtaTFJaDAtd0ZVZlV0aXhWd3BxbUg1cWUtd05MTXhuYUZQVUczb1p1MmtmREVqOTNyZFVPWFJ6cmktc3BTc2NNanFjWTA0eExLMjcyU3ppY3FQVzNFONIBqwFBVV95cUxQZGxxaDdGWWVhWEVyUXFkNXhrX2ZXd3FheHIwd2owd2RYUVU2Ym1PRkZNTGFRX3FTcFFnYk1WNkphM0dMS0FERzhEQTFZLWRKU0RmRUdDcFMzdnVvMl9yVTMxdVQ3WF9jdl9qVnNyNXRUenNZcExaLTZtRTZlLXJQVUNrcGdLS2M3RTc5eVFMRzFEN2tfakZ6U25vWXJBNXNuTDBJRnZvODA3WGc?oc=5",
       "source": "AI & Technology",
-      "published": "Wed, 30 Sep 2026 17:27:52 GMT",
+      "published": "Wed, 30 Sep 2026 19:15:24 GMT",
       "category": "AI & Technology",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-mi5-warns-uk-universities-to-cut-ties-with-china-a9f2b7e490.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Dr_Edmond_Fernandes_addressing_an_international_occupational_health_event_in_2023.jpg/1280px-Dr_Edmond_Fernandes_addressing_an_international_occupational_health_event_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Ginevrajocosa88 \u00b7 CC0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Dr_Edmond_Fernandes_addressing_an_international_occupational_health_event_in_2023.jpg"
     },
     {
-      "headline": "US inflation remained stubborn last month as Iran war continued to lift prices - Houston Style Magazine",
-      "summary": "U.S. inflation stayed persistent last month, partly driven by continuing price pressures linked to the Iran war. The conflict has disrupted energy markets, exacerbating cost increases across various sectors.",
-      "why_it_matters": "Sustained inflation affects consumer purchasing power and monetary policy decisions amid geopolitical instability impacting fuel and goods prices.",
-      "perspective_one": "Some economists stress that inflation fueled by war-related supply shocks is temporary and may ease if tensions de-escalate.",
-      "perspective_two": "Others caution that inflation risks entrenching, requiring aggressive policy responses that could slow growth or increase unemployment.",
+      "headline": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
+      "summary": "The S&P 500 index fell slightly while the Nasdaq gained after new data revealed a modest increase in inflation. Investors reacted to mixed signals on the economic front, balancing inflation concerns with stronger-than-expected tech sector performance.",
+      "why_it_matters": "These market movements influence investment strategies, reflecting uncertainty about inflation\u2019s trajectory and its impact on monetary policy and corporate earnings.",
+      "perspective_one": "Some investors worry rising inflation could prompt the Federal Reserve to tighten monetary policy, potentially slowing growth.",
+      "perspective_two": "Others view the moderate inflation rise as manageable, supporting continued expansion in technology stocks and economic recovery.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3dtYnlUaDlqQ2g0V193VEtlSTVQRGQtZk84WGVYOV9GQmkzWFByOGxsY2tub0NndFJ6NlVPUmttVnlZSU9fZVZLYmhLaGlyMjdSZTZ5NGdDaWFLSTlUNmo1X2s4T3UtV2dGcDFJRnEtMk1ONEJGX0Z3UHBTc0tJZzRGTGZVSHVOSDhXT3lvTmt0RHZmcWs1cmtIWGxTeFEtTk5sVWJBMjdmWHhOcDhuTFRSemN0VXdycC15Qzl3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
       "source": "Business & Economy",
-      "published": "Wed, 30 Sep 2026 17:45:16 GMT",
+      "published": "Wed, 30 Sep 2026 20:40:10 GMT",
       "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-us-inflation-remained-stubborn-last-month-as-ira-7bf1822d0f.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Conde_Nast_Building%2C_Manhattan%2C_New_York_%287237735828%29.jpg/1280px-Conde_Nast_Building%2C_Manhattan%2C_New_York_%287237735828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Ken Lund from Reno, Nevada, USA \u00b7 CC BY-SA 2.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Conde_Nast_Building,_Manhattan,_New_York_(7237735828).jpg"
     },
     {
-      "headline": "Joel Klatt reveals updated 12-team College Football Playoff bracket after Week 4 - On3",
-      "summary": "Sports analyst Joel Klatt shared an updated 12-team College Football Playoff bracket following Week 4 games. This adjustment reflects the latest team performances and rankings influencing post-season prospects.",
-      "why_it_matters": "These bracket changes impact team strategies, fan engagement, and revenue from playoff participation and broadcasts.",
+      "headline": "MLB playoff games on TV today: Schedule, times, channels, live streams to watch AL, NL Wild Card games - Yahoo Sports",
+      "summary": "Major League Baseball is airing its AL and NL Wild Card playoff games with schedules, channels, and live streams available for fans today. These early postseason contests set the stage for teams aiming to advance further in the 2026 playoffs.",
+      "why_it_matters": "Broadcast availability ensures fans nationwide can follow critical elimination games impacting the season's championship trajectory.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUdtSjRBM1ZueVdoQTNXS2YwNjZQclR5cmdXM0J2dm8wM19rUG01S0czTVpSMGtOQldlSnM2Y0x1cmNDMzRQNFc0TE9yXzRQUG9oX2MyN1lHS3V3VUFOOUh0WFNmMHdsbWI1dXJONl9Tcm1rekRVUzd2TXNEejRfa2hFREc3a0p3Vk9yc2VqUENLem5OME45aTFTZE5QTk5SWURUcEI1Z1ZMdw?oc=5",
-      "source": "College Sports",
-      "published": "Wed, 30 Sep 2026 13:19:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnFJNFRJdmZxLXdEN3UtdTZkSHVyLS01V0pXaU1VSXdLUHpUTlJQemZfWnZTNWpiN3duOVl2UVlIWno4dm1mR3hVQ0x0V2h2TDVySlNMV3NlU08ydjNqYzZqcnlubmR2MDNGdGlIUzMtYTRnVTVxOFVrVHZSOHBfZw?oc=5",
+      "source": "Yahoo Sports MLB",
+      "published": "Wed, 30 Sep 2026 09:48:02 GMT",
       "category": "Sports",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-joel-klatt-reveals-updated-12-team-college-footb-fc5ab01b93.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-mlb-playoff-games-on-tv-today-schedule-times-cha-b6742e46e0.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Coastal Golf Course Turned into Vital Wetland Habitat for Seabirds",
-      "summary": "A coastal golf course along England's shoreline has been transformed into a wetland nature reserve hosting plovers, terns, avocets, and lapwings. This repurposing prioritizes native wildlife conservation ahead of official public opening.",
-      "why_it_matters": "Converting developed land into wetlands provides critical habitat for vulnerable bird species and supports biodiversity in coastal ecosystems.",
+      "headline": "Resilient French Farmers Use Warming Climate to Grow the Country\u2019s Own Tropical Fruit",
+      "summary": "Farmers in southern France are cultivating tropical fruits like bananas, papayas, and mangoes as warming climate conditions enable these crops to grow locally. This agricultural shift represents adaptation to climate change and diversification of French farming.",
+      "why_it_matters": "Changing climate conditions enable novel crop opportunities, potentially altering regional agriculture, economy, and food supply in temperate countries.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/coastal-golf-course-turned-into-vital-wetland-habitat-for-seabirds/",
+      "url": "https://www.goodnewsnetwork.org/resilient-french-farmers-use-warming-climate-to-grow-the-countrys-own-tropical-fruit/",
       "source": "Good News Network",
-      "published": "Wed, 30 Sep 2026 11:00:31 +0000",
+      "published": "Mon, 28 Sep 2026 18:30:42 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Sandilands-Nature-Reserve-credit-National-Trust-photo-by-John-Miller.jpg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/maxresdefault-2.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Trump\u2019s Hispanic Heritage Month event draws criticism from first Afro Latina in Congress, who stresses Black-Latino unity - TheGrio",
-      "summary": "The first Afro Latina congresswoman criticized former President Trump's Hispanic Heritage Month event for allegedly neglecting Black-Latino unity themes. She emphasized the importance of solidarity across these communities to address shared challenges.",
-      "why_it_matters": "This critique highlights ongoing debates about inclusivity and recognition within Hispanic political and cultural celebrations in the U.S.",
-      "perspective_one": "Critics see unified racial and ethnic solidarity as crucial for political empowerment and combating systemic inequalities.",
-      "perspective_two": "Supporters of Trump's event may argue focus on Hispanic heritage alone addresses specific community representation and achievements.",
+      "headline": "What the Anti-Regulation and Anti-Consumer Supreme Court Has in Store for Your Wallet - Better Markets",
+      "summary": "The Supreme Court's recent anti-regulation rulings may weaken consumer protections and reduce regulatory enforcement. These decisions could prioritize corporate interests over consumer financial rights.",
+      "why_it_matters": "This shift could lead to less oversight of corporate practices, potentially increasing financial risks for consumers and affecting economic fairness.",
+      "perspective_one": "Supporters argue limiting regulation promotes economic growth and reduces burdensome government interference on businesses.",
+      "perspective_two": "Critics warn it exposes consumers to exploitation and financial harm by weakening essential protections.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1FtTFhkQlpzWk5RR1NlTXBndHFWOGFuQkFheTRaLXc0VE51T2tWdmRDLTZlaWoxWTdCU20zWUtXNEpXeWI5WmRtY1lRZWlDQzlhczBGMnh0WGthZjR6Zk53YkJvVWdYVEJzTU1halB1RzdyZ0tzdUh6TFFNWk1ySEJVcVZKUVI4N3ZEcFY2NFllUmVVSTJQdkRkQ0c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jX3NYcTVnS19vU1QyLTduOEdXS2hXS1B4TnZuRVZsWVhXUWczdFVkcXc5cHRxV1d0NF9nTWt0aTB1cVo2OEpZaVJVMHd4Z0xQYlhKZXd3eHBpYjQ?oc=5",
       "source": "U.S. Politics",
-      "published": "Wed, 30 Sep 2026 21:18:27 GMT",
+      "published": "Wed, 30 Sep 2026 18:34:37 GMT",
       "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Senate blocks Republican bill restricting stock trades by US Congress members - The Guardian",
-      "summary": "The Senate rejected a Republican bill aimed at restricting stock trades by members of the U.S. Congress. This maintains current rules despite ongoing concerns about conflicts of interest and financial ethics in government.",
-      "why_it_matters": "Blocking this bill keeps potential insider trading protections limited, impacting public trust and legislative accountability.",
-      "perspective_one": "Supporters of the bill argue strict rules are needed to prevent financial conflicts and maintain legislative integrity.",
-      "perspective_two": "Opponents claim existing disclosure laws suffice and additional restrictions could deter qualified individuals from public service.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEFrSUg0WjNmaDVlbVYtZjNLXy1Rc3ZXN3BSeHVBN2I1S0tYSkgwaWU5b1k2d3RrZm51ZVpkNmVuTDkybDRMOE5QajVqZm93WDJHQXhidHZEbzVkbEVwdFVRYkx0MF9yc3FDQW5lZzE3UDVheXd6Nk1CRmtIVVlCTg?oc=5",
-      "source": "U.S. Politics",
-      "published": "Wed, 30 Sep 2026 20:44:00 GMT",
-      "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-senate-blocks-republican-bill-restricting-stock--91dc34edf3.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-what-the-anti-regulation-and-anti-consumer-supre-b94f1f0f14.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Trump\u2019s new AI-powered government website contradicts his claims on the 2020 election and a third term - WJHG",
-      "summary": "Former President Trump launched an AI-powered government website that contains information contradicting his public claims about the 2020 election and a potential third presidential term. This reveals inconsistencies between official content and his statements.",
-      "why_it_matters": "Such contradictions could influence public understanding and trust in election legitimacy and democratic norms.",
-      "perspective_one": "Critics argue the website's content undermines misinformation and reaffirms factual election outcomes.",
-      "perspective_two": "Trump supporters may view the contradicting content as misleading or politically motivated attempts to discredit him.",
+      "headline": "FDA Looks to Bring New Scientific, Consumer Voices to Advisory Committees - MedCity News",
+      "summary": "The FDA is seeking to expand advisory committees by including broader scientific and consumer perspectives to improve decision-making. This aims to make regulatory processes more inclusive and reflective of diverse expertise and needs.",
+      "why_it_matters": "Greater inclusion could enhance FDA policies affecting drug approvals, public health, and consumer safety outcomes.",
+      "perspective_one": "Advocates emphasize diverse voices improve transparency and responsiveness to public concerns in health regulation.",
+      "perspective_two": "Some stakeholders worry added perspectives may slow decision timelines or complicate expert consensus.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYjI5WjZyQzZZMGlSR3FsY1ZBYW5QajdVS0RIV0EyekZQdnlRNFdZY3hSZ19kVEc2Mkd1TmFkZ1o0SU15S1NBcnJhbjJUaGgzSHdXMTlFaWI1WG1mektRdTRMX2JyMDhYUjd2Yjh3VlA3LWQtWXVlV2pyeWp3c19YUjF5MGE3TU5DSmdHUnNEN1MzVW5PUGRpV1ZDTlVXcHlGeDVmSzEyWDBFMjZyaXFJXzlfQW90NFVJOUU5SDZKV25ycWlHVGQ0c0F5Skh6UFVqM2fSAdIBQVVfeXFMT2IyOVo2ckM2WTBpUkdxbGNWQWFuUGo3VUtESFdBMnpGUHZ5UTRXWWN4UmdfZFRHNjJHdU5hZGdaNElNeUtTQXJyYW4yVGhoM0h3VzE5RWliNVhtZnpLUXU0TF9icjA4WFI3dmI4d1ZQNy1kLVl1ZVdqcnlqd3NfWFIxeTBhN01OQ0pnR1JzRDdTM1VuT1BkaVdWQ05VV3B5Rng1ZksxMlgwRTI2cmlxSV85X0FvdDRVSTlFOUg2SlducnFpR1RkNHNBeUpIelBVajNn?oc=5",
-      "source": "Associated Press U.S.",
-      "published": "Wed, 30 Sep 2026 11:22:00 GMT",
-      "category": "U.S. News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-trump-s-new-ai-powered-government-website-contra-acd8e3de78.webp",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkhtbWxyNElaRlAwT3hBMUM3R1hKQURtdHZLOEVEQm1GbVg5STJjRE1SckhnalhDMFBoVTVfV0l1UjNmUUNiSTNkVEdaYktvRDB3UUlJR3dFZU5IZHJnWTdxOE5OOVZ6YzBWRExISE5tRkw0Skp2SkFrMjZ6N0FJeW1COFR3LWhldFFWRHhfTW9OckFkYkFGYW9OUFh5SmpvUW9F?oc=5",
+      "source": "Health & Medicine",
+      "published": "Wed, 30 Sep 2026 21:38:55 GMT",
+      "category": "Health & Medicine",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-fda-looks-to-bring-new-scientific-consumer-voice-9096854132.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Statement by Chief Pentagon Spokesman Sean Parnell on the Conclusion of the U.S. Military Mission in Iraq - U.S. Department of War (.gov)",
-      "summary": "The Pentagon announced the formal conclusion of the U.S. military mission in Iraq. This marks a strategic shift in U.S. involvement while emphasizing continuing regional security interests.",
-      "why_it_matters": "The military drawdown changes U.S. defense posture in the Middle East and affects regional power dynamics and counterterrorism efforts.",
+      "headline": "Will Artificial Intelligence Become Humanity\u2019s Greatest Threat? What Ghana Must Do Before the Next Decade - Modern Ghana",
+      "summary": "A report discusses the potential existential risks posed by artificial intelligence and outlines steps Ghana should take to prepare for impactful AI development in the next decade. It emphasizes proactive policy, ethical frameworks, and capacity building to mitigate AI threats.",
+      "why_it_matters": "How Ghana handles AI governance could influence its economic growth, societal stability, and security in an increasingly AI-driven world.",
+      "perspective_one": "Some experts stress urgent, comprehensive AI regulation to avoid catastrophic risks and protect human interests.",
+      "perspective_two": "Others argue balanced policies are needed to harness AI\u2019s benefits without stifling innovation or economic opportunity.",
+      "uncertain": "Long-term global AI impacts and Ghana\u2019s preparedness effectiveness remain uncertain.",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdm9YRVlFMlg5RGxZXzNsUWdxNVdXLVVuOEx3bk1pdVVhaVJaRzl6RW9HcFpDdHRVY1hIejdnNU96SnotbWF1dVpkRmRKWHlsR3VaU1pENnRwODRDZlFUdEZBUk9wc1ZydlUwNkJsNGtyQkROUHl3Slh3WW8wRU9PVjBjTlY3aElnSmFjNVdPNXBRM0tZYnfSAZQBQVVfeXFMTlNpeTZvd3haOUNqNU9zbFhKdmE1R2RidnNQUjFBT0N0VWF3aHBqTGRUM2tnQjRtU0VGVDdVTTBmZUZpcm9jSFduWXZjdVUwUmdtNzU3bTg0anhnZGVBU3d2eDBoWDZHUjNKVXNOS0E1UVVZXzM4eG5JWUJCRWJqemRpSm9OS0FPWVVkTUw3OS1YQUlWTA?oc=5",
+      "source": "AI & Technology",
+      "published": "Wed, 30 Sep 2026 08:47:54 GMT",
+      "category": "AI & Technology",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-will-artificial-intelligence-become-humanity-s-g-2ca68e41a3.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "The Fed's Preferred Inflation Gauge Was Cooler And Private Payrolls Beat Expectations. Stocks Were Mixed. - International Business Times",
+      "summary": "The Federal Reserve's preferred inflation measure showed a slight cooling while private sector employment exceeded forecasts. These mixed economic indicators led to a varied stock market response as investors assess growth and inflation risks.",
+      "why_it_matters": "The data guides Federal Reserve policy decisions, affecting interest rates, investment strategies, and economic outlook.",
+      "perspective_one": "Some market participants interpret the cooler inflation gauge as a sign that tightening measures have curbed price pressures.",
+      "perspective_two": "Others caution that persistent job growth could fuel wage inflation, complicating the Federal Reserve's mandate.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkdjNU5OYTBmai1WLUNfOGlNeXBDT055eWRxT2pQSU5rU013SldXRzFLTnBJUU83WnF6RVVXYWVwNjAyWmxKVGp4ZFVZeVZqMGxnMnBNajd1RjRRRXRuTDR3bDNWZGFJYXp3bTZWMHJkeHBLN0tlUTM1MmExdTZYTkt6SzRLNUxnRGdvMElYeGJSUENXRW9Dc0xDX2FtUl9CMUxiTVgzOWJUeElDejBjTlpFdzJsU21uQXBaU3Rod3ZtODUy?oc=5",
+      "source": "Business & Economy",
+      "published": "Wed, 30 Sep 2026 20:03:02 GMT",
+      "category": "Business & Economy",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-the-fed-s-preferred-inflation-gauge-was-cooler-a-50842f3011.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Grant Holmes \u2014 at some point \u2014 will pitch in Thursday\u2019s elimination game - The Atlanta Journal-Constitution",
+      "summary": "Pitcher Grant Holmes is expected to participate at some stage in Thursday's MLB elimination game. His involvement could be pivotal for his team's chance to survive the postseason.",
+      "why_it_matters": "Holmes's availability could affect team strategy and playoff outcomes as elimination games determine continuation or exit in MLB playoffs.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdDRQalZPZ001MGhtalNlZEdaa0h5dDhpYVNXZnpPemtxN1FaYnVlTkhiYmdIWjAzWW9SaTJ0bkV3Zlp3ZkdReEVNMU9qLWp3U2JlRHk4anNsTDlwbHhLNm1ZdFRDOFJnTnVIRGpxNlJTbk5iUnFsWUpnUkUxY1B5eFJTNlpNa2xPc0dSekNnUEtGb1QxdWZPcEZNUlJDMFVPejlXZzYwZmEzNHRxQ1BKRWFZMi1qNHpaMkFPelJqdWJQbFpQRXpHdGlpYzZUM0lIbDY4?oc=5",
-      "source": "USA Today U.S.",
-      "published": "Wed, 30 Sep 2026 07:25:34 GMT",
-      "category": "U.S. News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-statement-by-chief-pentagon-spokesman-sean-parne-c0f914b645.webp",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGdIdnpIb3pNOTNlbC14YllpUnpzeF9rVUhZUmh5SHRXQ0RCUGZ1c3JjX3BJQzRpQmxnS3JjM1J4U0Y0bHdrdnkxRHBiVXZfLWNCd3VWM2lMRXRESFk1eDVEWVg2QzRMUldRNEgzNDczZ0tfbDNIT1NNWUdYRmR1LXBzWVl0U1lmejBxdHR1SWNUN0lzbnJvNkRYTTEzLXFRWG1WR1p3?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Wed, 30 Sep 2026 22:54:35 GMT",
+      "category": "Sports",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-09-30-pm-grant-holmes-at-some-point-will-pitch-in-thursda-f9d5becf89.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-      "summary": "The U.S. completed its troop withdrawal from Iraq, creating uncertainty about the country's future defense. Simultaneously, the Supreme Court temporarily reinstated Trump-era third-country deportation policies.",
-      "why_it_matters": "These actions reshape U.S. foreign and immigration policies, affecting regional security and migrants' legal protections.",
-      "perspective_one": "Proponents of troop exit view it as ending costly conflicts and refocusing resources; backers of the deportation policy call it necessary to control immigration.",
-      "perspective_two": "Opponents warn troop withdrawal may destabilize Iraq and embolden adversaries while criticizing deportation rules as harsh and legally questionable.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-      "source": "NPR World",
-      "published": "Wed, 30 Sep 2026 07:13:17 -0400",
-      "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F57%2Fbf5fb6714747859e293114dddcc3%2Fgettyimages-2297194981.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-      "summary": "A Syrian glassmaker in Damascus crafts his work amid extreme heat, inspiring reflection on patience and the art of slowing down. This human-interest story highlights resilience and cultural tradition despite ongoing challenges.",
-      "why_it_matters": "This narrative underscores the enduring spirit and cultural heritage amidst Syria's difficult environment and conflict aftermath.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
-      "source": "NPR World",
-      "published": "Wed, 30 Sep 2026 13:51:42 -0400",
-      "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F7c%2Fa4d053f446749491f915fc9bc529%2Ffarflungpostcard-syria.jpg",
-      "image_credit": "",
-      "image_source": ""
     }
   ],
   "more_stories": {
     "U.S. Politics": [
-      {
-        "headline": "What the Anti-Regulation and Anti-Consumer Supreme Court Has in Store for Your Wallet - Better Markets",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jX3NYcTVnS19vU1QyLTduOEdXS2hXS1B4TnZuRVZsWVhXUWczdFVkcXc5cHRxV1d0NF9nTWt0aTB1cVo2OEpZaVJVMHd4Z0xQYlhKZXd3eHBpYjQ?oc=5",
-        "source": "U.S. Politics",
-        "summary": "What the Anti-Regulation and Anti-Consumer Supreme Court Has in Store for Your Wallet Better Markets"
-      },
       {
         "headline": "The U.S. Midterm Elections: Potential Outcomes and Their Implications - RANE Worldview",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb20tc29qV0UzX3M1UHhWNVBxZWJ6ZXQxZjJQOWRYYlQ2UERQZWZpLUdDczJiMG5xaUxfREdCRTFQX2QxUXFyWTcwVndBU2swbnhQdXpQdUN2QlNLeDlySlB3ZkcxdVp4LXhlUTN5eDMwX3NQT2t3ZVlJVnN1cmRZNGJVajJrLWFPZ3dhNFZ1Z0k2b3RhTG9Cdy1uTDZYNUp2SExEemNQMDh6dmFZb1pSMFNpbDgxbGg1dmZOaHFGd2hiMjJFQmpjdUtlTW5uYkNKWnU5UEx4eWtCeU80eUtJ?oc=5",
@@ -278,34 +256,40 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2FHaU13S0FHcXhpM1FsdWZycUNLb0ZkdEJrME5CbzZqQ21YQlpSZm9yVmNWeVFmOU1MdXNmTUIxR2dwNWdTR3MxQWdMRC02S3ZVcDJQbzJRLW1Xbm1ILTJxa3hlNE1Ja0FqaXJUeFFZN2p2X0V3c2JDWXAycldPMzFCdjU3RWZ1WjZXa0lUUQ?oc=5",
         "source": "U.S. Politics",
         "summary": "What kind of Brazil will emerge from this election? Brookings"
+      },
+      {
+        "headline": "Partisan 'gerrymandering' reshapes congressional maps ahead of midterms - cnhinews.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUNLNHBrQ3lVdnQyYmhjQXVHQXFReGVCclVZWlotT0FaOXlKOGZqSEV6WC1fU19mRUNIVXVNaGFQLW81QnQteFhzanZFNW0xeHRLYzRaUmdrMjh1OUtoY09FTGt0TlBuV3JpWFU4LUtRZjlzdFEzcXdpaWpfclRVeVdWdGtqQQ?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Partisan 'gerrymandering' reshapes congressional maps ahead of midterms cnhinews.com"
       }
     ],
     "U.S. News": [
       {
-        "headline": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-        "source": "NPR U.S.",
-        "summary": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project."
-      },
-      {
-        "headline": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
-        "source": "NPR U.S.",
-        "summary": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence."
+        "headline": "Cornell case spotlights 'confusing' web of systems for reporting campus assaults",
+        "url": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "Victims often have to navigate both university and local law enforcement processes to find justice."
       },
       {
         "headline": "What we know about Cornell University frat house rape investigation",
         "url": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC U.S.",
         "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago."
+      },
+      {
+        "headline": "Former PGA Tour, Korn Ferry Tour players reach all-ex-pro final at 2027 U.S. Mid-Amateur - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTV2ZExuZlgyZGs0UWIwMXp1N3g1enpkeVBINF9nSkhTei1JRFFMWUF0RFRYekMzcm9UZDdxUU1aYVpGeTUzbGVSdUtQRExVZF9hVE5qbEk5TWItYU1GS3lxRmp4R0pZUjhUV2RuN29uN3pCOHE3X2ljaWZHdGVrQQ?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "Former PGA Tour, Korn Ferry Tour players reach all-ex-pro final at 2027 U.S. Mid-Amateur Yahoo Sports"
       }
     ],
     "World News": [
       {
-        "headline": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
-        "source": "NPR World",
-        "summary": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence."
+        "headline": "The children dying in India's remote tribal heartland",
+        "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria."
       },
       {
         "headline": "China has cracked down on AI relationships. Is it ahead of the game?",
@@ -320,21 +304,8 @@
         "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest."
       }
     ],
-    "Conflicts & Security": [
-      {
-        "headline": "France steps up defences against Russian drone and cyber attacks - National Security News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUpMd1d4Rk5SRHBEamRBSDhpOEIycGdtS1gtdGxyYkh1OW94eUE2YnFMZTVpQ0V2blNDUnYxTDduNGg4Um5yak5wODlfdzVjS21RT1NtRU5PQUdWaFVZX1g5amdDV0w0R3lNUEtzcmpxN2hMLVlEUE0yeTgzRmw2NVZPZy1FQlMyb0RCc0xZOGtoMDF0Q0QzZy1mNnhhUmdDcWs2Wm1rZTFNa2lzSElB0gGvAUFVX3lxTE5lSkx3V3hGTlJEcERqZEFIOGk4QjJwZ21LWC10bHJiSHU5b3h5QTZicUxlNWlDRXZuU0NSdjFMN240aDhSbnJqTnA4OV93NWNLbVFPU21FTk9BR1ZoVVlfWDlqZ0NXTDRHeU1QS3NyanE3aEwtWURQTTJ5ODNGbDY1Vk9nLUVCUzJvREJzTFk4a2gwMXRDRDNnLWY2eGFSZ0NxazZabWtlMU1raXNISUE?oc=5",
-        "source": "Conflicts & Security",
-        "summary": "France steps up defences against Russian drone and cyber attacks National Security News"
-      }
-    ],
+    "Conflicts & Security": [],
     "Middle East Affairs": [
-      {
-        "headline": "Netanyahu briefed UAE leader on new Israeli intelligence on Iran\u2019s nuclear program: Report - Latest news from Azerbaijan",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTFuQUx1Ri1uMFRCcFJ0M0k2ZThIZE45WEhfcDg1UWFFNFpsTkRCTHZVeE9XaG1JSFdIdHJmWE5sbExENUZoaUFscVZKdzNRbG91dWdESm1OUnBQb0g4S2ItdU4yY3RzdVM5MllsbWFyU3R4MDVaRExsTEVZZ1dZdC02czJReG5fbEljbFRUbUd3RG1zOWJDSUVwLXF1NjJJaEJXazJGbXkycmcyX2ZV?oc=5",
-        "source": "The National Middle East",
-        "summary": "Netanyahu briefed UAE leader on new Israeli intelligence on Iran\u2019s nuclear program: Report Latest news from Azerbaijan"
-      },
       {
         "headline": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot - Reuters",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
@@ -346,76 +317,76 @@
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdW5lTW5pYW5paDhHTjVsLVRfMG9kQlpSYXQ0OERVVjF2Wm1XOUM0WWZmdUs1YlR0cVB4RkFmVkt6S1dDbF9EdUtRNkRPUng5bDllSGNNbUxscUlvWnBKa3ZWT3pUaktnOG5GM2ZjdDFxZW1aN3RFT25FZ0JKempTTHRva2dpQUN4eEx1endrMUdjTVhlUFBRV1Q3RllhdW1QTktRRWRUZE9pa193VW95c0hwdkZMZTRpUTA3OFowTHVnWHBUdXpiNEt6aEFhWlU1cGp4RXZNMVByU3RDUVdhenBQYzZoNmI2?oc=5",
         "source": "Arab News Middle East",
         "summary": "Unidentified Gunmen Kill Seven, Wound Four in Bus Attack Near Masyaf Bridge, Homs: 14 outlets compared NewsCord"
+      },
+      {
+        "headline": "Pilot stabbed his co-pilot in apparent attempt to crash Israel-bound plane, Netanyahu says - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1BONDhjY3NiaFljUWMyY3V5ZnYxb2JRVXBHRWMyRjlBRDFPbUpXTW9RSEpRbncxOURJMllGVnV3T3VWLW8xRG91bDRYOVl4bjZZVWNYSXprOWx2d3BLZlREMnhIZ09LblYwNFQ1ekxTVEljNjJZZXNEMnBSV1NWNVBYWjV4dnZ0eVBHaFFwVVNPMGtFSE9Zc2otZHJEM2Yt?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Pilot stabbed his co-pilot in apparent attempt to crash Israel-bound plane, Netanyahu says NBC News"
       }
     ],
     "Health & Medicine": [
-      {
-        "headline": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it \u2018manufactured earnings\u2019 to hide declining profits",
-        "url": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
-        "source": "STAT Health & Medicine",
-        "summary": "An investor lawsuit against UnitedHealth Group will move forward after a federal judge declined the company\u2019s motion to dismiss allegations."
-      },
-      {
-        "headline": "FDA Looks to Bring New Scientific, Consumer Voices to Advisory Committees - MedCity News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkhtbWxyNElaRlAwT3hBMUM3R1hKQURtdHZLOEVEQm1GbVg5STJjRE1SckhnalhDMFBoVTVfV0l1UjNmUUNiSTNkVEdaYktvRDB3UUlJR3dFZU5IZHJnWTdxOE5OOVZ6YzBWRExISE5tRkw0Skp2SkFrMjZ6N0FJeW1COFR3LWhldFFWRHhfTW9OckFkYkFGYW9OUFh5SmpvUW9F?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA Looks to Bring New Scientific, Consumer Voices to Advisory Committees MedCity News"
-      },
       {
         "headline": "HHS announces new efforts to speed up, expand clinical trials with AI - STAT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmYwTTdOcmg5TjEzdGRfVlhHa2FIZzByaDI4U3NKUjdMdVFQLUwxQV9RUzU2eEJWd1NlaHZ6b0JBeWJJZ1FfRndGYWwzTHFpdURhRGs5TVJpb0RRUVhwelNGMThMdFY1MEIzM0hIYUR6UGNUMHNqWDA3MUVLUS1TWjd6RS1RcFQ0NW5fVDdDenJSM2tBbXRNNFM3RXk4SEVGN2k1OXp3?oc=5",
         "source": "Health & Medicine",
         "summary": "HHS announces new efforts to speed up, expand clinical trials with AI STAT"
+      },
+      {
+        "headline": "Dea Schedule I Proposal Would Criminalize Compound with Breakthrough Therapy Status for Postpartum Depression - greatreporter",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTJpTWNmNUNsd2drSTdrRWlXcG1XcEx4V3QtWEpuWEZKcUUyUmhMelBYNWNQZS1DV2tDSjJhWENRVkhEYWJsNlUxdlRmOWF5WGw3cEtVUUJrR0VKNlE1aGR5WV80YVpsVGJFLThKb1pVNGRQa0dfa2xhZHZUbFEzUzlHaFlUUGI2NWpkTW1aeERSaXJ2RGxlaU5QMHdpXzdYMWpCME1rSXBya3FJTnBkUmx2NEltWmRMcGc?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Dea Schedule I Proposal Would Criminalize Compound with Breakthrough Therapy Status for Postpartum Depression greatreporter"
+      },
+      {
+        "headline": "new fda approved weight loss drug 2024 - polskieradio.pl",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXNLOURWQXFpZzg1X25DQ0lEX2NoRXRnZXhXengyendxSk11LWI2X1VLandxeG1uYkIxbmdiNENJeEg2aEctSjlmVFd3MGp6d19mRHBHSEJ0ckk5VW16cWJ4RzVMVlJrcmZEbEJaTi1FVmJnZlZZYjhJR29YYVlaUDljVko4UWpUYmc?oc=5",
+        "source": "Health & Medicine",
+        "summary": "new fda approved weight loss drug 2024 polskieradio.pl"
       }
     ],
     "AI & Technology": [
       {
-        "headline": "Will Artificial Intelligence Become Humanity\u2019s Greatest Threat? What Ghana Must Do Before the Next Decade - Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdm9YRVlFMlg5RGxZXzNsUWdxNVdXLVVuOEx3bk1pdVVhaVJaRzl6RW9HcFpDdHRVY1hIejdnNU96SnotbWF1dVpkRmRKWHlsR3VaU1pENnRwODRDZlFUdEZBUk9wc1ZydlUwNkJsNGtyQkROUHl3Slh3WW8wRU9PVjBjTlY3aElnSmFjNVdPNXBRM0tZYnfSAZQBQVVfeXFMTlNpeTZvd3haOUNqNU9zbFhKdmE1R2RidnNQUjFBT0N0VWF3aHBqTGRUM2tnQjRtU0VGVDdVTTBmZUZpcm9jSFduWXZjdVUwUmdtNzU3bTg0anhnZGVBU3d2eDBoWDZHUjNKVXNOS0E1UVVZXzM4eG5JWUJCRWJqemRpSm9OS0FPWVVkTUw3OS1YQUlWTA?oc=5",
+        "headline": "GOOGL Stock Adds 1% After Hours As Google Unveils Gemini 4 Argon With Focus On Coding, Cybersecurity - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdmotR2lSajNhRWpWbU5mV09kR1ViTlZZYXpTOFpXbC15RjR4ZDM2U0hyRTFtaFJaYTdCT1Y1VEFRSld2NFNERk9zTHNEZnc5cTVQbGdvb1UzSWNBbnJ2SVRZRHJWWHBjN01lbHdMb0ZsU2tydUdLNTZyZUo4YzZHUmsxN01Rc28zMWY4cm1EZGFNNUw3Y2pNbG9OZk90RGFYQmRYd0NSVmRLU2d0Tzcyb0lMMk1fdXJPV2NmamFweFJEWG9MQ2pOZm9mTHpZb2d5clhTR3p6MW9RaW1CMHBwTk1mRm1VZ3dpMFVsLWpBTUs?oc=5",
         "source": "AI & Technology",
-        "summary": "Will Artificial Intelligence Become Humanity\u2019s Greatest Threat? What Ghana Must Do Before the Next Decade Modern Ghana"
+        "summary": "GOOGL Stock Adds 1% After Hours As Google Unveils Gemini 4 Argon With Focus On Coding, Cybersecurity TradingView"
+      },
+      {
+        "headline": "Google unveils Gemini 4 Argon AI model, restricts access to cybersecurity experts over hacking risks - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMzVsbmlqNUJzazl5NVBRNWdKbkZOQjhTNDNpVkdjcjZKejczVFd5aHVhOXEtaE1sajFYRGd4QngwZlhiNGYxR014TXdqc0J6ZE1pTXVkZ2VtaGFmd1RXT1hyZmpOQk5wNWk2cGFfVkRQQUtSM0RNdzhmOURiNk9tSDl4eG9LSGlFanJYRy1xVjJXd0d5QzhhNWsyQVlUYnNiM3RGUDQ0cjItTi0xMXYtZF9NX1VjTEUzT092dXBaMEI4b2oxU0xyaXBHaU45a2YtemhwR1JWV2xKZGZlRkFtZ0w5MG5YWEtMM3A2eXVFLUE1ZGfSAfgBQVVfeXFMTnF5QldSNDk2UlI2dDFCLXRyMlhuVVR3QkVSUUtFcWUwRHZQb1hnZndXWUZia0FydlZoeEdnWUx2enJRWmhCZ19WWTFuTm5VM1UzVUNsM19lNGRCcnZfbU1QRFNmMEppbnlvejltbHhmRWkwdFNOaE1ucEh3Ung5UVpZUU54SDV3SjRKUTlnNXlqbGk4WV9IT0czY3NVVjdCYUNpY0dnSG80dEl4NDVYSXhvMnVWNXI5UHNqbXV5LTJuenF6cTZMNVFWTzZIa3hKdElBbUNEcy1sdG5YeXVvWWc3VDA4Z01XREktRW9XaGRRSjluSUtPcnU?oc=5",
+        "source": "AI & Technology",
+        "summary": "Google unveils Gemini 4 Argon AI model, restricts access to cybersecurity experts over hacking risks Moneycontrol.com"
       },
       {
         "headline": "NASCIO Honors 11 State Technology Projects for Innovation - GovTech",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2YtZWxJX1pVTDExWjhuaXRudDQ4UmpERnN5YjJlTTlxVHdSWXBkeGxHdTY2bFpiVzdia3Z6ZWhXU3hQVTNNcDQtQlpyLTg1QV9TNGlHUTN2VkF6TENRYWloMUhxRDBiMXNDVVlWVUJ1ZU9TU2pTa3pNVFNQcVdKaWhJdENDTTJTa2hPR3lXMzNDXzdldVRPVFRleVg?oc=5",
         "source": "AI & Technology",
         "summary": "NASCIO Honors 11 State Technology Projects for Innovation GovTech"
-      },
-      {
-        "headline": "GT Cybersecurity Expert Helping to Chart the Future of AI on the Energy Grid | Newswise - Newswise",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmRzUmRGR2VTY1lhUlIyUjFWeDBfTXNqWW1VbjNZemRPNk92VW9uNzMyTmNYNHItc2tlTXFtX0VoS0R5amZwajFYd1BkZnFLLW1haXBLTERUS3N5R3hNMWd6eUxFcF9KT1lTbEk1eXV0eGNIVElxQ0k2RWh2WEtKMENJY0NJSGxXOWdpOE56cm9jZjFfNldBNjNQbmRsVC10OW04NmJNZUQ0VjduSjc00gGvAUFVX3lxTFB2ZHNSZEZHZVNjWWFSUjJSMVZ4MF9Nc2pZbVVuM1l6ZE82T3ZVb243MzJOY1g0ci1za2VNcW1fRWhLRHlqZnBqMVh3UGRmcUstbWFpcEtMRFRLc3lHeE0xZ3p5TEVwX0pPWVNsSTV5dXR4Y0hUSXFDSTZFaHZYS0owQ0ljQ0lIbFc5Z2k4Tnpyb2NmMV82V0E2M1BuZGxULXQ5bTg2Yk1lRDRWN25KNzQ?oc=5",
-        "source": "AI & Technology",
-        "summary": "GT Cybersecurity Expert Helping to Chart the Future of AI on the Energy Grid | Newswise Newswise"
       }
     ],
     "Business & Economy": [
-      {
-        "headline": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
-        "source": "Business & Economy",
-        "summary": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise Reuters"
-      },
-      {
-        "headline": "The Fed's Preferred Inflation Gauge Was Cooler And Private Payrolls Beat Expectations. Stocks Were Mixed. - International Business Times",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkdjNU5OYTBmai1WLUNfOGlNeXBDT055eWRxT2pQSU5rU013SldXRzFLTnBJUU83WnF6RVVXYWVwNjAyWmxKVGp4ZFVZeVZqMGxnMnBNajd1RjRRRXRuTDR3bDNWZGFJYXp3bTZWMHJkeHBLN0tlUTM1MmExdTZYTkt6SzRLNUxnRGdvMElYeGJSUENXRW9Dc0xDX2FtUl9CMUxiTVgzOWJUeElDejBjTlpFdzJsU21uQXBaU3Rod3ZtODUy?oc=5",
-        "source": "Business & Economy",
-        "summary": "The Fed's Preferred Inflation Gauge Was Cooler And Private Payrolls Beat Expectations. Stocks Were Mixed. International Business Times"
-      },
       {
         "headline": "Stubborn inflation and consistent growth shift Fed debate to timing of next hike - WBFF",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV2phSkdWc0hsVVFvLXFZQjBVTm5kT0RwYUM3aDhseFZtNUFLSk1zTlJSZGNaZ0EyMEVnRkdsUVdCTjR6Z1duUEo3Z1JLMzZ6alc5TmVLOEx6Sl8tZWJTVG1WTHRxYTU4MUFYb29vWDFJLUg5N3oyRjNIS3o4UmstMVRfY1lOS0JvLVZkZEpjOHRiRnVsZFBYcmtPZ0xVNkFIOGhtcjNGSmdMSjNJYkx2c3I3V2ZwclJibWU2ajl4LVZhNVo1eEZDUnNWNUlUdDVlbU5lZUlwYVRuSmZJcHdQUFN0X0g1dkxBa3BMczJWRUFzcVI1ZVFTeEg3enhuQQ?oc=5",
         "source": "Business & Economy",
         "summary": "Stubborn inflation and consistent growth shift Fed debate to timing of next hike WBFF"
+      },
+      {
+        "headline": "Why you may not be feeling the good news from the latest inflation report - Straight Arrow",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWJTT3pxanJfVW9Lck16QWJoN2ktczF6SVZva0NONUdFYk9mUGFNT0dGbnVZZkxhTGxYenF2S2JpTW9LNUR1QmJiZDNzYTBqTUptV05LcDgtSm8tcDdjejRqWElkek5XUmZveXB0b2JocHdBZzRRYklTT2NPNFVTeUhCRjMxOVV3VHRLUHQzd3FpcFExRV9iOA?oc=5",
+        "source": "Business & Economy",
+        "summary": "Why you may not be feeling the good news from the latest inflation report Straight Arrow"
+      },
+      {
+        "headline": "Wall Street closes in on a winning September following an encouraging update on inflation - The Pilot News",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb1dJcUlLeEFOZ2IwOWFhNFk1ZFVUTnpjczFYTl9BOS1WR2RhSGJkeGdibWdEWWJibjRweUNYcUJUc3FLRFcwVTlKcHJBSG5JSzdKSHVSb21NQm45VHk3Y25VajVZTm5vSEdjdF9td2xCbUJ2U2hQNUlieFJ5VGNUTGg0MUhMMkh0OXVLd0ZoRFdsTmNqSVkwbUNpU1prTVVKYlhrZXV2dlJfdXlHLXFGeXV6TDhKb09iTkpScHVtR2tHOFl3SFJvcnM0T3JkZDJZUzhCZkRPRExnOVBkV3h2a2MxSXV5c3dVdnBRMGRwUng1Ykd5Tm9vNGQ5LUNqUE5aUnZHU0dSd3E?oc=5",
+        "source": "Business & Economy",
+        "summary": "Wall Street closes in on a winning September following an encouraging update on inflation The Pilot News"
       }
     ],
     "Society & Culture": [],
     "Sports": [
-      {
-        "headline": "MLB playoff games on TV today: Schedule, times, channels, live streams to watch AL, NL Wild Card games - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnFJNFRJdmZxLXdEN3UtdTZkSHVyLS01V0pXaU1VSXdLUHpUTlJQemZfWnZTNWpiN3duOVl2UVlIWno4dm1mR3hVQ0x0V2h2TDVySlNMV3NlU08ydjNqYzZqcnlubmR2MDNGdGlIUzMtYTRnVTVxOFVrVHZSOHBfZw?oc=5",
-        "source": "Yahoo Sports MLB",
-        "summary": "MLB playoff games on TV today: Schedule, times, channels, live streams to watch AL, NL Wild Card games Yahoo Sports"
-      },
       {
         "headline": "Cubs vs Padres Prediction, Odds: Expert MLB Pick for National League Wild Card Game 2 - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYnJOMHJSZnpZRDhCMHYtVHhNbGdyWE5SZ2lYc0Q0b21sdERCcFo0dTB1QzBpWnhHSVZjNGlYdThHcW1rbFpydUc1bFUzbUZ3Z1dTcUZpbzJEeXJoUzRGQjZyeW5ubWUtRkdUQUhSLUdVYjNDYjZ6UkJqSkdXNUY4bmNFRTZFQQ?oc=5",
@@ -427,6 +398,12 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenY0VkNfZTd3d3IwYy1NeS1aV3p4a19Mb2FGTmp4TmZCb0VYWWhiaFZWSHV0YVVSTDM2cG5oYTBITEhoUjdLVTZuYy1FZi1wMWxjWHBpTU9hOVhVWFZvdTJqU0RvSXRCcTFYQ1NFUHgxN25HTzJuSThYZlc3MUU4OF95QkRJbUduZXFZbXp4T3FoSlRIeUxTeEF6ZTl6bExCWkNJVnNoUjlxRFd6eGYtYUZ1R3I4N1dFOVE?oc=5",
         "source": "Braves Playoff Race",
         "summary": "Phillies lean on power to stay alive in NL Wild Card and force Game 3 against Braves The New York Times"
+      },
+      {
+        "headline": "Roman Anthony out of Red Sox lineup in Game 2 of Wild Card Series against Yankees after hurting hand - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY1NEeDBnbmdvLUQxUUFOMVhFQ1ZJbjRPNk5JM2U0Qk1VUEdnMS1kT0tfNFgxRGFidFFaVTRWUVVxeGVPdDJnS2ZJVG9QOU5CbzNXVTdBWUVQTFp4Y1dyUnd2bHR1bGZMU1ZyM0lVTnc4RnVncjFsX2U5OFlXX0t2d2daZw?oc=5",
+        "source": "Yahoo Sports MLB",
+        "summary": "Roman Anthony out of Red Sox lineup in Game 2 of Wild Card Series against Yankees after hurting hand Yahoo Sports"
       }
     ],
     "Good News": [
