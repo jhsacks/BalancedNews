@@ -1,292 +1,286 @@
 {
-  "generated_at": "2026-10-04T11:01:50.713451-04:00",
+  "generated_at": "2026-10-04T11:32:17.791448-04:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "Week in Politics: Inflation pressure; war in Iran and effect on midterm elections",
-      "summary": "Concerns rise over economic inflation pressure and ongoing conflict in Iran as factors that could influence the upcoming U.S. midterm elections. These developments add complexity to voter decision-making amid a tense political climate.",
-      "why_it_matters": "Inflation and foreign conflict can shift voter priorities and outcomes, potentially altering the balance of power in U.S. Congress.",
-      "perspective_one": "Some view inflation and the Iran war as critical security and economic issues that demand strong government responses to protect national interests.",
-      "perspective_two": "Others argue these concerns are overemphasized or exploited politically, warning against reactionary policies that may worsen economic conditions.",
+      "headline": "Supreme Court kicks off new term with fresh questions over its legitimacy and its future - wfmd.com",
+      "summary": "The U.S. Supreme Court has begun its new term amid growing debates about its legitimacy and role in the country's political future. Concerns focus on how recent decisions and internal dynamics may impact public trust and judicial independence.",
+      "why_it_matters": "The Court's perceived legitimacy influences public confidence in legal decisions, affecting the enforcement and acceptance of its rulings nationwide.",
+      "perspective_one": "Supporters argue the Court remains an impartial arbiter of the Constitution, essential for upholding the rule of law despite political pressures.",
+      "perspective_two": "Critics contend the Court has become politicized, undermining its credibility and threatening the separation of powers by favoring partisan interests.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5989415/week-in-politics-inflation-pressure-war-in-iran-and-effect-on-midterm-elections",
-      "source": "NPR Politics",
-      "published": "Sat, 03 Oct 2026 07:47:06 -0400",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3dhQTE5SUhmblpCSXRMbElleDZ3aWx2S185T2xFSkNFX2hPcE1RdURoaDhKajYwM09Td1p1SHR5bUxzTUxzdU4xWHlaSzUtYmF3alctUjlncWFWV2VBay1PTGlYX1M3UGdtQUJBZXVsdkR5alNxeE5FRW1UUEg5YkVLQTRxcC02WjdudXVSUXdTcWlNSG40aDFoUEZta1NpdXJQUFltZzJnZ2dzeTJqRnlWVndwSmFrMHVGNXVR?oc=5",
+      "source": "U.S. Politics",
+      "published": "Sun, 04 Oct 2026 10:47:33 GMT",
       "category": "U.S. Politics",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Darwin_%28AU%29%2C_Supreme_Court_--_2019_--_4347.jpg/1280px-Darwin_%28AU%29%2C_Supreme_Court_--_2019_--_4347.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Dietmar Rabich \u00b7 CC BY-SA 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Darwin_(AU),_Supreme_Court_--_2019_--_4347.jpg"
     },
     {
-      "headline": "Why has Brazil accused the US of election interference?",
-      "summary": "Brazil accuses the U.S. of interfering in its presidential election amid tensions between candidates Lula da Silva and Bolsonaro over sovereignty and bilateral ties. This accusation intensifies political polarization before the vote.",
-      "why_it_matters": "Allegations of foreign interference challenge Brazil\u2019s electoral integrity and could strain diplomatic relations with the U.S., impacting regional stability.",
-      "perspective_one": "Brazilian officials claim U.S. actions threaten national sovereignty and attempt to influence domestic politics illegitimately.",
-      "perspective_two": "The U.S. denies wrongdoing, asserting its role is supportive of democratic processes, while critics caution on guarding against covert influence.",
+      "headline": "Latest Senate Polls: Midterm Elections 2026 - The New York Times",
+      "summary": "Recent polls reveal the status of Senate races for the 2026 U.S. midterm elections, showing shifts in voter preferences and party standings. These trends may influence control of the Senate and legislative agendas for the coming years.",
+      "why_it_matters": "Senate election outcomes will determine which party controls the chamber, affecting lawmaking, confirmations, and policy priorities at the federal level.",
+      "perspective_one": "Democrats emphasize protecting social programs and climate legislation, arguing their Senate majority is vital for progressive reforms.",
+      "perspective_two": "Republicans prioritize curbing government spending and asserting conservative judicial appointments, viewing Senate control as a check on Democratic policies.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sat, 03 Oct 2026 13:52:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5",
+      "source": "USA Today U.S.",
+      "published": "Sat, 03 Oct 2026 09:07:35 GMT",
       "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a8e/live/a3940800-bebd-11f1-8d3f-711f85e5e3bb.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "For some Brazilians, this election is a vote on Trump",
-      "summary": "Brazilian voters consider the influence of former U.S. President Trump as they head to the polls, with Trump claiming success in Latin American races. This dynamic introduces U.S. political figures into Brazil\u2019s domestic electoral discourse.",
-      "why_it_matters": "Trump's perceived influence could shape Brazil's political alignment and its relationship with the U.S., affecting regional policy and cooperation.",
-      "perspective_one": "Supporters see Trump\u2019s involvement as beneficial for conservative policies and stronger U.S.-Brazil ties.",
-      "perspective_two": "Opponents fear foreign interference risks undermining Brazil\u2019s sovereignty and democratic process.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
-      "source": "NPR World",
-      "published": "Sat, 03 Oct 2026 17:57:36 -0400",
-      "category": "World News",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "IDF kills 2 commanders of Islamic Jihad\u2019s rocket array in Gaza - New York Post",
-      "summary": "The Israeli Defense Forces (IDF) killed two commanders responsible for Islamic Jihad\u2019s rocket operations in Gaza. This targeted action escalates tensions and may influence further conflict dynamics in the region.",
-      "why_it_matters": "Eliminating key militant leaders can disrupt planned attacks but risks provoking retaliatory violence and broader instability.",
-      "perspective_one": "Supporters argue such strikes are necessary for Israel\u2019s defense and deterrence against rocket attacks.",
-      "perspective_two": "Critics contend these actions escalate conflict cycles and increase civilian harm in Gaza.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOck1mTHBZVklhM1luaGxpQ25kRlRVcFdVSmlkYS1zM29tUFVENDF4Q3V3cTJaQWd5b0FCU2RBcVJaOHA1UUlyOWMtdGxiOUtDOGVJdldHcXBvNkZrUG1BVjNaUmttZ3I0bm9YTEIwMVNacWxoSm1IVDJLNDFjdkF0UWNTWXN0cS1aS1NGVkhwcnNBdllPb2Z6MWNLNVBRejZzSFZ4UF9n?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Sat, 03 Oct 2026 19:13:00 GMT",
-      "category": "Conflicts & Security",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-idf-kills-2-commanders-of-islamic-jihad-s-rocket-35af5c884a.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-latest-senate-polls-midterm-elections-2026-the-n-37314a9cd7.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "US-Israel-Iran War Latest News: Yemeni Army Claims to Attack 71 Houthi Targets in Taiz Region; Donald Trump Promises End of Conflict \u2018Right After the Election\u2019 - The Sunday Guardian",
-      "summary": "The Yemeni Army claims to have struck 71 Houthi targets in the Taiz region amid ongoing Middle East conflicts, while former President Trump promises to end the war soon after the U.S. election. These events highlight the intricate military and political stakes involving regional and global actors.",
-      "why_it_matters": "Military engagements and political promises affect regional stability, humanitarian conditions, and U.S. foreign policy timing.",
-      "perspective_one": "Yemeni forces and allies see military attacks as essential to weaken Houthi opposition and assert control.",
-      "perspective_two": "Critics warn that escalated strikes worsen civilian suffering and prolong the conflict without clear resolution.",
+      "headline": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+      "summary": "Yemen's president has declared a military campaign aimed at recovering territory controlled by the Iran-backed Houthi rebels. The announcement follows recent exchange of strikes between the Houthis and the Saudi-led coalition supporting the Yemeni government.",
+      "why_it_matters": "This escalation could intensify the humanitarian crisis and regional instability, impacting peace efforts and security across the Middle East.",
+      "perspective_one": "The Yemeni government and allies view the campaign as necessary to restore sovereignty and end Houthi control undermining peace.",
+      "perspective_two": "Houthis see the offensive as aggression fueled by regional rivalries, threatening their political and military gains achieved during the conflict.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQX053bnJVLTVaQk1neF9SeXl1ekFnSVFXSEtUOEltUkhXZ3M5N0xuc19FdWlkTFdnUUN5cnByQ1J4Uy1UYUdmZkxUbm1HdXo0MFVaQXJzMVZ4VHozYmxyRWs2b1E1eDF6MWdtY2pqZVl3Nl9yaVdQM2lhd1NNOVA5RXhUd3Uxems2ZGZfWnNnRHR6em5HWFFtTF9TRkxvT3JTQ3lyWjlMNUdHR0cyUVZzREFGeVkzcGpid0ZpQTZnTnp1Z204bzNIQml3YkdIZHF3MFcyY1pkczZBTENxOUpzLVptaDBVYnBsMzJTTHlHMXlKTTM2NnBKb2ppZVRNX2RnX0MyTnhKVWs5NXdMbnVoTUdUZV9IMEZ3SHJVQVRaOVI0SVZsWEg0TG9QdkvSAawCQVVfeXFMUF9Od25yVS01WkJNZ3hfUnl5dXpBZ0lRV0hLVDhJbVJIV2dzOTdMbnNfRXVpZExXZ1FDeXJwckNSeFMtVGFHZmZMVG5tR3V6NDBVWkFyczFWeFR6M2JsckVrNm9RNXgxejFnbWNqamVZdzZfcmlXUDNpYXdTTTlQOUV4VHd1MXprNmRmX1pzZ0R0enpuR1hRbUxfU0ZMb09yU0N5clo5TDVHR0dHMlFWc0RBRnlZM3BqYndGaUE2Z056dWdtOG8zSEJpd2JHSGRxdzBXMmNaZHM2QUxDcTlKcy1abWgwVWJwbDMyU0x5RzF5Sk0zNjZwSm9qaWVUTV9kZ19DMk54SlVrOTV3TG51aE1HVGVfSDBGd0hyVUFUWjlSNElWbFhINExvUHZL?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sat, 03 Oct 2026 03:09:26 GMT",
-      "category": "Middle East Affairs",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/MuslimWorldDemographics2022.png/1280px-MuslimWorldDemographics2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons \u00b7 Cjohnst88 \u00b7 CC BY-SA 4.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:MuslimWorldDemographics2022.png"
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sun, 04 Oct 2026 14:24:56 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
+      "image_credit": "",
+      "image_source": ""
     },
     {
-      "headline": "fda adds new warning to weight loss drugs including wegovy - polskieradio.pl",
-      "summary": "The FDA has added new warnings to several weight loss drugs, including Wegovy, advising of potential side effects. This update is intended to enhance patient safety and provider awareness about risks.",
-      "why_it_matters": "The added warnings could influence prescription practices and patient monitoring, impacting public health outcomes related to obesity treatments.",
-      "perspective_one": "Supporters emphasize the need for transparent communication on drug risks to ensure informed patient choices and reduce adverse effects.",
-      "perspective_two": "Some worry that warnings might discourage use of effective treatments, limiting options for obesity management.",
+      "headline": "Saudi Arabia to cancel Joy Awards, its answer to the Grammys, amid budget cuts, sources say - reuters.com",
+      "summary": "Saudi Arabia is reportedly canceling the Joy Awards, an event modeled after the Grammy Awards, due to budgetary constraints. The decision reflects broader economic adjustments amid shifting priorities within the kingdom.",
+      "why_it_matters": "Canceling a high-profile cultural event signals possible shifts in Saudi Arabia\u2019s investment in entertainment sectors amid fiscal pressures, affecting the country\u2019s soft power and cultural outreach.",
+      "perspective_one": "Supporters justify the cancellation as a prudent response to manage fiscal deficits and prioritize essential expenditures.",
+      "perspective_two": "Critics argue that cutting cultural initiatives could impede efforts to modernize the kingdom\u2019s image and diversify its economy.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLUcyUVNBN1FQNWtoSTVyYmUtOHVpSE9ITWFvcnBld2x4elhtUmstenlaeldBU2Y3YXo3UWsyal9POXh2TlRXWXFqQWJ3RE5rU2R6WDUxQzdNREJuZ2pPaHZhdWVnUmRQdGhzV1h1MHY5alNKMnlJMzFTLXZ6dG51TVhUV0owSEhUcGtXQzdwM2xBbDFyMkhqM3AzU01DVXB1b0l3c3NvR2xaOVJ4UUliTG5qWmxVV2JkcURlZ0V3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaGlCbF9ndWdLajlpaVVlZFFiQ25vOVkwWmJZemd2VTJVSnhyUFZ0TmFXckZuT1VLYXkxejZEZV9NTlJ0WE5ocFBuRlNvSDJpVWZaTnZHRV9jcXRsU3l6QmVQeHhnanhMQlg1ZXFFU1pDZnE5Q0ZQaDI4RmhkQ0I5Q09oc1RjSmN1LU9LZlNzbDBZN3BGRG9xRzhrMkNTQ0xCTmJXNnRtVHMxVXdyTTBQeWhSNXJBNXpLTm55M3dFTGs2OWc2N2t3c3U5SGg?oc=5",
+      "source": "Reuters Middle East",
+      "published": "Sun, 04 Oct 2026 12:06:09 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-saudi-arabia-to-cancel-joy-awards-its-answer-to--fa5d28eaf5.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "fda approval august 14 2025 weight loss drug - polskieradio.pl",
+      "summary": "The FDA approved a new weight loss drug on August 14, 2025, representing a notable advancement in obesity treatment. The drug promises enhanced efficacy, offering alternatives beyond traditional diet and exercise approaches.",
+      "why_it_matters": "This approval could significantly impact public health by expanding safe, effective medical options to address the global obesity epidemic.",
+      "perspective_one": "Proponents highlight the drug\u2019s potential to reduce obesity-related diseases, improving patient outcomes and quality of life.",
+      "perspective_two": "Critics caution about possible long-term side effects and question the drug\u2019s affordability and accessibility for all patients.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tOFBFNnNxZ1hCQ2dPUmFjdnJmVkd5RDdvdTVGei1ieU9nRDNFeWp5aW5xaUx5OFptQTdTdGJyZHNGU2xTY2xSaDVYazFiRndid0hva1FmY002bW5jRVlLaw?oc=5",
       "source": "Health & Medicine",
-      "published": "Sat, 03 Oct 2026 17:27:19 GMT",
+      "published": "Sun, 04 Oct 2026 09:06:09 GMT",
       "category": "Health & Medicine",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
       "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
     },
     {
-      "headline": "RBI Governor Warns Next Financial Crisis Could Begin With Cyberattack or Technology Failure - The420.in",
-      "summary": "The Governor of the Reserve Bank of India warned that the next financial crisis could be triggered by a cyberattack or technology failure. This highlights the increasing vulnerabilities of financial systems to digital threats.",
-      "why_it_matters": "Such risks emphasize the need for robust cybersecurity and technological resilience in the banking sector to prevent systemic economic disruptions.",
-      "perspective_one": "Proponents stress urgent investment in cyber defenses and infrastructure upgrades to protect the financial system.",
-      "perspective_two": "Some caution that focusing on tech risks might divert attention from traditional economic weaknesses needing reform.",
+      "headline": "Anwar welcomes Bahrain investment as F1 brings Gulf ties into focus - Malay Mail",
+      "summary": "Malaysia\u2019s Prime Minister Anwar encourages Bahrain\u2019s investment in his country amid growing economic and technological cooperation highlighted by Formula 1 events. This signals strengthening Gulf-Malaysia relations with strategic economic implications.",
+      "why_it_matters": "Such investments and shared high-profile events like F1 foster deeper regional ties, innovation exchanges, and economic diversification efforts in Southeast Asia and the Gulf.",
+      "perspective_one": "Supporters view this as a diplomatic win boosting foreign direct investment and regional collaboration to accelerate economic growth.",
+      "perspective_two": "Skeptics warn it may increase dependency on Gulf capital and question the long-term benefits for local industries.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rdXAzSWV3eEgtdHhoYnhpRVFZVVY4TmtYdXpXeG40QVpjdkVGTl92bW80VmtDc3EwM2NCT3dmekxiRHUxMVNhT1ZvcXRZOEJ1U0tpcThId3hleTJ0Qmo3VzJUMjd2SjZCUmM0Y1pEelVDNXBZT1ZMRFZxMXh2dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkkwbFJWdzNQaElxQVZyV0NrRlUzZ2E0RmRwekZ3dTFyNEhoNFcyTVI3NGRzU3ZzLXZfSmRMZFJnUnowMEJlWXpEUFB1SEJRbkFfVUpkX25yX2NPanBBVHFVTkdpeU5PQTRhOGlPREhkM3c3c0pfRnExVTdWZ2ZzajI4OFdfSElMVHdTT3RlazIxcTdGWW9NV2EyaEdsTWFHUmNQYWJXV3BMaW1WMWJuZ2piUTJCdzNLUF9wQUFxdVdtU2FiWTdjNNIByAFBVV95cUxOVkkwbFJWdzNQaElxQVZyV0NrRlUzZ2E0RmRwekZ3dTFyNEhoNFcyTVI3NGRzU3ZzLXZfSmRMZFJnUnowMEJlWXpEUFB1SEJRbkFfVUpkX25yX2NPanBBVHFVTkdpeU5PQTRhOGlPREhkM3c3c0pfRnExVTdWZ2ZzajI4OFdfSElMVHdTT3RlazIxcTdGWW9NV2EyaEdsTWFHUmNQYWJXV3BMaW1WMWJuZ2piUTJCdzNLUF9wQUFxdVdtU2FiWTdjNA?oc=5",
       "source": "AI & Technology",
-      "published": "Sun, 04 Oct 2026 07:07:30 GMT",
+      "published": "Sun, 04 Oct 2026 01:03:09 GMT",
       "category": "AI & Technology",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-rbi-governor-warns-next-financial-crisis-could-b-1a3a97e084.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-anwar-welcomes-bahrain-investment-as-f1-brings-g-c8824f9c2c.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "16 entities, initiatives honoured with tourism awards - thedailystar.net",
-      "summary": "Sixteen tourism entities and initiatives received awards recognizing their contributions to the industry. The honors aim to encourage innovation and excellence amid challenging global travel conditions.",
-      "why_it_matters": "Recognizing tourism achievements can stimulate economic recovery and promote sustainable development in a critical sector impacted by the pandemic.",
-      "perspective_one": "Award recipients highlight the importance of creative approaches to revive and strengthen tourism.",
-      "perspective_two": "Some critics suggest awards should also address more systemic issues like environmental impacts and labor conditions.",
+      "headline": "Weak jobs, sticky inflation: Fed faces fresh dilemma over next US rate hike - MSN",
+      "summary": "The Federal Reserve confronts a challenging balance as U.S. job growth weakens while inflation remains persistently high. Policymakers must decide whether to raise interest rates again or risk derailing economic recovery.",
+      "why_it_matters": "The Fed\u2019s decision will directly influence borrowing costs, consumer spending, and overall economic stability amid conflicting signals from labor and inflation data.",
+      "perspective_one": "Some policymakers advocate for a rate hike to curb inflation before it becomes entrenched, protecting long-term price stability.",
+      "perspective_two": "Others warn that raising rates amid weak job numbers could suppress growth and increase unemployment, harming recovery efforts.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEV0WW44d0E5WVc1bXpqbmZDakZXbnlQVEUzWlAwTEJxRmhRTHhHNXNkVW9fYVZSTU5UZWg1UlNHOS1rOFo4NVBvTDh4NmFHTU9HSmtiM1BJSVpOMjA0VFd5Z0ZHMEI1M3NwRTlkZXNDdWlEYUlvanM1RkZoQVJvUGRrRlJqX2YwNWhqTlloZ0N2YnlnS3VIcG5iWEk4MUxMMHVQQUlXUXF5UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFRZejdZdzM4Yk9LSkgyOFFaNDNiQUNpV3poblJyNFhaYnZoOXhBOVpjMnFsWVV6WHFMQkE4VWxNWWh0cG5WRGNURjZidl9hMWVYb3pocDItY09tUEhhT3pWMVdZbjhldEdxR2JRZHZIYlJkWnFhZTFUa3p5T1h4dk5NOWxmQkx1Q2tLb2lmWXprVUtRQlR1dWxFTlFUVmc2T3E2UUcyb1NaNWpQVUNDb3h4TG01MnlrUXNkMU1ScVh6NWNFcmk2Wm5qRXBvaktMSnBCUWtUNGVxakFkLTUta0hGd2ZoQQ?oc=5",
       "source": "Business & Economy",
-      "published": "Sun, 04 Oct 2026 05:37:30 GMT",
+      "published": "Sun, 04 Oct 2026 05:30:30 GMT",
       "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-16-entities-initiatives-honoured-with-tourism-aw-0a040bff59.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Journal_of_the_Royal_Society_of_Antiquaries_of_Ireland_%281915%29_%2814780180924%29.jpg/1280px-Journal_of_the_Royal_Society_of_Antiquaries_of_Ireland_%281915%29_%2814780180924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Internet Archive Book Images \u00b7 No restrictions",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Journal_of_the_Royal_Society_of_Antiquaries_of_Ireland_(1915)_(14780180924).jpg"
     },
     {
-      "headline": "Indian-origin US lawmaker Raja Krishnamoorthi introduces bills to help immigrant doctors, nurses - The Times of India",
-      "summary": "U.S. Representative Raja Krishnamoorthi introduced legislation aimed at easing pathways for immigrant doctors and nurses to practice in America. The bills address workforce shortages and eligibility barriers in healthcare.",
-      "why_it_matters": "Facilitating immigrant healthcare professionals\u2019 integration can help alleviate staff shortages and improve patient care quality across U.S. medical facilities.",
-      "perspective_one": "Supporters argue these bills prioritize essential workers and enhance diversity in healthcare delivery.",
-      "perspective_two": "Opponents might raise concerns about credential verification and competition for jobs among domestic workers.",
+      "headline": "Who will replace Martin Perez on the Braves playoff roster? - SportsTalk ATL",
+      "summary": "The Atlanta Braves are determining who will fill the roster spot left by pitcher Martin Perez for the upcoming playoff games. The choice will affect bullpen depth and strategic pitching decisions during crucial postseason matches.",
+      "why_it_matters": "This roster decision influences the Braves\u2019 pitching strategy and potential success in high-stakes playoff competition.",
+      "perspective_one": "Some team analysts favor a veteran reliever who can provide consistent innings and experience under pressure.",
+      "perspective_two": "Others suggest giving a younger, high-upside pitcher a playoff opportunity that might energize the bullpen.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZ1hwRUdHLXkzbnFPRUpIeF9DaWdpcHUwd3pJajhIaHRHb2RpZFV4bDhyel91cHZadUUxQ0NfcmthN2RUdXdraE9zVDZnS1cwSWtWYnRJeGFqMnloclREcWI2S29ndXJWNm9jd3dEV0wxNnBpa3ItV0gtMDBzZDUxOWRFb2xEcHk4RFVkR1pZMFdVMlFFSm55ZDA5SzhDRURaWHdYbTNLbnl6YUtCSTk1bWxsYTM1cmFPMWlFTjRadDRqdWIzeHI4Z3hKUnJQT21FZDlyMENnM201N3dpb2M5bTk1a05GNVVFT2FSRzFOLUdKSGsxRDVaSERn0gH_AUFVX3lxTE9ZZTZjOUVaRTUxaWwxb0k2dzVTamJWVTJRemhTeGsxSUkwZEREQ2lvWFhyNVVxQ1owc2VxNEtQb0pqcnZ1N1lRRldaQV9NYnk0OXo2WjJJWHU3ZTZsa1ZQVDNlUU1ueTVhaEJYbFRac3BwRzdkeEFEYlAwNGl6Q3YtT0FIZ2RXRlNtUS0xeWNxWHdLTXY3N0hEd1BsOXFGeGpNZGl5QmswY1gydVZneTZ4dHZRYy10YWNKMGtKM2NNTFVRalNJOTN6UDJqV1EzRnVqWGtTdHMtOTJhWUFGSE9TRENpeldVYXczOWV1TTNib1hIQmZtdWE2RUoyZFdOMA?oc=5",
-      "source": "U.S. News Society",
-      "published": "Sun, 04 Oct 2026 12:13:00 GMT",
-      "category": "Society & Culture",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-indian-origin-us-lawmaker-raja-krishnamoorthi-in-41dc637cc6.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Projecting the College Football Playoff top 12 after Week 5 - espn.com",
-      "summary": "ESPN projects the top 12 teams for the College Football Playoff following Week 5's results. These rankings affect team strategies and fan expectations as the season progresses.",
-      "why_it_matters": "Playoff projections influence recruitment, media attention, and the financial stakes of collegiate sports programs.",
-      "perspective_one": "Some analysts emphasize statistical performance and strength of schedule as fair indicators of playoff prospects.",
-      "perspective_two": "Others caution that unpredictable factors like injuries and late-season momentum can upend early projections.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekxXaEhxY2g3WEJJNjlTVkpnc3pKQnFuQ1ZmOGpqa0xtZzZtUGlRSkJ2ZXlTLV9Ha1A5Ylh2WEEtd3JyWFd2WFhUNWVnU21ZLU1DRGhCcWZ1d0tWYTBQN3M1LUlFcGtGOHBYYy1kQkVRalVWbm5OdEJGYTJFaE5EMFREMWptTHFOdkZ3TUxoaEJSRVFqVHpsb2ZyWGYzLWJvUFZWcW5XZkdfWEtMc1ktb3FB?oc=5",
-      "source": "College Sports",
-      "published": "Sun, 04 Oct 2026 03:11:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzQ4a0hlRXozdDZzU0ljQ1FpSnM5MUI3SmdXeTF6c3dPT3NLVHhZSDcwclEwbWcxT3BleXNvdVVnTklONkNiclJqajU0aldlbkRnMkdqUGpjbnlrdkZOYkU5TVNNMVFGQ2Z1Mi1GYUl3MHZyVFZrWnBuaTBYT19rZTZkRUVYNEJnVzZwUjBR?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Sun, 04 Oct 2026 13:15:14 GMT",
       "category": "Sports",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-projecting-the-college-football-playoff-top-12-a-f7d300a2bf.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-who-will-replace-martin-perez-on-the-braves-play-73dba0c739.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "AI Chatbots Will Never Replace Advice From Elders, Say Seven of 10 in New Poll",
-      "summary": "A poll in the UK finds more than 70% of adults believe AI chatbots cannot replace wisdom from elders, despite 21% using AI tools regularly. The study highlights enduring trust in human experience over algorithmic advice.",
-      "why_it_matters": "This sentiment underscores limits in AI adoption for personal guidance and suggests continued value in intergenerational knowledge transfer.",
-      "perspective_one": "Advocates stress AI\u2019s efficiency for information but acknowledge irreplaceable life lessons come through elders\u2019 experience.",
-      "perspective_two": "Skeptics argue overreliance on elders may hinder acceptance of helpful AI innovations that can augment decision-making.",
+      "headline": "Good News in History, October 1",
+      "summary": "October 1 marks the 102nd birthday of former U.S. President Jimmy Carter, noted for his Nobel Peace Prize and legacy of diplomacy. He is also recognized as the first American president to reach centenarian status.",
+      "why_it_matters": "Reflecting on historic figures like Carter highlights the enduring impact of presidential leadership on peace efforts and public service.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/ai-chatbots-will-never-replace-advice-from-elders-say-seven-of-10-in-new-poll/",
+      "url": "https://www.goodnewsnetwork.org/events061001/",
       "source": "Good News Network",
-      "published": "Sun, 04 Oct 2026 11:00:36 +0000",
+      "published": "Thu, 01 Oct 2026 07:00:00 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Senior-Actress-Sue-Johnston-for-Maltesers-SWNS.jpeg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/10/Jimmy-Carter-White-House-photo-cropped.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "'A Republic, if you can keep it': We served presidents from both parties and have never been so concerned about election security - Fortune",
-      "summary": "Veterans who served presidents from both parties express unprecedented concern over U.S. election security ahead of the midterms. Their alarm signals heightened vulnerability to interference and erosion of trust in democratic processes.",
-      "why_it_matters": "Concerns from bipartisan insiders could pressure reforms to safeguard election infrastructure and rebuild public confidence.",
-      "perspective_one": "Some believe that robust election protections are critical to preserving democracy against cyber and misinformation threats.",
-      "perspective_two": "Others argue fears of interference are sometimes overstated and used to justify restrictive voting measures.",
+      "headline": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term - The Hill",
+      "summary": "Ahead of the 2026 midterms, former President Trump is actively campaigning to support aligned candidates, while the Supreme Court begins a new term addressing contentious issues. These events signal intensified political activity influencing electoral dynamics and judicial decisions.",
+      "why_it_matters": "Trump\u2019s endorsements could sway key races, affecting Congressional balance, while the Court\u2019s docket shapes legal precedent on critical national issues.",
+      "perspective_one": "Trump supporters argue that his involvement energizes the base and promotes conservative governance.",
+      "perspective_two": "Critics view his influence as divisive, threatening democratic norms and fostering political polarization.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2oxRUktU25KZm10V2J4cjZLa3ZWQmJVTVVnQ3ZLdF9WaUpseHpRWVM1YjV6N2lNNE5JZWlFNDVVVTBDOEwxNExsZEZoRmpLdTBYbk9LMWJlbk94UnF4WlpiVEFTY0hLRm5wcndoQnBUbGpubEU3X0ZXZ0lMTDhkUlJVazlkdzZ1aC1rR2JuYXVrRGFFRUVGUw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1hKR1NjYU9wTkszbVNsVjFpSjBWSWFNYW1Bd1QzdDBsR1VYdk9NM1ZSMHFHVFJLdUtPRHdtUFF0TnF6VmljT1RwYTFJVWZibVBmOG1hU01kZmZPVzNxZDB1X1Vlc3NPb2ZmdGtPOU16QUR2UTRCY05xX1h5ZVR1cDNJYnNrejMyLXlfOXQwVELSAZYBQVVfeXFMTWtVVWlXZkhRLUYzNkM0TUx6aHVFWUtCZ2ZyN2d2eUhsbVB2REZOT18tUG9Qa3pGSmNSdExFaThwblVfS0p5Z3E4S0VKYkFZNE5rVk1PQllNTl9nOU5qZjVTR2JQY0NQeUFJMWZBdVB4elp1Zm1UVVJ1cjlmOHZhU1V4NGxaQlFrWktLd2lnelFyZFpaY0RB?oc=5",
       "source": "U.S. Politics",
-      "published": "Sun, 04 Oct 2026 10:00:00 GMT",
+      "published": "Sat, 03 Oct 2026 20:37:00 GMT",
       "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-a-republic-if-you-can-keep-it-we-served-presiden-668a7e3fe7.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-sunday-shows-preview-trump-boosts-midterm-candid-ef7837b0f4.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Politics chat: Midterm polls, Senate races, Trump in Texas",
-      "summary": "Recent polls ahead of the midterm election reveal shifting dynamics in Senate races, with President Trump actively campaigning for GOP candidates in Texas. These developments may influence voter turnout and Senate control.",
-      "why_it_matters": "Polls and campaign efforts shape electoral strategies and perceptions of candidate viability, affecting legislative agendas post-election.",
-      "perspective_one": "Some view frequent polls as valuable barometers for voter sentiment and campaign effectiveness.",
-      "perspective_two": "Others warn that polls can be misleading, causing complacency or strategic miscalculations among voters and parties.",
+      "headline": "How high-profile scandals are shaping key contests ahead of the midterms",
+      "summary": "High-profile scandals are influencing several competitive races as the 2026 midterm elections approach, particularly in districts where margins are narrow. The controversies are reshaping voter perceptions and campaign strategies.",
+      "why_it_matters": "Scandals can decisively affect election outcomes by altering voter trust and engagement, thus impacting future legislative priorities and governance.",
+      "perspective_one": "Some argue that exposing corruption strengthens democracy by holding officials accountable and promoting transparency.",
+      "perspective_two": "Others contend that scandals are often exploited for political gain, distracting from substantive policy debates.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5985905/politics-chat-midterm-polls-senate-races-trump-in-texas",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5983806/how-high-profile-scandals-are-shaping-key-contests-ahead-of-the-midterms",
       "source": "NPR Politics",
-      "published": "Sun, 04 Oct 2026 08:06:04 -0400",
+      "published": "Sat, 03 Oct 2026 07:47:05 -0400",
       "category": "U.S. Politics",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-      "summary": "Women in the Latter-day Saints community in Arizona have grown reluctant to support Republican congressional candidate Mark Lamb following sexual misconduct allegations. Democrats see this shift as an opportunity to flip the historically red seat.",
-      "why_it_matters": "Changes in voter behavior among key religious demographics could impact tight races and alter party representation in Congress.",
-      "perspective_one": "Supporters argue allegations taint Lamb\u2019s suitability and reflect poorly on Republican values.",
-      "perspective_two": "Defenders contest accusations as politically motivated, warning against undermining due process and electoral fairness.",
+      "headline": "What to know about Brazil's election pitting Lula against Fl\u00e1vio Bolsonaro",
+      "summary": "The upcoming Brazilian presidential election is expected to be a close contest between incumbent Luiz In\u00e1cio Lula da Silva and challenger Fl\u00e1vio Bolsonaro. Polls indicate a highly polarized race reflecting broader social and political divisions.",
+      "why_it_matters": "The election outcome will influence Brazil's domestic policies, regional leadership, and its global economic and diplomatic relations.",
+      "perspective_one": "Lula supporters emphasize social welfare expansion and progressive reforms to reduce inequality.",
+      "perspective_two": "Bolsonaro\u2019s base prioritizes conservative economic policies and law-and-order approaches to address crime and corruption.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-      "source": "NPR U.S.",
-      "published": "Sun, 04 Oct 2026 05:00:00 -0400",
-      "category": "U.S. News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7327x4885+0+0/resize/7327x4885!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2Fe7%2F1a6acfe94244a59c1f4eb68d297a%2Fgettyimages-1247558620.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sun, 04 Oct 2026 11:03:20 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
-      "summary": "In the 2026 Texas primary, Senator Cornyn and Attorney General Paxton are advancing to a runoff while candidate Talarico has moved forward in another race. These results shape the competitive field ahead of the general election.",
-      "why_it_matters": "Runoff outcomes will determine key Republican nominees, influencing Texas political alignment and national legislative balance.",
-      "perspective_one": "Supporters of runoff candidates emphasize proven experience and party loyalty as assets for election success.",
-      "perspective_two": "Opponents advocate for new leadership and policy shifts, reflecting changing voter priorities within the party.",
+      "headline": "She died covering war for Fox News. Her parents blame the network \u2014 and a star reporter",
+      "summary": "Families of two Fox News journalists killed while reporting on the Ukraine conflict are suing the network, alleging it prioritized sensational stories over their safety. The lawsuit accuses the network and a prominent reporter of reckless conduct in dangerous war zones.",
+      "why_it_matters": "This case raises critical issues about media responsibility, journalist safety in conflict zones, and the ethical boundaries of war reporting.",
+      "perspective_one": "The families argue that Fox News failed to provide adequate protections, valuing ratings over reporters\u2019 lives.",
+      "perspective_two": "Fox News may contend that coverage decisions involved inherent risks accepted by journalists operating in conflict areas.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
-      "source": "Associated Press U.S.",
-      "published": "Sat, 03 Oct 2026 11:53:01 GMT",
-      "category": "U.S. News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-texas-2026-live-primary-election-results-cornyn--44a0e276f4.webp",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+      "source": "NPR World",
+      "published": "Sun, 04 Oct 2026 06:00:00 -0400",
+      "category": "World News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x3000+0+0/resize/4800x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F6f%2F09b190a0450caf4225fc0a616abb%2Fukraine-fox1.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "U.S. withdrawal from Iraq is complete",
+      "summary": "The United States has officially completed its military withdrawal from Iraq, ending a 23-year military presence that began with the 2003 invasion. The withdrawal marks the conclusion of a major chapter in U.S. involvement in the Middle East.",
+      "why_it_matters": "This withdrawal alters the regional security landscape, affecting U.S. influence, Iraqi stability, and counterterrorism strategies.",
+      "perspective_one": "Supporters believe ending the military mission respects Iraqi sovereignty and reduces U.S. overseas military commitments.",
+      "perspective_two": "Opponents warn withdrawal risks a resurgence of extremist groups and undermines regional allies reliant on U.S. support.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
+      "source": "NPR World",
+      "published": "Sat, 03 Oct 2026 17:57:33 -0400",
+      "category": "World News",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Israel's National Security Council warned of failures in screening flight crews - Haaretz",
+      "summary": "Israel\u2019s National Security Council has issued warnings about deficiencies in the screening processes for flight crews. These failures raise concerns about aviation security and potential risks to public safety.",
+      "why_it_matters": "Effective security screening of airline personnel is critical to preventing threats and ensuring the safety of passengers and national airspace.",
+      "perspective_one": "Security officials stress that improved vetting is urgently needed to mitigate risks and comply with international standards.",
+      "perspective_two": "Airline representatives may highlight operational challenges and complexities in implementing stricter screening without disrupting services.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPNXh6dmFHOGZHaTRLakdiN1B3YWEwbW5mQ1lBRkRaeFpHdzRHSWlCQV9LWExIR2FkLUxJVlBFQXEtYWxET2NtU092UDR2VzVpeDRtTHhwRlRBTzk5c05fdEF0ajhOQzVWNHZPQXV2MGw2NGpCRUtGUmlNempTaEtfMHBQYUJ2SllkTDJqUmtndEwyUlJFZkVvZDNtaU5SWlNvUHVhSjFvOERkSlhnWjZCcUp0OFlCLWYzU2Y0RWZ2T2Q2RVFmU3MtdzBtRHREdnUyVm5OZlhXOTB3U2d6Z1A5b0ZyQllNM2JibGZfOFMxYldCSE5DaVVEU3V2WWpDRnZzY1hYb0E2eVJjZEhITXJaTjREQ3lQT2xmTXV1dFVFcnV5ajltN3c?oc=5",
+      "source": "The National Middle East",
+      "published": "Sun, 04 Oct 2026 10:07:00 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-israel-s-national-security-council-warned-of-fai-027dfae5d7.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Will Spain's housing crisis lead to a snap election?",
-      "summary": "Spain faces potential snap elections after Congress rejected multiple measures to address the country's housing crisis, prompting planned public marches. The political deadlock complicates efforts to stabilize the market and provide affordable housing.",
-      "why_it_matters": "The impasse threatens to delay policies critical for economic recovery and social welfare in a sector affecting millions of citizens.",
-      "perspective_one": "Some lawmakers argue decisive parliamentary action is necessary to resolve the crisis and prevent further instability.",
-      "perspective_two": "Others contend that rushed measures could harm market dynamics or burden taxpayers without long-term solutions.",
+      "headline": "UAE residents' update: Flight cancellations, Trump warning on Iran, Saudi Arabia-Houthi tensions - Gulf News",
+      "summary": "UAE residents face disruptions due to flight cancellations amid heightened tensions involving Saudi Arabia and Houthi groups, alongside recent warnings from former President Trump about Iran. The evolving security situation is causing travel and diplomatic uncertainties in the region.",
+      "why_it_matters": "These developments impact regional stability, international travel, and diplomatic relations among key Middle Eastern actors.",
+      "perspective_one": "Regional governments emphasize maintaining security and managing diplomatic tensions to prevent escalation.",
+      "perspective_two": "Critics warn that ongoing conflicts and rhetoric risk provoking broader confrontations and harming civilian populations.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 03 Oct 2026 12:26:30 GMT",
-      "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2169/live/c040d170-bf23-11f1-bc2e-018d645d8d21.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGRMdnRkOWsybzdFS2NlNzVENGFOcy00b1Z4Wm1CRlljaE1nZDMzdGo1SXpKc2ZCR1BDOXJtMnZBYUY2UnhlSGJkRV9vQ2xXdjV4Nl9EbjQxd0hCSTdlaHpfZzJZck9NcjVsSWUyWDVyblQ5bHRXdzdYTjhnMFE4eWRZcVhvX0hhSS1uLTc0bGd6cGx3ejh1amZhanFoTk5SdnNPQmVpSlJNclVkTHBvbmh6bm5FME9PQlhIcUFVSDdtV0JfVUhWd9IB2AFBVV95cUxOMHNGUUozdFFzLVd3QXllZnRRTTNkeldWTWpxaXdQUGpCSEtPTURoWGl6anpEaDBsdHVEenZibnNOSlFqLXE5MTRidml2dkRNN2F3eDNULU94azB6dVdrYmRTWVN6QTZTZ2FjWC16MXUtbFhfSENzYUxQYklEN1VkT0NrSC1SalZJNWkzV0RWVVE2Rm1DRWN2M21FZkxVOXI2dWlLbWRDRFpYeldNYUNQQk5CNU94UzdlVGNtbFhpc1JmbTlpYzdJTFFsZFNxTkk5V2dSVnRyOEM?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Sun, 04 Oct 2026 04:50:24 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-04-am-uae-residents-update-flight-cancellations-trump--3333370d98.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     }
   ],
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "\u2018Activist judge\u2019 rules Congress cannot bar noncitizens from voting in federal elections - WFIN",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnJhTldQTHhQM1NQamdkNng1bV9LSExpMHFBTXZsWFJ1aXFLaE5FTmwtX3JvQTVaOWd0WW9UZS1xeXRSUjhfSGVtLVdTOU1ocEs5eEdicXktdU90ZjJmXzFOTDBkRmZMS2QtYk5Sc1o0bDVDMDJRZ2xkaERzTEQ4bUlxeGRsTW9XWHdwTUcxZHc4TFdYUHZVOXAwaG9ZX0tGdjdMRTB4UjFrV2VrTkttaVJZWHJOZE1vVW1ub1JoUQ?oc=5",
+        "headline": "Trump\u2019s opponents are planning efforts to reverse his changes to presidency - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWJqNEZYUVlpbUVyc3k3T0l0VndYRU1RTm05VzZsdlZILUNCQ2pHZTBaSHN3bDlQSmNxRVRTdndCRTlORmtrN3FFenNLNzItTVhtbHNDelRobFJRdkM2ajhXNlloX3c0NFVqZUNPMm0zSDl1Sk84c1c5TTBZbXBvRVVRYWhTTzZYYmt2UGM3R0s0ekdyZEdkNEtFaEtyVXpvWWpJWGo5UUZqcHdLMXFIOWV6Yw?oc=5",
         "source": "U.S. Politics",
-        "summary": "\u2018Activist judge\u2019 rules Congress cannot bar noncitizens from voting in federal elections WFIN"
+        "summary": "Trump\u2019s opponents are planning efforts to reverse his changes to presidency The Washington Post"
       },
       {
-        "headline": "Supreme Court kicks off new term with fresh questions over its legitimacy and its future - 930 WFMD Free Talk",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3dhQTE5SUhmblpCSXRMbElleDZ3aWx2S185T2xFSkNFX2hPcE1RdURoaDhKajYwM09Td1p1SHR5bUxzTUxzdU4xWHlaSzUtYmF3alctUjlncWFWV2VBay1PTGlYX1M3UGdtQUJBZXVsdkR5alNxeE5FRW1UUEg5YkVLQTRxcC02WjdudXVSUXdTcWlNSG40aDFoUEZta1NpdXJQUFltZzJnZ2dzeTJqRnlWVndwSmFrMHVGNXVR?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Supreme Court kicks off new term with fresh questions over its legitimacy and its future 930 WFMD Free Talk"
+        "headline": "Sen. Moreno says Rep. Max Miller 'should not serve in the House' for allegedly abusing his daughter - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlFOUUxucXVJZXFmV0FfUjk0MGlrZHU4MFBaamU2WFdsY3EtX25iNXJ6Y2ZJTkdrMnBYLUtXeTlIRmhkOUdveVc1aWZzaDM4cnBWUUJnQ3U3NWxmRERjM0ExaG1qSDRLVUdLazNCbGVoRWRNOU9ycGxvZEJtT1dvY0tuVFFPZXFvZ0EyN0I0cUU0UUJwemtSeGlNNWzSAaIBQVVfeXFMT2VnZkw4Ulk3TEZ3NDdqSk56d050MHZjVXZFbHl1cXhVeXFlSktubmVvbTFld1J1bHNWNmVQMHppTm9fN0xYVjNJWXZaOG5xa184WVZzU2JGN3dmcnVfMnlGWjNVaGZHMmtqQUwxMnRoR19LRlBBeXJBRVEtSE5CM1VYeUxBNnF6LVdPcjZSYkdOSHphN3BHajdWZFQydXBHZE1B?oc=5",
+        "source": "USA Today Politics",
+        "summary": "Sen. Moreno says Rep. Max Miller 'should not serve in the House' for allegedly abusing his daughter ABC News - Breaking News, Latest News and Videos"
       },
       {
-        "headline": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1hKR1NjYU9wTkszbVNsVjFpSjBWSWFNYW1Bd1QzdDBsR1VYdk9NM1ZSMHFHVFJLdUtPRHdtUFF0TnF6VmljT1RwYTFJVWZibVBmOG1hU01kZmZPVzNxZDB1X1Vlc3NPb2ZmdGtPOU16QUR2UTRCY05xX1h5ZVR1cDNJYnNrejMyLXlfOXQwVELSAZYBQVVfeXFMTWtVVWlXZkhRLUYzNkM0TUx6aHVFWUtCZ2ZyN2d2eUhsbVB2REZOT18tUG9Qa3pGSmNSdExFaThwblVfS0p5Z3E4S0VKYkFZNE5rVk1PQllNTl9nOU5qZjVTR2JQY0NQeUFJMWZBdVB4elp1Zm1UVVJ1cjlmOHZhU1V4NGxaQlFrWktLd2lnelFyZFpaY0RB?oc=5",
+        "headline": "Beshear teases 2028 run, shares message of healing at Nashville stop - commercialappeal.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdkhoV0hxT3o1Uy1yeTMxVklYWFZyQW1DbWlzck1sR2FGVU00M0p1Si1iNklodWk4dFFFeW4xSXpCYzE5VENaYXBmcWJRUnNxVmxjcVRSU3Z3ZWQzeUxzYTZWZHF2V1N4dzA5ZXJ5MkdLWU9IX1BNNW5VSVFObi05eGlXLW5qNlNodVNENURzcUExc21PLURkX0NuMGZ5bzhiOWJ6LXdsenJ2dnJUNm9MWEpCcGlyOHJOYmEzZHMyVGctLUFDSnJ1RnpWV1JpamIwLU5aemNhSmc4dWo1MENZaFQ3Nm9obm01?oc=5",
         "source": "U.S. Politics",
-        "summary": "Sunday shows preview: Trump boosts midterm candidates in final stretch; Supreme Court opens new term The Hill"
+        "summary": "Beshear teases 2028 run, shares message of healing at Nashville stop commercialappeal.com"
       }
     ],
     "U.S. News": [
-      {
-        "headline": "Latest Senate Polls: Midterm Elections 2026 - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5",
-        "source": "USA Today U.S.",
-        "summary": "Latest Senate Polls: Midterm Elections 2026 The New York Times"
-      },
       {
         "headline": "Monroe Freeling to play in Week 4 - USA Today",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGZTeEJOQmJHbDBERlhwV2tlU1kyaFhYMTd4QUVOTHdMWW9odDl3Mi1XUDFGdVhZVHp0VkdfcVQxeDIwSmZNVjlCdXBKSHlhNXRmUFZvZXQ4UUxXTkExc3V0LUVZYVhDMUx0R3ZScGZvbmN0S3oxMjR6cXZrZ3B2akJnenluVVF6dlB4S3BLTkxQZ3MyREJqUk9Qb1hVZnhGWmZCcDNmVXJvNDlXX3dHcllLeE1oSlI2dEJrOVBBZGQ?oc=5",
@@ -294,65 +288,65 @@
         "summary": "Monroe Freeling to play in Week 4 USA Today"
       },
       {
-        "headline": "NFL Predictions, Week 4 Picks: Expert Best Bets for Sunday - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTGlUWENYNThPY21rZXUwcEJycV8zc0xTNHNRMDJlNVhrSzFLQ1RlMXJoZk9DelpRZVJvMWUtbnJkMFNpVngyVHBHdHNXWTBKOWhCNXZ5VmVmeW54NUludFljdlAyQUVyajIxSWJHelAxTGFrbERSLVEtWkZvc2g2bmxwRQ?oc=5",
-        "source": "USA Today U.S.",
-        "summary": "NFL Predictions, Week 4 Picks: Expert Best Bets for Sunday Yahoo Sports"
+        "headline": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+        "source": "NPR U.S.",
+        "summary": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday."
+      },
+      {
+        "headline": "How the Cornell case is affecting women who have experienced sexual assault",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+        "source": "NPR U.S.",
+        "summary": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences \u2014 and call for a wider reckoning over sexual violence."
       }
     ],
     "World News": [
       {
-        "headline": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+        "headline": "Cornell president says university 'must do better' after frat house rape allegations",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
+        "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\"."
       },
       {
-        "headline": "What to know about Brazil's election pitting Lula against Fl\u00e1vio Bolsonaro",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+        "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
+        "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival."
+        "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
       },
       {
-        "headline": "She died covering war for Fox News. Her parents blame the network \u2014 and a star reporter",
-        "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-        "source": "NPR World",
-        "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people."
+        "headline": "Israel had names before flydubai FZ1073 took off, failed to flag Omani co-pilot: Report - The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNTlHMWVaLWpwa2xJTzF4RXoybm95QWgtRjVfdnFiY2JMT0lWbE5iajFCZ2t2LUswRzdJYjVWS1dZNENyRnRmMUtTUlljUDRuVWtKUEdnd3owbjNyUG44UnE0UVU3QXptR1AxZkxTdmNMMS1ZQXZySm43Y1F2T192UnBmSGtzY2tENUNpZUNCa2U5UXpPdXF5bHhKSDBpQTVEekl2Nkt2azE1ZjNublMyTW5jMWhGdzJJWEh3enRWNHNYeWgwWG5pUWw5RXg1dEYtTF9pQUdpdkLSAd8BQVVfeXFMT0xvZGxTZ185VEwtck82NWtYNmF0a1ZvSFF2Q1ZVTGM1ZHhwelpFWVF6SVpOakFYWkhMcnhQZ0pzS2JDTXEwcnlmUE8tdEZlNGVWNHdNYkJLOE1tX3lFaTZDUFh1ZWk2U290ZjQxaGdJeW45ZEtqcU9rX3FZdm1fNEcyNWlYU3l0ZnhlVndERnUxWXFwVlV0YWhUWDhuWFVkUjNZelpRNUVRaGt0dVQyXzZlZ3huY2hwN0lkSHRURThIYlRUUFB6Z3JqNEFrdEdydzJETXhzdmNPVjdFeUlaTQ?oc=5",
+        "source": "Associated Press World",
+        "summary": "Israel had names before flydubai FZ1073 took off, failed to flag Omani co-pilot: Report The Indian Express"
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Saudi Arabia to cancel Joy Awards, its answer to the Grammys, amid budget cuts, sources say - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaGlCbF9ndWdLajlpaVVlZFFiQ25vOVkwWmJZemd2VTJVSnhyUFZ0TmFXckZuT1VLYXkxejZEZV9NTlJ0WE5ocFBuRlNvSDJpVWZaTnZHRV9jcXRsU3l6QmVQeHhnanhMQlg1ZXFFU1pDZnE5Q0ZQaDI4RmhkQ0I5Q09oc1RjSmN1LU9LZlNzbDBZN3BGRG9xRzhrMkNTQ0xCTmJXNnRtVHMxVXdyTTBQeWhSNXJBNXpLTm55M3dFTGs2OWc2N2t3c3U5SGg?oc=5",
-        "source": "Reuters Middle East",
-        "summary": "Saudi Arabia to cancel Joy Awards, its answer to the Grammys, amid budget cuts, sources say Reuters"
-      },
-      {
-        "headline": "Israel's National Security Council warned of failures in screening flight crews - Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPNXh6dmFHOGZHaTRLakdiN1B3YWEwbW5mQ1lBRkRaeFpHdzRHSWlCQV9LWExIR2FkLUxJVlBFQXEtYWxET2NtU092UDR2VzVpeDRtTHhwRlRBTzk5c05fdEF0ajhOQzVWNHZPQXV2MGw2NGpCRUtGUmlNempTaEtfMHBQYUJ2SllkTDJqUmtndEwyUlJFZkVvZDNtaU5SWlNvUHVhSjFvOERkSlhnWjZCcUp0OFlCLWYzU2Y0RWZ2T2Q2RVFmU3MtdzBtRHREdnUyVm5OZlhXOTB3U2d6Z1A5b0ZyQllNM2JibGZfOFMxYldCSE5DaVVEU3V2WWpDRnZzY1hYb0E2eVJjZEhITXJaTjREQ3lQT2xmTXV1dFVFcnV5ajltN3c?oc=5",
-        "source": "The National Middle East",
-        "summary": "Israel's National Security Council warned of failures in screening flight crews Haaretz"
-      },
-      {
-        "headline": "\u2018Coal Eyes\u2019 Source Describes Sinwar\u2019s Pre\u2013October 7 Threat As Likud Rejects Warning Claims - i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdjJWdXN6d0pkTzBJRks0S29kM2Y4SGE4YndhNl9aLU9NdVkxVDlxQ1lXNXJ6OG92Q2pSY1VJcG1WY0NhQlpEbmlzUjhJX3VXdVEtZFlIcGtOb0pvd205WThuWVlTenZ2OFJWMVlYeFdOZ05HcWN5aV8xM3hJQ1M3QnRsU2xxcWtwS0NmZnJLNlhyVWZveW9nZ29mT3NkQWJsRF9HcXZXY0VfcVZHQXFJcV9CZjFZNmpUQkZFNnh5TXpvdTVEcl82V3BvTlFaZHA0OUxBbGI2MA?oc=5",
+        "headline": "UN envoy urges support for Syria recovery, warns of Israeli incursions - arabnews.jp",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXVNa3c3M1lHZjJRZFFXVEZCbERXbnJZWEZ0Wnk3eUJJc1dJdnF0MkhWTUNJUlNKTGJJUk1BTGY2MWJfYlJVN09wdFh5YU1GUFNYSnA4NThTR2diUThyRU03U2M4N1YwQ2ZtODZpbHlrd2NOTGxjMm8wSmFqdlNWaElIMEMtSmtIMnkycU1sYmI5UlpIaVpSRno2OERWOElyVGJHUFlfRTVWdk0xY3NZam8zSDJFanc?oc=5",
         "source": "Arab News Middle East",
-        "summary": "\u2018Coal Eyes\u2019 Source Describes Sinwar\u2019s Pre\u2013October 7 Threat As Likud Rejects Warning Claims i24NEWS"
+        "summary": "UN envoy urges support for Syria recovery, warns of Israeli incursions arabnews.jp"
+      },
+      {
+        "headline": "Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022 - EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVUdtaFBtRFYxdFUwWlJmekJPbGRBcEVuU1JBMXpQSXRfTWxpbFFpckRPcldLU2g1YXdobkFYWklEUzRubWgxNlBxd0RxZl9jMlJ3MkdoblhDeFFmYTgzRjNZc2VYb3B6Q1JJSFNMVS1JU2dzV0k3MjZna0tsZkxWRjhhR1BoUldKR0RzbmdvWVJRZFk3N1E?oc=5",
+        "source": "Reuters Middle East",
+        "summary": "Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022 EnergyNow.com"
+      },
+      {
+        "headline": "Netanyahu shared new intelligence on Iran\u2019s nuclear ambitions with UAE leader, source says - Egypt Independent",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGFOUmZiaVFSWThaUnJTY3hXakJ2YlFldFFyeG53ZlRnS1h5cDV5bmd6U1RyTU9JZzlUU0ZxUmtQVFRTbGJrU0M5b0tTSFl1ZkxMNDZvSFVOQkc4d1lfZVIwaWozWXNOMnBsM21YYk5uVHFCYllCLUJ2OHBkVkl3aXFkT3FsQlV0SDBHdVRrVk96V3dNc3FCNGlCd2V2UG1CeDFvX25DenpveFB0UmswbklFWHN0RUd5bEpkWk96NA?oc=5",
+        "source": "The National Middle East",
+        "summary": "Netanyahu shared new intelligence on Iran\u2019s nuclear ambitions with UAE leader, source says Egypt Independent"
       }
     ],
     "Health & Medicine": [
       {
-        "headline": "miracle fda approved weight loss drug postponed to 2022 - polskieradio.pl",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzdhNUwzSGRlTHpNX0o1eUFNQkptZEdMMUM1U3BlTU00M1hDTzBYUHlLWTlKdkRoakdEYWl5c2xQNzVKVE1pZ1c1b1ZaQlVNdFUxbTVobF9TcmJQVmNiM3pmQnM1ZEdrZDF3SFMxS0JJQVYtekxsWVZ6MVcxZjlULUlIR0FjZVd0TWpmZzNwdzFHYjNXSHh5U3pfV2ZINnZsR1dYZU54MTI?oc=5",
+        "headline": "new diet pill approved by the fda - polskieradio.pl",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWVYUkh4RkpDS3pESE5hVHBaNnZiR1c0R2pXVFpON1hSU05Wdk1Ib3dKaVNBNDl2VVNGbVp2NVctOTVjWDZLcHFyRFFaOUs5aVlSNnZrZ2JpbGxuenlJUlJZQm9FbS1RN0l5Tmd3N1hWRHo1cUNDalB0VXNOX3pkcncyWTlSWUdhU2tEUQ?oc=5",
         "source": "Health & Medicine",
-        "summary": "miracle fda approved weight loss drug postponed to 2022 polskieradio.pl"
-      },
-      {
-        "headline": "FDA approves Novo Nordisk's Awiqli\u00ae, the first and only once-weekly basal insulin treatment for adults with type 2 diabetes - Lelezard",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdjBDSFpMUzJyNXZjT05oaEVkcWRQTk02TUtkbmh4SmFKZ2s3X1JCOGoyZ09leDhDbkxBclF6ejFqQkxPRm82eTlpV1VuS3g5NHFPNl9HalZkWGFFb2o0QTVsdnQ3OWZ0ajRTSXJscXhieURNQzkxbEZHOHR5Y1AzQ1loQXFTTjhXQV9SWkVBUENUdDRQY0dmT2NSTnJyZkhrUW1WTzdLcFFPaUIzUXg2Q1dMbFMxU0czTzROTWVLOXFrNENrcGVkRjhLNVh3cTJvci12S3R4WQ?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA approves Novo Nordisk's Awiqli\u00ae, the first and only once-weekly basal insulin treatment for adults with type 2 diabetes Lelezard"
+        "summary": "new diet pill approved by the fda polskieradio.pl"
       },
       {
         "headline": "How Will Medical Device Section-232 Tariffs Impact This Sector? - Substack",
@@ -363,31 +357,25 @@
     ],
     "AI & Technology": [
       {
-        "headline": "Anwar welcomes Bahrain investment as F1 brings Gulf ties into focus - Malay Mail",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkkwbFJWdzNQaElxQVZyV0NrRlUzZ2E0RmRwekZ3dTFyNEhoNFcyTVI3NGRzU3ZzLXZfSmRMZFJnUnowMEJlWXpEUFB1SEJRbkFfVUpkX25yX2NPanBBVHFVTkdpeU5PQTRhOGlPREhkM3c3c0pfRnExVTdWZ2ZzajI4OFdfSElMVHdTT3RlazIxcTdGWW9NV2EyaEdsTWFHUmNQYWJXV3BMaW1WMWJuZ2piUTJCdzNLUF9wQUFxdVdtU2FiWTdjNNIByAFBVV95cUxOVkkwbFJWdzNQaElxQVZyV0NrRlUzZ2E0RmRwekZ3dTFyNEhoNFcyTVI3NGRzU3ZzLXZfSmRMZFJnUnowMEJlWXpEUFB1SEJRbkFfVUpkX25yX2NPanBBVHFVTkdpeU5PQTRhOGlPREhkM3c3c0pfRnExVTdWZ2ZzajI4OFdfSElMVHdTT3RlazIxcTdGWW9NV2EyaEdsTWFHUmNQYWJXV3BMaW1WMWJuZ2piUTJCdzNLUF9wQUFxdVdtU2FiWTdjNA?oc=5",
-        "source": "AI & Technology",
-        "summary": "Anwar welcomes Bahrain investment as F1 brings Gulf ties into focus Malay Mail"
-      },
-      {
         "headline": "Capcom Embraces AI for Game Development Despite Pragmata Warnings - The Tech Buzz",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQzdRVGZfcVRXTGZVd3pMUFhoX0lmYkJpNHR1UlJwQ2hQcHUzSlByTkY3eHhOR0NOOE9OeE4yVFB1b2JFTzNCck5tN0xfV2Nfbmp6eHczcGlMbExZUU15OFRlcUpZUTBnbmlLVDRlZmZVajFKWGUzeXhoa0dKRHdJWEpyWDl6cHZPR3lVTGlzV2xzNVdxZ2prTzRqOE9hbE0?oc=5",
         "source": "AI & Technology",
         "summary": "Capcom Embraces AI for Game Development Despite Pragmata Warnings The Tech Buzz"
       },
       {
-        "headline": "Military Technological College Holds its 7th Science Week - omannews.gov.om",
+        "headline": "Military Technological College Holds its 7th Science Week - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0645\u0627\u0646\u064a\u0629 (\u0627\u0644\u0639\u0645\u0627\u0646\u064a\u0629)",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKUXl3dmNaYmlhS3NjOXU3dTVGeHRuTkZaMTFUREk1RkJ1bkx4ekR2eXVsQkI5ZXFENEhpRlVlaTJ0dS1uU2h4ZmFyS1NvN3hsSmp4S2xHaFQ1ZkxHeWFRVC13?oc=5",
         "source": "AI & Technology",
-        "summary": "Military Technological College Holds its 7th Science Week omannews.gov.om"
+        "summary": "Military Technological College Holds its 7th Science Week \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0645\u0627\u0646\u064a\u0629 (\u0627\u0644\u0639\u0645\u0627\u0646\u064a\u0629)"
+      },
+      {
+        "headline": "AI 'less safe' for keeping secrets than most people assume - thenationalnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlg3R2U2M0t6VVo2TnF2aGdyYk1oXzNSMENSaWk3Mkk4M1JuUGtfZGc3RFRoWnpxaTd2UnJBZEdRWC1IQzNzdWNMRnNvV2VTOG1XZnlPZU1tSWxaekIweWdIbHNfUWREODlDR2tsUWVQaWdFQWF6VGVMRmFzLVl5ellLOEk2Z1NsUjdubkpScTJ4OF9vRFcxWXBZTHhfbUkwRU5xb25XOXluMFkwMXlWa2dkZ0RORFN4c2c?oc=5",
+        "source": "AI & Technology",
+        "summary": "AI 'less safe' for keeping secrets than most people assume thenationalnews.com"
       }
     ],
     "Business & Economy": [
-      {
-        "headline": "Weak jobs, sticky inflation: Fed faces fresh dilemma over next US rate hike - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFRZejdZdzM4Yk9LSkgyOFFaNDNiQUNpV3poblJyNFhaYnZoOXhBOVpjMnFsWVV6WHFMQkE4VWxNWWh0cG5WRGNURjZidl9hMWVYb3pocDItY09tUEhhT3pWMVdZbjhldEdxR2JRZHZIYlJkWnFhZTFUa3p5T1h4dk5NOWxmQkx1Q2tLb2lmWXprVUtRQlR1dWxFTlFUVmc2T3E2UUcyb1NaNWpQVUNDb3h4TG01MnlrUXNkMU1ScVh6NWNFcmk2Wm5qRXBvaktMSnBCUWtUNGVxakFkLTUta0hGd2ZoQQ?oc=5",
-        "source": "Business & Economy",
-        "summary": "Weak jobs, sticky inflation: Fed faces fresh dilemma over next US rate hike MSN"
-      },
       {
         "headline": "Gold Rises As Softer US Inflation Cools October Fed Rate Hike Bets - BW Businessworld",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjZPcmJLV0NTRHpaeVNHM05IZVlJNEVvbFV5VTBJbEZ5Mm55VUl4UGZpT3Z4ZXFucWJ2bnVremhrZ05pXzZDMDc3bXBuNVppemk4dWVDRlpSLXo4QldKbmptNFVfZW8yc2w1WEdPUzZIaE5CWlhmdlVtcGl0cGJxdXRJYUpYdUxVcDdCbnpLdHd5WUtxclhDQnp4MjJ4MXhWMnRIY0kzdVUtU3VzbDZV?oc=5",
@@ -399,27 +387,33 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeFg2cEpSbWkxUkhFVi1hc1VRLVg4THUzbHB4dURaOS1VMkdDVGR0OFVRUFJDdU04SndLdVdLMUJUVVpWbHQ4VXRFY1ZLZTdzbFpBR2hTMW9STU5jU1p5RUszLVRKaUhBaEQ2X2tTZzA1bnkzUGdyUG1GRlF0ZHR1SUZLNEJndUVPT3RmdXFvSGx2Z2tTS1lUeWVaNXZfZUk0bFhSeHZKU1pHemx5Q1F1b3N4aEVfRUN0aXFpazJqSjlFRmJYdWxSZXJnaVlZR3Y3b1VVelBlUTXSAdgBQVVfeXFMUHhYNnBKUm1pMVJIRVYtYXNVUS1YOEx1M2xweHVEWjktVTJHQ1RkdDhVUVBSQ3VNOEp3S3VXSzFCVFVaVmx0OFV0RWNWS2U3c2xaQUdoUzFvUk1OY1NaeUVLMy1USmlIQWhENl9rU2cwNW55M1BnclBtRkZRdGR0dUlGSzRCZ3VFT090ZnVxb0hsdmdrU0tZVHllWjV2X2VJNGxYUnh2SlNaR3pseUNRdW9zeGhFX0VDdGlxaWsyako5RUZiWHVsUmVyZ2lZWUd2N29VVXpQZVE1?oc=5",
         "source": "Business & Economy",
         "summary": "Fed, ECB minutes to show inflation fears as near-term rate hike bets fade Business Standard"
+      },
+      {
+        "headline": "Revised Inflation Data Don\u2019t Change the Fed\u2019s Job - The Daily Economy",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGdHbUYwcXZJT1EyQUNBVm9WTks0czMyUUxLVHRkd3Fibmxid3VoOWhzQXptZFppVndoS0hpNjFYQThibHVxMkZ1SmduN0l5RG4wSU1JWW5GQlZHTTZJQjdJUHZUSGd4N2JIZzZmVEgtM090NEhZMHM5U0pBdEJHbUJIT0pKT01lRGxpeQ?oc=5",
+        "source": "Business & Economy",
+        "summary": "Revised Inflation Data Don\u2019t Change the Fed\u2019s Job The Daily Economy"
       }
     ],
     "Society & Culture": [],
     "Sports": [
       {
-        "headline": "Atlanta Braves vs Los Angeles Dodgers Box Score - October 04, 2026 - The Athletic - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXNaeFNrbWthY3RWOVZLYUdQeWVpTnJ3V3I2djVSandUdmFhU3hnSUpnY1NRaUlTbTMzd190M0xzenNmZEdUbXV4anhybkNJc0hFTFVoa1o5dnpYcmlhTjZLOVp3QkFZZGFwd3hjOWVFa2FPSFg0ODhxUExYQzlBNUlYRnJuUTQwMlhIcHlWM0wzLW9qeUl6ZVkxdURmZw?oc=5",
-        "source": "Braves Playoff Race",
-        "summary": "Atlanta Braves vs Los Angeles Dodgers Box Score - October 04, 2026 - The Athletic The New York Times"
+        "headline": "MLB playoff games on TV today: Schedule, times, TV channels, live streams to watch ALDS, NLDS games - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXBURUJKQjdVSE1EUVV6eWMwTkV2cll3Uk1xaW9FZndENURzWWZQVWxmc29Ea3JrWFFibnNwdHoxREpzbkVYaHpad0NmT0ZWaW9zVS1pNURsdzh1SHVsbi0xakpNVXRGa3FFMEgweVY0Z0tHaXNHN09PTExELXlLSg?oc=5",
+        "source": "Yahoo Sports MLB",
+        "summary": "MLB playoff games on TV today: Schedule, times, TV channels, live streams to watch ALDS, NLDS games Yahoo Sports"
       },
       {
-        "headline": "MLB playoffs 2026: Is this the Milwaukee Brewers' year? - espn.com",
+        "headline": "MLB playoffs 2026: Is this the Milwaukee Brewers' year? - ESPN",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlN6bHFPclJZc2I4bFROVEI0ejVVbHY0R1FaWmRMYjZmYkl4aWFxSjFVbERnZ2dTOFFoOHh4UmxpdUl0dXAzZVEtNjFua2VuczF4S3gyb3VtNXMtUnpXbHBKMk5neDljeU1Ga21qMVFiWE9GRm8zQjJYYmhsRklfdThOb3daSHVzN2RqQnRfMXhlbmlUYmlPYUU3SjRDTE1TTTdN?oc=5",
         "source": "Braves Playoff Race",
-        "summary": "MLB playoffs 2026: Is this the Milwaukee Brewers' year? espn.com"
+        "summary": "MLB playoffs 2026: Is this the Milwaukee Brewers' year? ESPN"
       },
       {
-        "headline": "2026 MLB playoff bracket: Schedule, scores as Division Series kick off - cbssports.com",
+        "headline": "2026 MLB playoff bracket: Schedule, scores as Division Series kick off - CBS Sports",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3pxZzFTUmJrLVBBdUNvYzJQa1VTcUdac2NyN1l4d1hZcHAzRkFGbXdPR2NBUlladEZ1b2R5YzQ5dExlbUNJWlVONzhmZlpuc2x5UVJuQ2VrMFV5dHdjLVBwcVZoaUlYY3ZDbk92SjBoMmtrSTk2Vkh3U3VMMjU3ZWd2WXBORjdJVmVuYkF5UEpjY0lxQnZhaU1XU2xvdw?oc=5",
         "source": "CBS Sports MLB",
-        "summary": "2026 MLB playoff bracket: Schedule, scores as Division Series kick off cbssports.com"
+        "summary": "2026 MLB playoff bracket: Schedule, scores as Division Series kick off CBS Sports"
       }
     ],
     "Good News": [
@@ -438,7 +432,7 @@
       {
         "headline": "New Gobi Desert Fossil Rewrites a Chapter of Mammal Evolution",
         "url": "https://www.goodnewsnetwork.org/new-gobi-desert-fossil-rewrites-a-chapter-of-mammal-evolution/",
-        "source": "Good News Network",
+        "source": "Good News Network Science",
         "summary": "A remarkably well-preserved fossil from Mongolia\u2019s Gobi Desert is reshaping scientists\u2019 understanding of mammal evolution during the age of dinosaurs. The new species, described today in the journal Nature, reveals that a group of extinct mammals known as zhelestids were not close relatives of modern placental mammals as many researchers thought for decades. Instead, they [\u2026] The post New Gobi Desert Fossil Rewrites a Chapter of Mammal Evolution appeared first on Good News Network ."
       }
     ]
