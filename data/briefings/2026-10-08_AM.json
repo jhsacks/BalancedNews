@@ -1,323 +1,323 @@
 {
-  "generated_at": "2026-10-08T12:59:19.878222-04:00",
+  "generated_at": "2026-10-08T13:37:23.247562-04:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "Midterm Elections: Who Is Winning the Race for Congress? Latest Data - The New York Times",
-      "summary": "Recent data tracks the ongoing race for control of the U.S. Congress ahead of the midterm elections, showing current standings. This data informs campaign strategies and voter expectations but does not guarantee final election outcomes.",
-      "why_it_matters": "Understanding who leads congressional races shapes policy priorities and political power balance affecting legislation and governance over the coming years.",
-      "perspective_one": "Supporters of leading candidates argue their visions will better address voter concerns and promote economic and national security reforms.",
-      "perspective_two": "Opponents claim the current frontrunners risk polarization and may implement policies harmful to social equity and democratic norms.",
-      "uncertain": "Election results remain pending, with voter turnout and late polls potentially shifting outcomes.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQTVNVlZKX21WSm5qd1ZhdUZkTVZyOWhoVnc1OTRXOF9FTFhNYkFUR1daVkVlRnJaY3NfV29wOE5uVXJsWlRqWHp3TTIyQ21rZ0JrcmY2UDNoMzVtOFhWYWRscDBWTXFnZmNYMVZuWEZPcXd6NE1zOWFsd1pvUExON0ZTeUtvLVNwTVdpNVktYw?oc=5",
-      "source": "USA Today Politics",
-      "published": "Wed, 07 Oct 2026 09:13:16 GMT",
-      "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-midterm-elections-who-is-winning-the-race-for-co-30eff4d4e8.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "USA TODAY Sports announces National High School Esports Championship - Central Oregon Daily",
-      "summary": "USA TODAY Sports has launched a National High School Esports Championship to engage young gamers in competitive events. This initiative aims to legitimize esports within education and expand opportunities for high school participants.",
-      "why_it_matters": "The championship promotes esports recognition in education, potentially influencing youth engagement, digital skills development, and alternative career pathways.",
-      "perspective_one": "Advocates highlight that esports builds teamwork and technological skills valuable in modern careers and academic pursuits.",
-      "perspective_two": "Critics worry about excessive screen time and prioritizing virtual competition over traditional physical sports and social activities.",
+      "headline": "Election 2026: Buckhout\u2019s challenge to Davis headlines U.S. House races - The Center Square",
+      "summary": "In the 2026 U.S. House elections, Buckhout\u2019s candidacy against incumbent Davis has become a prominent contest. This race is gaining attention as it could influence party balance and key policy debates in Congress.",
+      "why_it_matters": "This House race could shift legislative priorities and affect congressional control, impacting policymaking on national issues like healthcare and economy.",
+      "perspective_one": "Buckhout supporters argue that new leadership is needed to better represent voter interests and drive reform on critical issues such as healthcare and education.",
+      "perspective_two": "Davis's backers believe his experience ensures stability and continued focus on economic growth and national security, warning that change could disrupt progress.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWQ5LU5jUnBZc3RBYVVrb1BxQ3A4dWpuZm9SWHpwRm04RkdYNG9iTXM3Y3p1SV9LTFVEVkp4VmxBekJ4aGh6ZFpvMTEwdk9OdFZlZGFodlMyZDRhZjlkTDJwMFNEbDhSbFptUUdkUXFnQVRJUHFVeko0a3BvMmdXNDRwYVJlRjlqVVREaWxvYkIyR3pYemlRSGJCUlJCNWdnd2NNeHM0RHl3eFB6eGxDd0xzcUFtT0U3N2lneXhnV3lkamxLZzZDNF9aVmp4a2hVS0NvOGR2Yy1Gd1BlaUFkalh0aFg0S3R6T1BCa0xCYTFhdw?oc=5",
-      "source": "USA Today U.S.",
-      "published": "Wed, 07 Oct 2026 20:11:04 GMT",
-      "category": "U.S. News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-usa-today-sports-announces-national-high-school--4c85779fa3.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "summary": "Margaret Hamilton, a pioneering computer scientist who developed the onboard flight software for NASA's Apollo 11 lunar mission, has died at age 90. Her critical work helped enable the first manned Moon landing and earned her the Presidential Medal of Freedom.",
-      "why_it_matters": "Hamilton's software innovations laid foundational principles for reliable spaceflight systems and advanced software engineering practices still used in aerospace.",
-      "perspective_one": "Her supporters emphasize her technical genius and role in elevating women\u2019s contributions to STEM fields historically overlooked.",
-      "perspective_two": "Some critics argue that recognition of women in early computing has been gradual and insufficient despite such landmark achievements.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 08 Oct 2026 05:10:40 GMT",
-      "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edc3/live/6ef2dd00-c2e7-11f1-a64c-550be9e3c66b.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "summary": "The Jerusalem Post provides continuous updates on military, diplomatic, and political developments concerning Israel, Iran, and the broader Middle East region. The unfolding events impact regional security and the prospects for conflict resolution.",
-      "why_it_matters": "Accurate, timely information on Middle East dynamics is critical for international diplomacy, global security policies, and humanitarian responses.",
-      "perspective_one": "Israeli officials emphasize security and defense as paramount amid ongoing threats and regional instability.",
-      "perspective_two": "Opposing regional actors criticize Israeli policies as aggressive and foster cycles of violence impacting civilians.",
-      "uncertain": "Situations remain volatile with unpredictable escalation risks and diplomatic outcomes.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DTmZHT0lncE1BWWdFcEtPNXBPSzVnMXpnc0FVTmh2V2NPSU0tdDBpbjdsS1VnM2ZueGFsaHBZWTVtNTczbEhRcGN6Ti1LQmpVZlVkcTl6UmZCYkF1dE1vRl9MLWdaXzlKWWdiZDlTRGxjSjNNeHJsS3c2bmhEMWc?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Thu, 08 Oct 2026 01:41:27 GMT",
-      "category": "Conflicts & Security",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-live-updates-latest-from-israel-iran-and-the-mid-aa1bc53423.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Lebanese president says negotiations are alternative to war with Israel - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-      "summary": "The Lebanese president stated that negotiation remains the preferable option over engaging in war with Israel amidst rising tensions. This stance highlights efforts to seek peaceful resolutions despite ongoing disputes.",
-      "why_it_matters": "Prioritizing negotiations over conflict reduces the risk of regional escalation, protects civilian populations, and shapes international diplomatic efforts in the Middle East.",
-      "perspective_one": "Proponents of negotiation argue diplomacy can resolve long-standing conflicts with mutual benefits and avoid humanitarian crises.",
-      "perspective_two": "Critics warn that negotiations may delay necessary defensive actions or fail to address fundamental security threats from Israel.",
-      "uncertain": "The durability of negotiations under current tensions and external influences remains unclear.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUF9CVU9udkktR2dhbkt5elVXbHVkc3JQbUlxTlpLUF9aaWpnWm1BaUNzcHNtM0twU0xFdmtWMGlBeW4yLXlPN1ZSclhjWEJTTkFoQzZwY3F2XzhDaUlzQU9ycVlBWXNaUEdrSTdaS01xYS04UExTS0draDI0Z3JoRW54TlZSZUFneWcwd0xtTW9KWXBOa0NqNEM3Z2EwelVqYXd1aEE2R1RVdF9vUmc5N24xNmNta2NsM1E?oc=5",
-      "source": "Arab News Middle East",
-      "published": "Thu, 08 Oct 2026 12:17:55 GMT",
-      "category": "Middle East Affairs",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/BlueLine.jpg/1280px-BlueLine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons \u00b7 99of9 / * The map is made by Thomas Blomberg using the UNIFIL map, deployment as of July 2006 as source. \u00b7 CC BY-SA 2.5",
-      "image_source": "https://commons.wikimedia.org/wiki/File:BlueLine.jpg"
-    },
-    {
-      "headline": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
-      "summary": "The FDA has approved a new breakthrough drug targeting advanced pancreatic cancer, offering a treatment option for patients with limited alternatives. This drug could improve survival rates and quality of life by targeting previously untreatable tumor mechanisms.",
-      "why_it_matters": "This approval changes clinical options for a highly lethal cancer, potentially improving patient outcomes and influencing oncology treatment guidelines worldwide.",
-      "perspective_one": "Advocates emphasize the drug\u2019s novel mechanism as a critical advance in addressing aggressive pancreatic cancer with poor prognosis.",
-      "perspective_two": "Skeptics point to the need for larger studies to confirm long-term effectiveness and manage the high cost of new oncology medications.",
-      "uncertain": "Long-term patient benefits and real-world effectiveness remain under evaluation.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
-      "source": "Health & Medicine",
-      "published": "Wed, 07 Oct 2026 22:00:57 GMT",
-      "category": "Health & Medicine",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-fda-approves-breakthrough-drug-to-treat-advanced-611589cd9f.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Aqua Security Named 'Cloud Security Platform of the Year\u201d in 10th Annual CyberSecurity Breakthrough Awards Program - The Manila Times",
-      "summary": "Aqua Security was awarded 'Cloud Security Platform of the Year' at the 10th Annual CyberSecurity Breakthrough Awards, recognizing its innovation in cloud defense technologies. This highlights the growing importance of cloud security amid increasing cyber threats.",
-      "why_it_matters": "Recognition of Aqua Security underscores the critical role of robust cloud security platforms in protecting organizational data and infrastructure against evolving cyber risks.",
-      "perspective_one": "Supporters argue that leading cloud security platforms enable businesses to confidently expand digital operations with advanced threat protections.",
-      "perspective_two": "Critics highlight concerns over the complexity and cost of integrating new security tools into existing IT environments.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMGg1enZiVWI5eVptVV85RXdXUThTSmZ1elVZZDdJUE1qYk5sY1Z0c3N5dDVTYmdvOUFPRW5qVHBTUVdmNXpPUEZnS1FIaUtZUWt4RjZaZU1PSGVnall1czE0STJXcjRnVF8teXBYaEF3UjA1aXhieWd3UUFDcXNUMEMzSkNWblBOUkhJWVJILWl6eWl4RVM5ZmRYZ0ZaVjNQRWVPaGh5QkYyTzU0aFNob2VSVENaNmxIWWFTMTZjTDA4cGpXbkhYTzFlMzhUdHk2aG42SUg1ZGJUcFRUM0VVRnd6d0d0d0RtWTdqYVlPV3NKUjlxbHZUeHA3ak03VjBnWEVIajNYS0k1clNrSnY3WG4wZmzSAZoCQVVfeXFMTzdGZ2NPMDZtSlJjZFMzWTdCMUhaQVpSUEJ0MzVNclhhdWNfdFZVd2FOWG9GUlVmaG9tSG5hdUpWRFlZUk8zczNMc2xaU3dOVk5IajgtOHNSTnVDREk3MS00OUFsbHd6R3lBUE9VT0psLTl1QlF6VTMwbjNyMmJiOW4zWmNWNUFibUFkdTJMV243cVdhRjJjU1ltR2NZaWd2NFp4LUZIb0tUanhsU1ZxUTJ2MTZkVnk2dnQ4aHF2eVJnanNYTDZMemZTQ1Z5TzJIU2ltR0VLT1VCa0RNM3VIMUpERmhTR2FvOFMya3pTTWdNdWh0MG5IMFl0OXFvVGNpcEZrbkFwRDd6MWcwQWJQa1NBQzhVSGxfT3pn?oc=5",
-      "source": "AI & Technology",
-      "published": "Thu, 08 Oct 2026 14:33:21 GMT",
-      "category": "AI & Technology",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-aqua-security-named-cloud-security-platform-of-t-8ed5359020.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Social Security 2027 COLA: October 14 decision nears as inflation data points to a 3.6% increase, but what - The Economic Times",
-      "summary": "The decision on the 2027 Social Security Cost-Of-Living Adjustment (COLA) is expected on October 14, with current inflation data suggesting a 3.6% increase. This adjustment affects benefits amid economic pressures but the final figure depends on evolving price index metrics.",
-      "why_it_matters": "The COLA determination directly influences retirees\u2019 income, affecting their purchasing power and economic security during inflationary periods.",
-      "perspective_one": "Supporters of applying the full inflation adjustment argue it is essential to maintain beneficiaries\u2019 living standards against rising costs.",
-      "perspective_two": "Some policymakers caution that higher COLA increases could pressure government budgets and long-term Social Security solvency.",
-      "uncertain": "Final inflation measurements and economic conditions remain subject to change before the official COLA announcement.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNUFNBWUZXQ0NXeXNZbWg3NGZqOWJuSk41Rk5sNnNfR2xLYW9vUDhwZjFlaFp2UTg2eUg5TnEzU0lmSGZNVnVoeXRZd2lRMGdVQi1naWZYd0dDUEpNVGxFbXkxNFNScjdNS2laOEpGeWNNV1VYTVRySThhczk4SUpNbjhKWmZKbXRtODV3dDd2WlB3Q25lZURpcFM5RWFfemhDOVE5Q2VhWlBYM2FjcTNmbzZ3SmpwMUgtS29EdEVWTldpMkZvdHBaTTg0ZC1LLXhaUXF1QldxNVR0VDM1djU2N3F2amxyb0JkOXpOQ0dJOEw0SDBqZVVyZ2Fic1BLUy1LSFlUbHBSSVBYS1g1cllZTTBaSGN6b0VLN0FDalh0dU1MaHZ6VVJlUmhsMlhKcmFKTGxmOUVRYmFIT1lvaVNOMjlMNGo0WXoxcVVCQjBn0gHOAkFVX3lxTE1QU0FZRldDQ1d5c1ltaDc0Zmo5Ym5KTjVGTmw2c19HbEthb29QOHBmMWVoWnZRODZ5SDlOcTNTSWZIZk1WdWh5dFl3aVEwZ1VCLWdpZlh3R0NQSk1UbEVteTE0U1JyN01LaVo4SkZ5Y01XVVhNVHJJOGFzOThJSk1uOEpaZkptdG04NXd0N3ZaUHdDbmVlRGlwUzlFYV96aEM5UTlDZWFaUFgzYWNxM2ZvNndKanAxSC1Lb0R0RVZOV2kyRm90cFpNODRkLUsteFpRcXVCV3E1VHRUMzV2NTY3cXZqbHJvQmQ5ek5DR0k4TDRIMGplVXJnYWJzUEtTLUtIWVRscFJJUFhLWDVyWVlNMFpIY3pvRUs3QUNqWHR1TUxodnpVUmVSaGwyWEpyYUpMbGY5RVFiYUhPWW9pU04yOUw0ajRZejFxVUJCMGc?oc=5",
-      "source": "Business & Economy",
-      "published": "Wed, 07 Oct 2026 19:12:00 GMT",
-      "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-social-security-2027-cola-october-14-decision-ne-16cadb1782.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "ASU-Beebe Pharmacy Technician Program and Instructor Win National Awards - Arkansas Radio",
-      "summary": "The ASU-Beebe Pharmacy Technician Program and one of its instructors have received national awards recognizing excellence in education. These honors spotlight the program\u2019s quality training and contributions to pharmacy technician workforce development.",
-      "why_it_matters": "National recognition enhances the program\u2019s credibility, attracting students and supporting workforce readiness in the growing pharmacy sector.",
-      "perspective_one": "Supporters highlight the awards as validation of high training standards and positive impacts on healthcare delivery.",
-      "perspective_two": "Skeptics may question the broader applicability of awards without systemic changes in pharmacy education funding and access.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1RHa3RLRWhMV3RHcnlFYV9qZV9MM0xOUTJULXlDWW9wX2V3VnZ0anpaWFkwOVpKeVV0SXJWWjBjRXItNFY5OWJtb014dlkyWUtiQk5wcDJDUW1waFd3SzVTeld1bDh2V1Q1WUZDU21XMjhkdVROME5oazRQV2lobjZ1TnV3b3YyekNtV1RuRlFpdHFTOFNRS2NaRXR3UmFk?oc=5",
-      "source": "U.S. News Society",
-      "published": "Wed, 07 Oct 2026 19:32:25 GMT",
-      "category": "Society & Culture",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-asu-beebe-pharmacy-technician-program-and-instru-a8206f2059.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Yankees vs Rays: LIVE MLB playoffs Wild Card Game - Yahoo Sports",
-      "summary": "The MLB playoffs Wild Card Game between the New York Yankees and Tampa Bay Rays is underway, with live coverage of the contest. This game determines which team advances further in the postseason baseball tournament.",
-      "why_it_matters": "The outcome impacts playoff brackets, shaping the season\u2019s championship trajectory and fan engagement in Major League Baseball.",
-      "perspective_one": "Fans of the Yankees emphasize the team\u2019s historic dominance and desire for another championship run.",
-      "perspective_two": "Rays supporters highlight their team\u2019s upstart success and strategic plays challenging established contenders.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGa2JiNE5BSmk1ZW9JQ3VpMHBUQjR0MThMbW43WkNGeV9pNGNNWnB2TEpYQ3E2NGdPNWhIWC1oUmZWVUFBYU9NSGU4R052Rm1JUUw3NVN1TzkzUHhKN19XLVFDa21aVHdyOVFfR0gzaExXLVFTMEUzczdldE5iQQ?oc=5",
-      "source": "Braves Playoff Race",
-      "published": "Wed, 07 Oct 2026 22:49:12 GMT",
-      "category": "Sports",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-yankees-vs-rays-live-mlb-playoffs-wild-card-game-bbb3933982.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Virginia Becomes Latest State to Enact \u2018Clean Slate\u2019 Law, to Help Residents Move on from Minor Offenses",
-      "summary": "Virginia\u2019s new Clean Slate law took effect last Thursday, automatically sealing thousands of misdemeanor criminal records for eligible residents to improve future opportunities. This includes offenses like petit larceny, aiding individuals in securing employment or loans without stigma.",
-      "why_it_matters": "The law advances criminal justice reform by reducing barriers to social and economic reintegration for residents with minor convictions.",
-      "perspective_one": "Proponents argue this law helps break cycles of poverty and unemployment by removing record-related discrimination.",
-      "perspective_two": "Opponents caution about public safety concerns and the potential for insufficient background information during hiring or licensing.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/virginia-becomes-latest-state-to-enact-clean-slate-law-to-help-residents-move-on-from-minor-offenses/",
-      "source": "Good News Network",
-      "published": "Tue, 06 Oct 2026 11:00:30 +0000",
-      "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/05/silouette-overcoming-jail-cc-Kit.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Who's running for Congress in KY? Meet candidates in 2026 election - The Courier-Journal",
-      "summary": "The Courier-Journal profiles candidates competing for Kentucky congressional seats in the 2026 elections, outlining their backgrounds and platforms. Voter awareness of candidates is key to informed electoral participation in this important political cycle.",
-      "why_it_matters": "Candidate visibility affects voter choice and democratic representation, shaping the legislative agenda at state and federal levels.",
-      "perspective_one": "Candidates promoting economic development argue their policies will attract investment and jobs to Kentucky.",
-      "perspective_two": "Other candidates prioritize social services and education reforms, warning that economic growth must include community wellbeing.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHF4djZ6M1JIOUZWZ0Y2RXlhZl9kaEt5QU13c0tFbmh2eVNDZTByNnBnTTg1alNSQXdQWTRGVkdLR3A2YzNNTzg4anZ6bk9ONXdrUDFVQkJveGFKWkE5aDVZN3Fsb3A3TE16V2c4S1NqZTd1ZWJ6dDROczZqU1pyWUVHS2JoQmtRTEt3WUhpalJjTE9Zb2o2OGJSMzQyaTZOeGl0VFp1NnMwbDBFVVE4ZlBCczZXM09UWktzVHMtNHNmMFhRWnJlb25qSzBvQXB3Vmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3RjOXlBaU00ZE1sRHE5ZF9tZXd3aThnZlUyMWV6UVozTWc4RU5ITThHR0ozRVpvUGhDUWEtbnNBTkZSUDhxek8zdFl6M0FudERZZFkyTDVXX1JpSlhSYWhxbzZ5UFR2NWREWWtOTU1wNVgxV1RCOUJKRTdSR3dRQV9uZUFDU0RnNkNPUUhrOVVqbWdaYV9GV2NKdy3SAaIBQVVfeXFMUER0emdQUFhrNjZHaEpoejBxalBLT1dESzItT3JxdGdFTV9EQzVNODFtY3FIUGdlYXpwaGhZRVByZ2wxSGlXamdGdkpkd3ZGUk1zaGx3YjNtbk4yNHpsbG9KMUNSRFBRTmRtVFREWXlmMU02d0JfWEVtd29HTHRGZ2dVSVIxWklXcTkySDkwaUJfYjZQNkVlN1QwT1FjM1RRVDFn?oc=5",
       "source": "U.S. Politics",
-      "published": "Thu, 08 Oct 2026 09:06:00 GMT",
+      "published": "Wed, 07 Oct 2026 19:49:00 GMT",
       "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-who-s-running-for-congress-in-ky-meet-candidates-f51c1d438b.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-election-2026-buckhout-s-challenge-to-davis-head-d9d064db8e.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "U.S. military prepares new Iran war options ahead of midterm elections - NBC News",
-      "summary": "The U.S. military is developing new war contingency plans concerning Iran as midterm elections approach, reflecting heightened tensions. These plans could influence regional security posture and political narratives ahead of voting.",
-      "why_it_matters": "Military options regarding Iran may affect U.S. foreign policy, Middle East stability, and domestic political debates about defense and diplomacy.",
-      "perspective_one": "One view supports preparedness to counter perceived Iranian threats and protect American interests decisively.",
-      "perspective_two": "Opponents argue that aggressive military posturing risks escalation and undermines diplomatic alternatives that could prevent war.",
-      "uncertain": "It is unclear whether these military options will be implemented or remain contingency planning.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVM0Sy1rbHNiVjdWLVdNMmRxWk9ZOTdhWWNkbFZicW9ycDdvMy1WMXQ4LTZ3a0VPMElzOWI4THB3ZUhmTkxNYkZIdEpPdHMzdnhzSHN6LUkxYWlVU0Rmbi1RY1VCX2xydDY0Z1kzZmRDSGZYODN5YjdpaHNWMUthSEtZbXVvUlRHU01KSW1XUUJ3MExLTkxWdzctVldDUGlMLUgwM1M4aE9EMkVnZXVmS2VYZlZOZ0hFUU9oVWJ4RWt6Q3dxZWc?oc=5",
-      "source": "USA Today Politics",
-      "published": "Thu, 08 Oct 2026 00:01:00 GMT",
-      "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-u-s-military-prepares-new-iran-war-options-ahead-80515e2ac9.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Seattle author named a finalist for the 2026 National Book Awards. See full list - Yahoo",
-      "summary": "A Seattle-based author has been named a finalist for the 2026 National Book Awards, with the full list of contenders published. This recognition highlights literary excellence and diverse voices in contemporary American literature.",
-      "why_it_matters": "Finalist status can boost authors\u2019 visibility, influence cultural discourse, and drive readership engagement across the literary community.",
-      "perspective_one": "Supporters believe the selection affirms the importance of nurturing regional authors and varied narrative perspectives.",
-      "perspective_two": "Some critics contend award processes may overlook emerging voices or marginalize certain genres.",
+      "headline": "New U.S. indictment charges former Venezuelan President Nicol\u00e1s Maduro with torture",
+      "summary": "The U.S. has indicted former Venezuelan President Nicol\u00e1s Maduro for conspiring to torture Venezuelan citizens and Americans, adding to existing drug and weapons charges against him. This move intensifies legal efforts targeting Maduro\u2019s regime amid ongoing regional instability.",
+      "why_it_matters": "The indictment escalates international legal and diplomatic pressure on Maduro, potentially affecting U.S.-Venezuela relations and regional governance.",
+      "perspective_one": "Supporters of the charges assert that Maduro\u2019s regime has systematically violated human rights, necessitating strong legal accountability to deter abuses.",
+      "perspective_two": "Critics claim the indictment is politically motivated, arguing it undermines Venezuela\u2019s sovereignty and complicates diplomatic resolutions.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPak4tVjUyN1hTSFdWMkZObS1sQmN4NUw0cmVubkhDUEg1U2xLTko5dDZUaXJFTUZJMlhOb2NfRFNBNzltWVBmY2tyMnNYbk1Vc2o4NE9vc3lyRGpkNlBpQ284TllSZWIzNkRkTUZ2d2NxSm4ybW05eUtKTUpGSE9mUXdWMXFVaVNFNnB1cC1YMUhNcjdrd1FKWmJB?oc=5",
-      "source": "USA Today U.S.",
-      "published": "Wed, 07 Oct 2026 20:41:43 GMT",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+      "source": "NPR U.S.",
+      "published": "Thu, 08 Oct 2026 12:05:37 -0400",
       "category": "U.S. News",
-      "image": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4550x3033+0+0/resize/4550x3033!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2F4c%2Fe9d38ac34a6b85dad0ff5a384003%2Fap26281357015208.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "summary": "Bernadette Greene-Placentia, an Arizona congressional candidate, disclosed she was raped during an incident while repairing a campaign sign and has spotty memory from the event. She remains active in the race despite the trauma and ongoing investigation.",
-      "why_it_matters": "This allegation raises serious concerns about candidate safety, election campaign security, and the broader impacts of political violence on democratic participation.",
-      "perspective_one": "Supporters stress the importance of addressing violence against political candidates to protect democratic processes and personal rights.",
-      "perspective_two": "Some question how the incident may affect campaign dynamics and voter perceptions amid heightened political tensions.",
-      "uncertain": "Investigations are ongoing, and further facts have yet to be confirmed.",
+      "headline": "Israel is still tearing down buildings in Gaza a year after the ceasefire - The Financial Express",
+      "summary": "One year after the ceasefire, Israel continues demolishing buildings in Gaza, citing security concerns and efforts to prevent militant activity. This ongoing action sustains tensions and hampers reconstruction efforts in Gaza.",
+      "why_it_matters": "Continued demolitions affect civilian populations and complicate regional stability and humanitarian aid, impacting prospects for long-term peace.",
+      "perspective_one": "Israeli officials argue demolitions are necessary to eliminate militant threats and protect national security by denying hostile groups infrastructure.",
+      "perspective_two": "Palestinian and international actors contend these actions exacerbate civilian suffering and violate international law, impeding Gaza\u2019s recovery and peace prospects.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Thu, 08 Oct 2026 14:10:58 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1772/live/b1c65680-c30e-11f1-8f04-85217d686658.png",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "summary": "Despite a ceasefire, Palestinians in Gaza continue to endure Israeli strikes with many living in overcrowded tent cities while the US-led peace plan has largely stalled. Escalating violence exacerbates humanitarian conditions and delays conflict resolution mechanisms.",
-      "why_it_matters": "Continued hostilities hinder regional stability, increase civilian suffering, and challenge international efforts to broker lasting peace in the Israeli-Palestinian conflict.",
-      "perspective_one": "Palestinians and their supporters emphasize the urgent need for humanitarian relief and international intervention to stop attacks.",
-      "perspective_two": "Israeli authorities argue that military actions target security threats and are necessary to defend citizens.",
-      "uncertain": "The timing and terms of any renewed peace agreement remain unclear.",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Thu, 08 Oct 2026 05:06:09 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU21MWTlWaUZZU0l5N2dab1dJZFlWeDJqZTJ5SHZOaUFrbldhbmlualZxeFNPbFpma19ndGduYV9IVmJEY0l1WHBET0pBX0NYaWk1dkROWjRMZW1YMjFZRm1rTWRyelNUTFhtS3dCV3JOc2VZOFZ4SHZPQjFLM0V6Y1JYSXVEcEEzX0htbkxEWEE1SU0wWXdtTkEzZ3o1QjFId3dfV2Fsb1VLdnZmN3FQT3N2N1FOaElPQm40QWRGYw?oc=5",
+      "source": "Associated Press World",
+      "published": "Wed, 07 Oct 2026 07:25:33 GMT",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d71/live/8af61620-c233-11f1-a64c-550be9e3c66b.jpg",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Fires_in_Israel_and_the_Gaza_strip_-_7_October_2023_%2853245908850%29.jpg/1280px-Fires_in_Israel_and_the_Gaza_strip_-_7_October_2023_%2853245908850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Pierre Markuse \u00b7 CC BY 2.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Fires_in_Israel_and_the_Gaza_strip_-_7_October_2023_(53245908850).jpg"
+    },
+    {
+      "headline": "Israel Eliminates October 7 Terrorist Butcher Who Was Rebuilding Hamas - PJ Media",
+      "summary": "Israel announced the killing of a senior Hamas militant responsible for the October 7 attacks and subsequent rebuilding efforts of the group. This strike aims to disrupt Hamas\u2019s military capabilities amid ongoing conflict.",
+      "why_it_matters": "Targeting high-level militants affects Hamas\u2019s operational strength and Israel's security calculations, potentially influencing conflict dynamics.",
+      "perspective_one": "Israeli authorities view the operation as necessary to protect civilians from future attacks by dismantling militant leadership.",
+      "perspective_two": "Critics argue such killings fuel cycles of violence and hamper prospects for diplomatic breakthroughs or humanitarian relief.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeUlTcnhqSElKZ2JnT3pVNXJOWlg5U0Z4N3djWEF6bWtadWV3bEhVOFE3elVZd0xkd1lMM2tFbWV4NjZ0VGs4THRoUFltMm14X0hnZk9PMTZrWHhxS2dMT2pmUnNBSElKTFhJSWlDS2RxQjQwbnkteUwwTXl4alRxc2RYeWRwS1ozQ2FRQ3ZRcy1zQzQ3dnc2T3AwdkpJT3JQY2JidVhScVdqUkVlLW5VZVBRUzJBVi1nZV9EZkx3VjBtUWh1SGc?oc=5",
+      "source": "Conflicts & Security",
+      "published": "Thu, 08 Oct 2026 17:34:30 GMT",
+      "category": "Conflicts & Security",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-israel-eliminates-october-7-terrorist-butcher-wh-cbfdf5bff8.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say - Arab News",
+      "summary": "The number of tanker attacks in the Strait of Hormuz reached a weekly peak not seen since the onset of the Iran war, according to sources. This surge heightens concerns over regional maritime security and global oil supply disruptions.",
+      "why_it_matters": "Increased tanker attacks threaten vital oil transit routes, risking spikes in global energy prices and escalating regional military tensions.",
+      "perspective_one": "Some regional actors blame Iran-backed proxies for destabilizing maritime trade to exert political leverage over international powers.",
+      "perspective_two": "Others suggest the incidents may be provocations aimed at justifying escalated foreign military presence in the Gulf.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV3p0RkZYdjdETzhvdS1WMC1xUkQwYm1JdllLWHBCM01lczVhY3BYMjFRamxob2RQalVFZk05Q19KZmtyLWI5VGFJLTdpQWZWbzB0cUYyT0dGUXpxZjlzSHZrWndRZWZEak1NNGlZRzVYNTdER01yYmVOU2RwS2VlY19fVGllY05sUnpLNjBWdzJ6VTNITEFjaXdyVnJCSTFpekVuemZsUGJzNlJVdmdwT1lmTkFjYjByTkUzdXBnb29tNWtKZm5laENQTFpZQQ?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Wed, 07 Oct 2026 20:24:02 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Khalig-fars-Persian-Gulf_01.jpg/1280px-Khalig-fars-Persian-Gulf_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Mostafameraji \u00b7 CC BY-SA 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Khalig-fars-Persian-Gulf_01.jpg"
+    },
+    {
+      "headline": "FDA Warns Amazon Over Herpes Treatments - MedPage Today",
+      "summary": "The FDA issued a warning to Amazon regarding the sale of unapproved herpes treatments on its platform, citing concerns over safety and regulatory compliance. This notice highlights challenges in regulating online health product sales.",
+      "why_it_matters": "Ensuring the safety of health products sold online protects consumers from ineffective or harmful treatments and enforces regulatory standards.",
+      "perspective_one": "The FDA emphasizes that unapproved products may pose risks without proven effectiveness, demanding compliance from sellers to safeguard public health.",
+      "perspective_two": "Amazon and some sellers argue that online platforms enable consumer access to alternative products, and regulation should balance safety with market freedom.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53bE5qV0o3TjhrUmRFLXFCVEsyNHRWNzJNSTJkZ1VqQjFaeG9nRDU2SDRsbGVrWndLb1lBMHVHYWs5alNWeFl5U084eV9TQTlUbk1wMTJQZHEwbUZoeVhjbmgwUVdrTXZ2c1E?oc=5",
+      "source": "Health & Medicine",
+      "published": "Wed, 07 Oct 2026 19:15:05 GMT",
+      "category": "Health & Medicine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
+    },
+    {
+      "headline": "Deepwatch Guardian MDR Platform\u2122 Named \u201cManaged Security Solution of the Year\u201d in 2026 CyberSecurity Breakthrough Awards - Business Wire",
+      "summary": "The Deepwatch Guardian MDR Platform\u2122 received the 2026 CyberSecurity Breakthrough Award for Managed Security Solution of the Year, recognizing its innovation in threat detection and response. The platform\u2019s capabilities enhance cybersecurity defenses for diverse organizations amid rising cyber threats.",
+      "why_it_matters": "Advances in managed detection and response improve organizational resilience against cyberattacks, safeguarding sensitive data and operations.",
+      "perspective_one": "Security experts highlight the platform\u2019s real-time analytics and threat hunting as key to proactive cyber defense.",
+      "perspective_two": "Some caution that reliance on automated security tools requires continuous updates and oversight to prevent emerging vulnerabilities.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObkw0MnNHWm4xRTBUVUlSdkZQQWFlc3ctVWY4VzJDYkEtX29fSVRzNEJ1NUJtRVRPa1FwUmhKdGdtMlNmUVhCbVllYTFYaW9sMFRyNzIwNGQ5SGdYblU4OVZBUzMtNXB3OUNRLU40cm94U0JaRVZ2OTA2c3NMYXMwNnVieThmd3o3NnF6ZXJ1TGpsS3BiWERfd3FmU2NiTTFuWTRzZmdxd1RISE1wd0N3Z1FfTmhXRkpYYUxvR1R1NXJWQXFEVFB5VnJEb191RWJpSGMxa25BSWJmVkIyRFhMWmE5LWlrdjNmb1QyZFhNUk5vQTJnR3BrOE5DLW02NkFzb2pMYw?oc=5",
+      "source": "AI & Technology",
+      "published": "Thu, 08 Oct 2026 14:00:52 GMT",
+      "category": "AI & Technology",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-deepwatch-guardian-mdr-platform-named-managed-se-966380511b.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Mixed economic signals emerge as inflation steadies but hiring slows before midterms - KATV",
+      "summary": "Recent economic data show inflation rates stabilizing while hiring growth slows ahead of the 2026 U.S. midterm elections. These mixed indicators suggest uncertainty about the economy\u2019s momentum and potential voter impact.",
+      "why_it_matters": "Slowing hiring could temper consumer spending and influence fiscal policy, while steady inflation may ease pressure on monetary policy decisions.",
+      "perspective_one": "Optimists view steady inflation as a sign of balanced growth that policymakers can nurture without aggressive rate hikes.",
+      "perspective_two": "Skeptics warn that sluggish job gains signal underlying weakness that could undermine economic recovery and electoral confidence.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPeDcxV3E1WHc1ZDlXUWs1V2Z1Z3NhN21MdzhrU285Q3JOUUxZampDeERfX2Z0ZW5sRjZlMkdMZ1h4YlN5LUFPdlRWdUh1cEZ1MWdkZjBqS2kzV25LY082VVFXQ2VXckpOd2Q1eXdRT2ZxWENxRnZDSjJjczEwbF9weXd5YTZOb0c5UU5TWlA2cnd2eWRub1k1X2ZRZUc4UjA3MnhZenFIS1B1RmNYY2RvRERRUTlxaDBDaUpJR3JndVlXcm8wdk1nQy00bWExV284dUpERlRISmFfMk9VQXNjZ204eHpIMGJIc01ZZGpVWlJmNVQzc3RUR3F5M19fOEIyVlg0RFQ2QkFGMG16VDc4ZXRtTkViNXhoV2V0UUVfcG51Qk1oYWJxMWtHeXlZMmhUeUlvZGd3Z3NkRG9yQkRmWlFPS1NfdHhGWWNWUW1CN2xYVmtKVXNn?oc=5",
+      "source": "Business & Economy",
+      "published": "Wed, 07 Oct 2026 19:11:34 GMT",
+      "category": "Business & Economy",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-mixed-economic-signals-emerge-as-inflation-stead-a84261e9ca.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Budget 2027: Introduce Health Workforce Retention Plan \u2014 Penang Medical Practitioners' Society - CodeBlue",
+      "summary": "The Penang Medical Practitioners' Society calls on the 2027 Budget to include a Health Workforce Retention Plan to address staffing shortages and improve healthcare delivery. This recommendation aims to enhance retention through targeted incentives and support for medical professionals.",
+      "why_it_matters": "Implementing a retention plan could stabilize healthcare staffing, improving patient care continuity and the resilience of the health system in Malaysia.",
+      "perspective_one": "Healthcare advocates argue that retention incentives prevent brain drain and burnout, ensuring a sustainable workforce.",
+      "perspective_two": "Some policymakers express concerns about budget constraints and advocate balancing workforce initiatives with other fiscal priorities.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObFlrNUFOZGo0eUVnOHUzYW51SGJmQmhHSjR1UDZBSEpMbjI0TmNCRjJsYUU0Y2d6eDJRQmM3TE8tX3AtMGg0N05mTU9nMWZheF9kZGM2SEk3eXFQTUZKMktPZVdBWVRlVWJCRjdxUVZ0b0FhVVE0S1pNVGJCRU1wUGtjQUxUc19IQnZBNUNnVE9VcEJYOExITWQ3SjFIeWR5c0tPQjdhUngwU0FFNFk3aE1WZmRQQnNiNVF4VFBVYnRDQ3E1S1RlLWd0QXA?oc=5",
+      "source": "U.S. News Society",
+      "published": "Thu, 08 Oct 2026 06:25:58 GMT",
+      "category": "Society & Culture",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-budget-2027-introduce-health-workforce-retention-a3147f9f79.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Atlanta Braves Face Major Tyler Mahle Decision After MLB Playoffs - Yahoo Sports",
+      "summary": "Following the MLB playoffs, the Atlanta Braves face a significant decision regarding pitcher Tyler Mahle\u2019s contract or role on the team. The choice could affect their pitching strategy for the upcoming season and postseason prospects.",
+      "why_it_matters": "Mahle's performance and contract status influence the Braves\u2019 competitiveness and roster management in a highly contested baseball league.",
+      "perspective_one": "Braves management considers retaining Mahle given his potential to contribute as a starter or reliever based on playoff performance.",
+      "perspective_two": "Critics within the franchise question Mahle's consistency and suggest exploring alternative pitchers to strengthen the rotation.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJYUW5ZaFVmRmVXMmt6bDBaa2thbS1zcDN6MVA1bTdkLTZCZVM2Z2g5M1VXQTdfMFNqd1dVZUpWeFRidEtIc0VhcDJ1cV95cUdpQXBiZjZveTZQNXVVZzcyeF9pY1FlUHh3aUV2NDNPSGk5d0Itc3Z4S1JsSWkzT1pKckdOWnM?oc=5",
+      "source": "Braves Playoff Race",
+      "published": "Wed, 07 Oct 2026 18:32:36 GMT",
+      "category": "Sports",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-atlanta-braves-face-major-tyler-mahle-decision-a-204467ab87.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Finalists Win Big Laughs in The Comedy Wildlife Photography Awards \u2013 LOOK",
+      "summary": "The 2026 Comedy Wildlife Photography Awards unveiled 40 finalists featuring humorous and spontaneous animal images competing for the prize. Sponsored by Nikon, the contest celebrates wildlife photography with a lighthearted approach.",
+      "why_it_matters": "The awards raise awareness and appreciation of wildlife conservation through entertaining and accessible imagery that engages a broad audience.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.goodnewsnetwork.org/finalists-win-big-laughs-in-the-comedy-wildlife-photography-awards-look/",
+      "source": "Good News Network",
+      "published": "Sun, 04 Oct 2026 21:21:40 +0000",
+      "category": "Good News",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Squirrel-by-Udo-Harms-Nikon-Comedy-Wildlife-Award.jpeg",
       "image_credit": "",
       "image_source": ""
+    },
+    {
+      "headline": "Supreme Court allows Trump to implement parts of his mail-in voting executive order - ABC News - Breaking News, Latest News and Videos",
+      "summary": "The U.S. Supreme Court permitted the partial implementation of former President Trump\u2019s executive order on mail-in voting. This decision affects federal election administration practices and legal debates over voting access.",
+      "why_it_matters": "The ruling shapes election protocols around mail-in voting, potentially influencing voter turnout and election integrity in upcoming elections.",
+      "perspective_one": "Proponents see the order as necessary to safeguard election security and combat voter fraud through stricter controls.",
+      "perspective_two": "Opponents warn it could restrict voter access and disproportionately impact marginalized groups relying on mail-in ballots.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUpWVmxZNkVNNGxlamhNRjkteVhjUVJNMXhDQ3Vyc3V3UkdTVEcyeUM0ZnEzTUlJQXRYMUZsNkZ5LTN5Q0VzWDFrVmVFSVlpOFBSaEpwa19qd0Q4SExzankxMEpIQjMxT2k5R0Z3emE0cDFCNng3V3lwVjBQUDg1NNIBhgFBVV95cUxOWGtmd1BpZ1U2QlJOeTZIcXhKMTVTOVFEZDJKcDJPS1NzX2NsOG1RT2w2TkpUMDkwTWY1QzlZcGt4LVlmNV9NZlFVUG04S0Y1U2hUSUdFSk5sUlFId1VsZzlnd1JvOGlWQnY2LThiN1J6cjZDSjdSWHd3elNWS3FpYWJqMXFnUQ?oc=5",
+      "source": "U.S. Politics",
+      "published": "Wed, 07 Oct 2026 19:14:31 GMT",
+      "category": "U.S. Politics",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-supreme-court-allows-trump-to-implement-parts-of-617b5c37dc.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Louisiana Midterm Elections 2026: Key Races, Candidates and Past Results - NBC News",
+      "summary": "Coverage of Louisiana\u2019s 2026 midterm elections highlights key races, candidate profiles, and historical voting patterns. These elections will influence state representation and policy direction heading into 2027.",
+      "why_it_matters": "Election outcomes will affect Louisiana\u2019s legislative agenda and political balance, impacting local governance and federal-state relations.",
+      "perspective_one": "Some voters seek change through new candidates promising reform on economic development and education.",
+      "perspective_two": "Others favor incumbents for their experience and track record in maintaining stability and state interests.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZHZyZnlsaGh6Qy02ZUpoN3VnVDJ2Z2xtNkRpbm1BSUFGa0RsV0t5Vzc1VW9wV2NrRUZqUHliRlY0YzVPZ216UE53TXdzbEhqVjJGc1NwMGVlbUJocWx3Umlmb1JRQzV2SnY2akZwQTZFb3M?oc=5",
+      "source": "USA Today Politics",
+      "published": "Wed, 07 Oct 2026 17:30:21 GMT",
+      "category": "U.S. Politics",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-louisiana-midterm-elections-2026-key-races-candi-4dc3dd1112.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "ICE has quietly used this warehouse as a detention facility all summer, neighbors say",
+      "summary": "Neighbors in North New Jersey report that ICE has covertly operated a warehouse as a detention center throughout the summer. NPR\u2019s investigation highlights concerns over transparency and detainee conditions in the facility.",
+      "why_it_matters": "Secretive detention practices raise questions about immigrant rights, oversight, and community impact in immigration enforcement.",
+      "perspective_one": "ICE defends using the warehouse for operational needs, emphasizing safety and processing efficiency within existing legal frameworks.",
+      "perspective_two": "Advocates criticize the lack of public information and potential mistreatment of detainees, calling for greater accountability.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury",
+      "source": "NPR U.S.",
+      "published": "Thu, 08 Oct 2026 06:13:18 -0400",
+      "category": "U.S. News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6009x4008+0+0/resize/6009x4008!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Fa4%2Fbc23e49946778e1c37c73d8768fc%2F260917-npr-roxbury-final-josealvaradojr-0003.JPG",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "summary": "South Korea has recalled its envoy to Ukraine following controversy over the transfer of two North Korean prisoners of war to Seoul. This diplomatic move reflects tensions amid an evolving geopolitical dispute.",
+      "why_it_matters": "The recall affects South Korea-Ukraine diplomatic relations and signals strain in alliances during ongoing conflict engagements.",
+      "perspective_one": "South Korea views the transfer as a security necessity to investigate and manage North Korean activities.",
+      "perspective_two": "Ukraine perceives the recall as a diplomatic setback that could hinder cooperation amid conflict pressures.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Thu, 08 Oct 2026 16:23:09 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f15e/live/fb9d5240-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "International Criminal Court judges say Philippine ex-President Rodrigo Duterte fit to stand trial - WFMZ.com",
+      "summary": "ICC judges determined that former Philippine President Rodrigo Duterte is mentally and physically fit to stand trial for alleged crimes against humanity. This ruling allows legal proceedings to proceed regarding his controversial tenure and policies.",
+      "why_it_matters": "The trial could set precedent for holding national leaders accountable for human rights violations, influencing international justice norms.",
+      "perspective_one": "Supporters of the trial argue it is essential to address impunity and deliver justice for victims of Duterte\u2019s policies.",
+      "perspective_two": "Critics contend the trial undermines Philippine sovereignty and politicizes international law.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMS1PTlUtTlk5YkNUdDRnMGRHalc4RHBHWVVhT19WOE1DUTMtMElFMzZZNjdQRERaX3I0eVJ4TFdNejZLNVlGZWYydFZ6a3Q4d2lTQm5mOEtGdFFRcGdQU3BQQzJ4b0ROWndVUDFFUnFDZmEtdlloY0R6SklsS1BMNThpRHFrVUZkOXpmeVhFd2ZCNm93TC16TDI4WFVRb1NfWVZaTmlTM2piaWxUN2pHQi01YV8wS2VjOEJpTENtN3VvTzRqMDZ2V3NGWkJjbUNaWDRtQUhFTk9XSGExUHdWUFJNbldJMVFDdHFfN2dpUWxENEN3aFZ1dWtibWMwU3c1RlF1T0haLXhfNjE4LWw0ZTNXOWI?oc=5",
+      "source": "Associated Press World",
+      "published": "Thu, 08 Oct 2026 13:06:00 GMT",
+      "category": "World News",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-08-am-international-criminal-court-judges-say-philippi-7f7f8e641f.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     }
   ],
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "Exclusive | Lawmakers Want Colleagues to Promise They Will Accept Midterm Election Results - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT19xNmFrYnJQeTJiMzZtTllVa1V3UnBkNnRFN3ZKY0pWbG5DR0FFR0FUVXBYR25NQ2tybHhfUnR6bzA1Q1JxWXVkTTVkWUhRSDBjRkJJbG05YXp6M3d1N0JnSkd1QlBPZDQ5bUVUdDQtZWRTbTN2cThPa1phUDh6UlFoaVRtMklQQ0Q2WG00ekNmd0JHQWdvSEpsOGRPaHk1LV9SM3FZZnZ2SWRFQ1pCb1BnbmwzY1V1dXQ2Vw?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Exclusive | Lawmakers Want Colleagues to Promise They Will Accept Midterm Election Results WSJ"
+        "headline": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
+        "url": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
+        "source": "NPR Politics",
+        "summary": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal."
       },
       {
-        "headline": "Election 2026: Buckhout\u2019s challenge to Davis headlines U.S. House races - The Center Square",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3RjOXlBaU00ZE1sRHE5ZF9tZXd3aThnZlUyMWV6UVozTWc4RU5ITThHR0ozRVpvUGhDUWEtbnNBTkZSUDhxek8zdFl6M0FudERZZFkyTDVXX1JpSlhSYWhxbzZ5UFR2NWREWWtOTU1wNVgxV1RCOUJKRTdSR3dRQV9uZUFDU0RnNkNPUUhrOVVqbWdaYV9GV2NKdy3SAaIBQVVfeXFMUER0emdQUFhrNjZHaEpoejBxalBLT1dESzItT3JxdGdFTV9EQzVNODFtY3FIUGdlYXpwaGhZRVByZ2wxSGlXamdGdkpkd3ZGUk1zaGx3YjNtbk4yNHpsbG9KMUNSRFBRTmRtVFREWXlmMU02d0JfWEVtd29HTHRGZ2dVSVIxWklXcTkySDkwaUJfYjZQNkVlN1QwT1FjM1RRVDFn?oc=5",
+        "headline": "Warner, Mizusawa outline competing approaches to disability policy - Virginia Mercury",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGhaeFh4X0FmNTJzTTd3TWk2Njc5SW1vVDR1aVJCamRuTHp4NmpmS0NPb2FmZ2g1MnVJaS1TX1FNaDZuVWdzYmxmVHlGZFItVlkxOFBJSjVxbFRsWjFuOTE3Qk1FS25CelRTREJ4OFhRY1dtU3d0S19uck9oZWRnWHFIaElydWxZOW9uQWdkQVdYVm52Z0d1V0hSVllTQ2xNcHBGVUlUdUk?oc=5",
         "source": "U.S. Politics",
-        "summary": "Election 2026: Buckhout\u2019s challenge to Davis headlines U.S. House races The Center Square"
+        "summary": "Warner, Mizusawa outline competing approaches to disability policy Virginia Mercury"
       },
       {
-        "headline": "Supreme Court allows Trump to implement parts of his mail-in voting executive order - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUpWVmxZNkVNNGxlamhNRjkteVhjUVJNMXhDQ3Vyc3V3UkdTVEcyeUM0ZnEzTUlJQXRYMUZsNkZ5LTN5Q0VzWDFrVmVFSVlpOFBSaEpwa19qd0Q4SExzankxMEpIQjMxT2k5R0Z3emE0cDFCNng3V3lwVjBQUDg1NNIBhgFBVV95cUxOWGtmd1BpZ1U2QlJOeTZIcXhKMTVTOVFEZDJKcDJPS1NzX2NsOG1RT2w2TkpUMDkwTWY1QzlZcGt4LVlmNV9NZlFVUG04S0Y1U2hUSUdFSk5sUlFId1VsZzlnd1JvOGlWQnY2LThiN1J6cjZDSjdSWHd3elNWS3FpYWJqMXFnUQ?oc=5",
+        "headline": "The politics of tariffs after Trump - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTl4Sk1CMGJUT2lTdGRxazdqWlRSd2gxZDJQWTI4bkhmekgzRGg2MWRfbXlNMVNrMmM5OWl0Um5LNGlwdGRIdGYtTVJNODhTN2UyV3NSR21TcW9Mc1p2VXBIb29GOThoTkU0dEhGcHdTeEVtUXl0LVFEbkQ1Ui1TcC01cElBLUR0X2FTb3owU1A1UlgyYWdVUdIBngFBVV95cUxQZlZYaU9ZQmxXbzk4c1J6bm1sV0pqUVY1WHZIcjlRY0NyWDREek9sZE83WHZoTEdST2lXMGZmQ3FCSXJkWUZWRGFLQlZ0cVdLRk5CQ1ZwajI1TGdLY3JYYnhTa0lQNWdVbTU3cnU0QUZsQ1ZSMGxETEJuaU9aRkw0OE42Q0dMbmk3QXNaZWcyZnBhd3Z6bFljRC1xcFlvQQ?oc=5",
         "source": "U.S. Politics",
-        "summary": "Supreme Court allows Trump to implement parts of his mail-in voting executive order ABC News - Breaking News, Latest News and Videos"
+        "summary": "The politics of tariffs after Trump The Hill"
       }
     ],
     "U.S. News": [
-      {
-        "headline": "New U.S. indictment charges former Venezuelan President Nicol\u00e1s Maduro with torture",
-        "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-        "source": "NPR U.S.",
-        "summary": "U.S. authorities charged the former Venezuelan president with conspiring to torture his fellow citizens as well as Americans. That adds to drugs and weapons charges against him."
-      },
-      {
-        "headline": "ICE has quietly used this warehouse as a detention facility all summer, neighbors say",
-        "url": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury",
-        "source": "NPR U.S.",
-        "summary": "Throughout the summer, rumors have been bubbling in North New Jersey that ICE has quietly been using a warehouse as a detention center. NPR investigated."
-      },
       {
         "headline": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
         "url": "https://www.npr.org/2026/10/08/nx-s1-5981343/beyond-flock-police-ai-surveillance-tools",
         "source": "NPR U.S.",
         "summary": "Real-time crime-center software is a sometimes overlooked but powerful tool allowing police to aggregate immense amounts of data, significantly expanding their surveillance reach."
+      },
+      {
+        "headline": "Trump's acting director of national intelligence begins firings at agency, sources say - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDdZYkQ1SlQzUzZvbkgtckNhS0Q3SDJidmNYYnN5RFVGS0xfVlRleTdTUzZsd3A5UVpvRmRsUVpDVzhJWThGWGJhbW0xZDdvNHh0RmZNaDBCS0c1bE5oVFJkVDNYT0pKbllHRnVxV1U3Uy0tRWdrTnU1NGZLMGl6SHJqcDdVSU5hUkRmNzdvSFBFek9ZbHJoVzB4QkUtNVlpSmkzSEJuR2lHQ2hxTHhn0gG0AUFVX3lxTE5vcXRZVElJdGxKWE9HeU1nZ0VaTVVTdzd2YWhDczJPYmJKOHRNTjFILTY4SnUyRjhYdXFfcm1vLUJFZlN6OHFuekxqM29FZTJKT0ZXZ0tZcmJjR25uODMtbkU5UEo1WW1XOENud2hBMTdhb19rUXdhNTJQcjFOd3lacEkxbVFEMEZrRlBVWnQ3aEFMVmJtMzlLYVcyWlo4Uy1uMXBHVnZvSUd0bkY4ZlV1R2xMNQ?oc=5",
+        "source": "Associated Press U.S.",
+        "summary": "Trump's acting director of national intelligence begins firings at agency, sources say ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies."
       }
     ],
     "World News": [
       {
-        "headline": "Former Venezuelan President Nicol\u00e1s Maduro expected to face more charges this week",
-        "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+        "headline": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "Federal prosecutors in New York filed an updated indictment on Thursday"
+        "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
       },
       {
-        "headline": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul."
+        "headline": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+        "source": "NPR World",
+        "summary": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation."
       },
       {
-        "headline": "International Criminal Court judges say Philippine ex-President Rodrigo Duterte fit to stand trial - WFMZ.com",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMS1PTlUtTlk5YkNUdDRnMGRHalc4RHBHWVVhT19WOE1DUTMtMElFMzZZNjdQRERaX3I0eVJ4TFdNejZLNVlGZWYydFZ6a3Q4d2lTQm5mOEtGdFFRcGdQU3BQQzJ4b0ROWndVUDFFUnFDZmEtdlloY0R6SklsS1BMNThpRHFrVUZkOXpmeVhFd2ZCNm93TC16TDI4WFVRb1NfWVZaTmlTM2piaWxUN2pHQi01YV8wS2VjOEJpTENtN3VvTzRqMDZ2V3NGWkJjbUNaWDRtQUhFTk9XSGExUHdWUFJNbldJMVFDdHFfN2dpUWxENEN3aFZ1dWtibWMwU3c1RlF1T0haLXhfNjE4LWw0ZTNXOWI?oc=5",
-        "source": "Associated Press World",
-        "summary": "International Criminal Court judges say Philippine ex-President Rodrigo Duterte fit to stand trial WFMZ.com"
+        "headline": "Former ambassador on NATO's meeting in Ukraine and the ongoing war",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
+        "source": "NPR World",
+        "summary": "Military representatives from all 32 NATO member states met in Kyiv. NPR's Steve Inskeep speaks with Kurt Volker, former U.S. ambassador to NATO, about the meeting and the ongoing war."
       }
     ],
     "Conflicts & Security": [],
@@ -329,10 +329,10 @@
         "summary": "NY Fed September survey finds public expecting more near-term inflation Reuters"
       },
       {
-        "headline": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzlOYkh2NkF3OTFOQ0g5RFdjT0VSZXU4Y0U1cDREQnltUF9XM2VBVlk1bER5cTNTS00yaWctcDdnTjI3TG1jeWVxV3JIT2ctb1JVLVg4Nm13aENfNmlQSVQ2dHZLS2dabVYyYXQydWFEQ25SQVY1UkFORHd6djNHUHFkVEpwa3d6WkRiMy15SFRwV3l4anZiSXQ2YmR2bmxWZFhYTFE1YVNBRnc1ZG0tbHJDT1RacGJ6VmRhV3RnQ3g5UmZvdE5xZ3RB?oc=5",
-        "source": "Arab News Middle East",
-        "summary": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say Reuters"
+        "headline": "Israel blocks Palestinian election officials from Gaza and Jerusalem ahead of next month\u2019s vote - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc2s5V2xOclhvSFNQWjUydXl0OUtqN0dWZ3NIZ3A2a3hLSkRHa2FsVkhiZ1JGbkNlUlhDQ1BrajhnWG13OGZ2TTg2U3VMN3lhbkpqb2stZ2lmak1sTHM0SjV0YUUyYmVNU3l4MGgwQlZBSUJjSUhRWkNCeVFmdEJGZUJSRnVvTmRMRmdzbUVPeW9OckNfTmNhM2xBNWZXc18zeDRPRS1HSHJBSVZuY2EzbnI3TG4xRWZtR3hIQndtSTJXc0NpWnFtSHM0eDVtQlBqeFFWQlBmNEc?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Israel blocks Palestinian election officials from Gaza and Jerusalem ahead of next month\u2019s vote \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9"
       },
       {
         "headline": "Iran war disruption creates \u2018huge\u2019 oil trading opportunities, Vitol says - The National",
@@ -342,12 +342,6 @@
       }
     ],
     "Health & Medicine": [
-      {
-        "headline": "FDA Warns Amazon Over Herpes Treatments - MedPage Today",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53bE5qV0o3TjhrUmRFLXFCVEsyNHRWNzJNSTJkZ1VqQjFaeG9nRDU2SDRsbGVrWndLb1lBMHVHYWs5alNWeFl5U084eV9TQTlUbk1wMTJQZHEwbUZoeVhjbmgwUVdrTXZ2c1E?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA Warns Amazon Over Herpes Treatments MedPage Today"
-      },
       {
         "headline": "FDA Expands Indication for Urticaria Drug to Treat Symptomatic Dermographism - MedPage Today",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CX0NFYVllR2UtR0RsZ0R5ZDZ0Y1JhSHZpNXVQdEVlcm5SUWNnbTVfWjBqTU03eUVTQXk3d3NucFRTN19sNjFaV3QzdEgzTXlqdGVldjkzUEFJMGZVZnFQc0ZTSTlfcm1sY3VkZnJ0ekN6MklS?oc=5",
@@ -359,15 +353,15 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzZPVlRuY1MxZUUyaXFjN09OeDhUZVVNYXdGLWs0OHhkZGluZF9TY1BqbVp5UlhiOW1JNXdRNzhEV0ZZRnVWOTdnMl93bDlnSHN2NTFKNXRWWjYyRUpvX05XUjAta0dNTkswNEhNSVlOb2JTNVQ1dlJvdjhfVVVERjlmM0Q0STM3enJyeF9kakx2YW1nMGxuVzZUc3RfelBFUEhRVG82QjJKMmFQeGtSVUNFQQ?oc=5",
         "source": "Health & Medicine",
         "summary": "Stanford-developed therapy treats first patient after FDA approval Stanford Medicine"
+      },
+      {
+        "headline": "Why health AI pilots in Utah may be on a collision course with the FDA - STAT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajQtWENaN2RDSjY0WjZkc0xfQ2JFTXJ4SU5oR3NVVlBQMjlYMUNueDdxZ2lHR1RVeDBVamdVY0hmQ0pzRHBkTHgzdW5vcnBrWF9oa2t5cWNsVFpTRjVHOU1EVUVJQXBSMk1tS3R6YmxydmsybThrRjgyRHQ2TTRIVzNMYU1sOUk1aVNhT0djYUhZUUIxODlpZWZLaFdwN1FK?oc=5",
+        "source": "STAT Health Tech",
+        "summary": "Why health AI pilots in Utah may be on a collision course with the FDA STAT"
       }
     ],
     "AI & Technology": [
-      {
-        "headline": "CSC Wins for Threat Intelligence Innovation in 2026 CyberSecurity Breakthrough Awards - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ1lCbm1SamdEWk1maGRtRXNmZEt1dk1JM3RBZUNUeWEyZzFhQ3kzT29mZjVJMl9WSDhOQWdwQndQR1dVNWp5elI4R2pVUWNzc2RPenNkSWRCMEthOU14MFFodG5WRGJIVm1TNEhIY3UwXzZwVHZ5Z0dwRmQwYVlOMnlZYXF2QkFLWE5hdlFwano0THdiWlNwT01vajZDVnJlNE05Q01MdC1tU0wxRFhIRmJLbmVnZmJ1Mm50QVJ3bm5laGl5RnlmUHFCMmZ3Q0J1a09RTTNwOEpWdw?oc=5",
-        "source": "AI & Technology",
-        "summary": "CSC Wins for Threat Intelligence Innovation in 2026 CyberSecurity Breakthrough Awards Business Wire"
-      },
       {
         "headline": "Carson Examines National Cybersecurity and Artificial Intelligence Through New Scholarship - Samford University",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRmczcmdpWXJkaGdjNzVHcDl1WjVPNTNXV3JUYmx0c09FUE9Sd2J2TG1sZmVGOTZGRGhfVlNzenp1TklJTFBuVlBJWWtFaXZqQmZEQ3djaXRIX0tqYWZvcGdOQU5rLVVLcHpsc094MlBlMWFkUGJqdXdtemQ1R0VHMlRuM2NoTFg1dl9pZzkxeVZGYUw0YWo3ZDVveG40Y19FR1o0XzMyV2U1YzRxbGZES3FDU0V4TGhtM09PLXJFd25oUGd1T3o1WXVqNzYtU2h6VXdVTEhGcC0tU3AzM2ZhMw?oc=5",
@@ -379,20 +373,26 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0tHVVNqTlJHYUlDQkpuajVJZjVVVHAtNE9PVWc2UmxQbng0M09qRXNyZW0xd1QwLTduazc2ZHJkM19WOGhKUWNuQXJvUkRrdkZDM0t1V3RlMnY4SWZqUEZDU2FkRTl4Yzh4TUFYcHhHeFdUdXVoNllydFVGZ2hlN3BvMzNCdElY?oc=5",
         "source": "AI & Technology",
         "summary": "EY builds Cebu cybersecurity hub for higher-value tech work InsiderPH"
+      },
+      {
+        "headline": "Australia\u2019s perfect storm of AI, cyber security and skills shortages - ARNnet",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGtuYkVpaDF6WFVpMXhZZk8xWlZOd3hGMHNJQnhLSWVKYXhoVDNpdDNFblJla3FIUV9mYUYzVFBfMmRRb2o5eW5JV2JkZjVDUGlnR1VnZXJ3aWZyQ1hBQ3A4SExibF9OQkUxYXg1a0daNUZJcE8zdW9udnFUaENjT3hRQWgxN3RzM2ltWWY5TjhSR01nUTBkeUlqYWhDNmJEay1TX1hDdHNoUHRBOW9LeHd2aw?oc=5",
+        "source": "AI & Technology",
+        "summary": "Australia\u2019s perfect storm of AI, cyber security and skills shortages ARNnet"
       }
     ],
     "Business & Economy": [
-      {
-        "headline": "Mixed economic signals emerge as inflation steadies but hiring slows before midterms - KATV",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPeDcxV3E1WHc1ZDlXUWs1V2Z1Z3NhN21MdzhrU285Q3JOUUxZampDeERfX2Z0ZW5sRjZlMkdMZ1h4YlN5LUFPdlRWdUh1cEZ1MWdkZjBqS2kzV25LY082VVFXQ2VXckpOd2Q1eXdRT2ZxWENxRnZDSjJjczEwbF9weXd5YTZOb0c5UU5TWlA2cnd2eWRub1k1X2ZRZUc4UjA3MnhZenFIS1B1RmNYY2RvRERRUTlxaDBDaUpJR3JndVlXcm8wdk1nQy00bWExV284dUpERlRISmFfMk9VQXNjZ204eHpIMGJIc01ZZGpVWlJmNVQzc3RUR3F5M19fOEIyVlg0RFQ2QkFGMG16VDc4ZXRtTkViNXhoV2V0UUVfcG51Qk1oYWJxMWtHeXlZMmhUeUlvZGd3Z3NkRG9yQkRmWlFPS1NfdHhGWWNWUW1CN2xYVmtKVXNn?oc=5",
-        "source": "Business & Economy",
-        "summary": "Mixed economic signals emerge as inflation steadies but hiring slows before midterms KATV"
-      },
       {
         "headline": "US Fed minutes signal another rate hike by year-end as inflation stays high - The Economic Times",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNWExUV9mTzlNSzUtcVJ5dHg2dlM1NEpFQXZXTVJOR2pRdmFkN2NhM3hrV3lzU1dXSHhZOE9zcDlJQnJpV1k3Tjh4ckdXZmZTVGJpSUphZlNIMDR3em5zdi12UUhYc2Y4WGlVelo3RjFUUW1BN3JlMXhkSnZKMUdFVlQ0RklxRzU4YWcxeUhEUC0wS0o2d0hHLW90ZGF3Q3hfbl9rWERmOWZOa3VzckJHNm5CcEZIbnlCV1FFeTdSVUtZNHpkLVFrWUNhODVub0pxWVN4eVVZRnhCQWZ2eHBRdGR1bk5qd3V0T09BeG5TbWPSAfYBQVVfeXFMTzhmZ2JFaEt3X0pYOFE4am4wQmdkTnBxVU9pQS14ZjR5SnJWTFg3YVlFZXZkRGVhM0Jha0lUMDV1S1hVYjZUSHRHci1mSTFTbTZaNWdpcnNVRjNqNG9KT1pNV29RdmlyZk0xMUFBSTZoMkFQSUk2U3hzU20tazlwLXI3R0NLajk1UG15X1ljWkFqMlYzbGVFMXdEUk5Ccm1DR1dYWU55ZTZGNENYcWo2TU83Uy1sbnVhUEJUc2hCZlk1bnFJaF81SHpOMUNUTnl2R0RmRExOSHdTMGhuOThFSGtRY3RiWE1KRkNkV2V3NFZzcTgxSWJR?oc=5",
         "source": "Business & Economy",
         "summary": "US Fed minutes signal another rate hike by year-end as inflation stays high The Economic Times"
+      },
+      {
+        "headline": "NY Fed September survey finds public expecting more near-term inflation - KELO-AM",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWxpR1VxbzdIVldOZF94cUxVbUIydnE5dlJoeXZGZ0dISnIzUlhHMlBfbV9xR3lfZUNEMVpjcVV5UFdyeHFHUzZFWlNHcm1XR1hoNXdtU2Q5T3ZXeHdlU2U5UWRkVlFieVlpY1hRdGl0ZjBYbVM2TXdMR2c4NWxkY2RSa1pEVUF0WVRYVjBrVzNuMFlCMC1vZkpQMWZ4N1hzOFE?oc=5",
+        "source": "Business & Economy",
+        "summary": "NY Fed September survey finds public expecting more near-term inflation KELO-AM"
       },
       {
         "headline": "Send us your questions on how the US economy is shaping the midterm elections - The Guardian",
@@ -401,20 +401,13 @@
         "summary": "Send us your questions on how the US economy is shaping the midterm elections The Guardian"
       }
     ],
-    "Society & Culture": [
-      {
-        "headline": "Budget 2027: Introduce Health Workforce Retention Plan \u2014 Penang Medical Practitioners' Society - CodeBlue",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObFlrNUFOZGo0eUVnOHUzYW51SGJmQmhHSjR1UDZBSEpMbjI0TmNCRjJsYUU0Y2d6eDJRQmM3TE8tX3AtMGg0N05mTU9nMWZheF9kZGM2SEk3eXFQTUZKMktPZVdBWVRlVWJCRjdxUVZ0b0FhVVE0S1pNVGJCRU1wUGtjQUxUc19IQnZBNUNnVE9VcEJYOExITWQ3SjFIeWR5c0tPQjdhUngwU0FFNFk3aE1WZmRQQnNiNVF4VFBVYnRDQ3E1S1RlLWd0QXA?oc=5",
-        "source": "U.S. News Society",
-        "summary": "Budget 2027: Introduce Health Workforce Retention Plan \u2014 Penang Medical Practitioners' Society CodeBlue"
-      }
-    ],
+    "Society & Culture": [],
     "Sports": [
       {
-        "headline": "Atlanta Braves Face Major Tyler Mahle Decision After MLB Playoffs - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzJYUW5ZaFVmRmVXMmt6bDBaa2thbS1zcDN6MVA1bTdkLTZCZVM2Z2g5M1VXQTdfMFNqd1dVZUpWeFRidEtIc0VhcDJ1cV95cUdpQXBiZjZveTZQNXVVZzcyeF9pY1FlUHh3aUV2NDNPSGk5d0Itc3Z4S1JsSWkzT1pKckdOWnM?oc=5",
+        "headline": "MLB playoff picture 2026: Who clinched, bracket, schedule - ABC7 Eyewitness News",
+        "url": "https://news.google.com/rss/articles/CBMi9xJBVV95cUxNeXVacjdIMkMtUVZJN3hpbW4zY3lMdkl5c2xBbkdpaVVKVndEVXRfZ1lIRGtlRl9obkN6T19lZ0V5UnpYWThTX0hxNWMxV0JhYXpEdDJUQ0RnVFNTMnJuUFlGQVJWdEo2ZUtNOFdhWmwtd2tTWVdpQlVKeE51QnhROUVienVWRXNFNHBYQTRhcVpkZ1cwNHVvNE5FSUh3eWhBTDdxakRFOGhvZ0NHRnhFVENtUkFCR3FPNFlsSkxkSlhHcTZkMUhZcGZZX2hRY0tTQjA4WWNLYmJ5Vm1Bem52eUpNMXlqUUNCN2ZsUTljcEozRUFEMUNoSlRyM2Vra1gzUFVKUklSNFg0am93MlFfcmQ0SUJJbkJFS3RubE8zYmlSaHZJaDA1VTc2Ni1haVJwZ19TbmF0clJqaTJaZ2QwQjRVRDc4aTZaeVpKNHJTVEw2S1JqUk1HLXh6TmUxWHdQSDQxMEdlMzdMbWVnOXhwWk5CaERyQV9uVDdUNlNNR25tT2dnc1pXOWIwSU5lVHhRLXZjMlMyTkF1X2ZXcmJRLTIyMXI5NHI5dHJuQ2h1YVplWUUtV1IwZHViNXNacklTb0pWT19WMG5rSjQ3STh0MXEyS0pBYTdOYjhhQS00MmxkY1VIZHRpSG9JclMwNnIxeS12N2paS284T1lyc25jTWVYd3dNZzAwcEV4SmUxMHpsdVkySzNMbnhpY1VLV3pzOWc3OFNkR3R3OWdkX3NrMDIyNUVObU5lMWlZSGJESzY1VnVVVnBRRVRwbXpXSVd0T1NUWHA5NmI1UHpROElVQzNLUklpbzN4TEFmbFBwSE9PMHRNOHd0TWZYdnRjMVQ4VFFlR0hhSmFwNUkxTWVOZy0zN3E1TmNScVlZWTlxVU5JNzFTel9wTFhOVWgwRjVEaVRPNUgtQkV3VFZtdnptczNESmtnNk9ra0s2SzRBZERUWWFiaW1kTC1iRUtBVGJ5OVVNRWE2aHRocjJqQlNvblYzSm8wR1J2OFVPeXYySnFyNmx1bl9UU1NtNWRxeV82dVNYLU1ZcVQxME8zUVZiRk9BdnhBWlV1eEx1UHhoWDFRUnlTdU5zdTQtWFVVSG1SSjQwUVRFTGpoRElhTWlyWm4wVVpMUkZEWnlHdmdEZTIwTFRsamllZmF1WTV3Y2h6V0NSOGVTYjZkQ09tdVhCWV9mNmFVSmIyakQyWkdYU283ektRMDduQ3p3X1Iyc3dGRUtSQ09lRmsxcklZZHFrLUdtWmp3eHdiOWhoV24xZGg4MThJdS02c0NSLUpDQ0E5WWFOZDdWZHc4ZWt4QUZTYzBxNzAyQWNjSzNPY0dJYkkxWmNlRlMyNDlQYldCR18td0ZMVTE0ekV5ckxqUHRRV0FpNTVDamdzTDQyaGxrSmZXQ1RLNUJYR0lpeUZyNTNWRlJaN0pvVWJIaEh0TE96WTU1U0tKRzNTZElSM1g5T1N3cVRxZmV3RXNQVUN1V0FvR2dOUlU3MmxvSUlDUXhVQmhNM0JUalZFMWhFSTZhckhvSWtTS0pfOF9QcUZWQVVpSU5QcTJwczgtZlRpV3ZlYUIyOWNnVjJwcWRGM3Q5ak1BV1hWRHNlV1lHVkd1NTBIV2RQa0lIMVVkdUQ2a18tTXhfZ29tZTJGSmlNX053WFdhVWJVaUFXRFpJZi01b3NMcVV4NmxOWFMydG9RdWNtUHZDU1hEaHFPTkg1TGVObjRmcThEV1B6VDRzR1lLWkJaRW4tOG1JUHJfd2ZEbFdYU0tGXzBSeFlGVTZtY3MtT2t0b3JxV1FCeXhIZXhOclJSRmxXbjFWcUtlZ3hBYzJXUUZXMmMtLXZ5SmY4S0ZwVW15VFBUWl9hdG4weXh6N1hrQUNBUzJXUVRHRU1sZUZlTnhoNjc2bUt1S2U0bTFvUGtieHp4YmJoLWRDVmlDTkc1cVFEdkM1YWRJNTdpdVM4cDYxWWtvcnZ4THNZT0M2UnViVzlUSlBTSEJsZjgwSXBSV2Z5Y0NOZEtzTVdaN2FDVVY4M0pfN3ZoTGVtWGxwdGRPZDNNZGpJSmJNVnp6U3NjWjdRRlpFRGFaMy1LcTYtWDZ4ZW8zNzhkd1FWZmRkcEF4S1c5akl3aGlIOFhPTXVaMHZ2RmFCYUlGLWdGMUZpeTB1aUZLZGYtTGw1QVpGejlveEJjU0M1akZHUGRGZUxudUoxSzluWmQ2dHExVk1Mb1NzbG9OS1JwaS1XOFlXcXc4N21GbzBkc3I3cldmWjhMTVRYV1FaNzhrcHMxbnc4MndqdE1wRmJVbGRfaEoxcHo2RGxjcUFINmxmRE02LXpzVmdPMkdQcVhzbldsS21QekFScUpHUkxmU19JSEdBbGpzTF9PTEFweDVIeFJWY09FQTQwSjVJWVdTOHc3Nm44dXFYNkJpRUtoLV9hVUpQeXJZRl9OQWNWbkJubU45ZDhUYi1aS1VwOXBiUC0tUTNINnJEQUxROFZKaW1lWmtaNmlaaVpacXp0SXpncmt6d3Y3bVNMNmZqbDlUaXJpajNHek9TdGZCVmdZZUhEVjRZVV9pYzVQMEhBQ2tMc1MxUzlSTTkxTDBuQmZ4ZXA5TnBMNlY5dmJTMUljUDRiaEZsVVZubHdPOUNhVnlCYzFTbEI4VU4tLWdVV0RFQTg1VkF5VTlRUWUzY1ZvbGktNVhNVG1PTmNpS1daaUxia25HSlJuUUt3b1lvdXk3d2Fua0JyekpRYjZuTTR4ZjkzLTlzcFB6VUFyWWphZGZfaXJqanZDRFNlRWtwZERGdnk1V3hFVUpTMm1uS3l5S2otNTN3MmRhR3hGUlNYcUU1djMzdFpUVTVscF9ya2M4d2RQSDhnTkJMbElyRGtGc2kyVi1uMlRJRzJiRGlOS3dOTFVYSXFaWmhocHpwSVM4RS1ldHRNbXUyX24yU0hpelhMQUU1MFlqdXNpc3RHa0wzWS12aFJNOERxQkhyTDg4QXRWbE1DbXdEYkV0Rlp6Z0lYLTk4SEF0SDIwX1BHd01LWFMxRGJ1czVISVhRX0RPT3ZBX0U5T2RIYk9WQkU3N1BiRWNYUkNZY3NSaXVsS1FCVkRfSXg0ak5ITWtlejBzYmI0dzR4dm41VWJwVmxOblJiRkVqOGhlc3AwaGZ0TTJTdHpzX1kydEFQejJrVEN4b1c3aDh3bE5MMmo3eWdHcThrOVhDdlEzbHdzcWEyT3p5RGNlaEtfRGM1WFZrUQ?oc=5",
         "source": "Braves Playoff Race",
-        "summary": "Atlanta Braves Face Major Tyler Mahle Decision After MLB Playoffs Yahoo Sports"
+        "summary": "MLB playoff picture 2026: Who clinched, bracket, schedule ABC7 Eyewitness News"
       },
       {
         "headline": "Georgia Bulldogs vs. Alabama Crimson Tide Winner Will Be Team to Beat in CFB - Lyndy's Sports Annuals",
@@ -423,10 +416,10 @@
         "summary": "Georgia Bulldogs vs. Alabama Crimson Tide Winner Will Be Team to Beat in CFB Lyndy's Sports Annuals"
       },
       {
-        "headline": "Astros predicted to let World Series champion leave in free agency - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFlYY0szcDFJTGVPN2pJX1hEdURnVl85b19pNUttME9YT3RtNjE0OFFDS0k5WlE5d1B6Ymd6WGxuenY5ZC03NlFvLWNqU0haWHJDbkVzWEwzOExpTzBEUV9mUEZWYmZmVlVJamVVTTdhenRDcjZ1c0EtdWdBSXdNUDFpM2ZHTGFPMlE?oc=5",
+        "headline": "Why Brewers pose serious threat to Dodgers\u2019 World Series 3-peat dreams - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWk0QkRjUlhZeGxyTzVjSGNOX0hUdXFWZ3d1bkJaLVlTWU9GeXhmbW9FelNYMDlLWURxaDdiMFQxOG14ckZHb0FxY2RZdFZsQnBoOHdOVk44d1FmckVGQnFabUJNLVdtMUR5V240NFpUT3lCR28tMVI2TmdHTTlkSXhmTFJPdFk?oc=5",
         "source": "Yahoo Sports MLB",
-        "summary": "Astros predicted to let World Series champion leave in free agency Yahoo Sports"
+        "summary": "Why Brewers pose serious threat to Dodgers\u2019 World Series 3-peat dreams Yahoo Sports"
       }
     ],
     "Good News": [
