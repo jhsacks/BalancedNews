@@ -1,260 +1,260 @@
 {
-  "generated_at": "2026-10-10T11:35:32.934186-04:00",
+  "generated_at": "2026-10-10T11:58:27.529645-04:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "On the ground in Ohio's 9th District: The battleground shaping next month's midterms",
-      "summary": "Ohio's 9th Congressional District is a key battleground in the upcoming midterm elections. NPR correspondent Scott Simon traveled there to capture voter priorities influencing this pivotal race.",
-      "why_it_matters": "Election outcomes in Ohio's 9th District could sway congressional control, affecting national policy direction on critical issues such as healthcare and the economy.",
-      "perspective_one": "Some voters emphasize economic growth and job creation as central to their support for candidates, viewing local prosperity as indicative of broader leadership quality.",
-      "perspective_two": "Others prioritize social issues like healthcare access and education funding, believing these policies will directly impact their community's wellbeing.",
+      "headline": "U.S. imposes sweeping sanctions on International Criminal Court",
+      "summary": "The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal. These sanctions come amid U.S. objections to the ICC's investigations into alleged U.S. military actions and allied states' personnel.",
+      "why_it_matters": "The sanctions threaten the ICC\u2019s ability to investigate war crimes involving U.S. personnel, potentially undermining international justice and affecting global human rights enforcement.",
+      "perspective_one": "The U.S. government argues that the ICC unfairly targets U.S. forces and infringes on national sovereignty, justifying sanctions to protect American personnel and allies from politically motivated prosecutions.",
+      "perspective_two": "Critics maintain that the ICC is a vital institution for accountability, and U.S. sanctions undermine global justice efforts and signal disregard for human rights and rule of law principles.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5965798/on-the-ground-in-ohios-9th-district-the-battleground-shaping-next-months-midterms",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
       "source": "NPR Politics",
-      "published": "Sat, 10 Oct 2026 07:40:46 -0400",
+      "published": "Sat, 10 Oct 2026 07:40:51 -0400",
       "category": "U.S. Politics",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Parallel parking is now a sport in Philly, complete with speed and flair",
-      "summary": "Philadelphia hosted its first Parallel Parking Association Championship, drawing hundreds to watch drivers compete on speed, accuracy, and style. The event marks an unusual but popular new form of urban competition.",
-      "why_it_matters": "Recognizing parallel parking as a sport highlights urban living challenges and the creativity with which cities and communities engage in local culture and entertainment.",
-      "perspective_one": "Supporters see this event as a fun way to build community and showcase practical driving skills relevant to busy city environments.",
-      "perspective_two": "Critics argue it trivializes road safety concerns and urban traffic challenges, potentially distracting from more serious transportation issues.",
+      "headline": "Brooklyn Psychologist David Tzall, PsyD, Warns Couples on AI Chatbot Advice - USA Today",
+      "summary": "Psychologist David Tzall warns couples about relying on AI chatbots for relationship advice, cautioning that these tools lack nuanced understanding and can misinterpret human emotions. He emphasizes the importance of professional human guidance over automated responses in managing relational conflicts.",
+      "why_it_matters": "As AI-based advice becomes common, misguidance risks increase in sensitive areas like relationships, potentially worsening conflicts without proper human empathy and expertise.",
+      "perspective_one": "Advocates see AI chatbots as accessible, cost-effective tools that provide immediate support, helping many who might not otherwise seek therapy or advice.",
+      "perspective_two": "Experts like Tzall argue that AI lacks emotional intelligence and contextual understanding, risking harmful or superficial advice that could exacerbate couples' issues.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5992995/parallel-parking-is-now-a-sport-in-philly-complete-with-speed-and-flair",
-      "source": "NPR U.S.",
-      "published": "Sat, 10 Oct 2026 07:40:47 -0400",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHVOY1hFWHNIbVl5aW9PTEVLLXRjWWhEZHZBbDVPME1JZUo2YkFuc3h5MktoMjE1U2tRdFE1b2NGUkRYSG5tbm55S1VSUFhKZzJQd2dIczBuSEt4eTdtTURGLWtfRllCdVBFaXpNRGZqV3RvVFlZVk1ZVHVTeHF6SHBZZk1JM3JzME5mQ3QxQjNWdVVOQm5sYXp0RkhwVThFYVlyZGhJTnlaclZYZklhM2s5NzFac3ZYWVdCc21IZGtsekE?oc=5",
+      "source": "USA Today U.S.",
+      "published": "Fri, 09 Oct 2026 10:15:22 GMT",
       "category": "U.S. News",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-brooklyn-psychologist-david-tzall-psyd-warns-cou-3dae542d72.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
-      "headline": "A year of ceasefire in Gaza through the lens of NPR's reporter",
-      "summary": "One year after Hamas released remaining Israeli hostages and former President Trump promised an end to the Gaza war, Palestinians say the ceasefire has been ineffective. Despite the official truce, violence and instability persist across the region.",
-      "why_it_matters": "An ongoing fragile ceasefire affects regional security, humanitarian conditions, and international diplomatic efforts to achieve lasting peace in the Gaza conflict zone.",
-      "perspective_one": "Some argue the ceasefire has prevented full-scale war escalation and saved lives by reducing open hostilities.",
-      "perspective_two": "Others contend the truce is superficial, enabling ongoing hardship and failing to resolve root causes of the conflict.",
+      "headline": "India cracks down on youth protests as anger grows against Modi and election chief",
+      "summary": "India is suppressing youth protests sparked by opposition claims that the Election Commission\u2019s voter list revision disenfranchises millions. The government maintains the revisions intend to remove duplicate or invalid entries to improve electoral accuracy.",
+      "why_it_matters": "The dispute impacts voter access and participation in India\u2019s democracy, raising concerns about potential disenfranchisement ahead of upcoming elections.",
+      "perspective_one": "The opposition and protesting youth argue the voter list revisions deliberately remove marginalized groups and dissenters, undermining democratic fairness and representation.",
+      "perspective_two": "The government insists the process is an administrative necessity to maintain accurate voter rolls, protecting election integrity from fraud and duplication.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
       "source": "NPR World",
-      "published": "Sat, 10 Oct 2026 05:00:00 -0400",
+      "published": "Sat, 10 Oct 2026 04:31:28 -0400",
       "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5d%2Fa4%2Fda87682f4b4e963a85f1dd2f71b2%2Fgaza-04.JPEG",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3639x2426+0+0/resize/3639x2426!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2F15%2F0e8069e84cba8b3b26e07c0b9450%2Fap26283272621777.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Trump says India-Pak ceasefire alone was enough to win Nobel Peace Prize - Business Standard",
-      "summary": "Former President Trump claimed the India-Pakistan ceasefire was sufficient grounds to merit the Nobel Peace Prize. He emphasized this achievement as a significant diplomatic success amidst ongoing regional tensions.",
-      "why_it_matters": "This statement highlights debates over the criteria for international peace awards and the impact of symbolic diplomatic efforts on conflict resolution.",
-      "perspective_one": "Supporters view the ceasefire as a meaningful step toward sustainable peace between longstanding adversaries.",
-      "perspective_two": "Critics argue the ceasefire does not substantively change underlying conflicts and does not merit such high honors prematurely.",
+      "headline": "Gaza ceasefire exists \u2018in name only\u2019 as Palestinians endure dire conditions, 100 aid and rights groups warn - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+      "summary": "Despite a declared ceasefire in Gaza, over 100 aid and human rights organizations warn that violence and severe humanitarian conditions persist across the region. They highlight ongoing attacks, blockade effects, and critical shortages threatening Palestinians\u2019 survival.",
+      "why_it_matters": "The fragile ceasefire\u2019s failure prolongs suffering, complicates aid delivery, and heightens regional instability with far-reaching humanitarian and geopolitical implications.",
+      "perspective_one": "Aid groups demand international action to enforce a genuine ceasefire, relieve civilian suffering, and uphold human rights amid ongoing conflict.",
+      "perspective_two": "Some political and military leaders view the ceasefire as necessary but insufficient, emphasizing security concerns and resistance to political concessions demanded by opposing factions.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRFVxdnQ1QjB4RFBJSFEtNGFHR2tfcnd4NU9wSlNObm5YbklQTDc2blY4ajdYYzllMlE3akxtSm9PN0hDdDR1SUpkazNrM3BvMlVQTWdqT1UxWFFYTjlRRUdLdnAwdjB0UGhHNFpNYUg5UWdGZnlRSHh3ZEtiQzZfR1Y4Y3BEeFZaX2FvZ1Q3LWhzVlRWOTJjNUdZX01aYmZBTWxFWVQ2bm5ja3Q0UzJBUERVZXJBUW5Ea3J6Yll6Yjg0cThHTXVpM3otWEdNRXpsdzFCR3c1d2w5MWVuOGJjUHZoYkVxX3d0T29jbnpGbU56OEpzS1JoNlpJLTJod9IB_gFBVV95cUxNRFVxdnQ1QjB4RFBJSFEtNGFHR2tfcnd4NU9wSlNObm5YbklQTDc2blY4ajdYYzllMlE3akxtSm9PN0hDdDR1SUpkazNrM3BvMlVQTWdqT1UxWFFYTjlRRUdLdnAwdjB0UGhHNFpNYUg5UWdGZnlRSHh3ZEtiQzZfR1Y4Y3BEeFZaX2FvZ1Q3LWhzVlRWOTJjNUdZX01aYmZBTWxFWVQ2bm5ja3Q0UzJBUERVZXJBUW5Ea3J6Yll6Yjg0cThHTXVpM3otWEdNRXpsdzFCR3c1d2w5MWVuOGJjUHZoYkVxX3d0T29jbnpGbU56OEpzS1JoNlpJLTJodw?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Sat, 10 Oct 2026 06:48:00 GMT",
-      "category": "Conflicts & Security",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-trump-says-india-pak-ceasefire-alone-was-enough--1fdd8495b1.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Abbas postpones Palestinian elections, sets presidential poll for September 2027 - Reuters",
-      "summary": "Palestinian President Mahmoud Abbas postponed the scheduled elections, announcing the presidential vote will now take place in September 2027. This delay raises concerns about political stagnation amid ongoing regional tensions.",
-      "why_it_matters": "Postponing elections affects Palestinian governance legitimacy and complicates efforts toward democratic processes and peace negotiations in the Middle East.",
-      "perspective_one": "Supporters believe postponement is necessary to prepare conditions favorable for a fair and secure electoral process.",
-      "perspective_two": "Opponents warn the delay undermines democratic progress and entrenches existing political divisions, potentially fueling unrest.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
-      "source": "Reuters Middle East",
-      "published": "Sat, 10 Oct 2026 14:35:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnl0X2hFOGVSem5GYU1HRzZvekdveVlQOWk2bFVYZHlIZmUxdlFhREFoSXM5WUxYNDh5ZXdlSHJhSXlqRlM5NTNvWFBUNUNWMVhzVjBNdW10MEhOZkpBRG12NFV5UjhoVGw3M1I0R1ZTSTY1RUh1TmVyWTFsR2lkVngtSHFuNUVONURTRl9SWkdjZktvcmhwZzcxcGh3UGdWLTlqM01BQlVUaFNHcmNJenFHXy1ZS2tBWmdGMzlOMUhxZ2JodzlDdGt4OEQzM2NqRU1reTVmYldUWE93ZmRMQ1ZsWUNGQQ?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Sat, 10 Oct 2026 05:24:15 GMT",
       "category": "Middle East Affairs",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-abbas-postpones-palestinian-elections-sets-presi-00d8fe6f04.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/1280px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 WAFA (Q2915969) in contract with a local company (APAimages)\u200f\u200f \u00b7 CC BY-SA 3.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg"
     },
     {
-      "headline": "RingConn Receives FDA 510(k) Clearance for Non-Invasive Blood Oxygen (SpO2) Measurement - PA Media",
-      "summary": "RingConn obtained FDA 510(k) clearance to market its non-invasive blood oxygen (SpO2) measurement device. This approval validates its safety and potential use for monitoring oxygen saturation without invasive procedures.",
-      "why_it_matters": "FDA clearance allows broader clinical and consumer use of non-invasive SpO2 technology, potentially improving patient monitoring and health outcomes through easier access.",
-      "perspective_one": "Proponents argue that this device will facilitate early detection and management of oxygen-related conditions, reducing hospital visits.",
-      "perspective_two": "Skeptics caution that usability, accuracy, and integration within healthcare systems require further real-world evaluation before widespread adoption.",
+      "headline": "Clinical Prediction Models Are Breaking Trials and Nobody Is Requiring a Fix - The Clinical Trial Vanguard",
+      "summary": "Clinical Prediction Models (CPMs) are increasingly causing distortions in clinical trial design and outcomes, yet regulatory and clinical bodies are not mandating corrections. This failure risks inaccurate trial conclusions, potentially leading to ineffective or harmful medical decisions.",
+      "why_it_matters": "Unaddressed flaws in CPMs can compromise patient safety, distort evidence-based medicine, and delay development of effective therapies.",
+      "perspective_one": "Some researchers believe CPMs are valuable tools that, despite imperfections, improve trial efficiency and patient stratification in clinical research.",
+      "perspective_two": "Critics call for mandatory reforms and oversight, warning that current CPM misapplications undermine data quality and patient care reliability.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0dhT1BGYmhqOFlKTzhicWpJbXhYNFBydDFYMXozTzBrV3FOMnJoVkNCZDlCR0t0Ui1nOGVOV1RZY3ZZejNHd0M0RC03RmFWeTlkNGZrWl8xMTNaSkgtSC1GRnhncER6LUFReFk0clB5ejRhOE1XanRDb2FRVlBhSDdHRXdPOUoxck5EaElpbHBubS1ha3lka1NUeVgtcFZqRVk3NlhYQVdwM2VDUmZDTWdwMlhQcnE5ckJ3V1VHRE0tLXRmcmRGbXhNVnMzV3lw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTzdYcTIyWTcxWDF5VmhoV3JYMmNxejhiQThBNlFFaHhmRnB0YWxlVm5YWERLbko3bElDSzRzOWpvcnNvaTlfdUxOdkxWVkJUdHFlcnhwTG5OanhmQXFzNGo4ZVp6UWZvSktuV09OWHlyc2F5Q0lna1dqTFZwQXcwZnJTc0wwTXlhekFacEJJMzRGOW9yUVlpOTJQZGdRZnNaYVlOdFVkVllJaTJGcXhENGU5Wmw2MlJyc25kbzM5c21WQzVrbTlOYTFwSHZaQnow?oc=5",
       "source": "Health & Medicine",
-      "published": "Sat, 10 Oct 2026 15:03:22 GMT",
+      "published": "Sat, 10 Oct 2026 07:29:24 GMT",
       "category": "Health & Medicine",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-ringconn-receives-fda-510-k-clearance-for-non-in-13cd0b23ea.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-clinical-prediction-models-are-breaking-trials-a-08426e414f.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Barco Appoints Amit Saxena as Vice President and Global Head of IT, Cybersecurity & AI Platforms - digital terminal",
-      "summary": "Barco named Amit Saxena as Vice President and Global Head of IT, Cybersecurity, and AI Platforms. This leadership change aims to strengthen Barco's technology and security capabilities.",
-      "why_it_matters": "Appointing a leader specialized in IT, cybersecurity, and AI will guide Barco in safeguarding its digital infrastructure and advancing AI-driven innovations critical to competitiveness.",
-      "perspective_one": "Advocates believe this move enhances Barco\u2019s strategic focus on emerging technologies and cybersecurity resilience in a complex threat landscape.",
-      "perspective_two": "Critics may question whether this appointment can rapidly deliver tangible results amid fast-evolving AI and cyber challenges.",
+      "headline": "We Have Entered a Cybersecurity Hellscape, Japan Warns - Gizmodo",
+      "summary": "Japanese officials warn the country has entered a 'cybersecurity hellscape' marked by escalating cyberattacks targeting critical infrastructure and private sectors. They emphasize the urgent need for enhanced defenses as vulnerabilities multiply amid increasing state-backed threats.",
+      "why_it_matters": "The intensified cyber threats put Japan\u2019s economic stability, national security, and public safety at serious risk, requiring prioritized investment in cybersecurity measures.",
+      "perspective_one": "Government advocates stress immediate, coordinated action and increased cybersecurity budgets to protect critical systems and data sovereignty.",
+      "perspective_two": "Some critics argue existing policies inadequately address rapidly evolving threats and call for broader public-private collaboration and transparency in threat mitigation.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXd4X0NxbnQ0UUVSOFRtakNMMmxqVFRZS09yZFBEN1VzdVZVbzgxbXd2MVFnTWV2V2RqUzY0ZzA4MmthVG0zdjZ4eWI1RkltMzBwMEVXNTNvNEdmZmpPcTJBUHBXNV9OY0JvTkVVcmdjOTk1OTdNZ2Q0LUxxZWtEd3J3T2ZmZTNxZ1N0QThkel95cXhnR0xGdGhtX0NhMWhuZVZnYU1PaXpxRU8yT2dYWXByUG1EUU90NTlSbTFDVk5wZ9IBzwFBVV95cUxOS3hIUVhjWmFzb2FReU9PdDhOY1dlaEJ1VXppWWJyQWRrQ3lVdFVwcVBudE5Ua1FJQlJrZmNOTVNleExFNllRQll1WTJXeERXS2Z1ZjJSa0Q5cEhzMXRWWVhmRDVSX0U3S183dzJZTUJPX090bXEzNndEQk5kMTh0Z3FLNkljMjBJS2FWSTZHM2VhdFpSaWNSY0lnQkUxUk1kZzJPM1Q3bnpFV0pNZWVON2lXRkdVWjBvSENnNldVRDA3S2pjQkdfMEZoeGlUM1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWNzbVZSM3NJa1c1V19XcXJBU1FZaE1yWGJCSzhWZWVMME5BVk5LUmxZdDBaeUZYWHlWRDFHZUMyZmtWaEM3TEdTQ2NVWThMSGM5cjI0NHBuRW9ZelQtcHJQRi1KcjBKOVVINUFwQlczRzBtbi1TSUNtYXlrcnpncXMwOTJKc19GYy1BMQ?oc=5",
       "source": "AI & Technology",
-      "published": "Sat, 10 Oct 2026 06:35:55 GMT",
+      "published": "Fri, 09 Oct 2026 19:20:16 GMT",
       "category": "AI & Technology",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-barco-appoints-amit-saxena-as-vice-president-and-55160e885d.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-we-have-entered-a-cybersecurity-hellscape-japan--23719979ed.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Inflation target of 2% may not stop the next Fed rate freeze - CryptoRank",
-      "summary": "Despite targeting 2% inflation, analysts suggest this goal may not prevent the Federal Reserve from pausing interest rate hikes. Economic uncertainties and inflation dynamics complicate monetary policy decisions.",
-      "why_it_matters": "Federal Reserve rate decisions directly impact borrowing costs, investment, and consumer spending, influencing economic growth and financial market stability.",
-      "perspective_one": "Some economists argue that maintaining current rates supports economic recovery by preventing excessive tightening amid persistent inflation risks.",
-      "perspective_two": "Others warn that delaying rate increases could entrench inflation expectations, making future control more difficult and costly.",
+      "headline": "Job market weakens under President Donald Trump - Wonderwall",
+      "summary": "The U.S. job market has softened during President Donald Trump\u2019s administration, with indicators showing reduced hiring and slower wage growth. Economic analysts cite policy shifts and global uncertainties as contributing factors affecting employment dynamics.",
+      "why_it_matters": "A weaker job market affects household incomes, consumer confidence, and may influence voter sentiment ahead of elections.",
+      "perspective_one": "Supporters argue economic changes reflect natural cyclical adjustments and the benefits of deregulation boosting long-term growth.",
+      "perspective_two": "Critics contend that Trump's policies have destabilized job creation and hurt key sectors, worsening economic inequality and insecurity.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjVrU3dfS1pQaDhua0MzSG4xaHpxRTJNWG03dUJMVm5xNGRMUHJSRzNkcU1qVUdiMGNHSm9udGJ5dUd2T1QxSjJHTzlUbDFQZmJGUFZjY0o4OWhFT3BITVVtZmNHTEY4cFJrM1ZDTHBnQlBmSkl2UXZSaUZQZHYxNVRGakF6Um50Q2JHM0JvUDQyMHY2Y0g4bGRobw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNczdiSUlWRWg4R0hiWVgyd0xwSE81UTJGME1UTmpjZ3p0ejhyMzgwVFdrMTU4MzczVE5hVHR2THFvVGl3Q1lMU0JwNV8xR1l4T0tnTktqNWRjTnctdzdSclVGUHlnVFBWckZyblFtejlmR0c2emZpVHFoTGdZUnNBWGNqRGNrcEZMaTMtMExaejR1VjNGdmZsdk1oZkR5Q3V5ZmNYZkpKR3JHS3JlbGstbnVlNlczS2R1cEdDSXpVNk5QZ0hyRjVXWFM3UU4?oc=5",
       "source": "Business & Economy",
-      "published": "Sat, 10 Oct 2026 09:32:30 GMT",
+      "published": "Sat, 10 Oct 2026 15:17:00 GMT",
       "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-inflation-target-of-2-may-not-stop-the-next-fed--1072d1bfa9.webp",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-job-market-weakens-under-president-donald-trump--4316340f90.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Atlanta Braves Cut 30-Year-Old Shortstop After Elimination from MLB Playoffs - Yahoo Sports",
-      "summary": "Following their elimination from the MLB playoffs, the Atlanta Braves released their 30-year-old shortstop. This roster change reflects the team's efforts to rebuild or alter their lineup for the next season.",
-      "why_it_matters": "Player cuts after playoff exits influence team dynamics, roster strategies, and fan expectations heading into future competitive seasons.",
-      "perspective_one": "Some fans and analysts see this move as necessary to improve team performance and make space for emerging talent.",
-      "perspective_two": "Others lament the departure of a seasoned player, worried it may reduce leadership and experience on the field.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3bXY3QTdJTXBMQktHQkk0T1RzZmMzSjNDNFNzdG5DZGl6U01YYWZrZGF4dm81QXg0cG0xbTVwNDZTa3FJeW5FZXlJZnFzRVBHSHVkRWdiQUJLSVp5SFJ3NUd6V09pd2MyWmkybmhGejd0eUxRN0JWaG03ZWpGU0k?oc=5",
-      "source": "Braves Playoff Race",
-      "published": "Sat, 10 Oct 2026 05:56:00 GMT",
-      "category": "Sports",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-atlanta-braves-cut-30-year-old-shortstop-after-e-176edef5c0.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Good News in History, October 9",
-      "summary": "On October 9, 1909, baseball legend Ty Cobb famously stole home base during Game 2 of the World Series. This daring play remains celebrated for its strategic brilliance and impact on the game's outcome.",
-      "why_it_matters": "Moments like Cobb's steal shape sports history by exemplifying skill and competitive spirit, inspiring players and fans alike for generations.",
+      "headline": "2026 WNBA playoffs bracket, schedule: Valkyries and Dream advance to WNBA Finals with semifinal sweeps - CBS Sports",
+      "summary": "The Las Vegas Aces (Valkyries) and Atlanta Dream have swept their semifinal opponents to advance to the 2026 WNBA Finals. Their dominant performances highlight their strong rosters and set the stage for a highly anticipated championship series.",
+      "why_it_matters": "The finals will showcase top talent and rivalries in women\u2019s professional basketball, influencing league popularity and athlete endorsements.",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/events061009/",
-      "source": "Good News Network",
-      "published": "Fri, 09 Oct 2026 07:00:00 +0000",
-      "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Cobb-slides-into-third-base-for-a-triple-against-the-Washington-Senators-at-Griffith-Stadium-August-16-1924-Pub-domain.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-      "summary": "Rep. Mike Lawler, a Republican from New York, faces a tight re-election race in a competitive district that could influence House control. His campaign addresses a politically divided electorate amid fluctuating voter sentiments.",
-      "why_it_matters": "The outcome in this toss-up district may determine party control of Congress, affecting future legislative agendas and national governance.",
-      "perspective_one": "Lawler emphasizes a moderate, bipartisan approach, seeking to appeal to swing voters and maintain conservative representation.",
-      "perspective_two": "His challengers argue for progressive policies to address systemic issues, hoping to flip the seat and shift congressional power.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
-      "source": "NPR Politics",
-      "published": "Fri, 09 Oct 2026 05:00:00 -0400",
-      "category": "U.S. Politics",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2Fb4%2F6a08bef64d2fa169694356e281d0%2Fgettyimages-2298899263.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "These lawmakers want to head off a potential post-election crisis - The Washington Post",
-      "summary": "Certain U.S. lawmakers urge proactive measures to prevent political instability after upcoming elections. Their initiatives focus on upholding electoral integrity and ensuring smooth government transitions.",
-      "why_it_matters": "Preventing post-election crises is vital to maintain democratic norms, avoid governance disruptions, and sustain public trust in political institutions.",
-      "perspective_one": "Supporters stress that foresight and legal safeguards can avert violent disputes and contested outcomes that threaten democracy.",
-      "perspective_two": "Skeptics worry such efforts might politicize election oversight and be used to undermine legitimate political challenges.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDN2VXQ1SlBJVE9QTVp4UXBRX2VpUHFGSkJtc0NFVTFjVFpuNGNpNTRkeVVidlRRQUpjSUxQRHE0VVctRXVrYU9HOURVVWowODhPbFRieE9HanBQR3JTMk0zS1ZXMjJWSmw5bWxwWG5uMEpIek5nX0hveGo0TzVPXzZsX0FXVHlDdnNGdVVqaFNPV0ZoWV9nZmdRa1o0NzdNNkhtbGxFZnlGd2ZTNWhsY3MxNXBNM0phMFJaZ0NYZU00VnN5ZWFfQQ?oc=5",
-      "source": "U.S. Politics",
-      "published": "Sat, 10 Oct 2026 15:02:38 GMT",
-      "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-these-lawmakers-want-to-head-off-a-potential-pos-1461cec2ab.webp",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xUkVtQjFsNzRsLTgteXBqSTA3TUgwN0FtMmFpNGIxcHJKQkV1QnBRbFZyZVZ0NW5OZmFtNmdGWFBsUGdGWFFiUnl3MVo2ZjdHcnVWYVdQd0t5MjJxUHBpOXMtdVEtOHJUczdWeng5TXg2dndYbzRmaklqZFU?oc=5",
+      "source": "CBS Sports MLB",
+      "published": "Sat, 10 Oct 2026 04:07:00 GMT",
+      "category": "Sports",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-2026-wnba-playoffs-bracket-schedule-valkyries-an-0ffc99ecf9.webp",
       "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
       "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "summary": "Former President Trump arranged a deal for importing Russian diesel, drawing sharp criticism from Ukraine's President Zelensky, who called it a \"gift to Putin.\" The move has intensified debates over geopolitical strategy amid ongoing conflicts.",
-      "why_it_matters": "The diesel deal may impact fuel prices and geopolitical alignments, influencing the Ukraine conflict's trajectory and U.S. foreign policy credibility.",
-      "perspective_one": "Trump and supporters argue the agreement helps stabilize fuel markets and benefits U.S. consumers ahead of elections.",
-      "perspective_two": "Zelensky and critics contend it indirectly supports Russian war efforts, prolonging conflict and undermining allied sanctions.",
+      "headline": "Saudi Solar Park Proves Brilliant Breeding Ground for Threatened Sand Gazelles",
+      "summary": "Saudi conservationists have repurposed a large solar farm near the Red Sea as a protected breeding area for Arabian sand gazelles, a species facing vulnerability. This approach combines renewable energy infrastructure with wildlife conservation in a 24,500-square-mile nature reserve.",
+      "why_it_matters": "This model demonstrates how sustainable energy projects can coexist with and support biodiversity preservation, offering a blueprint for future conservation efforts.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sat, 10 Oct 2026 14:24:14 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
+      "url": "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/",
+      "source": "Good News Network",
+      "published": "Wed, 07 Oct 2026 13:00:15 +0000",
+      "category": "Good News",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/supplied-by-the-Prince-bin-Salman-Nature-Reserve.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "summary": "The BBC analyzes how former President Trump's deal with Russia to import diesel underscores growing domestic pressure to lower fuel costs. This political move seeks to address economic concerns ahead of midterm elections.",
-      "why_it_matters": "Managing fuel prices is critical for household budgets and political support, with implications for U.S. energy policy and relations with allies imposing sanctions on Russia.",
-      "perspective_one": "Supporters see the deal as pragmatic, providing immediate relief from high fuel prices impacting voters.",
-      "perspective_two": "Critics warn it may weaken sanctions enforcement and empower Russia financially, conflicting with broader geopolitical goals.",
+      "headline": "Midterms 2026: Congress Polls and More - NBC News",
+      "summary": "NBC News reports on the latest 2026 midterm congressional polls and related political developments. The coverage includes trends, key races, and voter attitudes shaping the midterms landscape.",
+      "why_it_matters": "These polls provide early indicators of electoral shifts affecting congressional control, policy direction, and national governance.",
+      "perspective_one": "Partisan analysts interpret poll data to forecast gains or losses, framing potential impacts on legislative priorities and party strategies.",
+      "perspective_two": "Skeptics caution that polls may not reflect actual voter turnout or sentiment, urging caution in reading early trends.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Fri, 09 Oct 2026 22:30:22 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
+      "source": "U.S. Politics",
+      "published": "Fri, 09 Oct 2026 22:16:26 GMT",
+      "category": "U.S. Politics",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-midterms-2026-congress-polls-and-more-nbc-news-2af19897ae.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+      "summary": "President Donald Trump announced that the U.S. will source diesel fuel from Russia, easing years of U.S. sanctions and pressure aimed at controlling fuel prices before the 2026 midterm elections. He said this deal resulted from a direct phone call with Russian President Vladimir Putin.",
+      "why_it_matters": "This policy shift could lower U.S. fuel costs but risks diluting sanctions leverage on Russia amidst geopolitical tensions and may face domestic political backlash.",
+      "perspective_one": "Supporters argue the diesel deal pragmatically addresses immediate energy needs and economic pressures on consumers before the midterms.",
+      "perspective_two": "Critics contend that relaxing sanctions undermines U.S. strategic pressure on Russia and rewards adversarial behavior, compromising foreign policy consistency.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "source": "NPR Politics",
+      "published": "Fri, 09 Oct 2026 17:24:13 -0400",
+      "category": "U.S. Politics",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Ff7%2Fba5e41fe4a0eb0f617a90d2e222c%2Fap26274756029238.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "summary": "Authorities detained hundreds, including leaders of the 'Cockroach' group, during protests in Delhi demanding electoral reforms before key state elections. The group is not an officially registered political party.",
-      "why_it_matters": "Detentions highlight tensions over democratic representation and reform processes in India, influencing future electoral fairness and political stability.",
-      "perspective_one": "Protesters argue reforms are essential to ensure transparency and fairness in upcoming crucial elections.",
-      "perspective_two": "Government and security officials justify detentions as needed to maintain order and prevent unrest.",
+      "headline": "US sanctions global court as judge awarded Nobel Peace Prize - The Hill",
+      "summary": "The U.S. has imposed sanctions on the International Criminal Court after a judge received the Nobel Peace Prize, reinforcing America's opposition to the court's involvement in prosecuting certain cases. This move escalates tensions between the U.S. government and international judicial bodies.",
+      "why_it_matters": "The sanctions risk further isolating the U.S. from global justice mechanisms and weaken cooperation on human rights enforcement.",
+      "perspective_one": "The U.S. administration views the ICC\u2019s actions as politically biased and a threat to sovereignty, justifying punitive measures.",
+      "perspective_two": "Advocates for the ICC assert sanctions undermine international law and dishonor efforts to hold perpetrators accountable.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 10 Oct 2026 12:29:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVRkSjNWRmtoa0tVLTA2QjEzYmlFUU05a0xtY2ozVGJtdUx5eFUxdEh0c0tESTBDUkFiSDZVWXVBekw1WUVfMjd0RjRjeWxZcUtiN0gxd2oyZGpTZkhITlkyVjFPQVBjWGZDMENuVTh4b1E1UG1La3JWcnZiODVxaGRzbEt4Qk83TkJtRG1pdThRLVXSAZgBQVVfeXFMTnZfWFlyY1owazNlRWpJbW9tb19GdDJwWUFYbUY0VEtIcGlDZUxuTFd6RGVSaUtpQXR4NVFBSEc1VlAwb0NoT2NxV3Vpc3VhRkZISlZXNzNnOGF1S0tFbWZsQy1Fb1o4S09pLXlKVG9tQjU3LUsyRnFRMzZySjF1RXRpaTNXTUVKMXJSbEluMEtqV0lTOUtIT1M?oc=5",
+      "source": "Associated Press World",
+      "published": "Fri, 09 Oct 2026 14:39:00 GMT",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98ee/live/0a7efdf0-c4b7-11f1-bc2e-018d645d8d21.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-us-sanctions-global-court-as-judge-awarded-nobel-36c7a3f435.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     },
     {
-      "headline": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "summary": "The UAE attorney-general alleged that the Flydubai co-pilot involved in a crash attempt had increasingly shifted toward extremist views while in Australia. The official further claimed a deliberate plan to crash the plane into Tel Aviv's airport.",
-      "why_it_matters": "This case underscores global challenges in detecting radicalization among aviation personnel, with implications for international aviation security measures.",
-      "perspective_one": "Authorities emphasize the need for enhanced background checks and monitoring of airline staff to prevent terrorism.",
-      "perspective_two": "Civil libertarians caution against profiling and stress the importance of protecting individual rights while addressing security threats.",
+      "headline": "Iran Update, October 9, 2026 - Institute for the Study of War",
+      "summary": "The Institute for the Study of War provides an update on Iran's political and military developments as of October 9, 2026. The report analyzes Iran\u2019s regional influence, internal dynamics, and strategic posture amid ongoing Middle East tensions.",
+      "why_it_matters": "These insights inform policymakers about Iran's evolving role in regional security and global diplomatic efforts.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 10 Oct 2026 04:34:55 GMT",
-      "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHNqNmJyVzFoSERxVFdQdmVhMTREdWgwX3Zmel94ajRpenJsWi1PaVBrQUZMMkN0LUJlMnpVV21sNDZudXE4WkxHMS1NQm1OSTh0a25Yb2lhYldkSmZ3YnhpSHkyLXA2bDlQa0tWUEpqeHZudE5CYk1BUVB4aTBRanZYYw?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Sat, 10 Oct 2026 02:51:35 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-iran-update-october-9-2026-institute-for-the-stu-ee37c6e92e.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "The war and the new energy narrative: How minerals redefine the Middle East's strategic position - Atlantic Council",
+      "summary": "A new analysis explains how the Middle East\u2019s abundance of strategic minerals is reshaping the region\u2019s energy narrative amid ongoing conflicts. These mineral resources are becoming key to global energy transitions and regional geopolitical leverage.",
+      "why_it_matters": "Minerals critical for renewable energy technologies may reposition the Middle East from oil dependency to a leading player in clean energy supply chains.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTBoNDV1Z0ZwM3l2RHV0TDF5UUR4ZEc2Ym5RNTU1TFdzVTA5MzZ1Y29RMjhtT2FFRHllUWRHYW8yNlBVOFN6VmpTMU8xVHhnTUl3SEx1Uk0xbi1DeEplX0NJSjdyQjZOR05FMnVrWTJXVDVUZmk2bkFpbnNzQ3I5ZHZ0UWcxLTBzVk05cENtOGVtb1hrMExxZ0Q1NGY2dm5sbDNvMnI3M285LV9LV0VRQjYtQU9mX2FrdXdoNWRqSmZua0xLczQ2TVFjZTVBcktJa0dRYlRyQ2RodHp2dlRv?oc=5",
+      "source": "The National Middle East",
+      "published": "Fri, 09 Oct 2026 21:04:00 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-the-war-and-the-new-energy-narrative-how-mineral-b167a63c00.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "FDA Clears Tecentriq With Chemotherapy for Stage III dMMR Colon Cancer - FindArticles",
+      "summary": "The FDA has approved Tecentriq in combination with chemotherapy for treating Stage III dMMR colon cancer patients. This decision offers a new, effective treatment option targeting a specific genetic subtype of colon cancer.",
+      "why_it_matters": "FDA clearance expands personalized cancer therapy options, potentially improving outcomes for patients with mismatch repair-deficient tumors.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUtxbHlFZTRiYUwzc2lzSUd3Mjh3QjRscXJRRU5ReVpaMTlQT3pZR3JCbnFyaVR3aDB4UG8zdklrQUU1TzZfbmUwUkh2TkhrTGl4RlRKWmpEaXltSlQ4VVJtOXYyU3N6R2dQaG5DdlI3a3lvR2liWnF4WWtpUGFTN3R3bmtUOVEtM2RVStIBlAFBVV95cUxQdG5VaTJsd1E0aE9Ud2xXRnI4QXlEbF9fWXR6TDdkT3N2NlJHLUZNRVVhQlBXeUlnYmtnWDdrQ2U2N01DZExuYmh5emxEd21LVTJydGgwRzdabWZCUjhDT2VWM2x6NGlKVnRRNGQ2TTd6VUZvYU1JbWNrMkM0LUVLNDl4SEtVQjYxY3prSmFJdGdvOWs4?oc=5",
+      "source": "Health & Medicine",
+      "published": "Sat, 10 Oct 2026 01:16:52 GMT",
+      "category": "Health & Medicine",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-10-am-fda-clears-tecentriq-with-chemotherapy-for-stage-c278021549.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Mahedy Sees One Fed Rate Hike in December, If Inflation Doesn\u2019t Behave, More Could Come Fast - Kathleen Hays Presents: Central Bank Central",
+      "summary": "Economist Mahedy predicts a single Federal Reserve interest rate hike in December, but warns rapid additional hikes may follow if inflation does not improve. This outlook reflects uncertainties in balancing economic growth with inflation control.",
+      "why_it_matters": "Fed rate decisions directly affect borrowing costs, market stability, and inflation management, impacting households and businesses nationwide.",
+      "perspective_one": "Some policymakers advocate gradual tightening to avoid recession risks while still addressing inflation.",
+      "perspective_two": "Others argue aggressive hikes are necessary to swiftly rein in inflation, despite potential economic slowdown risks.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1abkRIcDB4TlowSzZhMC1rUFFCVzZnaWR3NWlHMEZRNHpwcDdGT1A4T05xc3NUcXlfMndvQ0hYNU45a2FUMm42Q2dPMDJybTRXQmswcEoycGhDMmtJRVFjakRRb3ZQbVdIVktnUzJOWGk4UGl1RnpR?oc=5",
+      "source": "Business & Economy",
+      "published": "Fri, 09 Oct 2026 23:43:01 GMT",
+      "category": "Business & Economy",
+      "image": "",
       "image_credit": "",
       "image_source": ""
     }
@@ -262,36 +262,36 @@
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "U.S. imposes sweeping sanctions on International Criminal Court",
-        "url": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
-        "source": "NPR Politics",
-        "summary": "The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal."
-      },
-      {
-        "headline": "Midterms 2026: Congress Polls and More - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
+        "headline": "Election Dispatches:: Senate Rivals Clash in High-Stakes Debates in Maine and Georgia - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TekdjNFNTd3dmX3U2WktQY3hvMzlPYUVfZWhOa2ZuSjhybW5aaVhod1lXOTZRaTBPMDFQeTJLOTlUQkhmVEJpdWZwLTJiWFd1UlMtUWhtdDltd1VpQmZIMWoxUmZ6SjNyWGFKcXY5RThfUHdsbzBlZw?oc=5",
         "source": "U.S. Politics",
-        "summary": "Midterms 2026: Congress Polls and More NBC News"
+        "summary": "Election Dispatches:: Senate Rivals Clash in High-Stakes Debates in Maine and Georgia The New York Times"
       },
       {
-        "headline": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-        "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-        "source": "NPR Politics",
-        "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call."
+        "headline": "Katie Bailey chosen as new head of White House Office of Legislative Affairs, sources say - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEZMVjB0aklnSmVIWXdIVllMcDQ0MDMybHl6clptMlBlZGRnU1JfQVJ1OFhlRGF0c0N3OWZlZmdfZDFhNFZnXzYtZlVHektMMXNtaWdCRzREdGlLYlZJc2NPeHhYaVM4TW9UQjR4S3BlSy1nUTZyTDl4Wno0cnFmQjlsRGhGVXdaM3JCeTFtd2JJTnAxU2RLaEk4SGxSTGFSelMwcnpIaw?oc=5",
+        "source": "USA Today Politics",
+        "summary": "Katie Bailey chosen as new head of White House Office of Legislative Affairs, sources say CBS News"
+      },
+      {
+        "headline": "Letter from Washington: The State of the Midterms - Policy Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWE5OTjRjZWZmZWpGalFuUUY3aFhDaVBBakxMbmk3WV9FSUM3bXNjR0ZiYWRYcUJURFZDWFVCRlBsRjV4akxUeGlTeHhPMWhIRjVlaV9Ralk2UG5XcGJPRXBvM2ZBV3p2X2ZUQ2oxRHJPWTZrMHJMdmJQdzlLcVIyOFdGOURFZw?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Letter from Washington: The State of the Midterms Policy Magazine"
       }
     ],
     "U.S. News": [
       {
-        "headline": "Brooklyn Psychologist David Tzall, PsyD, Warns Couples on AI Chatbot Advice - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHVOY1hFWHNIbVl5aW9PTEVLLXRjWWhEZHZBbDVPME1JZUo2YkFuc3h5MktoMjE1U2tRdFE1b2NGUkRYSG5tbm55S1VSUFhKZzJQd2dIczBuSEt4eTdtTURGLWtfRllCdVBFaXpNRGZqV3RvVFlZVk1ZVHVTeHF6SHBZZk1JM3JzME5mQ3QxQjNWdVVOQm5sYXp0RkhwVThFYVlyZGhJTnlaclZYZklhM2s5NzFac3ZYWVdCc21IZGtsekE?oc=5",
-        "source": "USA Today U.S.",
-        "summary": "Brooklyn Psychologist David Tzall, PsyD, Warns Couples on AI Chatbot Advice USA Today"
+        "headline": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections."
       },
       {
-        "headline": "Citizens step up to monitor U.S. election integrity - Centre Daily Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjdpdEpsN3JiT0lJLUN1aXFXYU0wZzdTWHRSQlZ3UldudU8xemlrMlFfR3R6N3hfbzF4RGVuSUNtZ1hwS2F3ek1XTW1HanZTa1B4Vk5ZU20xMkFFUEdJanVfOHlrMXVnUEtEQ2lWSHZ3NEExbU13clFGcVJWc1hZckFR?oc=5",
-        "source": "USA Today U.S.",
-        "summary": "Citizens step up to monitor U.S. election integrity Centre Daily Times"
+        "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
       },
       {
         "headline": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News",
@@ -302,71 +302,71 @@
     ],
     "World News": [
       {
-        "headline": "India cracks down on youth protests as anger grows against Modi and election chief",
-        "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
-        "source": "NPR World",
-        "summary": "The protests focus on the Election Commission's voter list revision, which the opposition claims disenfranchises millions. The government denies the allegations, saying the revision aims to eliminate duplicate entries."
+        "headline": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections."
       },
       {
-        "headline": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-        "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-        "source": "NPR World",
-        "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call."
+        "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
       },
       {
-        "headline": "US sanctions global court as judge awarded Nobel Peace Prize - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVRkSjNWRmtoa0tVLTA2QjEzYmlFUU05a0xtY2ozVGJtdUx5eFUxdEh0c0tESTBDUkFiSDZVWXVBekw1WUVfMjd0RjRjeWxZcUtiN0gxd2oyZGpTZkhITlkyVjFPQVBjWGZDMENuVTh4b1E1UG1La3JWcnZiODVxaGRzbEt4Qk83TkJtRG1pdThRLVXSAZgBQVVfeXFMTnZfWFlyY1owazNlRWpJbW9tb19GdDJwWUFYbUY0VEtIcGlDZUxuTFd6RGVSaUtpQXR4NVFBSEc1VlAwb0NoT2NxV3Vpc3VhRkZISlZXNzNnOGF1S0tFbWZsQy1Fb1o4S09pLXlKVG9tQjU3LUsyRnFRMzZySjF1RXRpaTNXTUVKMXJSbEluMEtqV0lTOUtIT1M?oc=5",
-        "source": "Associated Press World",
-        "summary": "US sanctions global court as judge awarded Nobel Peace Prize The Hill"
+        "headline": "Saudi capital airport hit again, sparking evacuations, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport."
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Gaza ceasefire exists \u2018in name only\u2019 as Palestinians endure dire conditions, 100 aid and rights groups warn - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnl0X2hFOGVSem5GYU1HRzZvekdveVlQOWk2bFVYZHlIZmUxdlFhREFoSXM5WUxYNDh5ZXdlSHJhSXlqRlM5NTNvWFBUNUNWMVhzVjBNdW10MEhOZkpBRG12NFV5UjhoVGw3M1I0R1ZTSTY1RUh1TmVyWTFsR2lkVngtSHFuNUVONURTRl9SWkdjZktvcmhwZzcxcGh3UGdWLTlqM01BQlVUaFNHcmNJenFHXy1ZS2tBWmdGMzlOMUhxZ2JodzlDdGt4OEQzM2NqRU1reTVmYldUWE93ZmRMQ1ZsWUNGQQ?oc=5",
+        "headline": "Saudi Arabia says three killed at airport as Yemen war expands - The New Arab",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUY2clNJT2gxUjlYVkJod1d2c0p2RElkQ1ZHLTRsSXBvT294YmxUQjZuY3FxazdTNmtQRVpweHVIV0M0RWlmcF9xZkR4RGdMMjdyRlJ6S2JtamMwRUpBRFFkQ3laVFNKS01fdi1BdUVGR1pndXRTeXppeUlSZmRGNUhlTGlhd3ZEdzRnRFd3?oc=5",
         "source": "Middle East Affairs",
-        "summary": "Gaza ceasefire exists \u2018in name only\u2019 as Palestinians endure dire conditions, 100 aid and rights groups warn \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9"
+        "summary": "Saudi Arabia says three killed at airport as Yemen war expands The New Arab"
       },
       {
-        "headline": "Year later, Gaza ceasefire promises mostly unfulfilled - Dhaka Tribune",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV3oxandoMExKVEdYQ19sUDZFVUVyVnhGYUpBem02SE9aVWoydjFyZHZYbzRMMHJCbjMtNVNsSHBnRFd0U1dpUVB3UThBWjAyb2w4alFNOVkzcFhMTVZTbGs2WlRFNTA3Zld4TVRxdzNtZktBSm82LXhKQnBWZHFnLVdvMHdSSUhQbVFNRzhqUVdNOHl0ZHBnQWxIUGxOSWVi0gGgAUFVX3lxTFBXejFqd2gwTEpUR1hDX2xQNkVVRXJWeEZhSkF6bTZIT1pVajJ2MXJkdlhvNEwwckJuMy01U2xIcGdEV3RTV2lRUHdROEFaMDJvbDhqUU05WTNwWExNVlNsazZaVEU1MDdmV3hNVHF3M21mS0FKbzYteEpCcFZkcWctV28wd1JJSFBtUU1HOGpRV004eXRkcGdBbEhQbE5JZWI?oc=5",
+        "headline": "The Netanyahu era at stake: How Arab and Western states are shaping Israel\u2019s election battle - \u0646\u0648\u0646 \u0628\u0648\u0633\u062a",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YdWdqM2taWnJsQUgyVjZmNE5MeXBPN19GREJYZG1rcnFxZ0JlTE96eW1tSlhYUEUxbl9GXzBWYzhoblNmQ2xfRlpiOGxtblh2MUVF0gFTQVVfeXFMT1h1Z2oza1pacmxBSDJWNmY0Tkx5cE83X0ZEQlhkbWtycXFnQmVMT3p5bW1KWFhQRTFuX0ZfMFZjOGhuU2ZDbF9GWmI4bG1uWHYxRUU?oc=5",
         "source": "Middle East Affairs",
-        "summary": "Year later, Gaza ceasefire promises mostly unfulfilled Dhaka Tribune"
+        "summary": "The Netanyahu era at stake: How Arab and Western states are shaping Israel\u2019s election battle \u0646\u0648\u0646 \u0628\u0648\u0633\u062a"
       },
       {
-        "headline": "Iran Update, October 9, 2026 - Institute for the Study of War",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHNqNmJyVzFoSERxVFdQdmVhMTREdWgwX3Zmel94ajRpenJsWi1PaVBrQUZMMkN0LUJlMnpVV21sNDZudXE4WkxHMS1NQm1OSTh0a25Yb2lhYldkSmZ3YnhpSHkyLXA2bDlQa0tWUEpqeHZudE5CYk1BUVB4aTBRanZYYw?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "Iran Update, October 9, 2026 Institute for the Study of War"
+        "headline": "US Embassy in Jordan, EU aviation group warn against traveling to Middle East - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCQVA2dG5sZzBRRkM0TU1PUjZTeTVsTUhDal8xQVdRQUtLS3k5ZHhIbXNHUS0yNUtsRXlXZDB0XzZVTzR2TDBFaE8wS21jeEFRNnBpLXBTSUNTcFZ4?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "US Embassy in Jordan, EU aviation group warn against traveling to Middle East The Jerusalem Post"
       }
     ],
     "Health & Medicine": [
-      {
-        "headline": "Clinical Prediction Models Are Breaking Trials and Nobody Is Requiring a Fix - The Clinical Trial Vanguard",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTzdYcTIyWTcxWDF5VmhoV3JYMmNxejhiQThBNlFFaHhmRnB0YWxlVm5YWERLbko3bElDSzRzOWpvcnNvaTlfdUxOdkxWVkJUdHFlcnhwTG5OanhmQXFzNGo4ZVp6UWZvSktuV09OWHlyc2F5Q0lna1dqTFZwQXcwZnJTc0wwTXlhekFacEJJMzRGOW9yUVlpOTJQZGdRZnNaYVlOdFVkVllJaTJGcXhENGU5Wmw2MlJyc25kbzM5c21WQzVrbTlOYTFwSHZaQnow?oc=5",
-        "source": "Health & Medicine",
-        "summary": "Clinical Prediction Models Are Breaking Trials and Nobody Is Requiring a Fix The Clinical Trial Vanguard"
-      },
-      {
-        "headline": "FDA Clears Tecentriq With Chemotherapy for Stage III dMMR Colon Cancer - FindArticles",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUtxbHlFZTRiYUwzc2lzSUd3Mjh3QjRscXJRRU5ReVpaMTlQT3pZR3JCbnFyaVR3aDB4UG8zdklrQUU1TzZfbmUwUkh2TkhrTGl4RlRKWmpEaXltSlQ4VVJtOXYyU3N6R2dQaG5DdlI3a3lvR2liWnF4WWtpUGFTN3R3bmtUOVEtM2RVStIBlAFBVV95cUxQdG5VaTJsd1E0aE9Ud2xXRnI4QXlEbF9fWXR6TDdkT3N2NlJHLUZNRVVhQlBXeUlnYmtnWDdrQ2U2N01DZExuYmh5emxEd21LVTJydGgwRzdabWZCUjhDT2VWM2x6NGlKVnRRNGQ2TTd6VUZvYU1JbWNrMkM0LUVLNDl4SEtVQjYxY3prSmFJdGdvOWs4?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA Clears Tecentriq With Chemotherapy for Stage III dMMR Colon Cancer FindArticles"
-      },
       {
         "headline": "fda approves weight loss drug october 2025 - www.polskieradio.pl",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kdlE3c1VpZmN2RDNoRFBoc0V2SUVnSWlzRkxKT1diZE1iRTVHNFZoTkd6T3A4MnYxTTZmUVp3R2VCM0FtZG1XS1FFNkg5YkJHX3hjSTZ5SDRveDFaWHZSMmxfdw?oc=5",
         "source": "Health & Medicine",
         "summary": "fda approves weight loss drug october 2025 www.polskieradio.pl"
+      },
+      {
+        "headline": "CMS Seeks Comments on RAPID Medicare Pathway for Breakthrough Devices - JDSupra",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUlh2U19nblplRjAyTC1SVnU4Ul9ZUU1nYlBXa21iZV9iTTlldVh3Z1hiRmtsMnMwbGRPa0lxbE50Y0NyTzFmOFJMTHFkeS1OcGtCSEQ0VUFnS0Yza25YT2JWd1Rfd1ZFT01mdHRXcUhlV0hVbEQyM05aUDhaZ1h2YTNubkVFQQ?oc=5",
+        "source": "Health & Medicine",
+        "summary": "CMS Seeks Comments on RAPID Medicare Pathway for Breakthrough Devices JDSupra"
+      },
+      {
+        "headline": "FDA expects to draft mifepristone safety review next year; pro-life groups call it \u2018insufficient\u2019 - iObserve",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHhXVjBRbXhXUUNqanRucWp4ckpqLTZPTkxRZkpPRU43emtkTXAxLXNKUXEtc09WUnljVjc1TTBSa2F2eGIzb0VrVGtxaUo3clI2S3JJQ1BoUHVNaXFhWFYzV2RSUkRnclhuZVlTNmZYWF9oUkhWbENzRmtSLXFGYTBVYTZlUi01YWV3dVZKOEhjYkduRnl5YkZ3dGpSbGdDU09LZG5nZld2VmdwS3hKR2RKZnRORW5STzRaM2dMRXFVMzE2Mnc?oc=5",
+        "source": "Health & Medicine",
+        "summary": "FDA expects to draft mifepristone safety review next year; pro-life groups call it \u2018insufficient\u2019 iObserve"
       }
     ],
     "AI & Technology": [
       {
-        "headline": "We Have Entered a Cybersecurity Hellscape, Japan Warns - Gizmodo",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWNzbVZSM3NJa1c1V19XcXJBU1FZaE1yWGJCSzhWZWVMME5BVk5LUmxZdDBaeUZYWHlWRDFHZUMyZmtWaEM3TEdTQ2NVWThMSGM5cjI0NHBuRW9ZelQtcHJQRi1KcjBKOVVINUFwQlczRzBtbi1TSUNtYXlrcnpncXMwOTJKc19GYy1BMQ?oc=5",
+        "headline": "J&K eyes global technology investments, high-value jobs through GCC ecosystem - Kashmir News Service",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2F2WHpTOWxYU0xjeHRKMzZibG1Ici0wYWFqc1pPWTFmd3ltZmtqM2lRbWZwMFNST3VNTGNkTXdBRmtxWW5uMUp3NHh5Q0lsaXdVM0V6MGo0MHdWZkxxbU1qaFlNNjdwMUJFWVo5cWEzWFpKMFFmdzV3Sm9PSkNXYUw5UDc0WjVKWTBVYjZrYW1sWnRsN1ppLTE4WFNwbG5hd3dxdVlRS21MbTdOdEFWVg?oc=5",
         "source": "AI & Technology",
-        "summary": "We Have Entered a Cybersecurity Hellscape, Japan Warns Gizmodo"
+        "summary": "J&K eyes global technology investments, high-value jobs through GCC ecosystem Kashmir News Service"
       },
       {
         "headline": "Global Digital Forum in Russia Showcases Digital Future and Cultural Diversity - Khmer Times",
@@ -375,40 +375,34 @@
         "summary": "Global Digital Forum in Russia Showcases Digital Future and Cultural Diversity Khmer Times"
       },
       {
-        "headline": "AI to play offense, defense in cybersecurity landscape, expert says - ANews",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcF8xY2laYzZfSjJLbl9lb3kxdHJMMHI4VndlTVVDMEZzX1puMW05Y3RIbHpiVzIwb2dYaFB0aFdWQnVCLUQwTTB2LVplT0R6NHJFQ2NxNnJ1SFBTakdiY2FTejNrREtZRWRsZVVKS3FMbFJJU0M4dXFFeW9Fbll6Rkk0QVh3bDMwbVl1dDktV3NDQ0lOOXctWmdVWFJkMVhEMFppM2lfcDJzbTBGbnpF0gGvAUFVX3lxTE5wXzFjaVpjNl9KMktuX2VveTF0ckwwcjhWd2VNVUMwRnNfWm4xbTljdEhsemJXMjBvZ1hoUHRoV1ZCdUItRDBNMHYtWmVPRHo0ckVDY3E2cnVIUFNqR2JjYVN6M2tES1lFZGxlVUpLcUxsUklTQzh1cUV5b0VuWXpGSTRBWHdsMzBtWXV0OS1Xc0NDSU45dy1aZ1VYUmQxWEQwWmkzaV9wMnNtMEZuekU?oc=5",
+        "headline": "Digital era offers new opportunities for defense cooperation - VOV World",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2RkRUdPcUpzcVBaakVSSk1aYks4eWdGc0Z0WlpRbGs2ZUdkbnhlRnRkaUtNU3FHU1pzU0Q5YWdOc01lcUVRUXFPQ3pBUXR2c3J4dmRQWnNSRloyUHU3VDl2ZTlEWDUxYTVpOVFmYUNhbTJQZTM2dFFhMWlGdjhVblNfdU5iODBZUmlrQVg2U1Nnem1oVTVLVTlkQ2xHRHBxX3ZUanQtbm9IeHhNWlE?oc=5",
         "source": "AI & Technology",
-        "summary": "AI to play offense, defense in cybersecurity landscape, expert says ANews"
+        "summary": "Digital era offers new opportunities for defense cooperation VOV World"
       }
     ],
     "Business & Economy": [
       {
-        "headline": "Mahedy Sees One Fed Rate Hike in December, If Inflation Doesn\u2019t Behave, More Could Come Fast - Kathleen Hays Presents: Central Bank Central",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1abkRIcDB4TlowSzZhMC1rUFFCVzZnaWR3NWlHMEZRNHpwcDdGT1A4T05xc3NUcXlfMndvQ0hYNU45a2FUMm42Q2dPMDJybTRXQmswcEoycGhDMmtJRVFjakRRb3ZQbVdIVktnUzJOWGk4UGl1RnpR?oc=5",
+        "headline": "Wall Street posts weekly gains with earnings, inflation data on tap - Virginia Business",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnZBa3M1QmJkeEUxS2ozUDdvdkd5TTV0M2dtdmt6N19faEx3TjFTTV9kOVdyRzlyMGROUDYybVpXejFnQXYxZkdSV0YxekpfN0ZUX1BPbmxWX2Rja3lWdDVDUXFoVlRlTDFOZl9LTzc5aVc5X1l5X1pBUUdERUViYmotM1FfMlU3R0oxdTFB?oc=5",
         "source": "Business & Economy",
-        "summary": "Mahedy Sees One Fed Rate Hike in December, If Inflation Doesn\u2019t Behave, More Could Come Fast Kathleen Hays Presents: Central Bank Central"
-      },
-      {
-        "headline": "Wall Street posts weekly gains with earnings, inflation data on tap - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
-        "source": "Business & Economy",
-        "summary": "Wall Street posts weekly gains with earnings, inflation data on tap Reuters"
+        "summary": "Wall Street posts weekly gains with earnings, inflation data on tap Virginia Business"
       },
       {
         "headline": "US CPI Preview: Will September Inflation Revive October Fed Rate-Hike Bets? - Markets.com",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZ3lLQmdHV1RlandEbmhJS2xZYzY1cTh6VkhFamVxR2wyXzB0WVM0dGNoeG4wUW4zNGFxaFBPa2U2TDVnanE3ODV6X0FvSUZCS1VPTEtSaGQ2dldjaW9GdFhuckhmeFVlTUE?oc=5",
         "source": "Business & Economy",
         "summary": "US CPI Preview: Will September Inflation Revive October Fed Rate-Hike Bets? Markets.com"
+      },
+      {
+        "headline": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmlZQ2ZqUDhpS2pheVNOZTBWSUhPMGNNbWJIcEVkdDRJUFpEOHhTUmY3OWN2R095YUR5ZXIyUXN5RWw2MzA2OVgzeXNlTThTRVh1WTJZLVRoREl6T3g4UlVUN3JMLWFKRmpBZzFqMEtWVDdGb2FrdGlfR2QwZ0ItQ3NXRVVBb1RGOWZjVDZpTmpabnpqeTFXbWpnN1ZkSmoxRDQ0dVZMQQ?oc=5",
+        "source": "Business & Economy",
+        "summary": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus WSJ"
       }
     ],
     "Society & Culture": [],
     "Sports": [
-      {
-        "headline": "2026 WNBA playoffs bracket, schedule: Valkyries and Dream advance to WNBA Finals with semifinal sweeps - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xUkVtQjFsNzRsLTgteXBqSTA3TUgwN0FtMmFpNGIxcHJKQkV1QnBRbFZyZVZ0NW5OZmFtNmdGWFBsUGdGWFFiUnl3MVo2ZjdHcnVWYVdQd0t5MjJxUHBpOXMtdVEtOHJUczdWeng5TXg2dndYbzRmaklqZFU?oc=5",
-        "source": "CBS Sports MLB",
-        "summary": "2026 WNBA playoffs bracket, schedule: Valkyries and Dream advance to WNBA Finals with semifinal sweeps CBS Sports"
-      },
       {
         "headline": "In College Football Playoff expansion discussions, all roads lead to 24. How\u2019d we get here? - The New York Times",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlVBTW9CODA0RHFpT3N1R0xraDFjakNodlRURDJLb1dfVUdvYW1mV3J2d2VYSEw5eEpUZVRIVjE0QmkxVjVfT0FhZkZiRzRXMThYcVFpcnF6dDJnWGpJamIzdnBadndraWJnNUVMUmtVdTlBTWc0el80N3hZVGdOLUhpalNpazNjdGNPb2xER0lOYUFIQloxQi15NEJobGNjM21jUTlUN00zT3NE?oc=5",
@@ -420,15 +414,15 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0lXX1d3SU1jc1JyZld0NkptYWJ6Y0FINVdKWkYyckp0Q0IxVXY1TWFsSjlBSFhEQkNPVlJyMzJLbGNRYW1kenV2ZkJGTXhPR0FxclNudVVhLU5yR0FuQl9uTXlWOEl4cXpva29sdTVIWWczZ29lN0xpWkxTak5BZnJkamQ2UGJuaUE?oc=5",
         "source": "Atlanta Sports",
         "summary": "Atlanta Hawks Spark Outrage With 'Weird' Celebration of Angel Reese & Co. After Dream Reach WNBA Finals Yahoo Sports"
+      },
+      {
+        "headline": "The best of a great weekend, plus the WNBA Finals are set - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0pZM0tadnpQaEtXT0FaVG1iTU1Ham5HS3JJQnpXR0hsSGxkT2ZPR1hLaWMwSzZQMmpmdGNhQkgyUzFJclVfVFRIaW9IX1NrTjcyS3Rkd2hTVmpSM0VxLTNQajNPWDNhMkdFVVl4STAyTU9HbUZDZm9GX2hkclU3N29zUzZ6UXF3OHdlWE00dXFWbVRyMVRjUVA3VEticTk3MjdVSlBWa2o1YWRpa1E?oc=5",
+        "source": "Major Sports",
+        "summary": "The best of a great weekend, plus the WNBA Finals are set The New York Times"
       }
     ],
     "Good News": [
-      {
-        "headline": "Saudi Solar Park Proves Brilliant Breeding Ground for Threatened Sand Gazelles",
-        "url": "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/",
-        "source": "Good News Network",
-        "summary": "In clearing two hurdles with one bound, Saudi conservationists have turned a large solar farm into a breeding shelter for a vulnerable species of native gazelle. Located near the Red Sea coastline in a massive, 24,500-square-mile nature reserve, the solar plant is now hosting Arabian sand gazelles, a species of special consideration for wildlife managers. [\u2026] The post Saudi Solar Park Proves Brilliant Breeding Ground for Threatened Sand Gazelles appeared first on Good News Network ."
-      },
       {
         "headline": "\u2018You\u2019re Walking!\u2019 \u2013 Dad Surprises Children Having Recovered Ability to Walk After Serious Brain Injury",
         "url": "https://www.goodnewsnetwork.org/youre-walking-dad-surprises-children-having-recovered-ability-to-walk-after-serious-brain-injury/",
@@ -440,6 +434,12 @@
         "url": "https://www.goodnewsnetwork.org/oldest-man-in-oregon-credits-clean-diet-and-good-mind-for-reaching-108-years-young/",
         "source": "Good News Network",
         "summary": "A man who\u2019s believed to be the oldest individual in the state of Oregon recently rung in 108-years-young with a cake and some words of wisdom. \u201cYou don\u2019t know what it\u2019s like to be 100-plus. I\u2019ve found out and I like it!\u201d the Birthday Boy said beneath 3 large blue balloons forming 108, with [\u2026] The post Oldest Man in Oregon Credits Clean Diet and \u201cGood Mind\u201d for Reaching 108-years Young appeared first on Good News Network ."
+      },
+      {
+        "headline": "Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Research on Aging",
+        "url": "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/",
+        "source": "Good News Network",
+        "summary": "A giant tortoise called Jonathan reinforces what we know about humans and healthy aging, say scientists\u2014especially because Jon is almost 200. Researchers have been conducting genetic tests on Jonathan who, at an estimated 194-years-old, is believed to be the world\u2019s oldest living land animal. They say their findings suggest that it\u2019s not just down to [\u2026] The post Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Research on Aging appeared first on Good News Network ."
       }
     ]
   }
