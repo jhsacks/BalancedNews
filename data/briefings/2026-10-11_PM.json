@@ -1,272 +1,234 @@
 {
-  "generated_at": "2026-10-11T19:35:13.340259-04:00",
+  "generated_at": "2026-10-11T20:15:28.164317-04:00",
   "edition": "PM",
   "stories": [
     {
-      "headline": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",
-      "summary": "Former President Trump announced that Ukraine and Russia have agreed to an 'energy ceasefire,' a claim that has surprised both countries and awaits official confirmation. This assertion, made publicly without prior notice to involved parties, raises questions about its validity and the implications for the ongoing conflict.",
-      "why_it_matters": "If true, an energy ceasefire between Ukraine and Russia could signal a novel approach to conflict resolution, potentially reducing energy infrastructure damage amid hostilities and influencing future diplomatic negotiations.",
-      "perspective_one": "Supporters believe the ceasefire announcement could pave the way for broader peace talks and de-escalation, emphasizing the importance of any initiative that stops energy attacks affecting civilians.",
-      "perspective_two": "Critics argue that premature or unfounded claims risk undermining diplomatic credibility and may complicate efforts by officially recognized parties striving for a genuine ceasefire.",
-      "uncertain": "Official confirmation from Ukraine and Russia remains absent, rendering the ceasefire claim unverified.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5",
-      "source": "USA Today Politics",
-      "published": "Sun, 11 Oct 2026 20:15:36 GMT",
-      "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-trump-says-ukraine-and-russia-have-agreed-energy-f191e95dff.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Watch: What's behind Trump's energy ceasefire claim?",
-      "summary": "US President Trump announced an energy ceasefire between Ukraine and Russia via social media without prior coordination, catching Ukraine off guard while Russia has not yet responded. This lack of mutual acknowledgment raises uncertainty over the ceasefire's existence and practical impact.",
-      "why_it_matters": "Understanding the legitimacy of this ceasefire is crucial since energy infrastructure is a critical component in the ongoing conflict, with disruptions directly affecting civilian populations and military operations.",
-      "perspective_one": "Proponents argue that any de-escalation, even if initially unconfirmed, offers hope for reducing civilian suffering and preserving crucial energy resources.",
-      "perspective_two": "Skeptics warn that unverified announcements can mislead the public and undermine established diplomatic channels, potentially delaying genuine peace efforts.",
-      "uncertain": "No official statement from Russian authorities or Ukraine has verified the ceasefire claim.",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sun, 11 Oct 2026 20:55:02 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6d5/live/bfca61a0-c5b5-11f1-ad08-b9eb6b599088.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "France's far-left presidential candidate cheers Gen Z school protests - Audacy",
-      "summary": "France's far-left presidential candidate publicly supported Gen Z student protests, aligning with youth-led demands for social and climate justice reforms. These protests reflect growing political activism among younger demographics ahead of the presidential election.",
-      "why_it_matters": "This endorsement signals a strategic engagement with youth concerns, potentially influencing voter turnout and shaping political discourse on education and environmental policy in France.",
-      "perspective_one": "Supporters see the candidate's stance as championing essential social change and amplifying youth voices for a more equitable society.",
-      "perspective_two": "Critics might view the alignment as opportunistic, potentially exacerbating social divisions and undermining educational stability.",
+      "headline": "Indian-Americans back favourable candidates in US midterms elections - Business Standard",
+      "summary": "Indian-Americans are supporting candidates they view as beneficial in the 2026 US midterm elections. This demographic's increasing political influence reflects growing engagement and may shape election outcomes in key districts.",
+      "why_it_matters": "Indian-American voter preferences can decisively affect closely contested races, influencing policy directions on immigration, trade, and bilateral relations with India.",
+      "perspective_one": "Some advocate that Indian-American support strengthens democratic representation by reflecting the community's economic and social priorities in US politics.",
+      "perspective_two": "Critics argue that ethnic voting blocs may prioritize identity politics over broader national interests, complicating bipartisan cooperation.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcldCSHMtdTJPay13V2pMZWZfUDl0dWhHRTNnOEhuSW91UzlzdkxHaDVOeGRLMkx2LTdLUXNkejNGWWdsM3RPVkYtWk16SWNCeHVxWU9faVlaUzlwQ0M0eFB6REFablFJSDJCdUZhSEVsNU5EaTI0eTAyVm1oSXpLZVhqeWQxTFpHRk02VkYtMDFhVzRlRWpZSnpzcWoxUF83cGRWd2t1WTl4U0hpLWhOU05RTDJCOEoxMnlv?oc=5",
-      "source": "Associated Press World",
-      "published": "Sun, 11 Oct 2026 19:10:00 GMT",
-      "category": "World News",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-france-s-far-left-presidential-candidate-cheers--9a931c2390.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Polish security services meet following threat to PM and defence minister - Free Malaysia Today",
-      "summary": "Polish security services convened urgently after credible threats targeted the Prime Minister and Defence Minister, prompting heightened protective measures. This development underscores rising domestic security concerns amid regional geopolitical tensions.",
-      "why_it_matters": "Protecting top government officials is critical for national stability and maintaining effective governance during sensitive security environments.",
-      "perspective_one": "Authorities stress the importance of swift response to deter potential attacks and reassure public safety.",
-      "perspective_two": "Some critics worry escalation in security might fuel political polarization or be used to justify restrictive policies.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRjhlMjBhc3pQUC1KWURXSm9QeWxKRnpWandDbkRpZXhqQWh5eUZWYVJUUUl6akdXdlctcUp4TjZzMUJBNjZiWWM3Z3FnZkw3UTVTcm1VUTJsUHhWVlVpVV9sQXkxeklNNlU3ZTl2UWlmVmZoSE5PdHlUT3hDWnY3M0ZHWHlCN3A5RVVoQ0Z6NzBjTU1XUjJWS1J2RHVvcnFYWG9JMl96NlVDbHV1YUg1YmtxMU1FU3B5YzVQREZsdEtoaVh3bEtpZ1M2Q21WUQ?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Sun, 11 Oct 2026 10:38:57 GMT",
-      "category": "Conflicts & Security",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-polish-security-services-meet-following-threat-t-b851b9e276.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Palestinian vice president slams Israel, says its actions forced election delay - TRT World",
-      "summary": "The Palestinian vice president accused Israel of obstructing the electoral process, pointing to its actions as the primary reason for delaying upcoming elections. This delay exacerbates political tensions and uncertainty within Palestinian governance.",
-      "why_it_matters": "Election postponement undermines democratic processes, affecting governance legitimacy and potential peace negotiations in the region.",
-      "perspective_one": "Palestinian leaders argue that Israel\u2019s interference deliberately undermines their sovereignty and political expression.",
-      "perspective_two": "Israel contends security concerns justify its policies, viewing electoral delays as necessary to maintain order.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40dW0wVXRiTWZuVFVIWlV5azdJc20yVUVyZlZDaWxUcWRFam1wRVJ0STgzVFR5ZEZ6QnVxU21kRFF0MC1SNnZuMUt1bjVKUmlMcWg3WHNSdjRHQ3Roa2hUdXlRYw?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sun, 11 Oct 2026 21:04:18 GMT",
-      "category": "Middle East Affairs",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-palestinian-vice-president-slams-israel-says-its-70bf50281f.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
-      "summary": "The FDA approved a new breakthrough drug designed to treat patients with advanced pancreatic cancer, representing a significant advancement in therapy options. This approval may improve survival rates and quality of life for patients facing this aggressive disease.",
-      "why_it_matters": "Access to effective new treatments can transform outcomes for pancreatic cancer patients, a cancer type previously lacking effective late-stage therapies.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
-      "source": "Health & Medicine",
-      "published": "Sun, 11 Oct 2026 05:51:06 GMT",
-      "category": "Health & Medicine",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-fda-approves-breakthrough-drug-to-treat-advanced-611589cd9f.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Adam Price heads to Boston for AI and technology investment talks - Nation.Cymru",
-      "summary": "Welsh politician Adam Price is traveling to Boston to engage in discussions focused on investment in artificial intelligence and technology sectors. This outreach reflects growing interest in leveraging AI innovation to boost economic growth and competitive advantage.",
-      "why_it_matters": "Securing AI and technology investments can stimulate economic development, create high-skill jobs, and position Wales as a participant in emerging global tech markets.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGZueXNIN2NkT1NVZndRUVpjcTZOZXVBUGNuUDRlSDVxLW42MkdzT0NXSHhyTHBJSmZaN2xhMjhla2dCYXVqSEphRHhoeG5MT3pqOGhIOFNxTXZpTWhPN3NZeXNDN2pKTm5PWGtERGpNS1h0NFJKM2J0dWFyOXN0RFdMdnBESHdvdEc0dzR5bzdQV2dERWNv?oc=5",
-      "source": "AI & Technology",
-      "published": "Sun, 11 Oct 2026 23:03:34 GMT",
-      "category": "AI & Technology",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-adam-price-heads-to-boston-for-ai-and-technology-a0e2689fcc.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "U.S. Treasury Market Focuses on Sept. 14 CPI as Inflation Is Expected to Accelerate - \uc544\uc2dc\uc544\uacbd\uc81c",
-      "summary": "Investors in the U.S. Treasury market are closely monitoring the Consumer Price Index data expected on September 14, anticipating an acceleration in inflation. The anticipated inflation uptick influences Treasury yields and monetary policy expectations.",
-      "why_it_matters": "Inflation trends affect interest rates, bond prices, and economic policy decisions impacting borrowing costs, consumer spending, and financial markets.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vWXVnQ3pUY3VLbEZabktmeWwzN1VINGhsbkhWb0ZZUGlxdXMyYnc4eGtEYkJoT2FjQjQzV21lQjNqSVVZWVl3T2c3eHRFQmFYSU9yOHF3T29CNEM1T1Bad1VRQ21YUzFtc3FnZHVKb3lYU1I2eTRsdkNScXQ?oc=5",
-      "source": "Business & Economy",
-      "published": "Sun, 11 Oct 2026 21:24:48 GMT",
-      "category": "Business & Economy",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-u-s-treasury-market-focuses-on-sept-14-cpi-as-in-b2e18b23b2.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Video-Based Health Promotion for Rural and Underserved Populations: A Narrative Review With Implications for Rural Alabama - Cureus",
-      "summary": "A narrative review examined video-based health promotion strategies targeting rural and underserved populations, highlighting applicability for rural Alabama. The study identifies video interventions as effective tools for health education and behavior change in areas with limited access to traditional resources.",
-      "why_it_matters": "Implementing video-based health promotion can improve health literacy and outcomes in underserved rural communities where conventional healthcare delivery faces challenges.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSTNSMV9LME5wMWJuR0VDM2lYeDRJbk45bnk3eHFMU3FJZGFtNU8xTncwMEptZkVoU1l0d0hnc1NPLUJ5Tk43U0thYnNfbE5YYVpqNmJ5VTdrWGJfWDV6ekgyLTg0RkRQejVJZlVRVE95RnZmUFhFaTdnUFFILVRiQlBwNWppdWFHMUtjamRUS3ZLTE5kTUhsT2xVMjNFc0swdndOR0J6Ujg5cEptM0lPcEo5dHB5SVMyZ0pWSWpuTlY2WHFfbWVRTnp4THc1bUU5Q0dzZC1YdlNiYWEwdjQyemFWMG5qXzF5d0dCTWJuN3V1Zw?oc=5",
-      "source": "U.S. News Society",
-      "published": "Sun, 11 Oct 2026 15:22:13 GMT",
-      "category": "Society & Culture",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-video-based-health-promotion-for-rural-and-under-8b1976880c.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Brewers\u2019 Pat Murphy sends warning to Tarik Skubal before NLCS Game 1 - Yahoo Sports",
-      "summary": "The Milwaukee Brewers\u2019 manager, Pat Murphy, issued a strategic warning to pitcher Tarik Skubal ahead of Game 1 in the National League Championship Series. The move underscores intense preparation and competitive dynamics as playoffs advance.",
-      "why_it_matters": "Pre-game strategies and psychological tactics can influence player performance and potentially shift outcomes in crucial postseason matches.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnBlYkFpam0zeEZwZ2N2WkhwSzk5SmgzeVNJTFdYbWQ5R2VBOVF6V3BuUDh5V25ySUlsLWFmUDhKbXU0TXk3ZVRiZDllZXNnYXU1SGFFUC1GNEh5OTRZN2RoUU8tVHJnOVJLR1VPcjBsdU53TG56dmM2OHdtLUl5NS15cjdqbXA1?oc=5",
-      "source": "Yahoo Sports MLB",
-      "published": "Sun, 11 Oct 2026 22:14:38 GMT",
-      "category": "Sports",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-brewers-pat-murphy-sends-warning-to-tarik-skubal-30b335580c.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
-    },
-    {
-      "headline": "Good News in History, October 9",
-      "summary": "On October 9, 1909, baseball legend Ty Cobb famously stole home base during Game 2 of the World Series, a strategic play contributing to the Detroit Tigers' contest against the Pittsburgh Pirates. This historic moment highlights Cobb\u2019s skill and the enduring legacy of early 20th-century baseball.",
-      "why_it_matters": "Remembering iconic sports moments enriches cultural heritage and illustrates the evolution of game strategy and athlete impact in American history.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/events061009/",
-      "source": "Good News Network",
-      "published": "Fri, 09 Oct 2026 07:00:00 +0000",
-      "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Cobb-slides-into-third-base-for-a-triple-against-the-Washington-Senators-at-Griffith-Stadium-August-16-1924-Pub-domain.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Georgia Midterm Elections 2026: Key Races, Candidates and Past Results - NBC News",
-      "summary": "An overview of Georgia's 2026 midterm elections details key competitive races, candidate profiles, and historical voting patterns. This information aids voters\u2019 understanding of the political landscape ahead of crucial electoral decisions.",
-      "why_it_matters": "Georgia\u2019s elections influence the balance of power locally and nationally, impacting policy directions on healthcare, education, and economic development.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVmdoeEEwNVJJOWJvVlVMaVg5aVRmRFFQZUdDYzF3bzJIaC11cURSNTY2VzRuUVgxSTZuVkdwNW9NTlE2M3k5QXVSZldRbU5XcWJqVWtueTFNNEszZHQ2dW5SSGh4NTA4WEpIRGlfWUM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmVNVnYtR1MwQW54YkNyeXVfRVhqczlLQXJzaEFOUElZYWtxenJybFRWNjYxdzJWZXBOdVJFM1o0dkxvd2ZBUFpWNXZZbG1admxhQTNsaGd3X2xCX0hYVzdjM3VpbG56Qk1BVTJVZENJRExONHl1N2loUDQ4Mzl0QXh0WXpkOE1YNlB2ZWFTeUNkSG5uTGQ0Q0c5cUJ2Vm50b1ZXdUwwc1FqRTNyN2l4Mmk4OWlHUm1QT2pTX0thc2djenlfVUlkUU9qZFh3d9IB0wFBVV95cUxQMVNRajZ5cUZReG5VTVNJSnd3a2dpV2IxRFh3LTEzYW0wQmdRTkZiMG5pT1lXWDMxb3NHZHJqNy1uUEtieWhVYUhZcGlXTGlqdDZkbnZzMTBETTdZS2tEMDhiMHBaZkxLZ0tBRkZRQzJ3MGdDSjFQdDg0UjlJdzhORHlpa2w2ZVFYSDBncmk0dXVxM19nUlB4NnN4eUNiNWwteV9iYzBQdm1nUGtCWGhEdXBnbFQ0MFVLTFNXTzhRV3V4ejJwUEd4em5vU3FqZFRrOGpF?oc=5",
       "source": "U.S. Politics",
-      "published": "Sun, 11 Oct 2026 15:00:21 GMT",
+      "published": "Sun, 11 Oct 2026 06:59:03 GMT",
       "category": "U.S. Politics",
-      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-georgia-midterm-elections-2026-key-races-candida-f597b58be0.webp",
-      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
-      "image_source": "AI-generated fallback"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Institute_of_American_Indian_Arts_growing_Futures_and_Heritage_%2820190911-OPPE-LSC-0820%29.jpg/1280px-Institute_of_American_Indian_Arts_growing_Futures_and_Heritage_%2820190911-OPPE-LSC-0820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 USDAgov \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Institute_of_American_Indian_Arts_growing_Futures_and_Heritage_(20190911-OPPE-LSC-0820).jpg"
     },
     {
-      "headline": "Trump sticks with tariffs even as US voters turn against them before the midterms - The Economic Times",
-      "summary": "Former President Trump maintains his tariff policies despite declining public support ahead of the 2026 midterm elections. This stance suggests a continued prioritization of trade protectionism despite potential political costs.",
-      "why_it_matters": "Tariffs affect consumer prices, trade relations, and domestic industries, making their political viability vital for economic policy and electoral outcomes.",
-      "perspective_one": "Supporters believe tariffs protect American jobs and industries from unfair foreign competition crucial for economic sovereignty.",
-      "perspective_two": "Opponents argue tariffs increase consumer costs and risk trade wars, potentially harming economic growth and voter support.",
+      "headline": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+      "summary": "Tropical Storm Rachel weakened as its high winds and rainfall shifted away from the coast. This storm's impact is a precursor to potentially record-setting El Ni\u00f1o weather events that California may soon face.",
+      "why_it_matters": "Rachel's behavior signals the complexity of atmospheric patterns that may intensify flooding and weather-related damage in the coming months, especially in drought-sensitive California.",
+      "perspective_one": "Forecasters stress the need to prepare for harsher El Ni\u00f1o-driven storms that could overwhelm infrastructure and emergency systems.",
+      "perspective_two": "Some officials argue that recent storm downgrades justify a reassessment of resource allocation to avoid unnecessary alarm and public panic.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSkRJcHN4eUdHSzN3cUxFQmVTeXBfQXhhUnJKd1lkUENDSHZWSTh2RDdUekNpUVo4OExWVy1aOWFscDRSQ3NraVpnc0k3Ym13S0pDMFZGOEg5ME80WTFvV1NsY0NSUWJnQlEyNk92RWZnYnM5RUZOZGdkWGN6WnFuZUlVejczM2U0X1ZfRkVvRlNLR2gzazlkMVdUQkRabVdhekpfWGdFTlFRdHBxOEVKaUZCVV9BRnp6aU01aGNjbXdYSFpUUFBhb0RsMlJ3bnpzTExsV184OTFYSDlyenZEa2hyWHNhY1dvbGEwQU9oNG5CTDlncGRmTnpORE0wUdIB_gFBVV95cUxQSkRJcHN4eUdHSzN3cUxFQmVTeXBfQXhhUnJKd1lkUENDSHZWSTh2RDdUekNpUVo4OExWVy1aOWFscDRSQ3NraVpnc0k3Ym13S0pDMFZGOEg5ME80WTFvV1NsY0NSUWJnQlEyNk92RWZnYnM5RUZOZGdkWGN6WnFuZUlVejczM2U0X1ZfRkVvRlNLR2gzazlkMVdUQkRabVdhekpfWGdFTlFRdHBxOEVKaUZCVV9BRnp6aU01aGNjbXdYSFpUUFBhb0RsMlJ3bnpzTExsV184OTFYSDlyenZEa2hyWHNhY1dvbGEwQU9oNG5CTDlncGRmTnpORE0wUQ?oc=5",
-      "source": "U.S. Politics",
-      "published": "Sun, 11 Oct 2026 12:09:00 GMT",
-      "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
-      "summary": "In a highly competitive congressional district in Washington state, the incumbent Democrat faces challenges for alienating parts of her base while the Trump-endorsed Republican challenger contends with negative perceptions of their party. The election represents a key battleground reflecting broader national political tensions.",
-      "why_it_matters": "The outcome could signal shifting voter priorities and party dynamics in a closely divided political landscape ahead of midterm elections.",
-      "perspective_one": "The Democrat aims to retain the seat by appealing to moderate voters despite criticism from her progressive supporters.",
-      "perspective_two": "The Republican challenger seeks to capitalize on dissatisfaction with the incumbent but must overcome backlash linked to Trump's influence.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
       "source": "NPR U.S.",
-      "published": "Sun, 11 Oct 2026 05:00:00 -0400",
+      "published": "Sun, 11 Oct 2026 19:54:21 -0400",
       "category": "U.S. News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3302x2201+0+0/resize/3302x2201!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2Fce%2F2b3781534d7a9fcf11a636f331eb%2Fgettyimages-2286067692.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fd1%2F5d7cdecb4c40a6daa08394941431%2Fap26284751363826.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Navi Pillay, who headed UN investigation into Gaza War, wins Nobel Peace Prize - Scripps News",
-      "summary": "Navi Pillay, who led the UN investigation into the Gaza War, was awarded the Nobel Peace Prize for her efforts in human rights advocacy and conflict investigation. This recognition highlights her impact on international law and accountability in conflict zones.",
-      "why_it_matters": "Awarding the Peace Prize to Pillay underscores the global importance of investigating human rights violations and promoting peace in volatile regions.",
-      "perspective_one": "Supporters view the prize as validation of rigorous international oversight and justice pursuits for war-affected populations.",
-      "perspective_two": "Some critics might question the effectiveness of investigations in altering political realities on the ground despite symbolic recognition.",
+      "headline": "Margaret Hamilton, Who Led Apollo Flight Software Team, Dies at 90 - The Eastern Herald",
+      "summary": "Margaret Hamilton, the pioneering computer scientist who led the team that developed the Apollo mission flight software, has died at age 90. Her work was critical to the success of the first manned moon landing.",
+      "why_it_matters": "Hamilton's leadership advanced software engineering techniques and set standards still foundational for aerospace and critical system software development.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3paYVg0ekZwVW5pZlJ1LVVBN2l2cVBCWWwyLXZjUDBNcVlkcExzSWE1cloxeWtRcGg1MkFBdXFOM3g1NElwNXROYUkxcnNsdTF1RVdJOVhtbDRmMHlBdURrN202M1NKZ3o3LU9sVEtJZmZZdDlRQXU1bUtFb09ZYTNXSlFoUnpnMFYyeVJaazJpbmRLYTZwX0tDU0U4RlZUeEFpTUtoMDhSSUhaOUE4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVNwWjZJb3hjeHFobldDX3RENHhqS2haNlRNcUM4SmZ4ckR1Vmh2bXlSeUs4WGQ2bFBET1NWV0JQd0NGcVp1bVhUM3p4WUc2MEpzdGdwRVJ6WXdQWDRxTXJxYi1wYkxySU9taUhidTQxN28yREdGVXpGdHlNa0RMY1lxbEYtTTYxSUE?oc=5",
       "source": "Associated Press World",
-      "published": "Sun, 11 Oct 2026 19:07:54 GMT",
+      "published": "Sun, 11 Oct 2026 13:06:39 GMT",
       "category": "World News",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-margaret-hamilton-who-led-apollo-flight-software-e79d03b2d4.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Saudi crown prince is waiting for Israel's election results before seeking its help against Houthis - Ynetnews",
+      "summary": "The Saudi crown prince is delaying requests for Israeli assistance against Houthi forces until after Israel's election results are announced. This pause reflects the strategic sensitivity of cooperation amid regional political dynamics.",
+      "why_it_matters": "The timing of Saudi-Israeli cooperation could influence regional security and alliances, affecting the conflict in Yemen and broader Middle East stability.",
+      "perspective_one": "Proponents argue that coordination with Israel is vital for effective counterterrorism and protecting Saudi interests from expanding Houthi threats.",
+      "perspective_two": "Opponents caution that linking Israeli support to domestic elections risks politicizing security and may undermine regional trust or escalate tensions.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1SlZUYUg0bWpjbXhvck9xY1J3WnFfUkc1ZzJBWTIyOXdDVGk0bk4wY09xOFViUUhHSWVmV1R2V09ranlraTFXbGlpTUw5a2o2eUxVZllRT2ZHMVZ0MkRsUVNhQVRfQ0ZYWEFydTZzTQ?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Sun, 11 Oct 2026 23:26:19 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-saudi-crown-prince-is-waiting-for-israel-s-elect-58a179f55b.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "miracle weight loss drug fda 2022 - Olhar Digital",
+      "summary": "A weight loss drug deemed a 'miracle' by many received FDA approval in 2022. This drug's adoption has spurred significant interest and debate about obesity treatment options.",
+      "why_it_matters": "FDA approval legitimizes new treatment pathways for obesity, potentially improving health outcomes but raising concerns about affordability and long-term effects.",
+      "perspective_one": "Supporters believe this drug offers a breakthrough for obesity management, reducing disease risks and improving quality of life for millions.",
+      "perspective_two": "Critics warn that overreliance on pharmaceuticals may neglect sustainable lifestyle changes and carry unknown or unstudied side effects.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnpKSWVEQWNPbWI0UjlNWlMyaGNQekYtdTVZSjBaVUljM3drdms4UlE2dmpWWDFEV2dzYUFqbmJJSU1aUy1EaUNnOGlzNjF0X24wMGJKNUpKemtEcUFWRUVOZkFXQjIwX1NwRFNfd2F5N3lIRjl0REx0c0liY3QtSnpBd0tIYklvUUVxZg?oc=5",
+      "source": "Health & Medicine",
+      "published": "Sun, 11 Oct 2026 22:37:41 GMT",
+      "category": "Health & Medicine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/-261_%E2%80%93_POSTAIS_DE_LISBOA_%E2%80%93_VIII_-_EST%C3%81TUA_VIVA_%E2%80%93_LIVING_STATUE_-_LISBOA_%E2%80%93_PORTUGAL_%285190856196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 Celestino Manuel from Vendas Novas, Portugal \u00b7 CC BY 2.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:-261_%E2%80%93_POSTAIS_DE_LISBOA_%E2%80%93_VIII_-_EST%C3%81TUA_VIVA_%E2%80%93_LIVING_STATUE_-_LISBOA_%E2%80%93_PORTUGAL_(5190856196).jpg"
+    },
+    {
+      "headline": "Telef\u00f3nica\u2019s Wayra Brings Start-ups & Investors Together to Advance Europe\u2019s Technology Leadership - The Fast Mode",
+      "summary": "Telef\u00f3nica\u2019s Wayra accelerator facilitates connections between start-ups and investors to promote Europe's leadership in technology innovation. This effort aims to bolster the continent's competitive edge in the global digital economy.",
+      "why_it_matters": "Strengthening start-up ecosystems can accelerate technological advancements, create jobs, and reduce Europe's dependency on foreign tech companies.",
+      "perspective_one": "Advocates emphasize that such initiatives are necessary to foster indigenous innovation and secure Europe's digital sovereignty.",
+      "perspective_two": "Skeptics question whether these programs can sustain long-term impact without deeper structural reforms in Europe's funding and regulatory environment.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNTZXTmo0Z01OR0UtSzhXQzdaODNtNE5SQ09JTXplUDF2Q3BEa0VDXzhCV1VEeDk3NE5BckNQTC02dUJDM1Zlck45UnVQQ0VFOHYwWVYzd1N2OXc0N2Mzam1WYjZZUVJ1RkNVcTA2eHRvUnBtaW1nUi1wRk80Y2tSUy1aNlhWaEk0YmN4UHNSWXlYdkhyTjJpTDN6YWpGY2VYUkUwZm40OEFjTWtER3hKeEFTVEhLdS1GRzNZZzhQcmRmbE1TM2d1MEhHaC1xOXRuUDVvTTBtczQteGZHZDhNMDIyR0dnbmJjUnJBaE13?oc=5",
+      "source": "AI & Technology",
+      "published": "Sun, 11 Oct 2026 23:29:17 GMT",
+      "category": "AI & Technology",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-telef-nica-s-wayra-brings-start-ups-investors-to-0f1b475713.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Kaplan: Bonds Pressured by Too-high Inflation, Rising Demand for Capital, Lack of Fiscal Plan - Kathleen Hays Presents: Central Bank Central",
+      "summary": "Federal Reserve official Kaplan identified inflation and increased capital demand as major pressures on the bond market, compounded by the absence of a clear fiscal policy. These factors contribute to uncertainty in financial markets.",
+      "why_it_matters": "Persistent inflation and unclear fiscal strategies undermine investor confidence, potentially raising borrowing costs and affecting economic growth.",
+      "perspective_one": "Some believe aggressive monetary tightening and fiscal discipline are essential to restore market stability and control inflation.",
+      "perspective_two": "Others argue that excessive fiscal austerity risks slowing recovery, advocating for balanced approaches to maintain economic momentum.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vTTRDUjBGcl9TYTk1WWRoWTgzUWx2Nm1YcTdlV01vVEVELVRCcmo3VGRTREcybjd3c3ZjdzFXY243UzFDNVJicFcyYVFmOGV2UWxnWEFZazlUYjBIQUgzb19hZDZDcDNXRjV4UUhiSWU0QkhVRXpZTmJ3?oc=5",
+      "source": "Business & Economy",
+      "published": "Sun, 11 Oct 2026 19:33:05 GMT",
+      "category": "Business & Economy",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-kaplan-bonds-pressured-by-too-high-inflation-ris-1201366455.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "MLB Playoffs Picture 2026 ; MLB Standings ; MLB Standings Today ; MLB Wild Card Standings ; MLB 2026 Seth Jarvis (tV4QsS9gZy) - Unisba Media",
+      "summary": "The 2026 MLB playoff picture and standings are shaping up with key teams vying for wild card spots as the season progresses. Fans and analysts watch closely as competitive positioning will determine postseason matchups.",
+      "why_it_matters": "Understanding current standings informs team strategies, fan engagement, and commercial interests during the critical phase before playoffs.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHlMM2RtSEJKNDJFSzNYUlB0SG1fSWNBZXZJU1c3dHlITVlXOVJkZ1V0c2dJYzl2YWViR010SkpYX3F2eEdXUGEwT0pFZVRMNlhJdmVtR1dTekZjTkQ5bnVTU2JJOTQyQkJ1d1I5MWZPSnVSRW9SX2ZacjhuaUEtOC13?oc=5",
+      "source": "Braves Playoff Race",
+      "published": "Sun, 11 Oct 2026 12:50:43 GMT",
+      "category": "Sports",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-mlb-playoffs-picture-2026-mlb-standings-mlb-stan-c7edf0e180.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "NYC Parks Extends Late Night Soccer at 5 Fields for Night Workers\u2013And Their Reactions Are Awesome (WATCH)",
+      "summary": "New York City extended lighting hours at five urban soccer fields to accommodate night workers, boosting accessibility for after-hours recreation. The initiative attracted 4,500 players citywide, reflecting strong demand for equitable leisure opportunities.",
+      "why_it_matters": "Providing safe, late-night sports options addresses social equity and mental health, benefiting workers with nontraditional schedules.",
+      "perspective_one": "Supporters praise the move as an innovative way to promote physical activity and community engagement for underserved populations.",
+      "perspective_two": "Some residents express concerns about noise and safety, questioning if extended hours are sustainable in densely populated neighborhoods.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.goodnewsnetwork.org/nyc-parks-extends-late-night-soccer-at-5-fields-for-night-workers-and-their-reactions-are-awesome-watch/",
+      "source": "Good News Network",
+      "published": "Thu, 08 Oct 2026 15:30:39 +0000",
+      "category": "Good News",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-NYC-Mayors-Office.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
-      "summary": "Amid ongoing attacks on vessels in the Strait of Hormuz, a seafarers\u2019 union official reported that some shipping crews are receiving substantial financial incentives to navigate the dangerous passage. This points to increasing risks and economic pressures associated with maintaining maritime trade routes.",
-      "why_it_matters": "The security and commercial viability of the Strait of Hormuz, a strategic chokepoint, directly affect global oil supply chains and international trade stability.",
-      "perspective_one": "Offered bonuses are seen as necessary compensation for crews accepting heightened risks to ensure the continuity of vital maritime commerce.",
-      "perspective_two": "Others warn that escalating hazards and costs could disrupt shipping operations and international energy markets.",
+      "headline": "Houthis warn 'worse is yet to come' after fresh airport strikes in Saudi Arabia - SBS",
+      "summary": "The Houthi movement issued a warning of intensified attacks following new strikes on Saudi Arabian airports. This escalation signals continued tensions and instability in the region\u2019s ongoing conflict.",
+      "why_it_matters": "Renewed Houthi aggression threatens civilian infrastructure, regional security, and complicates peace efforts in the Middle East.",
+      "perspective_one": "Saudi and allied forces view these strikes as terrorist provocations requiring a firm military response to deter further attacks.",
+      "perspective_two": "Houthis assert these actions are defensive measures against foreign intervention and seek to pressure Saudi Arabia politically and militarily.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
-      "source": "NPR World",
-      "published": "Sun, 11 Oct 2026 17:16:36 -0400",
-      "category": "World News",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ280R3BzbThoaWRwQ21jcmVfeTRUNDU5elF1c3B1U0JwRW9HR0oyMm00aEZKZWwtOWtlZXpfbTE2VEw2NHA4TmhscXRLT3JoelVQX2hKdUotS3dGUU1zNzVKWTROZFd3azlodzBIWXJGeUJmWTJIVThCLTQ4SW8ydkNmQUxzNFp1RFdFc1Mwc19lcWlCR2FGY2dWSGxaOTdnVFg5NlpRb2VWVHA3V09Oa1UwaFVubjJoVUVEaUZuTGo?oc=5",
+      "source": "Reuters Middle East",
+      "published": "Sun, 11 Oct 2026 21:09:02 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-houthis-warn-worse-is-yet-to-come-after-fresh-ai-2826476d0c.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Netanyahu demands probe into sources of award-winning Gaza film - Arab News",
+      "summary": "Israeli Prime Minister Netanyahu has called for an investigation into the funding sources behind an award-winning film about Gaza. The demand reflects ongoing tensions over narratives related to the Israeli-Palestinian conflict.",
+      "why_it_matters": "Scrutiny of documentary funding highlights broader disputes over media influence and political messaging in a highly sensitive geopolitical conflict.",
+      "perspective_one": "Netanyahu and supporters argue that funding sources might be politically motivated to propagate anti-Israel narratives that threaten national security.",
+      "perspective_two": "Filmmakers and advocates stress artistic freedom and the importance of documenting humanitarian issues without political interference.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVZ6eGgxZGpiZUluV0tOQlhsOGlTSUJpbVkyRjZDdVFkT0JOQmZEc1BtTGtZMzlLMUhISXJnNDZ2Z05JeUkyTXFUbmlablZPdjVBOE1oYV9JYmU4SjMxMmtPTEZUVDRxS1h1R00zSEFxckpid01pSmFVVktuUXk5SThxbmNOS0lSdTU3X3lvdll2YTcxRmQySHh0RGcwdi1XckU0WUd0X3R2MTVa?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Sun, 11 Oct 2026 20:51:31 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-netanyahu-demands-probe-into-sources-of-award-wi-70410d9e27.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "fda concerns unapproved compounded glp-1 drugs used for weight loss - www.polskieradio.pl",
+      "summary": "The FDA has raised warnings about the risks of unapproved compounded GLP-1 drugs being used off-label for weight loss. Such formulations lack safety evaluations and regulatory oversight, posing potential health risks.",
+      "why_it_matters": "Unregulated compounded GLP-1 products may endanger patients and undermine confidence in effective, approved obesity treatments.",
+      "perspective_one": "Regulators emphasize the importance of using only authorized medicines to ensure efficacy and avoid harmful side effects.",
+      "perspective_two": "Some compounding advocates argue these alternatives provide necessary options where approved drugs are inaccessible or unaffordable.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajFuSEt5ZjNJRGhSRkZkempMNkUwUVVMMkVLRlhPSW1XeWJWWDhrUGVfMlVQaldxVkp6MnhDeVhROHVrb0ZSZnZYbjJveVRoY0dTVzBYSkN3cnRtVTBJSEt1VkJVQUphWnJMOExGZFBaSHJocFl4b2NqYWpHU25MUlkzdk5ucUVWblR4T0hZQ3NmUm9BX2gtblpmWDEwN0h5R0FSeDJLeXhGUUprbnhPRGx5SFA4ejQ?oc=5",
+      "source": "Health & Medicine",
+      "published": "Sun, 11 Oct 2026 18:24:13 GMT",
+      "category": "Health & Medicine",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-fda-concerns-unapproved-compounded-glp-1-drugs-u-8e06955ee1.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC7 Chicago",
+      "summary": "Federal Reserve minutes signal a likely additional interest rate increase this year to combat ongoing inflationary pressures. Policymakers remain cautious as economic data evolves.",
+      "why_it_matters": "Further rate hikes affect borrowing costs, consumer spending, and investment, influencing the trajectory of economic growth and inflation control.",
+      "perspective_one": "Supporters argue that maintaining a tightening stance is essential to prevent inflation from becoming entrenched.",
+      "perspective_two": "Critics warn that aggressive hikes risk slowing the economy too sharply and increasing recession risks.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBTXdSZ0JnWHVYYlhKNkVHZlMxS3ZpX3dBbGY4QW0zelBMZEVXSkhxRGV3N2dSNVZ6dDNKTy1PVEJXcEd4d2FLdDZ1anVmNkFXb3h5eDQ1T3lBdlp3bU1Sc0RWbjl2VmpjcHpFb1h3a2dHYXNKelkzd3N1Ym9oR1ZNVEpXZF9TalJrWDlQaGFFVWxvYkJDaFBsa2p6dkZIeTg4U3BzMDV0SEE2b1E?oc=5",
+      "source": "Business & Economy",
+      "published": "Sun, 11 Oct 2026 18:03:16 GMT",
+      "category": "Business & Economy",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-fed-minutes-another-rate-hike-likely-coming-this-ee931c135f.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
+    },
+    {
+      "headline": "CFP Playoff Bracket, Scenarios and Bowl Projections After 2026-27 Week 7 AP Rankings - Bleacher Report",
+      "summary": "After Week 7 of the 2026-27 AP Rankings, College Football Playoff scenarios and bowl projections are taking clearer shape. Teams' performances are influencing likely postseason matchups and fan expectations.",
+      "why_it_matters": "These rankings determine playoff eligibility and impact recruiting, revenue, and future coaching decisions in college football.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGZsbEx4Y1h3aEp1cjFGVS1PMGNacmtHVEFUeUw0WUFGeXRqd2xiOVBJanZLenN4WnhabHhvQlR0VG1DV0FYbW1LeGZTNWZlU29MY2RGSjhMUWFHdnR3eUo4UEEycjFBMTRtUnNvTXFHWnl5TEd1M1Z2bXRlUEZNMHBRcjVYTFF3Vl9WdENxUXoxVzRYSzhybGhjV0tpMl9KS2J5NmtNRmpKTWVNV2JyQmFzRm5CaW9LVF8zdWRYZnY2T0hzMk1z?oc=5",
+      "source": "College Sports",
+      "published": "Sun, 11 Oct 2026 20:00:12 GMT",
+      "category": "Sports",
+      "image": "https://raw.githubusercontent.com/jhsacks/BalancedNews/main/data/briefings/generated_images/2026-10-11-pm-cfp-playoff-bracket-scenarios-and-bowl-projectio-cdf1680e3a.webp",
+      "image_credit": "Visual generated with OpenAI for The Balanced Brief.",
+      "image_source": "AI-generated fallback"
     }
   ],
   "more_stories": {
     "U.S. Politics": [
-      {
-        "headline": "Indian-Americans back favourable candidates in US midterms elections - Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmVNVnYtR1MwQW54YkNyeXVfRVhqczlLQXJzaEFOUElZYWtxenJybFRWNjYxdzJWZXBOdVJFM1o0dkxvd2ZBUFpWNXZZbG1admxhQTNsaGd3X2xCX0hYVzdjM3VpbG56Qk1BVTJVZENJRExONHl1N2loUDQ4Mzl0QXh0WXpkOE1YNlB2ZWFTeUNkSG5uTGQ0Q0c5cUJ2Vm50b1ZXdUwwc1FqRTNyN2l4Mmk4OWlHUm1QT2pTX0thc2djenlfVUlkUU9qZFh3d9IB0wFBVV95cUxQMVNRajZ5cUZReG5VTVNJSnd3a2dpV2IxRFh3LTEzYW0wQmdRTkZiMG5pT1lXWDMxb3NHZHJqNy1uUEtieWhVYUhZcGlXTGlqdDZkbnZzMTBETTdZS2tEMDhiMHBaZkxLZ0tBRkZRQzJ3MGdDSjFQdDg0UjlJdzhORHlpa2w2ZVFYSDBncmk0dXVxM19nUlB4NnN4eUNiNWwteV9iYzBQdm1nUGtCWGhEdXBnbFQ0MFVLTFNXTzhRV3V4ejJwUEd4em5vU3FqZFRrOGpF?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Indian-Americans back favourable candidates in US midterms elections Business Standard"
-      },
       {
         "headline": "Trump could face a new threat in January: A Democratic Senate - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVWRBdzkxZmpMOGd4T3V4WWFyRFZ2ajJHaElTWlJoUjdXbW4yNTAxdEVYdF9LR0NnWkFvd0VJVVlxNVB4R2tIYUZJYXZVb0dtcWtHVGx1RnhrX1dCRDVqZTFaTXM3WnJpazBzMGxSSmJ4MkhkUDNoampUNk9fZ1JLejgxZVkwdVJBNjVSWXUtNURiNUpJMEdRREwyeHV2cDc1RndmSHBXdTQ?oc=5",
@@ -278,9 +240,21 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlpxUW1SZUhSMElLR1hkcEI0TTVCbWlPQmxtdkhIZWFLWFlsTFgzcVhFbGZMYVZFQWFUd3RkZlAzT0dCUnBqRzJrSC1YeGhWM0drSEd5eVduZzFKbmpfMGJVczcydnRPTkd4bkJMbHZ3eUZfQ2c2dDhRakRtSnF1SHh4RmJ3SVhCMldiY1M2S2Vod3dIVGNQOTVGOE41Z0k?oc=5",
         "source": "USA Today Politics",
         "summary": "Midterms & Markets: Lessons from History, Considerations for Today Decorah News"
+      },
+      {
+        "headline": "In the Senate, Collins Often Defies Trump but Rarely Stops Him - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGctc2V2dVZ3bkdDbGF1Z3BOV2dLRlhmamhVdkliTlVfd3IwZmdBYWxiR1ZMQVNhcHA5dm9aZFdDS1BkdXA3NFJ6UEJtaGJycW1HX3JtR1BPWmNVbV90aWVwZlUwWE5tVUwxQUJsTXhyWmRHSFRFczc1ZlZYTlZ3UnQybTlSVGlpa3hJeWtiRDNNZ0lENDhvYlhxWTZnby1kNTNDQkJQbW1WeGM1cHR5a3FNZw?oc=5",
+        "source": "USA Today Politics",
+        "summary": "In the Senate, Collins Often Defies Trump but Rarely Stops Him The New York Times"
       }
     ],
     "U.S. News": [
+      {
+        "headline": "Christian Watson continues terrific play in Week 5 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaE5NSEg5a1FtZHQ4YUprVV95X0MwZ1B0NEJfYVVMdFlMQ2IzbzVZNFgzRTR2YnY2eHQ1QjlVS3pQWTdVVWY5bWNGSHEwTXVPVlFWUEtzQUtBZnQ0RDhPSmZGVWVmYUZ1TThJRlkzU0otQTIwMkE1Xy1zWjB6YW1HZkphVF9QUnlBd1IwMU82dVYzRVk?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "Christian Watson continues terrific play in Week 5 Yahoo Sports"
+      },
       {
         "headline": "AP News Summary at 7:14 p.m. EDT - Marietta Daily Journal",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUREQVNPZHBkZU5HRWNNMnJsaEdBbkN0TDE5YmxVQ0xlZFZyRUM0eTAyMk9TUU02dVVDZXF0TTdwc3F0aFJnT3ZoYUpHWDExUmktdzRtTDZHa1pJQ0dESlJLWmV2Umk1dVJmQkRNZmR3dkxrOTNkVGJXejZOaDVPc1AwNndZTzBQOWhXNjVFVlRFZlZYV1VWS253RzFGMXk4LUc4Uk9WSXI4WV9tVUh1djhqUXlTMnFwX3RYX1dn?oc=5",
@@ -292,12 +266,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0o3eGZBaUVFMmN0dk1pal94ejdCZWZrUjhoV0QwWTFPRkhCVkF3TGpMb29tRjROSms1bGxoamwtU0Nmb2JNR1V2ZUE1Qk1Td3VLX1VUZmFPR3p0WG9Id3NNV0tZMzhzbTI4TkQtdTVQZzYwRnBPb3d6bXVMejBzb045MHlyNWVP?oc=5",
         "source": "USA Today U.S.",
         "summary": "MarShawn Lloyd picks up two rushing touchdowns Yahoo Sports"
-      },
-      {
-        "headline": "Geno Smith goes for 182 yards, TD - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4N0FUNjFDZjJjTUNQelRjbkI2M2FBRHM5RHE5Q1hOTzlSQmNSR283bkRxWGttV09GT3RpTnhnakp3TXFhTl8zZ2JoakNZYXF4X251MWFxSEVKQm1QOE50S2VVMWRkYVdXd01nU1JlODEyVHQ4YWJRaEVQbUQ3MTQ?oc=5",
-        "source": "USA Today U.S.",
-        "summary": "Geno Smith goes for 182 yards, TD Yahoo Sports"
       }
     ],
     "World News": [
@@ -323,31 +291,25 @@
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Netanyahu demands probe into sources of award-winning Gaza film - Arab News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVZ6eGgxZGpiZUluV0tOQlhsOGlTSUJpbVkyRjZDdVFkT0JOQmZEc1BtTGtZMzlLMUhISXJnNDZ2Z05JeUkyTXFUbmlablZPdjVBOE1oYV9JYmU4SjMxMmtPTEZUVDRxS1h1R00zSEFxckpid01pSmFVVktuUXk5SThxbmNOS0lSdTU3X3lvdll2YTcxRmQySHh0RGcwdi1XckU0WUd0X3R2MTVa?oc=5",
-        "source": "Arab News Middle East",
-        "summary": "Netanyahu demands probe into sources of award-winning Gaza film Arab News"
-      },
-      {
-        "headline": "Military approach in Yemen will only complicate situation: Araghchi warns Saudi Arabia - PressTV",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUJDa2hiSUVhRlhXZXJTbVR2NUh4R3dGV19IMjlaaWxtZ2VZWW04MjBQaHlyU0NXZHd6c3BjYkJvWTV6MG9CbEpiQTByd0Y4VzV2ajVIUUtmMVNrcXFvaGhKZzBuNWNjMkxMZ0pDMnhtZWR5c3pOeUl3cENGMmFXVHpnTXVQR1NpRnlxcVB4T2hLaUFqNVRKZzhhWnVYRmxzSmRfdU1Ec3A4elp2ZWtUNnlIMk0yUU9sbkI2dFJRWVd6ZGJFdF9NbkhIMlZ5MlhsZVE?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "Military approach in Yemen will only complicate situation: Araghchi warns Saudi Arabia PressTV"
-      },
-      {
         "headline": "Fresh attack hits Riyadh airport as Houthis warn airlines against using Saudi airspace - Middle East Eye",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNalFLZVRnTDB0T3psTVVGYUZlWlV3TVlxcklPLW1CaHdhRnBkelRJd2RHVk03NDlxUjFXMkpDZDR0S2NEVmpMbVkyT2hkUS1xWmUzNmdhRVpNOVdXTktLdVQtME9RS3RhM3NsSVcwZUZ0Y1UwMEdOQ2xDcVFMMVJXYkNrYTl6UExDdjJPeUpJNDhnNnJscERCTndaZXA2eFFuT2dENnRycmlicDc3T2VuOGYwRHNHVURWaUE?oc=5",
         "source": "Arab News Middle East",
         "summary": "Fresh attack hits Riyadh airport as Houthis warn airlines against using Saudi airspace Middle East Eye"
+      },
+      {
+        "headline": "Houthis renew warning to avoid Saudi airports after deadly Riyadh attack - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43WE5ON3hhRTlrLWpLckI2d1o0VGt4cXFFajBON2VkTFZfV2J1azJLUUZDWVFNaUVNT0tLeVEtY2d6U3hLTnBiM1VPSjFSd0pQc2RvRFp6ZElGemtRdWNON0ZicVZrS1U?oc=5",
+        "source": "Reuters Middle East",
+        "summary": "Houthis renew warning to avoid Saudi airports after deadly Riyadh attack Reuters"
+      },
+      {
+        "headline": "Houthi Attacks on Saudi Arabia Raise Risk of Wider War - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2tOdzJva0w1UnJXWkh2WnJKaXg1N2xkTUd4d3RYa0VrblNxMW15ckgxN3VMT04tRHJCczM5Y3g1bVNLVGd4MVk2VzBNd3ozQmtDSzNoUXFMQnNWT1hVRHZra3I4UmJlbHJ4X0dTcnZiOUM0RmdpbnlFTWpTcEpoX2VOU2cxWEV0Z3BGR1oxTjJkQ2RZdnkzVzdZWnBTWXJGQTVxaUQ5NHg?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Houthi Attacks on Saudi Arabia Raise Risk of Wider War Bloomberg.com"
       }
     ],
     "Health & Medicine": [
-      {
-        "headline": "fda concerns unapproved compounded glp-1 drugs used for weight loss - www.polskieradio.pl",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajFuSEt5ZjNJRGhSRkZkempMNkUwUVVMMkVLRlhPSW1XeWJWWDhrUGVfMlVQaldxVkp6MnhDeVhROHVrb0ZSZnZYbjJveVRoY0dTVzBYSkN3cnRtVTBJSEt1VkJVQUphWnJMOExGZFBaSHJocFl4b2NqYWpHU25MUlkzdk5ucUVWblR4T0hZQ3NmUm9BX2gtblpmWDEwN0h5R0FSeDJLeXhGUUprbnhPRGx5SFA4ejQ?oc=5",
-        "source": "Health & Medicine",
-        "summary": "fda concerns unapproved compounded glp-1 drugs used for weight loss www.polskieradio.pl"
-      },
       {
         "headline": "FDA Seeks Input on Ibogaine Trials Amid Safety Concerns - MyChesCo",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVi1TMm1mbGJheXZBUWNVakdMM1VTTVNHZUJDNTlxcmN3LUtOTjAxVFo4RVRXVTJ6NGo2WTZRLVdVbUY0ZzkyTHo0TW5HaGQ4eWFMN20xSXRKUE4tZzlCbktYQXV0RGtINXg4QVRsTW1wUFVkRnZiX2JiVjcyZDYyT1NtWTJlcldsWnNKdTl3WFc5VUNwMkt2OXZSb00zUQ?oc=5",
@@ -355,10 +317,10 @@
         "summary": "FDA Seeks Input on Ibogaine Trials Amid Safety Concerns MyChesCo"
       },
       {
-        "headline": "fda approves weight loss drug october 2025 - Olhar Digital",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjVULXpWRGFLSVdmVVZkekE3QzBYS1Z6bFRrWERzV2FLRVBzY2lGeHd1c1RTZktoUVFsNDNGVUJ3eFRRNGxfMjFQQ2c0R04xNDh1R0l2UDg3N25oNUEzdlJOaWpCbkdITm45Njh4bEEzWno2b1d2a2FGeUpWZEh5XzFqbGJpT3V6QnNSUkx2Tmpfd2p5RFE?oc=5",
+        "headline": "new weight loss pill fda approved - BusinessWorld Online",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95Z1h2Szh3emdoRmllWTFkNmVkaW9kTzFWakRQN3Y4NGREYV9CdTdHakpPMVFyLTB6VWI0c01VQ3U1STd5bW5mZkg0MFZ3TDRidldHc1I5Q0t2bENBZjF2cFlzOS1CaTlIZnhRb3RUM24wNmE3djJPWGxaTzE?oc=5",
         "source": "Health & Medicine",
-        "summary": "fda approves weight loss drug october 2025 Olhar Digital"
+        "summary": "new weight loss pill fda approved BusinessWorld Online"
       }
     ],
     "AI & Technology": [
@@ -383,22 +345,22 @@
     ],
     "Business & Economy": [
       {
-        "headline": "Kaplan: Bonds Pressured by Too-high Inflation, Rising Demand for Capital, Lack of Fiscal Plan - Kathleen Hays Presents: Central Bank Central",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vTTRDUjBGcl9TYTk1WWRoWTgzUWx2Nm1YcTdlV01vVEVELVRCcmo3VGRTREcybjd3c3ZjdzFXY243UzFDNVJicFcyYVFmOGV2UWxnWEFZazlUYjBIQUgzb19hZDZDcDNXRjV4UUhiSWU0QkhVRXpZTmJ3?oc=5",
-        "source": "Business & Economy",
-        "summary": "Kaplan: Bonds Pressured by Too-high Inflation, Rising Demand for Capital, Lack of Fiscal Plan Kathleen Hays Presents: Central Bank Central"
-      },
-      {
-        "headline": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC7 Chicago",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBTXdSZ0JnWHVYYlhKNkVHZlMxS3ZpX3dBbGY4QW0zelBMZEVXSkhxRGV3N2dSNVZ6dDNKTy1PVEJXcEd4d2FLdDZ1anVmNkFXb3h5eDQ1T3lBdlp3bU1Sc0RWbjl2VmpjcHpFb1h3a2dHYXNKelkzd3N1Ym9oR1ZNVEpXZF9TalJrWDlQaGFFVWxvYkJDaFBsa2p6dkZIeTg4U3BzMDV0SEE2b1E?oc=5",
-        "source": "Business & Economy",
-        "summary": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation ABC7 Chicago"
-      },
-      {
         "headline": "Fed\u2019s Waller pivots on interest-rate bet as worried consumers sound inflation alarms - TheStreet",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNalQtNE10Q2lGRVJjcnh0cmFIVS1JQzlDcVpvclNIWDhMdTZJWGs5ZkZRUTAwTW84dXkzYXpETkNtTldJN2R5cFdHZUxOaVJTVlM5ZkhERzZReDNVNGxKYlIyTDJ2S3BmQzRGNWxvQ2VaaFpNYk01dXdvUVdFVXVSeVgtUQ?oc=5",
         "source": "Business & Economy",
         "summary": "Fed\u2019s Waller pivots on interest-rate bet as worried consumers sound inflation alarms TheStreet"
+      },
+      {
+        "headline": "What to Expect in Markets This Week: Big Bank Reports Fire Up Earnings Season; Inflation, Retail Sales Figures Land - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWRaeHVmdURib2x4b01xUHRBcXNMalQ2UUpjQmRpWGxQaTlNS2hkdHRzamczeHdRaVBrcVlBbEF1VEJGcktsMmNEVnd6emtSN1F2YzYzaGl3MVVrRVNVVEF4S21LaE1qZVZSMHI0SDY5aXBTQ0Rra2pKM3V5YkkyVUlEck41RWd0NUdwYzRTUTBhVmtTaktCZC1COG51TjE5VmxkNmxDNFBnUWo1LV9kRXZkaEhoUi04LVVTOVBsbGRVXy12bW1scFlDanFQY1JzLVQtamFjOFNsQzhZSWQtTVo1MGY?oc=5",
+        "source": "Business & Economy",
+        "summary": "What to Expect in Markets This Week: Big Bank Reports Fire Up Earnings Season; Inflation, Retail Sales Figures Land Investopedia"
+      },
+      {
+        "headline": "Americans Are Rejecting the Trump Economy \u2013 For Good Reason - Zeteo | Substack",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43R1NvU3B4UmZ2ZWg0TEFEQWN3YWU4NjZiSHkyc2FXU3RkMXBRcHZNM3lGdFhzeE5WVnpwbTBybDRlSkw2OGxPa2xHblJlVkFuMzNPR1BiNDNaNlB4eDZR?oc=5",
+        "source": "Business & Economy",
+        "summary": "Americans Are Rejecting the Trump Economy \u2013 For Good Reason Zeteo | Substack"
       }
     ],
     "Society & Culture": [],
@@ -406,7 +368,7 @@
       {
         "headline": "2026 MLB playoff bracket: Schedule, scores as Dodgers vs. Brewers NLCS kicks off on Sunday - CBS Sports",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3pxZzFTUmJrLVBBdUNvYzJQa1VTcUdac2NyN1l4d1hZcHAzRkFGbXdPR2NBUlladEZ1b2R5YzQ5dExlbUNJWlVONzhmZlpuc2x5UVJuQ2VrMFV5dHdjLVBwcVZoaUlYY3ZDbk92SjBoMmtrSTk2Vkh3U3VMMjU3ZWd2WXBORjdJVmVuYkF5UEpjY0lxQnZhaU1XU2xvdw?oc=5",
-        "source": "CBS Sports MLB",
+        "source": "CBS Sports NFL",
         "summary": "2026 MLB playoff bracket: Schedule, scores as Dodgers vs. Brewers NLCS kicks off on Sunday CBS Sports"
       },
       {
@@ -424,12 +386,6 @@
     ],
     "Good News": [
       {
-        "headline": "NYC Parks Extends Late Night Soccer at 5 Fields for Night Workers\u2013And Their Reactions Are Awesome (WATCH)",
-        "url": "https://www.goodnewsnetwork.org/nyc-parks-extends-late-night-soccer-at-5-fields-for-night-workers-and-their-reactions-are-awesome-watch/",
-        "source": "Good News Network",
-        "summary": "New York City authorities decided to leave the lights on at 5 urban soccer pitches around the city, hoping to even the playing field of recreation opportunities for those who work late. The response from the locals in each of the 5 Boroughs was immense, with 4,500 people visiting the pitches to play afterhours ball [\u2026] The post NYC Parks Extends Late Night Soccer at 5 Fields for Night Workers\u2013And Their Reactions Are Awesome (WATCH) appeared first on Good News Network ."
-      },
-      {
         "headline": "Neighbors Flock to Rescue a Wounded Owl Tangled Up in Barbed Wire",
         "url": "https://www.goodnewsnetwork.org/neighbors-flock-to-rescue-a-wounded-owl-tangled-up-in-barbed-wire/",
         "source": "Good News Network",
@@ -440,6 +396,12 @@
         "url": "https://www.goodnewsnetwork.org/more-than-14000-derelict-explosives-cleared-from-libyan-city-and-nearby-farmland/",
         "source": "Good News Network",
         "summary": "Demining operations have cleared just over 14,000 pieces of derelict explosives in a coastal Libyan city this year. A partnership between the UN\u2019s support mission in-country (UNSMIL), Italian foreign aid, Libyan domestic partners, and the HALO Trust has been working to remove landmines and unexploded ordnance from the country as early as 2018. According to [\u2026] The post More Than 14,000 Derelict Explosives Cleared from Libyan City and Nearby Farmland appeared first on Good News Network ."
+      },
+      {
+        "headline": "New Way to Relieve Arthritic Knees Without Drugs or Surgery by Changing Your Gait",
+        "url": "https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/",
+        "source": "Good News Network",
+        "summary": "Scientists are reporting that a simple adjustment to how people walk can relieve knee arthritis pain as effectively as prescription drugs\u2014while also slowing the deterioration of cartilage. Nearly a quarter of people over the age of 40 experience painful osteoarthritis, due to degrading joint-cushioning cartilage\u2014and there is currently no way of reversing this damage. The [\u2026] The post New Way to Relieve Arthritic Knees Without Drugs or Surgery by Changing Your Gait appeared first on Good News Network ."
       }
     ]
   }
