@@ -1,0 +1,453 @@
+{
+  "generated_at": "2026-10-17T09:16:30.618239-04:00",
+  "edition": "AM",
+  "stories": [
+    {
+      "headline": "Trump promised a swing district blitz. He's going to a lot of very red states",
+      "summary": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans. This shift suggests Republican leaders see the need to shore up stronger bases rather than focus solely on competitive swing districts.",
+      "why_it_matters": "Trump\u2019s focus on red states reflects changing strategies that influence GOP resource allocation and campaign messaging in critical 2026 midterm contests.",
+      "perspective_one": "Trump and his supporters argue concentrating on red states will energize the base and secure necessary turnout across solid Republican territories.",
+      "perspective_two": "Critics contend neglecting swing districts risks losing key battlegrounds, potentially imperiling Republican control of Congress.",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+      "source": "NPR Politics",
+      "published": "Sat, 17 Oct 2026 05:00:00 -0400",
+      "category": "U.S. Politics",
+      "confidence": "Reported",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F1f%2F3552a24b4dd6a91f762ade8f8f85%2Fgettyimages-2299668230.jpg",
+      "image_credit": "",
+      "image_source": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns. This decision heightens tensions with Ukrainian President Zelensky amid ongoing conflict between Russia and Ukraine.",
+      "why_it_matters": "Waiving these sanctions affects US policy leverage over Russia and complicates international efforts to support Ukraine during its conflict.",
+      "perspective_one": "Trump's administration argues that waiving sanctions is necessary to protect broader national security interests and diplomatic flexibility with Russia.",
+      "perspective_two": "Opponents assert that easing sanctions undermines support for Ukraine and emboldens Russian aggression.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Sat, 17 Oct 2026 11:56:06 GMT",
+      "category": "U.S. News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "image_credit": "",
+      "image_source": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro. Recent data show a record decline in deforestation rates ahead of Brazil's upcoming election, signaling possible shifts in environmental policy.",
+      "why_it_matters": "Reduced deforestation in the Amazon impacts global climate change mitigation efforts and reflects policy consequences related to Brazil's political leadership.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 17 Oct 2026 02:33:09 GMT",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+      "image_credit": "",
+      "image_source": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
+      "summary": "Recent strikes by Israel and the US mark a return to active conflict involving Iran, escalating regional tensions. These military actions have heightened fears of broader conflict in the Middle East.",
+      "why_it_matters": "Renewed war activities involving Iran influence global security dynamics and oil markets, raising risks for international diplomatic relations and energy stability.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
+      "source": "Conflicts & Security",
+      "published": "Sat, 17 Oct 2026 11:49:19 GMT",
+      "category": "Conflicts & Security",
+      "confidence": "Reported",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Coin_%22Diplomacy%22a.png/1280px-Coin_%22Diplomacy%22a.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 \u041d\u0411\u0423, \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0422\u0430\u0440\u0430\u043d, \u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0425\u0430\u0440\u0443\u043a, \u0421\u0435\u0440\u0433\u0456\u0439 \u0425\u0430\u0440\u0443\u043a \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Coin_%22Diplomacy%22a.png",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Iran war live: Oil touches $110 a barrel for first time since May - Arabian Business",
+      "summary": "Oil prices have reached $110 a barrel for the first time since May amid escalating conflict involving Iran. This price surge reflects market concerns over supply disruptions and geopolitical instability.",
+      "why_it_matters": "Rising oil prices due to Middle East tensions affect global energy costs, inflation rates, and economic planning worldwide.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Sat, 17 Oct 2026 01:20:58 GMT",
+      "category": "Middle East Affairs",
+      "confidence": "Reported",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Five_steps_to_destroy_an_empire.jpg/1280px-Five_steps_to_destroy_an_empire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 \u20a1\u0491\u01d8\u0219\u03ef\u03b3 \u018a\u1d8f \u2c69\u1d85\u1e4f\u2c73\u0564 \u00b7 CC0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Five_steps_to_destroy_an_empire.jpg",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "fda proposes restricting compounded alternatives for popular weight loss drugs - Meteo.gr",
+      "summary": "The FDA has proposed new restrictions on compounded alternatives for popular weight loss medications. This move aims to ensure medication safety amid growing demand and concerns about the quality of compounded drugs.",
+      "why_it_matters": "Restricting compounded drug alternatives may affect patient access to affordable weight loss treatments and reshape pharmaceutical compounding practices.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzI5NGM0bW4zYUdRVDRmb293WktnUnNzYUluZnI5TzRMeWRGUUNMTDl1czBsWEVtbUhjbUNfT3V4WVN3VTBzbzhPQVNCbmhIU3R6YWl6VTh3ZGd0VGFQQkdKY3kwREg1dWdzM3ZzTFZNN194a0JPTUNOdHBUX29EUmFFV240Mm0yS2xyZGxwWEhvaDdLLUtaOC1ENVEzUlhvTzFCMXBQcTNOUktJLWlWcTF3?oc=5",
+      "source": "Health & Medicine",
+      "published": "Sat, 17 Oct 2026 06:45:36 GMT",
+      "category": "Health & Medicine",
+      "confidence": "Reported",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Carte_vigilance_meteo_france_27_f%C3%A9vrier_2010_16h00.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 fr:Otourly \u00b7 CC BY-SA 3.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Carte_vigilance_meteo_france_27_f%C3%A9vrier_2010_16h00.png",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Small Galway firms warned of big AI cybercrime threat - Connacht Tribune",
+      "summary": "Small businesses in Galway are being warned about increasing cybercrime threats powered by AI technologies. Experts highlight that these firms face rising risks as AI enables more sophisticated attacks that target limited cybersecurity defenses.",
+      "why_it_matters": "Growing AI-driven cyber threats compel small companies to invest in advanced security measures, impacting operational costs and data protection strategies.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkpqbDIyRXpGS1JHVnJwU3NvNEhLaVhhSHBNMExHQVVubHRBRTV0ZUk2UVpCZkVNS09CVUY0WWNUM0ZJa0Yzb25DQ0hZZXFYcjVmeEg4ZkhmekVtOUFZVUVHWFlPQkU2NldBS08zZDlWWW93VU9zNUk3a0o0eTluMjNMTEFjYXB6cWJfcw?oc=5",
+      "source": "AI & Technology",
+      "published": "Sat, 17 Oct 2026 09:07:00 GMT",
+      "category": "AI & Technology",
+      "confidence": "Reported",
+      "image": "",
+      "image_credit": "",
+      "image_source": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "US inflation complicates Fed policy outlook ahead of midterm elections - CGTN",
+      "summary": "Rising inflation in the US complicates the Federal Reserve's policy decisions ahead of the November midterm elections. Policymakers must balance inflation control with economic growth risks amid uncertain political pressures.",
+      "why_it_matters": "Inflation trends will influence interest rate decisions affecting borrowing costs, markets, and voter sentiment ahead of key congressional races.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1ZOVC1fQ3NFZkl5SlRfcFdjOWFrTEFPN3JxemQ2QWNKaFp1OHVJTzNkWVJId1FiUl9oXzB2UHhkLTFhY1VEMldnb0xoY3JLby16bTZqWlJ1MGpVbnVWLUU0QUg1SnFvbGthdEVFTjhieS1yT2ZqZ3Q3cnNNR3NHSkxVZWJzUnJUcmhSQ3dTRnlwaE5UMENmbXduR1FnaFo3MWJLWkhQckRmcWFfZ21mTG91OVh4Z0lxVWdZMkpGcDItYXFqc0E?oc=5",
+      "source": "Business & Economy",
+      "published": "Sat, 17 Oct 2026 06:28:50 GMT",
+      "category": "Business & Economy",
+      "confidence": "Reported",
+      "image": "",
+      "image_credit": "",
+      "image_source": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "2026 MLB Playoff Schedule: Dates, Rounds, World Series - FOX Sports",
+      "summary": "The 2026 MLB playoff schedule has been announced, detailing games, rounds, and the World Series timeline. This structure sets the calendar for baseball's post-season competition and fan engagement.",
+      "why_it_matters": "The schedule guides team preparations, broadcast planning, and fan attendance for one of the nation's major sports events.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmswcXV1UjhvYWlSaGlvTWN1NTU3U25fbFplMEZBRkVlTUNnenZ6QkV6dUY4YlF1aVhxRGpYYl9IYmJ1M1VLT0k4VDNybXlGUnRuc1Z1N1JDS0F2NWhJLWZIazNQS3Z2TWpCckFaaTlhcnlGcXZfTURlZ2xDaUlmWUJMUnl2bXBWdmVJNGxIRQ?oc=5",
+      "source": "Braves Playoff Race",
+      "published": "Sat, 17 Oct 2026 03:26:00 GMT",
+      "category": "Sports",
+      "confidence": "Reported",
+      "image": "",
+      "image_credit": "",
+      "image_source": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Teen Triathlete Raises More Than $30,000 to Donate Bikes and Riding Lessons to Low-Income Families",
+      "summary": "Jonathan Thai, a teen triathlete and founder of Pedal Forward Foundation in Georgia, raised over $30,000 to donate bikes and provide riding lessons to low-income families. His initiative fills the gap left by a community bike workshop closure, empowering hundreds of children with mobility and recreation.",
+      "why_it_matters": "This grassroots effort improves health and social equity by increasing access to bicycles and cycling skills among underserved communities.",
+      "url": "https://www.goodnewsnetwork.org/teen-triathlete-raises-more-than-30000-to-donate-bikes-and-riding-lessons-to-low-income-families/",
+      "source": "Good News Network",
+      "published": "Wed, 14 Oct 2026 18:30:16 +0000",
+      "category": "Good News",
+      "confidence": "Reported",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jonathan-Thai-credit-screengrab-via-Pedal-Forward.jpg",
+      "image_credit": "",
+      "image_source": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Opinion: A four-step plan to rein in the Supreme Court - The Salt Lake Tribune",
+      "summary": "An opinion piece proposes a four-step plan to limit the powers of the Supreme Court. The approach addresses perceived judicial overreach and suggests reforms to restore balance among branches of government.",
+      "why_it_matters": "Implementing such reforms could dramatically reshape the judiciary\u2019s role in American law and politics, affecting future court decisions and constitutional interpretation.",
+      "perspective_one": "Proponents believe reining in the court is essential to prevent politicization and maintain democratic accountability.",
+      "perspective_two": "Opponents argue that such measures threaten judicial independence and risk undermining constitutional protections.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkVUbldfV0pNdHQwX1JIVVF5cjRPejM4eFNxVzBkc2RzbFlfLUsycldFNndTdlZ5T0wtd2JZU3JFZ21DTGlPZWtTN1JWZHNCMjhFelZwZE9SRFlHTzdMa09xdXhQRjVGWDNjTzdsc3FfOElXOHZfMm1saDZoSzRaTTczR2pEenZM?oc=5",
+      "source": "U.S. Politics",
+      "published": "Sat, 17 Oct 2026 12:04:33 GMT",
+      "category": "U.S. Politics",
+      "confidence": "Reported",
+      "image": "",
+      "image_credit": "",
+      "image_source": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Corporate donations flood US attorneys-general election races - Financial Times",
+      "summary": "Corporate donations have surged in US attorneys-general election races, intensifying competition and raising concerns about influence. This influx may affect priorities and policies of law enforcement leadership at the state level.",
+      "why_it_matters": "Increased corporate funding could shift the focus of attorneys-general toward business-aligned interests, impacting justice administration and regulatory enforcement.",
+      "perspective_one": "Supporters claim corporate contributions enable necessary campaign resources and voter engagement.",
+      "perspective_two": "Critics warn that such donations erode impartiality and create potential conflicts of interest in law enforcement.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUFNhVi1lX2szMEF4MkpNTGlDMlYyM21ETGVSZTRUemI4WEpYOU5abWNYZVYtWUZXV0dqZnBvS0lHdWFUWi1FcmR0UEdhd0tLYk5vUmpYd3gtcU1fOU5reGFrQUZNcmFqZHBsNndFWVVpYldDaUhDNmZ2Sm8wZVVobmEwWVk?oc=5",
+      "source": "U.S. Politics",
+      "published": "Sat, 17 Oct 2026 10:00:02 GMT",
+      "category": "U.S. Politics",
+      "confidence": "Reported",
+      "image": "",
+      "image_credit": "",
+      "image_source": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "What we learned from heated US midterm Senate debates",
+      "summary": "As November's 3rd election nears, key themes emerge from intense US Senate debates, highlighting sharp partisan divides on voting rights, inflation, and health care. These discussions illuminate voter concerns and partisan strategies in critical battleground states.",
+      "why_it_matters": "The debates provide insight into electoral dynamics that will shape Senate control and legislative agendas.",
+      "perspective_one": "Democrats emphasize protecting voting rights and expanding access to health care as central campaign issues.",
+      "perspective_two": "Republicans focus on inflation control, crime, and election integrity to mobilize their base.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Fri, 16 Oct 2026 19:09:37 GMT",
+      "category": "U.S. News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7468/live/37bdc2e0-c991-11f1-adc3-01d8629f0470.jpg",
+      "image_credit": "",
+      "image_source": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest - CNBC",
+      "summary": "President Trump has waived extensive new Russia sanctions and tariffs enacted under the Graham Act, invoking national interest. This move affects recent Congressional efforts to tighten economic pressure on Moscow amid geopolitical tensions.",
+      "why_it_matters": "The waiver alters the US stance on Russia, potentially impacting diplomatic leverage in ongoing international conflicts and policy coherence.",
+      "perspective_one": "Trump\u2019s administration argues that waivers are strategic tools to balance geopolitical priorities and economic stability.",
+      "perspective_two": "Critics contend that waiving sanctions undermines efforts to hold Russia accountable and risks emboldening hostile actions.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGhWanJQQmg3UlEwNlI3MDRGLWRxV2NyQ0dyOXRScjhQYllENXdEZWVjM2xwYjdlR2pqNGh2b1VVZ2FLbXA2d24tZjRBWUtFd0pqYi1XUndMWWVTSkFnNkdfV25zZzJnY01kcVZ2UUR5RDd4eDNfYk5sdE9sQllPTGQxRWpJU1NrbnppeW1xVWF6cUd5UUtNbGhmQmdkYldJU0J2dzBickprdTDSAbABQVVfeXFMTkFwd09KUmJOQjVPYzl3V2M2Z0dKQUt1N29nbDBockdxMzdtMWNjQkFiRkMxT1Nta0kydzgyN2R3VVo1Rm1MOE55WVo0Q01JT1lfVktNcFFpVUwzeGkwV2taZDlSclRVdGtvU3RkRDliNVhfRk1lTjQ0ajJHSkpwNFhqUV9tSUxwRmJOeWo4ME9ndHYxZVZ2dW5xd2RJWm53S21tTDhuZE5mWVRTQVIwSTU?oc=5",
+      "source": "USA Today U.S.",
+      "published": "Sat, 17 Oct 2026 06:16:20 GMT",
+      "category": "U.S. News",
+      "confidence": "Reported",
+      "image": "",
+      "image_credit": "",
+      "image_source": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "summary": "The BBC documents Ukraine's Operation Vivaldi as Kyiv regains key territory in the Donbas, supported significantly by Starlink satellite communications. However, diplomatic optimism is dampened by worsening ties with President Trump, complicating foreign assistance.",
+      "why_it_matters": "Persistent offensive gains aided by advanced technology highlight shifts in military capabilities and war dynamics in Eastern Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
+      "image_credit": "",
+      "image_source": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    },
+    {
+      "headline": "Fed chair Warsh says price stability is key but shies away from signals about rates - AP News",
+      "summary": "Federal Reserve Chair Warsh emphasizes price stability as his primary goal but does not provide clear guidance on future interest rate changes. This cautious messaging reflects ongoing economic uncertainties and competing policy pressures.",
+      "why_it_matters": "Warsh's stance shapes market expectations and influences economic behavior amid inflation concerns and evolving Federal Reserve policies.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUdoZ1dEUV9yMWY2UHVhSmtrdWRyeUYxUDlWRTN1b2EwbGVtSUJZM1lVTnAyMEJybzBnM1hMdU5iZV9Ta3pvXzkzcXk1dGRlcWoycGJzVktfc25UNmM4SEhSZWVQdUw2ekw0RU5kRUNSendlWElacnlvQm43R3d4MnlTZzFZNE8xTjRuN0l3QXg?oc=5",
+      "source": "Associated Press World",
+      "published": "Fri, 16 Oct 2026 12:20:00 GMT",
+      "category": "World News",
+      "confidence": "Reported",
+      "image": "",
+      "image_credit": "",
+      "image_source": "",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": ""
+    }
+  ],
+  "more_stories": {
+    "U.S. Politics": [
+      {
+        "headline": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5",
+        "source": "USA Today Politics",
+        "summary": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "headline": "DMK seeks CEC Gyanesh Kumar\u2019s removal, rules out joint protests with Congress - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNank4VmFpY0d5OEg4MTBVZ25STHNfdzlTejZadXNUM3R4ZkNTektnWmtjOEtUX3d0aUxqOF9oZnBWRFBaMXM5WU95R2xBNl9oOGp6UXJrSlVwTWUtSFU1b2RwZkxGZjVZYl9RS2NYS1ctX01RVjVJTlJPbzJqanI0R0FQaXl3aTBEOWtqWFoyRG51T2ZkdnlOTU9rZy13THFBYjdmWnlDZEJNT0xkZTh2OTRBUGdwUmw5X1ZzWUpmNk5WdllyM0FHX3BCWDFuVjBYU25RMTlvS1Y1Sl9h0gHiAUFVX3lxTE0zUERteGo4SW9Uak5MZWpRUDVkbS1xNzRDZF9jdnVQVGdrNmRNZmZ1Rl9jSnRxZV8zbmwtRDZibVhRNUpCSU1hZUZ5TkYzWUg3NHhpbXkyOGRnTEMzOC1RcFFWN0Q5QUNzNllrZUtYbkVpWk45Q2wtWVRvZ1V2aWdQa09CR2NOdzNWWFZvSmVqTWZSZUNEbjc2bURqVDdXNUNvSmFBUjBNU1RkT01mdEtrQmtRSVhhZW9DTmZqREM1d3lDV2EwZktRMTN1Vk42aExSX3dlVURjeXpXVXR5Rk9uUUE?oc=5",
+        "source": "U.S. Politics",
+        "summary": "DMK seeks CEC Gyanesh Kumar\u2019s removal, rules out joint protests with Congress The Times of India"
+      },
+      {
+        "headline": "Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california",
+        "source": "NPR Politics",
+        "summary": "We look at where things are in the deal President Trump says he made to import Russian diesel, plus the reason why the Justice Department is suing California."
+      }
+    ],
+    "U.S. News": [
+      {
+        "headline": "Where the US midterm elections will be won and lost",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
+      },
+      {
+        "headline": "'Handshake agreement' with ESPN brings college football closer to a 24-team playoff, AP source says - WBOC TV",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQmZCeDRoN2tHanZiNUx2cVhWWkh1RTFQSXU4azA1ZFRRUzVLRlZJZUczQjBZMlRVcGVnanFsNGVTb2llNm5ZdlhtN2xwNHFJM2pEV3ViZnFhQ2NmQm1iS2tROHRqZ29sT19BQkIzLWstZXVSeENVYS1FRk5VZlNhZjdUb2pMUU9lNTNlUEs2SGNfQnFDdHUzWGIyanFtWUlXV1lHWFhycDNSMFNHRDBQdjE3Z0VHMlRkcmpiZ0hyTmJKLUJ5MW9CRldXM0Y0elRTRF9RUXd4aTdUaFRfbWszUGU0am1EdnVtMl82QzBmNmtpdlNwTWE4d2JSU2hKWVFBbE1LZVp4SmstQQ?oc=5",
+        "source": "Associated Press U.S.",
+        "summary": "'Handshake agreement' with ESPN brings college football closer to a 24-team playoff, AP source says WBOC TV"
+      },
+      {
+        "headline": "Illinois congressman says he was at Hindu temple during attempted shooting - Fresno Bee",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mQS1SVUtSSTl4cGp2dTZMWjJxcEtqZTROdjFTZm5kaFVuVkFSS1JMdHYzQmg1czlSMjE0SUNWS0JDczBiRi00WjJwcXotbWtIQlh2d3NnSjlEOGIwZURpSDRjLWhpNXRkRWN3OWw3djhUaXlVRlo0a0RkZTdWems?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "Illinois congressman says he was at Hindu temple during attempted shooting Fresno Bee"
+      }
+    ],
+    "World News": [
+      {
+        "headline": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+        "url": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
+        "source": "NPR World",
+        "summary": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations."
+      },
+      {
+        "headline": "Pope to be discharged days after lung cancer surgery",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
+      },
+      {
+        "headline": "Nursery owner in China jailed for life after hundreds of children poisoned",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing."
+      }
+    ],
+    "Conflicts & Security": [
+      {
+        "headline": "On Our Radar - International Crisis Group",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TTTkyVGppeko1WEFvMmEzamUxWU9rVzBaOEh6MklzRUhjRUVaWkJidHEweHFXTDcyT2dERWt4ZDV6bG9hSVdvVWtrTXpLcVRqZjhBVUVNZ2hqdkct?oc=5",
+        "source": "Conflicts & Security",
+        "summary": "On Our Radar International Crisis Group"
+      }
+    ],
+    "Middle East Affairs": [
+      {
+        "headline": "Yemen\u2019s Houthi war threatens ancient heritage and fuels fears of antiquities trafficking - Arab News PK",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN2xFejBZclFyT2g4RGRGZzlsZFUtVUpDSkpuSnduWkJEdnhoamdaSUlDM1docU13VE1nQjZlZ2tYbUxXcXhxZUpvVDF6Xzc0emx4ZkFXU203MGdFMEFwX1JpaklEX0ZuN1Zrbm9uN3BlbmFUbDNIU2M5WUlYeUpYVlJrOXVsOWV1V2R4MTZRX1RjbWttQlR3aTdTNHVzanFuNmx4SHNfOHJJa08tRUZXVUhQcXQtS2tzRVEtbDJKTEgtRlZNc3A4ZzlYWQ?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Yemen\u2019s Houthi war threatens ancient heritage and fuels fears of antiquities trafficking Arab News PK"
+      },
+      {
+        "headline": "Houthis strike Saudi Arabia, Abbas cancels Palestine elections, and trouble in the Horn of Africa - The New Arab",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXNvS2ZFSFQtWjV2UDdmUmNtdHhZRUY2ZGM5NGVVZHk3bnhXQjdPU0t2QkhIMGJ6V0Y0SGZJRXBNaTF2ZWZFdEJ1OGQyMzRRbzBxLXdxSEUzR2M2TXd0RlVqTklqOVI3SGd2YUswQm9VQV9mVmtLdlhDTmJWTXlURWE5XzZqTmRnckRRMW9tbUNDaC1wTEdBMlhXaWpreDQzdFN2WmRsanM3LUo5dFZibFljdkZ1Zw?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Houthis strike Saudi Arabia, Abbas cancels Palestine elections, and trouble in the Horn of Africa The New Arab"
+      },
+      {
+        "headline": "Iraq says lost $60bn as Mideast war hits oil exports - Arab News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb01wWkg2SklVMkQxQVA0VlZYQVVOTmRtNUZLMWUxdWxBQXlHQ1dRUVN4OHRWZ19NUXU2cmxoS3VpY091ckJybnkzWmtLWkUwd1l6dXNpSGQ5QW9HWEMxNlZfTnAtUEh2QmFWSmFTVm5jcF8xWDVwa0tTNGE1aUtjZGw1OTdUandVWERDYlVuVjZtTnV4c0p0RzhQX2M?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Iraq says lost $60bn as Mideast war hits oil exports Arab News"
+      }
+    ],
+    "Health & Medicine": [
+      {
+        "headline": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+        "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
+        "source": "STAT Health & Medicine",
+        "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab."
+      },
+      {
+        "headline": "FDA withdraws publication of COVID, shingles vaccine research findings - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1luU2MyUEU1d2VpSnlVOTZRQnhDMWFja0Y0NF9VRFdlYndqWXFIYzQ2QUdYUWNXdzlwQm11XzhLX0oxOFlXQnNrSVMtdGVHTTd1dFJXaXZnYVk2NTc4czc5ZklLNjlOb2psUmtHQzFLUFBfS2JoemxRN245ak4ySzZzbjdkVlpBLVJwUU9GaFktR3ZmbFd1V0tUTG5FbXJ1M3RROWk1Y29QMVl6ZUlV0gG0AUFVX3lxTE40TlpfeHNocXlRYXBEX3l4WHpUc0JNdFF6Yzdod2pCMmhSMFBPcU9rbkNQYUxhN1h3UlVFbWZiMENLaV9TR2RPalNndzhFSnh4THNuUU83d3dIZDFGT2pBcFVkbTlUTDRJLXlpbF9PYndXUTlMZUt6VXlwb050WjZ4TUZGb0hIdGc4MlRHM2NrUU1aSDZwRk5QLXBIb0ZRLTJuNmRtV3BNUjRBQ3pnM3E4RFAwLQ?oc=5",
+        "source": "Health & Medicine",
+        "summary": "FDA withdraws publication of COVID, shingles vaccine research findings ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "headline": "STAT+: RevMed\u2019s pancreatic cancer drug nears European approval",
+        "url": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
+        "source": "STAT Health & Medicine",
+        "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer."
+      }
+    ],
+    "AI & Technology": [
+      {
+        "headline": "UPDATE - Woodward Appoints Paxton McVoy as Chief Information Officer - The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmE3LU9CeTR6YmktVmxocmphRUFrbkF2MlptLWR5LV9EeV80TkM2RFVqenE2YVNXZU5ib0ZWdndEYWJVMkVqR043SWNvaE1pQjVKT1NvWlJpaHFCU0dGNVBaMmhkajNzc1F4MklrelVXRHA0QUxHdDB2TnRWaXBUdEd1Wi1oRWpKS2pZMHRIcnhHTngzci02ZG9HMmtmbm5wUkw4UjVKc2xoUFgtREJGU0xaY1BIY01QYkRCbTFBNDN4UF9OM3Bwa2ZaMnpHWXp1UDNIMjM0SdIB3AFBVV95cUxOLV94RkdFVTVmSkhFdktJYV9jYkhFcjBiWV9VWngwMkFwR1BCVTBzWnBfU181czU2WXlOa2RaVG9VdTZxNjJIU215aGk5Ml8zVGNaMjRmQVRPVHNtMHJRVnR3N2EwMDRVTWhaTngtY2Eza09Xc09NNmthVTNuQUhEZlZIcS00MkllY1BBRktBNDdscUE1NDdZTC1jU0xNR2RVWklaa0VVRldIV0FMeTJvTVFGOXI5WDJrbGJDZ0JqbURUMjlCb2N2NXRkaVVzRE9TektnRUJ0WDR1X0U1?oc=5",
+        "source": "AI & Technology",
+        "summary": "UPDATE - Woodward Appoints Paxton McVoy as Chief Information Officer The Manila Times"
+      },
+      {
+        "headline": "'Cert-In alert on AI agents an early warning, no major financial loss' - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ1JaU3Yyd3BsVXVCQmhWSmdpX1E2d09pWFJIb1FFdk1XUlg5Vi1Udkt0WmdRYkF6UTdLalEtMTYyVVRNNC16S3JicEc2enpsVDVvOXg3MWUzdmlJanBrNDFvSTNyb0tFdENFcWhQQmhKWWRzQmtkallaVjFBZXFuOFBUZG54NWNRUm5rMlMtaWY1LTBQSjZaVW9rMzVGSERMOHRPQlRaME1wWDRLMi0waW9NeS1YR2dYYUlOOV96QWZyWV92Rm1vR1YxN1BJRnlZdUFVOUQwRlphcjJPTlhvOURudjF3QnFzYS10VWlzZHdSd9IB8gFBVV95cUxNZ1JaU3Yyd3BsVXVCQmhWSmdpX1E2d09pWFJIb1FFdk1XUlg5Vi1Udkt0WmdRYkF6UTdLalEtMTYyVVRNNC16S3JicEc2enpsVDVvOXg3MWUzdmlJanBrNDFvSTNyb0tFdENFcWhQQmhKWWRzQmtkallaVjFBZXFuOFBUZG54NWNRUm5rMlMtaWY1LTBQSjZaVW9rMzVGSERMOHRPQlRaME1wWDRLMi0waW9NeS1YR2dYYUlOOV96QWZyWV92Rm1vR1YxN1BJRnlZdUFVOUQwRlphcjJPTlhvOURudjF3QnFzYS10VWlzZHdSdw?oc=5",
+        "source": "AI & Technology",
+        "summary": "'Cert-In alert on AI agents an early warning, no major financial loss' Business Standard"
+      },
+      {
+        "headline": "Advantech Partners with DEKRA to Target Edge AI Cybersecurity Compliance Opportunities - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94VlNfMlltNmNlcjVpM043SW13MmVSQm1uRG9Ld0U5cXpleVR0U2dzSEtGRWJTSTZTaF9Gcmk2T194Z0k3V1lIdzg1UkVvcE5WVnlhbjl5YkxrNXY1QWJZeHlaNDFGZnFMT3ROZEIyR1prX1AxUGc?oc=5",
+        "source": "AI & Technology",
+        "summary": "Advantech Partners with DEKRA to Target Edge AI Cybersecurity Compliance Opportunities BigGo Finance"
+      }
+    ],
+    "Business & Economy": [
+      {
+        "headline": "Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Rk9VSzVNVHNBSmk1b3BzMTQyemFQdHNiSWVQYU1uVVJ1cEd4Y1lJTVlqZUU2TVNkb2drcEg5X1FxN2E1RWdKMjN6QmZwOTR4U0ZGay1yNXBxa1BaemN2ZXh3QkQ5UlV3MnFDSVBLS2k3REJqelluUnNB?oc=5",
+        "source": "Business & Economy",
+        "summary": "Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy The New York Times"
+      },
+      {
+        "headline": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
+        "source": "Business & Economy",
+        "summary": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "headline": "Inflation hits Akron families from more than one direction | Opinion - Akron Beacon Journal",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3VsYTl4Wmo3d185MXhydnVXeVd5UmhGT3ZlRWItbTNJcWhoQmxydHlxSXNiWnFvZE5SeWp4THVDNWNxU2cxZ092c2tKYU45ZndFSHdydlFtQTFxZHlHSjdrRlBEWDQ4MEVkOW54STF1aW10ZmVmU2VyTlB5RzBrS1A1d19iczlFMGE2MTBQcmI2OUFqQlp4TEYxWWI5VjAxRFRyMjYzVUhTeHZpbHBoTnFUSzd2bC10el9Nc2FvcUZzV1ZvM3lR?oc=5",
+        "source": "Business & Economy",
+        "summary": "Inflation hits Akron families from more than one direction | Opinion Akron Beacon Journal"
+      }
+    ],
+    "Society & Culture": [],
+    "Sports": [
+      {
+        "headline": "Potential Big Ten championship match takes center stage - New Castle News",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUVyRjAtUG1LY3Z4RTZhcUVERzVrZTdDbFNhOTdsUTM2YVBWeTRhdjR1ZkEyVHdXVVJ2V2g4M1lvd2VLNUVrNjdxb3Z5Z1pBVDZRb3d4bUdaR19uM041S3RyNVRjSm5HLVp0TXhhSjJhTlZ2aVhHREVYVnIyVjZVMjJkM1FYVDRiTjcyb1JNWUJZVVVkTkJ2NlBxUHVlN1R2N1Jwd19SOFF2SzhRUi1DLVg2Y2dfYVFuU0pfYjFfUTU1cG4yMWZhLW5LV2ZqcmIzYmJEYjRvbmd6VE9ITzhwTg?oc=5",
+        "source": "College Sports",
+        "summary": "Potential Big Ten championship match takes center stage New Castle News"
+      },
+      {
+        "headline": "MLB Playoffs Picture 2026 ; MLB Standings ; MLB Wild Card Standings ; MLB Standings Today ; AL ; NL Vladimir Putin Fake Street Encounter (XBYWvtLORM) - Unisba Media",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXJlXzNxaVBOMHFnREt5ODJVT1VLLXZ1YURyM093XzMzNk4xdXplM1YtWVdjWmZYRTF3SmhlRWdLLTktNTNKUHFxb3F5c3c2amxicUhFM2swZjNZM3ZhZkhvSy1rQXZGRUNOVnpoaWp5bXE2SW94VGxITlQ3Um5vYXYtRnV3U2c?oc=5",
+        "source": "Braves Playoff Race",
+        "summary": "MLB Playoffs Picture 2026 ; MLB Standings ; MLB Wild Card Standings ; MLB Standings Today ; AL ; NL Vladimir Putin Fake Street Encounter (XBYWvtLORM) Unisba Media"
+      },
+      {
+        "headline": "The College Football Playoff is sacrificing its soul to be an ATM for conferences with expansion to 24 teams | OutKick - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmF2cGg4NHd6MEZ4WWZRcDg3S3VXM2pmb1VRQ0l3cjhtVW9BX1FRbDNFNjdJekN4OGxSOGZPMHh0bEp2ZW15Z2Y2amRxLWtuNG03UmFfamRHMktDQk10OEJGdTYzLTliNkdYRlFNeGhPNzY1M3pJZGJSVUpTT2FYYmZNU2x5eUNNT0JDM3BHN0dhczVESEdlRi1La196MFRxSU9LbEt6clBUX2RoS0lpeFFPZzFnZw?oc=5",
+        "source": "College Sports",
+        "summary": "The College Football Playoff is sacrificing its soul to be an ATM for conferences with expansion to 24 teams | OutKick Fox News"
+      }
+    ],
+    "Good News": [
+      {
+        "headline": "Scientists Shocked to Discover \u2018D-rex\u2019, a Giant Fungus from Chinese Forests Dating Back 65 Million Years",
+        "url": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
+        "source": "Good News Network",
+        "summary": "Deep in the forests of southwest China, scientists have discovered a \u2018fungal giant\u2019 that challenges our understanding of how large fungi can become. The newly described species, Dianjunus rex, or \u201cKing of Dian,\u201d named for an ancient Chinese kingdom, produces vertical fruiting bodies up to 20 inches high and weighing up to 5 pounds. Scientists [\u2026] The post Scientists Shocked to Discover \u2018D-rex\u2019, a Giant Fungus from Chinese Forests Dating Back 65 Million Years appeared first on Good News Network ."
+      },
+      {
+        "headline": "Italian Bio-methane Plant Comes Online, Providing Renewable Gas to Over 3,000 Homes",
+        "url": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
+        "source": "Good News Network",
+        "summary": "A European energy developer has switched on a major biomethane plant in southern Italy that will save some 9,000 tons of CO2 annually by producing a natural gas substitute with agricultural waste. Located in Grottole, in the \u2018instep\u2019 of the Italian Peninsula, the plant will ultimately produce 45 gigawatt-hours of renewable energy a year for [\u2026] The post Italian Bio-methane Plant Comes Online, Providing Renewable Gas to Over 3,000 Homes appeared first on Good News Network ."
+      },
+      {
+        "headline": "An Extinct Crocodilian\u2019s Skull Was Found in the Rocks That Built the Sphinx, and it\u2019s Also Missing its Nose",
+        "url": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
+        "source": "Good News Network",
+        "summary": "A new crocodilian species has been identified from fossils recovered from a rock layer harvested by ancient Egyptians to build the Sphinx And funnily enough, just like the iconic Egyptian landmark, this fossilized reptile is missing the tip of its snout. In the 1920s, several fossils were recovered from the 45-million-year-old Mokattam Formation in Egypt. [\u2026] The post An Extinct Crocodilian\u2019s Skull Was Found in the Rocks That Built the Sphinx, and it\u2019s Also Missing its Nose appeared first on Good News Network ."
+      }
+    ]
+  }
+}
