@@ -1,259 +1,227 @@
 {
-  "generated_at": "2026-10-17T18:12:13.752488-04:00",
+  "generated_at": "2026-10-17T18:55:07.275204-04:00",
   "edition": "PM",
   "stories": [
     {
-      "headline": "Trump promised a swing district blitz. He's going to a lot of very red states",
-      "summary": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans. This shift suggests that Republicans may need to shore up support beyond their traditional strongholds to maintain influence in Congress.",
-      "why_it_matters": "Trump's focus on safely Republican states indicates a strategic adjustment that could impact Republican chances in competitive swing districts, affecting Congressional balance of power.",
-      "perspective_one": "Supporters argue Trump\u2019s visits to red states aim to energize the base and prevent complacency in key Republican territories crucial for midterm victories.",
-      "perspective_two": "Critics contend that ignoring competitive swing districts risks losing the House or Senate majority by failing to address more moderate or undecided voters.",
+      "headline": "Tens of Thousands Mobilize at U.S. Polls 17 Days Before a High-Stakes Midterm Election - inkl",
+      "summary": "Tens of thousands of voters have cast ballots early in the U.S. 2026 midterm elections, occurring 17 days before election day. This surge in early voting signals heightened public engagement and could influence turnout and election outcomes amid intense political competition.",
+      "why_it_matters": "Early voter mobilization can shape final election results by affecting turnout dynamics, campaign strategies, and the political balance in Congress.",
+      "perspective_one": "Advocates of early voting argue it increases accessibility, allowing more citizens to participate without scheduling conflicts or intimidation at polling places.",
+      "perspective_two": "Critics contend that early voting may increase administrative burdens and potential for voter fraud, undermining election integrity.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
-      "source": "NPR Politics",
-      "published": "Sat, 17 Oct 2026 05:00:00 -0400",
-      "category": "U.S. Politics",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F1f%2F3552a24b4dd6a91f762ade8f8f85%2Fgettyimages-2299668230.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns. This waiver comes amid escalating tensions between Trump and Ukrainian President Zelensky, complicating US support for Ukraine against Russia's aggression.",
-      "why_it_matters": "Waiving Russia sanctions alters US pressure on Moscow, potentially undermining Congressional efforts to sanction Russia and affecting the dynamics of the Ukraine conflict.",
-      "perspective_one": "Trump and allies claim the waiver protects US strategic interests by preserving diplomatic flexibility and avoiding unintended harm to national security.",
-      "perspective_two": "Opponents argue this move weakens US resolve against Russian aggression, emboldening Moscow and betraying Ukraine during its defense.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sat, 17 Oct 2026 19:19:19 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details, raising questions about US commitments.",
-      "why_it_matters": "Zelenskyy's appeal highlights the urgency within Ukraine for sustained US sanctions to deter Russian military action and support Kyiv\u2019s defense efforts.",
-      "perspective_one": "Zelenskyy and supporters see the sanctions pause as a risky concession that could prolong the conflict by weakening deterrence against Russia.",
-      "perspective_two": "Trump\u2019s administration insists the hold protects broader US interests, including avoiding escalation and preserving future negotiation options.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-      "source": "NPR World",
-      "published": "Sat, 17 Oct 2026 10:25:10 -0400",
-      "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2F96%2Fd6b29b774dbcbbb820e6e569974b%2Fap26290438386008.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Palestinian factions agree in Cairo on a national dialogue conference; Fatah hints at bringing forward the election date - Arab News",
-      "summary": "Palestinian factions have agreed in Cairo on holding a national dialogue conference, and Fatah suggests advancing the timing of upcoming elections. This agreement aims to enhance Palestinian political unity and address internal divisions amid ongoing regional tensions.",
-      "why_it_matters": "Improving intra-Palestinian dialogue and potentially advancing elections could impact regional stability and the prospects for peace negotiations with Israel.",
-      "perspective_one": "Fatah views early elections as a way to solidify its political legitimacy and respond to public demands for change.",
-      "perspective_two": "Other factions may fear rushed elections could disadvantage their positions or deepen existing intergroup rivalries.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaE5XckRfNGM3aTJCMFNyRUlySWFKT0lXUC0zWFhibk1kb0cyTFVWWGdoMkkzNVR4T29rckJQY2ZndDU0YU1FS18zMmEwMXZyOEM5XzM0cWJYOUZCT3h4Smp4YS1hR0ZxTzZZbkE5UFpnQU9Sd2ZUTDFUUURfTmhrZFlkTmJTUWI2bWlrQkZZc2dVSXd0QXVEbXhwUFV4SnZYeWl5WERNdGVfMjhYUkxyRTRBLUtzcWtUTWlVQWJVR2hWdDlIYWhFY2VZc0pteHEwb0RwdnJaNU93SjA3S1lJZjJnalJ2SjFZak5SOGVHX2xKMTF0NzVj?oc=5",
-      "source": "Arab News Middle East",
-      "published": "Sat, 17 Oct 2026 07:23:52 GMT",
-      "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "fda recent review glp-1 weight loss drugs prescribing patterns 2026 - Meteo.gr",
-      "summary": "The FDA recently reviewed prescribing patterns of GLP-1 weight loss drugs, noting trends in usage during 2026. This review informs regulatory oversight and helps assess these drugs\u2019 role in obesity treatment and public health.",
-      "why_it_matters": "Understanding prescribing trends helps guide FDA policies to ensure safe, effective weight loss drug use and addresses population health impacts of obesity interventions.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjlhcTZra2tRRWY4eWw0RTZLRm0zUDRXWWE5b1ppeGhFWGFNZ0ZyVFJWeUFQaDAta2k4YkVaM2s3VTQydVU1djlTWlhYTHBRdXQxbHVybTBNcFQwRW1BeEpjTWU0dXV6NW9OdFhXQUdVZWkxcTRMTnB6LW4tTXpqcFlnbFotTUdNMm5rMXN4TjVVUEp0SjZCZ1VCLU15M3Ywa1QxaXZn?oc=5",
-      "source": "Health & Medicine",
-      "published": "Sat, 17 Oct 2026 20:13:30 GMT",
-      "category": "Health & Medicine",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Carte_vigilance_meteo_france_27_f%C3%A9vrier_2010_16h00.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "image_credit": "Wikimedia Commons \u00b7 fr:Otourly \u00b7 CC BY-SA 3.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:Carte_vigilance_meteo_france_27_f%C3%A9vrier_2010_16h00.png"
-    },
-    {
-      "headline": "Artificial Intelligence Could Boost Productivity, Creating New Opportunities for Bangladesh - The Bangladesh Today",
-      "summary": "Artificial Intelligence advancements are expected to increase productivity in Bangladesh, generating new economic and technological opportunities. These developments could transform industries, expand employment options, and attract investment in the country.",
-      "why_it_matters": "AI-driven growth could accelerate Bangladesh\u2019s economic development and global competitiveness but also require adaptation in workforce skills and policy frameworks.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0YVI0VlF2U1RPazhmT0tGLTBJbzVBRVkwTnVUQjdvemtVMjZwdVFqLTZsU3JPbWgtdEY2S05SMG1GMG4tNnZhWVJ1YlhKV2hlMnRmWWlqRmZpQmN0aS1yeHlsbElfRjVxR3c?oc=5",
-      "source": "AI & Technology",
-      "published": "Sat, 17 Oct 2026 18:34:48 GMT",
-      "category": "AI & Technology",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "President Donald Trump Claims Gasoline Prices Will \"Drop Like a Rock\" When the Iran War Ends, but He's Completely Missed the Bigger Picture - The Motley Fool",
-      "summary": "President Trump predicts gasoline prices will sharply decline when the Iran conflict ends, but experts argue he overlooks broader market complexities. Factors like global supply chains and geopolitical tensions also significantly influence fuel prices beyond conflict resolution.",
-      "why_it_matters": "Accurate understanding of oil market dynamics is crucial for energy policy and economic planning, since oversimplified predictions can mislead public expectations and policy responses.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb1ItYUFpX19VOW9qb0IwWkhiVDhZcGdPUHRtVENBcWxXWDVGZTFxMG9vT2ZIcXdxS1E1eEh1dHc2R2lTM3QxbVJTU0ZKLUtqOURESWE1YWpkZ01iaGhBSWtPNDAtNGVNQ2Q5R3JxbkhwaE8xbTlLMzFuSlJ1SVRlYW5GcENicE13RkNvSEQtdDFQM29ZTk5pc0t3ZVg4bF9qbGRkVl9RRU1tdklWTjRBY2lTX1ZLeXUwWTEzVmFoeHdiS2tETVVMaHZKczNNak9MN0ZtZmFKZw?oc=5",
-      "source": "Business & Economy",
-      "published": "Sat, 17 Oct 2026 09:06:00 GMT",
-      "category": "Business & Economy",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "MLB Standings ; MLB Standings Today ; MLB Playoffs Picture 2026 ; MLB Wild Card Standings ; AL ; NL Eurovision (LBWKjylgjn) - Unisba Media",
-      "summary": "Latest MLB standings track team positions in pursuit of playoff berths for the 2026 season, highlighting wild card races in both the American and National Leagues. These standings shape the competitive landscape entering the season's decisive final games.",
-      "why_it_matters": "Current standings determine which teams advance in the playoffs, influencing fan engagement, team strategies, and MLB\u2019s seasonal narrative.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWcyalNUNG9hV3dfeFdMYWMtM1hpSlRrYlJlYjlja3BKU2hjME1yQko5OWZ4OWV0aWpXQmdQaGVCOXNDX05QdWxpNWZBa1dOYmtvWkY2ZDJCaWJkbFpqeFM3VmNGOUVLZ1FKV2lHX0ZfUGdPSWx1bXYtOTlTcS1yNXRVOVJuNU0?oc=5",
-      "source": "Braves Playoff Race",
-      "published": "Sat, 17 Oct 2026 04:43:53 GMT",
-      "category": "Sports",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Teen Triathlete Raises More Than $30,000 to Donate Bikes and Riding Lessons to Low-Income Families",
-      "summary": "Jonathan Thai, a teen triathlete from Georgia, raised over $30,000 to provide bicycles and riding lessons to low-income families through the Pedal Forward Foundation. This initiative addresses barriers to exercise and mobility after a local community bike workshop closed.",
-      "why_it_matters": "Expanding bicycle access and teaching skills promote physical activity, social equity, and community health among underserved populations.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/teen-triathlete-raises-more-than-30000-to-donate-bikes-and-riding-lessons-to-low-income-families/",
-      "source": "Good News Network",
-      "published": "Wed, 14 Oct 2026 18:30:16 +0000",
-      "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jonathan-Thai-credit-screengrab-via-Pedal-Forward.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen - PBS",
-      "summary": "Trump\u2019s waiver of several Russian sanctions has outraged Congress, which sees it as undermining legislative authority and weakening efforts against Russia. Despite bipartisan anger, no immediate legislative or political countermeasures are expected due to procedural challenges.",
-      "why_it_matters": "This executive action tests the balance of power between Congress and the presidency in foreign policy, influencing how sanctions policy is enforced.",
-      "perspective_one": "Congress members believe Trump's waiver disregards Congressional intent and harms US credibility in deterring Russian aggression.",
-      "perspective_two": "The administration argues the waiver is necessary to protect sensitive national security interests and maintain diplomatic flexibility.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzZONHNudUlsZUZGN1c5dVZtaTRIXzZlVVJDRkpock9WVEExbmNKdl9JLWZhSjQxVHpDLUJ6M3hnNXJIeFJNTWJSWnJQc3duc2VvcDJ0QzRpbzZlZ3lJVnJDQi1hbkY1cF9QbG5vc2ZhNVBacVBBVUhBN3JnamR2b1NjSi02UzZDQXJ0TTFKVmpQUXAtQ0RYSGdQNU9TZ0hkdkNQeXZKUG9hRFFlblpBNTdid1Nzc0UwZi1nd09HRDA1QdIBxwFBVV95cUxQSm94MFV3UHdyM2dGSHBlajNTS2lYLUhtUHlNVkFrdW9XYUhQUDJjaFM3WlByc3pxb3FMWHVwY0xFMUlSWE5EYTZQaENxNEZEUXVVdVcteWFHeU51QjFTVEJsQi03YmhsM2h6NFczZk5MUjN3UWxEd0VaN3YzQ3paa25uUEVNVVM1S3YxN3B3UVpWaGhfcmF0cWRQdFpodVBfV2NZaklHOVRlX285V3RvelEtOVRIN25Ra1lUZk53bEdmTWFwZmIw?oc=5",
-      "source": "USA Today Politics",
-      "published": "Sat, 17 Oct 2026 15:57:10 GMT",
-      "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Tennessee passes new congressional map that splits state's only majority-Black district - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Tennessee has passed a new congressional map splitting the state\u2019s only majority-Black district, altering historic boundaries. This redistricting raises concerns about diminished political representation and voting power for Black communities in the state.",
-      "why_it_matters": "Splitting a majority-Black district could dilute minority voting strength, affecting electoral outcomes and civil rights protections in Tennessee.",
-      "perspective_one": "Proponents argue the map reflects population shifts and legal requirements without intentional disenfranchisement.",
-      "perspective_two": "Opponents view the change as a strategic move to weaken Black voters\u2019 influence and preserve political incumbents.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelJ5TTFfaXFiVUg1Z3p6Q0h0eXdSU3BFTHMzajNGQkdSR3hROG90al83STNkam83X2hBR3R0cnNLaUtTUEZSNzJjN0FuMHFUM2pwdHpzS3hmUXRxemI3VEFkYndERzU1ZXVlUUFycDRBRFNGVEZERzhvZ1VLeE83czN6b3BsNnRqcG0tNmpnYnRZQWxMZ1o5UEJYY2lJcWFQeVU3RzN6R21YdWk1cXfSAbMBQVVfeXFMT0ZwRlYtN0E0OHBoWnFLNG02Qlg4UXUxZU5mZEFFcjRMdDliN0U5aHJHek9Rd25zRE1VQ0VWNlJaRkZlSkJOc3BEZE5xdHlubWRZWE0zVmdPX0kzSmh0NE5QX214eEFYQ1hUZTZDNldQUWdlMFl2N1N1RlFJTWNMR3RJTTdKNU1DNzhDRWl4MFhubDIwc1RmbWZENWw2MXRDUjN4aU1GVXlVcEw2eFZMZVZRRms?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnVxeUtoaXBfdEtLZ29yM3Y1M0RPVWxadEFjeExNSU9ybHM0VEg5aS1vcGJZZHIyVjBROHB6T0hRanZPX0dRVVdTWTA2c1lydFR2ZU9KcG5VODVoUmN3QXlGcmsxdlVvcVdOQmVnVWhuVldiU3RLSjlhcFktRFhMNWFzSjBNaFRjMlJIYUkwUDlsU29iWXYyQkdOSmUwZWZHUUVjN1JlZFIwT0xDd08tQg?oc=5",
       "source": "U.S. Politics",
-      "published": "Sat, 17 Oct 2026 14:16:17 GMT",
+      "published": "Sat, 17 Oct 2026 22:11:24 GMT",
       "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg/1280px-House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 DC Public Library Commons \u00b7 No restrictions",
+      "image_source": "https://commons.wikimedia.org/wiki/File:House_of_Representatives_Chamber_in_the_United_States_Capitol_building,_1868_(27603231870).jpg"
     },
     {
-      "headline": "Iowa's vote in midterms may help determine balance of power in Congress",
-      "summary": "Iowa, usually a reliably Republican state in presidential elections, has several competitive races this midterm election cycle. These contests could be decisive in determining the overall balance of power in Congress after the November elections.",
-      "why_it_matters": "Close races in Iowa highlight its potential as a battleground state that could swing control of the House or Senate, making voter turnout critically important.",
-      "perspective_one": "Republicans seek to maintain traditional dominance in Iowa, emphasizing conservative policies to hold key districts.",
-      "perspective_two": "Democrats aim to capitalize on competitive districts by appealing to moderate voters and addressing local issues to gain seats.",
+      "headline": "President Trump's widening stamp on D.C. landmarks",
+      "summary": "President Trump aims to transform East Potomac Golf Links and other D.C. landmarks, reflecting his expanding influence over the city's historic and recreational properties. This effort signals a shift in management and use of public lands toward his vision and priorities.",
+      "why_it_matters": "Changes to D.C. landmarks affect public access, urban planning, and preservation of the capital\u2019s heritage, with implications for residents and tourism.",
+      "perspective_one": "Supporters argue that Trump's initiatives could revitalize underused spaces and enhance recreational amenities for the community.",
+      "perspective_two": "Opponents worry the changes may prioritize private interests, reduce public access, and threaten historic preservation.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6003962/iowas-vote-in-midterms-may-help-determine-balance-of-power-in-congress",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6001826/president-trumps-widening-stamp-on-d-c-landmarks",
       "source": "NPR U.S.",
-      "published": "Sat, 17 Oct 2026 17:18:51 -0400",
+      "published": "Sat, 17 Oct 2026 17:18:50 -0400",
       "category": "U.S. News",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "US senator accuses Turkey of \u2018thuggish behavior\u2019 toward Greece and Cyprus - Capital Gazette",
-      "summary": "A US senator publicly accused Turkey of aggressive and 'thuggish' actions toward Greece and Cyprus, escalating diplomatic tensions. These remarks reflect growing concern over Turkey\u2019s regional policies and military maneuvers in contested areas.",
-      "why_it_matters": "Heightened criticism from US lawmakers could affect US-Turkey relations and influence diplomatic and military strategies in the Eastern Mediterranean.",
-      "perspective_one": "Critics view Turkey\u2019s actions as destabilizing and violating international norms, threatening regional security and NATO alliance cohesion.",
-      "perspective_two": "Turkey defends its policies as sovereign rights and necessary responses to protect its interests amid regional disputes.",
+      "headline": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "summary": "Satellite images reveal a luxury boat equipped with a 50-meter pool and water slides near North Korean leader Kim Jong Un's summer residence. These opulent amenities contrast sharply with the widespread poverty faced by most North Koreans.",
+      "why_it_matters": "The lavish lifestyle of North Korea's leadership underscores economic disparities and challenges narratives of austerity promoted by the regime.",
+      "perspective_one": "Critics see these displays as evidence of government corruption and inequality, undermining morale and global diplomatic efforts.",
+      "perspective_two": "Supporters argue such luxuries are customary for state leaders and necessary for maintaining regime stability.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWE2ZUpRMERjVl9GbTdhQUFfeGtTM2lZem9fMzJoWkVreGVYTHdrZUp6bHN3bkx2RHpWc3F1X3RsSGJ1TzV0dTVveG52V084TE8wWmxHaGhGeE9faTBQRDRITWdaOUJyMjNydEtwVC02cW1BVy0weGVHeWFvWFBtUkthYk9mSnI0UTE4aUh0bU9mTDdNRl9CRHJIZUxFajhUY0pyd1R2RkVaNnQ5NExrN0ZoMzI?oc=5",
-      "source": "Associated Press U.S.",
-      "published": "Sat, 17 Oct 2026 17:24:33 GMT",
-      "category": "U.S. News",
-      "image": "",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sat, 17 Oct 2026 22:09:50 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Houthis Free 159 Yemen Prisoners as Saudi Strikes Kill Children and Egypt Warns - Latin Times",
-      "summary": "Houthis released 159 prisoners in Yemen amid ongoing conflict, while Saudi airstrikes have killed children, prompting Egypt to issue warnings. This underscores the severe humanitarian toll and complex regional dynamics in Yemen's prolonged war.",
-      "why_it_matters": "The prisoner release could signal attempts at negotiation, but civilian casualties reflect continuing violence that complicates peace efforts and regional stability.",
-      "perspective_one": "Houthis may use releases to gain political leverage and improve international image amid military pressures.",
-      "perspective_two": "Saudi-led coalition justifies airstrikes as targeting militants, though critics condemn the high civilian death toll as unacceptable.",
+      "headline": "UN peacekeeping chief warns of escalation threat, as Lebanon seeks UN buffer after UNIFIL departs - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+      "summary": "The UN peacekeeping chief warned of risks for conflict escalation as Lebanon requests a new UN buffer after UNIFIL's withdrawal. This underscores persistent instability and the need for international mediation in the volatile region.",
+      "why_it_matters": "Without a UN buffer, tensions in Lebanon could escalate rapidly, threatening regional security and humanitarian conditions.",
+      "perspective_one": "Lebanese authorities view a UN buffer as essential to containing violence and maintaining sovereignty.",
+      "perspective_two": "Some UN and regional actors fear protracted peacekeeping could entangle the UN in complex local conflicts, reducing effectiveness.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjliSXRnSXpHMlY3QzlMcmxhemdaamtQZDF6d0FrWW96WmMwUHd1ZFdUdG9TXzhpWWZMR1JKZDhZS3dHa1ZRZTVEYjEyTzRPUnRLeXRWU3YwZjNXUzBHOTJYUjl0ZzlGdnpPREp6NGxVaHByNWp5dkU1UWRxcjNGWWtUUmdGaDRoLWtUUWRXazF5S3BodnBLTEhqeFJobXhhY0ZsOWZhbzRIZw?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sat, 17 Oct 2026 14:05:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaG5wQmtJMkEyUldWTVlhbktPMGlGYkxFNVFSNUZzaHoyRmZuLWliRlpJYzk0VGJhb3hjUnNFc3oxUGN5VTJ0amVWWmNNOVNRYUVHYU5pajNndkFTV3ZycHByUW40TThKNkNrMGFJR0pXMURadkktY1luTm4xUDBsT2pDcWJHcEJ3c1RaLUZoeG9Ba3RTYkMzNkoxSlNDNUhONEVaRDFnY01BR0hSVXZiYzRubUN1YXhobWNERnBPT05aVVRsR3VHV2FjNmtZWWVBcUtNTUFPejJ5YTg?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Sat, 17 Oct 2026 13:26:25 GMT",
       "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Indonesian_BTR-80A_UNIFIL.jpg/1280px-Indonesian_BTR-80A_UNIFIL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 UNIFIL \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Indonesian_BTR-80A_UNIFIL.jpg"
     },
     {
-      "headline": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says - Reuters",
-      "summary": "The Bank of Canada projects significantly higher inflation driven by recent surges in oil prices, according to Governor Macklem. This outlook complicates economic recovery efforts and may prompt adjustments in monetary policy to curb rising prices.",
-      "why_it_matters": "Rising inflation threatens consumer purchasing power and could lead to higher interest rates, impacting borrowing costs and economic growth in Canada.",
-      "perspective_one": "Some economists emphasize the need for cautious monetary tightening to contain inflation without derailing growth.",
-      "perspective_two": "Others warn aggressive rate hikes risk triggering recession and advocate for more gradual policy adjustments.",
+      "headline": "Team-based care model cuts blood pressure in high-risk populations; FDA to convene expert panel on wider access to peptides; Florida nursing assistant sentenced in $11.4M Medicare brace fraud scheme \u2013 Morning Medical Update - Medical Economics",
+      "summary": "A team-based care approach has effectively reduced blood pressure among high-risk groups; the FDA plans an expert panel on expanded peptide access, while a Florida nursing assistant received a sentence for an $11.4 million Medicare fraud. These healthcare developments reflect innovations in care delivery alongside ongoing regulatory and legal challenges.",
+      "why_it_matters": "These issues impact patient health outcomes, drug access policies, and healthcare fraud prevention, with broad consequences for public trust and system costs.",
+      "perspective_one": "Proponents emphasize that integrated care models and expanded peptide access improve treatment effectiveness and patient quality of life.",
+      "perspective_two": "Skeptics are concerned about safety, regulatory oversight, and the potential for fraud within complex healthcare frameworks.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
-      "source": "Reuters Middle East",
-      "published": "Sat, 17 Oct 2026 14:03:43 GMT",
-      "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "fda 2025 draft guidance obesity drugs minimum weight loss percentage - www.polskieradio.pl",
-      "summary": "The FDA\u2019s 2025 draft guidance outlines minimum weight loss percentages required for obesity drugs to gain approval, setting new regulatory standards. This aims to balance drug efficacy with safety to improve treatment outcomes for obesity.",
-      "why_it_matters": "Clear efficacy thresholds influence drug development priorities, impact physician prescribing behavior, and ultimately affect obesity management strategies nationwide.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdE1yYTdicFRWcThuNF9KODhnLU96eEhabmZBeEhFQ0tVRjFic05mN01hS1QwQ01IeUxnQ2NveWtUMXBIMXJMX1pMU3VjZHZSQzZVNk5CVlZsNmxRRWRITzVHd2tDeFJPdHlRUVBoaElycElYQVFBNFktVU1EdDVtOFpkZXlvZW5Ic0thVEVzWWlBd1p2MGJkUGtZTzJsWWRaTUQ3SmFrVmJBS3BtaUNtdFM1WHBmcjBtR3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPVnZvdHlnckszenkycWZ1Y094VENHWi1yQjJ6Q3hULUZyVkN5OFF1RW1wLUZKcGNFZGRuTEJMMU5aZ3hON3RwUW5qWlpXVy1zT1ZhYk9VOXg0bnR0UWFNOWpLNXlhMzN4MzZPdjV6d2w2RGs3bjlXczNKb1E4ZFNwdk1BNXM3S2t0MVVrdmRwZjFQYzdza2MxeVJqNE5RaDM0QjlJTVYySEVwS2ZEVEl6WHQ4T3IwMmdwWFBDRkJPZkozUkw4NmhadVgzdWFuVTZrUWVETGtNakpyc2VEcC1XalR3SG5mRFY5NWhxM3R0QjQwR3JKMUFfS0pxdkx0dllGRkUtN00yYm16aFNGQzdQbk1jbXUxUDROLTZ2ektXSE03TURoVXhrZ0ZxZWZzcDJrR1BlR3UtbUxDZHNndTg3QXdnbjhEaDVfRm9LTDM3SzRtdU81UWhaTHNfQlN6Wl8xaEo5QXprak1rRHFocHpnaE9R?oc=5",
       "source": "Health & Medicine",
-      "published": "Sat, 17 Oct 2026 16:03:28 GMT",
+      "published": "Sat, 17 Oct 2026 17:03:04 GMT",
       "category": "Health & Medicine",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Small Galway firms warned of big AI cybercrime threat - Connacht Tribune",
+      "summary": "Small businesses in Galway are being alerted to significant cybercrime risks driven by advanced AI tools. This evolving threat requires increased cybersecurity vigilance to protect sensitive data and maintain operations.",
+      "why_it_matters": "AI-driven cyber attacks threaten to disrupt local economies by targeting small firms with less robust defenses, potentially causing financial loss and operational harm.",
+      "perspective_one": "Security experts warn businesses must urgently adopt stronger AI-specific defenses to mitigate increasingly sophisticated cyber threats.",
+      "perspective_two": "Some small firm owners feel overwhelmed by cybersecurity demands and question the cost-effectiveness of complex protections.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkpqbDIyRXpGS1JHVnJwU3NvNEhLaVhhSHBNMExHQVVubHRBRTV0ZUk2UVpCZkVNS09CVUY0WWNUM0ZJa0Yzb25DQ0hZZXFYcjVmeEg4ZkhmekVtOUFZVUVHWFlPQkU2NldBS08zZDlWWW93VU9zNUk3a0o0eTluMjNMTEFjYXB6cWJfcw?oc=5",
+      "source": "AI & Technology",
+      "published": "Sat, 17 Oct 2026 09:07:00 GMT",
+      "category": "AI & Technology",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Fed Warsh Sees US Economy Emerging Stronger as AI Investment Fuels Growth and Inflation - Tekedia",
+      "summary": "Former Fed official Warsh observed that AI-driven investments are boosting U.S. economic growth but also contributing to inflation pressures. This dual effect complicates the Federal Reserve's monetary policy decisions in the run-up to midterms.",
+      "why_it_matters": "Understanding AI's impact on economy and inflation is critical for policymakers balancing growth support with inflation control.",
+      "perspective_one": "Proponents argue AI investment represents sustainable growth, warranting accommodative monetary policy.",
+      "perspective_two": "Others caution inflation risks require tightening to prevent economic overheating and asset bubbles.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXo1U2FEMHJDZTlJQkZkejhtdEdwRWhJREhENVdyRTlMWWc0RXJuRGVXNjRaNFlLcVU3SlQtZlFuVjZZYTRLd3lrN1kyVU5nN05LY0h2SGN6UmU3SDYzOFB0ZklDMkNKMDBKaEo4WFY2dTQ4YjZGTTZENnRIeTZYd1d0WkFKZXFxcmJHamtURUN2QU1Ca0RNUmw0VEJPOXpVamxyUUhEQ1J2b1dxTlhtWGRB?oc=5",
+      "source": "Business & Economy",
+      "published": "Sat, 17 Oct 2026 07:53:11 GMT",
+      "category": "Business & Economy",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "WNBA Finals 2026: Valkyries vs. Dream schedule, scores, more - ESPN",
+      "summary": "The 2026 WNBA Finals feature the Golden State Valkyries facing the Atlanta Dream, with schedules and scores closely tracked by fans and analysts. This championship series highlights the growing prominence and competitiveness of women's professional basketball.",
+      "why_it_matters": "The finals influence the sport\u2019s popularity, player marketability, and investment in women's basketball leagues.",
+      "perspective_one": "Fans and advocates see the finals as a platform to elevate women\u2019s sports and inspire younger generations.",
+      "perspective_two": "Critics note ongoing disparities in media coverage and funding compared to men's professional sports.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVdwUUhQRVdtQ2ZyY0dUcUVnQTdwTDZMREJRSE0taDRBZ2FwYnZ3bkN0RTZhZkFnTDlYUTNZV1lOYlZkOHJNNldQLW56TmhUUVB3SUtiUkNTeVVBYndHWTFyTjdVQjVOZTVsZW5sWGNnS3AwS2FKWUVuZl9WRDBxYWRHMFBXaHM3bmxfNUtDY0EtWk5zNlBuV2EyUW9iVXgx?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Sat, 17 Oct 2026 21:54:00 GMT",
+      "category": "Sports",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Pittsburgh Water Launches Debt Forgiveness Program to Help Families with Rising Costs",
+      "summary": "Pittsburgh Water Authority has launched the Arrearage Forgiveness Program, allowing eligible residents to forgive pre-September past-due water bills over 24 months if they pay current bills. This initiative aims to alleviate financial burdens on families facing increased utility costs.",
+      "why_it_matters": "Debt forgiveness helps low-income families maintain essential water services, supporting public health and social equity.",
+      "perspective_one": "Advocates emphasize the program relieves financial stress and prevents water shutoffs for vulnerable populations.",
+      "perspective_two": "Critics worry the program\u2019s cost burden may increase rates for compliant customers and strain utility budgets.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.goodnewsnetwork.org/pittsburgh-water-launches-debt-forgiveness-program-to-help-families-with-rising-costs/",
+      "source": "Good News Network",
+      "published": "Wed, 14 Oct 2026 15:30:44 +0000",
+      "category": "Good News",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/09/erase-debt-CC-Images_of_Money-e1776148421784.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Supreme Court allows Trump to implement parts of his mail-in voting executive order - ABC News - Breaking News, Latest News and Videos",
+      "summary": "The U.S. Supreme Court permitted President Trump to enforce select provisions of his executive order regarding mail-in voting ahead of the 2026 elections. This partial approval shapes the regulatory landscape of voting procedures amid polarized views on election security.",
+      "why_it_matters": "The ruling affects how mail-in ballots are handled nationwide, influencing voter access and trust in electoral processes.",
+      "perspective_one": "Supporters argue the order enhances election security by tightening mail-in voting regulations to prevent fraud.",
+      "perspective_two": "Opponents contend the rules restrict voting rights and disproportionately affect marginalized voters.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUpWVmxZNkVNNGxlamhNRjkteVhjUVJNMXhDQ3Vyc3V3UkdTVEcyeUM0ZnEzTUlJQXRYMUZsNkZ5LTN5Q0VzWDFrVmVFSVlpOFBSaEpwa19qd0Q4SExzankxMEpIQjMxT2k5R0Z3emE0cDFCNng3V3lwVjBQUDg1NNIBhgFBVV95cUxOWGtmd1BpZ1U2QlJOeTZIcXhKMTVTOVFEZDJKcDJPS1NzX2NsOG1RT2w2TkpUMDkwTWY1QzlZcGt4LVlmNV9NZlFVUG04S0Y1U2hUSUdFSk5sUlFId1VsZzlnd1JvOGlWQnY2LThiN1J6cjZDSjdSWHd3elNWS3FpYWJqMXFnUQ?oc=5",
+      "source": "U.S. Politics",
+      "published": "Sat, 17 Oct 2026 13:10:06 GMT",
+      "category": "U.S. Politics",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg/1280px-House_of_Representatives_Chamber_in_the_United_States_Capitol_building%2C_1868_%2827603231870%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 DC Public Library Commons \u00b7 No restrictions",
+      "image_source": "https://commons.wikimedia.org/wiki/File:House_of_Representatives_Chamber_in_the_United_States_Capitol_building,_1868_(27603231870).jpg"
+    },
+    {
+      "headline": "Tunisians stage biggest protest in years against President Saied - Arab News",
+      "summary": "Tunisians have organized their largest protests in years against President Saied, expressing widespread dissatisfaction with his governance. The demonstrations highlight ongoing political instability and public demand for democratic reforms in Tunisia.",
+      "why_it_matters": "The protests could accelerate political change or lead to increased government crackdowns, affecting regional stability and democratic prospects.",
+      "perspective_one": "Protesters see Saied\u2019s leadership as authoritarian, threatening their freedoms and the nation\u2019s democratic foundation.",
+      "perspective_two": "Supporters argue that Saied\u2019s measures are necessary to combat corruption and restore order.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGVoM1dBdEkwVGd1bDRjc2hJQUoxS1RMOHNXU2xkbmd1X1FzdWRNY09ZaXBHQWQxOVc5X3lkWERIU2VlWVQ3dHRWUzNTQm5jTGNJUTQtNGpFVklWN0NRT19SUk4wNDRVUEVJQjVCckQ5cVp1MTRpci1RbmlFeFNQSlBDTHNZZGFWRmxHR2pscEhUREpQN0VhcHRTc1NHYU1taG15X0tnMnJoLVp1a1E?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Sat, 17 Oct 2026 12:26:58 GMT",
+      "category": "Middle East Affairs",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "FDA advisers narrowly vote to add 6 peptides to a drug compounding list. What's next? - ABC News - Breaking News, Latest News and Videos",
+      "summary": "FDA advisory panel narrowly voted to include six peptides on the allowable drug compounding list, a decision that could expand their medical use. This vote triggers further regulatory review to balance patient access with safety concerns.",
+      "why_it_matters": "The outcome will influence availability of peptide-based therapies, impacting treatment options and regulatory oversight.",
+      "perspective_one": "Supporters believe adding peptides improves therapeutic access for patients needing customized medicines.",
+      "perspective_two": "Opponents caution that broader peptide use may increase risks of unapproved or unsafe products.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0JqS2lhR293UDllbDRWTkpwNkdiSjN5MkpCeUtSME5oTUR5WmMzSnpmRmZTUG8wWVVxQlJidEd3ZU5fWUNBbmdYZ3lnbFJyOUUwZnNUUUNtUUhvZXphNGpMV2EwMElSSUEtNVVjRFNjQlpJYXV6bEswSGV6NWpoeTJTbkFYOFRNQ09FOHg4aHJXUm1qTzl30gGcAUFVX3lxTFA0dnZEd3pIbXJlZHVsRWlJVFVjMUk5U2N5NmFIQ1VvVzl3Qk45b0owZkJqUklqalF5cXJ5QUhoRlYwNzQ2bFkxVEc4dTR1VDNGY3YzbXJ6YV9YTmRLZDI5QWNkVld2aUx1QXNFTXBvQTdEMXpYVGJSY1daLW1VQ3JiSGdodkRCUHBBY0s2N2lHUXlJT1RaUE9oblp1Ug?oc=5",
+      "source": "Health & Medicine",
+      "published": "Sat, 17 Oct 2026 11:41:06 GMT",
+      "category": "Health & Medicine",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "US inflation complicates Fed policy outlook ahead of midterm elections - CGTN",
+      "summary": "Rising U.S. inflation adds uncertainty to the Federal Reserve\u2019s policy decisions ahead of the 2026 midterm elections. Inflation pressures may force the Fed to balance economic support with controlling price increases, complicating political and economic dynamics.",
+      "why_it_matters": "Fed policy affects borrowing costs, consumer spending, and investor confidence, with direct implications for the economy and election climate.",
+      "perspective_one": "Some argue inflation control requires monetary tightening despite electoral risks.",
+      "perspective_two": "Others emphasize protecting growth and jobs over aggressive anti-inflation measures at this political juncture.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1ZOVC1fQ3NFZkl5SlRfcFdjOWFrTEFPN3JxemQ2QWNKaFp1OHVJTzNkWVJId1FiUl9oXzB2UHhkLTFhY1VEMldnb0xoY3JLby16bTZqWlJ1MGpVbnVWLUU0QUg1SnFvbGthdEVFTjhieS1yT2ZqZ3Q3cnNNR3NHSkxVZWJzUnJUcmhSQ3dTRnlwaE5UMENmbXduR1FnaFo3MWJLWkhQckRmcWFfZ21mTG91OVh4Z0lxVWdZMkpGcDItYXFqc0E?oc=5",
+      "source": "Business & Economy",
+      "published": "Sat, 17 Oct 2026 06:28:50 GMT",
+      "category": "Business & Economy",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Golden State Valkyries and Atlanta Dream face off in game 1 of WNBA finals in San Francisco's Chase Center - ABC7 Bay Area",
+      "summary": "The Golden State Valkyries and Atlanta Dream played Game 1 of the 2026 WNBA Finals at San Francisco\u2019s Chase Center. This event marks the latest chapter in a competitive series that showcases elite women's basketball talent on a national stage.",
+      "why_it_matters": "The finals influence league reputation, fan engagement, and the commercial future of women\u2019s professional basketball.",
+      "perspective_one": "Fans see the finals as crucial for elevating women's sports and promoting gender equity in athletics.",
+      "perspective_two": "Critics note lingering disparities in pay, media coverage, and support between men\u2019s and women\u2019s leagues.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMnFpZ0tUMnNYRUt4aUo4WU5MdzFDdkxHa25rU0JYZlZLaDBTTk9yLWViX2ZfX1RSV095SzVYS2gyZ3J5d29GRzVmRFhIREJqZVZzc1lDWUNtZEI1YnQ5RHZQYXk4a1JuN2Y4YVlnZnF3WHFrZDRrek9fblF0bkZ4VHlraU1qWFdNOUFVS1Z0eWxTTGoyeVNRVTBRcG1QNGJwOWQzSDFiTExDazRJbWNKWEN1X3hEblhwaGhMX3NNYjdraEJWR0p1clB2TlTSAcwBQVVfeXFMUDJxaWdLVDJzWEVLeGlKOFlOTHcxQ3ZMR2tua1NCWGZWS2gwU05Pci1lYl9mX19UUldPeUs1WEtoMmdyeXdvRkc1ZkRYSERCamVWc3NZQ1lDbWRCNWJ0OUR2UGF5OGtSbjdmOGFZZ2Zxd1hxa2Q0a3pPX25RdG5GeFR5a2lNalhXTTlBVUtWdHlsU0xqMnlTUVUwUXBtUDRicDlkM0gxYkxMQ2s0SW1jSlhDdV94RG5YcGhoTF9zTWI3a2hCVkdKdXJQdk5U?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Sat, 17 Oct 2026 17:55:08 GMT",
+      "category": "Sports",
       "image": "",
       "image_credit": "",
       "image_source": ""
@@ -261,12 +229,6 @@
   ],
   "more_stories": {
     "U.S. Politics": [
-      {
-        "headline": "Supreme Court allows Trump to implement parts of his mail-in voting executive order - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUpWVmxZNkVNNGxlamhNRjkteVhjUVJNMXhDQ3Vyc3V3UkdTVEcyeUM0ZnEzTUlJQXRYMUZsNkZ5LTN5Q0VzWDFrVmVFSVlpOFBSaEpwa19qd0Q4SExzankxMEpIQjMxT2k5R0Z3emE0cDFCNng3V3lwVjBQUDg1NNIBhgFBVV95cUxOWGtmd1BpZ1U2QlJOeTZIcXhKMTVTOVFEZDJKcDJPS1NzX2NsOG1RT2w2TkpUMDkwTWY1QzlZcGt4LVlmNV9NZlFVUG04S0Y1U2hUSUdFSk5sUlFId1VsZzlnd1JvOGlWQnY2LThiN1J6cjZDSjdSWHd3elNWS3FpYWJqMXFnUQ?oc=5",
-        "source": "U.S. Politics",
-        "summary": "Supreme Court allows Trump to implement parts of his mail-in voting executive order ABC News - Breaking News, Latest News and Videos"
-      },
       {
         "headline": "Opinion: A four-step plan to rein in the Supreme Court - The Salt Lake Tribune",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT01OQjFXOWgtM2Fsc3lJd05iTXptLVpJeGE4VGRYclFUMjNteW5sVEh3c2tLTUtWSjBvSFlFS1VxcGl2ZTlMMVI3LTVSRFJ1bVNHOVBrOHg1ZkJOSnV2ai1BdzVzNnRUU0hKMkxZQnlZel9ZZU1JeHFwSlYtckZIb0lFa3NKNWM?oc=5",
@@ -278,14 +240,20 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUFNhVi1lX2szMEF4MkpNTGlDMlYyM21ETGVSZTRUemI4WEpYOU5abWNYZVYtWUZXV0dqZnBvS0lHdWFUWi1FcmR0UEdhd0tLYk5vUmpYd3gtcU1fOU5reGFrQUZNcmFqZHBsNndFWVVpYldDaUhDNmZ2Sm8wZVVobmEwWVk?oc=5",
         "source": "U.S. Politics",
         "summary": "Corporate donations flood US attorneys-general election races Financial Times"
+      },
+      {
+        "headline": "'Going to be practical': Sen. Markwayne Mullin speaks out after being named Noem's replacement at DHS - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGFPSVpoVFZTUlFjaDZRakItV05kaVlGVlluM1pMRGRvTkpaS2RFNlY2ZElwbFFOUEwtQVhSTzVVZlRmSmVBb1JFZDBaaVRqR05kNnZydDNBcFVOak5ENzZvRmdaOFdLTk9sUk9Kc3hSdnB4a3VEcGl6NDJ0M2RNTG9mMjFSUkd0MlNUYnl2QTNjeDI3aWt1UHM3WVBXaGhTOVY0VXBR0gGrAUFVX3lxTE1JN1FWZ1RwMHQ4aEpyckdLR2RxTnhucVUwZ21uVWZscnBKU3MxZFBQX3RaTXlBZE45YnBXLUo0OW4tSWRWdDRRVnFtTHhxbVdzMTJuLTNYQXdQUlB2M0hobldMT05hN2xscnlXLXVjT2VaX2I5WXlzWWdiY0lWNHIzZ0dDMnBDTFN5bUx1bXpQRkduNzdjcF9nS2ZqbTZZMm5YQmRaOTlPVjdNYw?oc=5",
+        "source": "USA Today Politics",
+        "summary": "'Going to be practical': Sen. Markwayne Mullin speaks out after being named Noem's replacement at DHS ABC News - Breaking News, Latest News and Videos"
       }
     ],
     "U.S. News": [
       {
-        "headline": "President Trump's widening stamp on D.C. landmarks",
-        "url": "https://www.npr.org/2026/10/17/nx-s1-6001826/president-trumps-widening-stamp-on-d-c-landmarks",
-        "source": "NPR U.S.",
-        "summary": "NPR's Joel Rose and Rachel Treisman met at East Potomac Golf Links, a golf course that President Trump has ambitions to transform, to discuss the president's widening stamp on D.C. landmarks."
+        "headline": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. NBC News"
       },
       {
         "headline": "Fast-moving California wildfire burns homes as people are ordered to leave",
@@ -294,13 +262,19 @@
         "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state."
       },
       {
-        "headline": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-        "source": "USA Today U.S.",
-        "summary": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. NBC News"
+        "headline": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+        "source": "NPR U.S.",
+        "summary": "NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon."
       }
     ],
     "World News": [
+      {
+        "headline": "How day of protests unfolded as disorder breaks out across France",
+        "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked."
+      },
       {
         "headline": "Anti-government protesters battle with police in Albania",
         "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
@@ -312,21 +286,15 @@
         "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
-      },
-      {
-        "headline": "At least 17 dead in crush at Hindu festival event in India",
-        "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
       }
     ],
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Tunisians stage biggest protest in years against President Saied - Arab News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGVoM1dBdEkwVGd1bDRjc2hJQUoxS1RMOHNXU2xkbmd1X1FzdWRNY09ZaXBHQWQxOVc5X3lkWERIU2VlWVQ3dHRWUzNTQm5jTGNJUTQtNGpFVklWN0NRT19SUk4wNDRVUEVJQjVCckQ5cVp1MTRpci1RbmlFeFNQSlBDTHNZZGFWRmxHR2pscEhUREpQN0VhcHRTc1NHYU1taG15X0tnMnJoLVp1a1E?oc=5",
-        "source": "Arab News Middle East",
-        "summary": "Tunisians stage biggest protest in years against President Saied Arab News"
+        "headline": "Israeli officials tell i24NEWS Saudis show little appetite for normalization despite Trump\u2019s optimism - i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSERHWHhiR3ZqMWdPc3lVRUs5Q1UxbTlFdVBxSmpDdEdPNU1OYmpWWFNhemY3Sm54LTlEd2hqVkJVUVVORGFXazI2cThmNk93Y3Z0OWhoekJZaFlPWmpBeGVDNjBhQ0dnV3dsYURHYi03emh6YTVGRzRrbHlPaWJfTlZjdlJIVXdnRmNlMHpadXVvMUxudWxQR0Voams4QnRSSWN3Z1BsWWFzZU82eHYwNVM5VzZTR2kwdmNFTm8tUy1GeFlSZHZQcUl1MEhiOGljWUtwNHRPdzZYbnFZa1dCazZUWEFfM2VYZEE?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Israeli officials tell i24NEWS Saudis show little appetite for normalization despite Trump\u2019s optimism i24NEWS"
       },
       {
         "headline": "Israeli forces fire tear gas at olive farmers near Ramallah - Arab News",
@@ -335,18 +303,18 @@
         "summary": "Israeli forces fire tear gas at olive farmers near Ramallah Arab News"
       },
       {
-        "headline": "Idlib pomegranate farmers squeezed by rising costs, weak demand - Arab News",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWw1eF9HajQwTmFWTGNyM2tVcGJVb0VPNXFMay1mODZfZjh0WjJDWGtuQS1hcG9raloxYW1LMWdnbmQtaTkyaGR3U1JDRFhDX0JhUVdhWjJLalVsSUtHTVdOQnlqcHo4WUM5YlYtOW9WelVPUlFrdzQyNGNRb2lXOEMzSTVzM0FmdUtzS3RQTkxQem5TQVpWSkx6bzVpRVQ1a1owS0FkV0pNZ0k?oc=5",
+        "headline": "Aden Under Fire: Houthis Widen Conflict - \u0627\u0644\u062d\u0631\u0629",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KdFFHVkZTd1ZPd0dYWnZCR0JUZ3ZTdEZWYUhBdGROZTlmSW5xU2NUSWFJWGJMQmZaakN3WXlyTU1rdw?oc=5",
         "source": "Arab News Middle East",
-        "summary": "Idlib pomegranate farmers squeezed by rising costs, weak demand Arab News"
+        "summary": "Aden Under Fire: Houthis Widen Conflict \u0627\u0644\u062d\u0631\u0629"
       }
     ],
     "Health & Medicine": [
       {
-        "headline": "FDA advisers narrowly vote to add 6 peptides to a drug compounding list. What's next? - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0JqS2lhR293UDllbDRWTkpwNkdiSjN5MkpCeUtSME5oTUR5WmMzSnpmRmZTUG8wWVVxQlJidEd3ZU5fWUNBbmdYZ3lnbFJyOUUwZnNUUUNtUUhvZXphNGpMV2EwMElSSUEtNVVjRFNjQlpJYXV6bEswSGV6NWpoeTJTbkFYOFRNQ09FOHg4aHJXUm1qTzl30gGcAUFVX3lxTFA0dnZEd3pIbXJlZHVsRWlJVFVjMUk5U2N5NmFIQ1VvVzl3Qk45b0owZkJqUklqalF5cXJ5QUhoRlYwNzQ2bFkxVEc4dTR1VDNGY3YzbXJ6YV9YTmRLZDI5QWNkVld2aUx1QXNFTXBvQTdEMXpYVGJSY1daLW1VQ3JiSGdodkRCUHBBY0s2N2lHUXlJT1RaUE9oblp1Ug?oc=5",
+        "headline": "new weight loss drug awaiting fda approval - Meteo.gr",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2I4aThSSFY5ZVNiekdnSmR6cTVjR1FFcVpqa0Zmazc4T0JMc3YwSDFmaHNpdml5SXRzcGlGU0MyaHVIblA3UFRQeDlSeFJVX3Bkb0h4WnV6MEZBODNjbTBLTmlLOGUzN0ZndjVRRFlUaWVvX0ExcXF3S2NrajNLYWw0b2NWdw?oc=5",
         "source": "Health & Medicine",
-        "summary": "FDA advisers narrowly vote to add 6 peptides to a drug compounding list. What's next? ABC News - Breaking News, Latest News and Videos"
+        "summary": "new weight loss drug awaiting fda approval Meteo.gr"
       },
       {
         "headline": "FDA Establishes Board for Drug Exclusivity Decisions - Voice of Healthcare",
@@ -355,19 +323,13 @@
         "summary": "FDA Establishes Board for Drug Exclusivity Decisions Voice of Healthcare"
       },
       {
-        "headline": "AI Tracker: Sirona Medical secures $40M - Modern Healthcare",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+        "headline": "US FDA Approves Roche\u2019s Enspryng for Adults with Thyroid Eye Disease - Voice of Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRDVYd1JvMWtBbktkZmFDWVhIX2NzS2ZBbFB2TGNZcjNhbzdCeHUtY3UwQnk4bUlJVVBLaXhoYWlWLVdzckJYQVFEa0JXMDJPS3RZTEZhMGhqOC1WTzQwd2tnc0sxUU9OM05obTRLQlRHc1BvRE5iNUUyaUFNLVZwSmdwQTZGTXFST2ctWURjNjJQUmhmdl80bWtWM1Z1NzNWLWNDdGdndmRHMDgyb2dNdGRERlN5QQ?oc=5",
         "source": "Health & Medicine",
-        "summary": "AI Tracker: Sirona Medical secures $40M Modern Healthcare"
+        "summary": "US FDA Approves Roche\u2019s Enspryng for Adults with Thyroid Eye Disease Voice of Healthcare"
       }
     ],
     "AI & Technology": [
-      {
-        "headline": "Small Galway firms warned of big AI cybercrime threat - Connacht Tribune",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkpqbDIyRXpGS1JHVnJwU3NvNEhLaVhhSHBNMExHQVVubHRBRTV0ZUk2UVpCZkVNS09CVUY0WWNUM0ZJa0Yzb25DQ0hZZXFYcjVmeEg4ZkhmekVtOUFZVUVHWFlPQkU2NldBS08zZDlWWW93VU9zNUk3a0o0eTluMjNMTEFjYXB6cWJfcw?oc=5",
-        "source": "AI & Technology",
-        "summary": "Small Galway firms warned of big AI cybercrime threat Connacht Tribune"
-      },
       {
         "headline": "Cybersecurity flaw discoveries soar to record high with use of AI: data - Japan Today",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2VOeEt6bjhMRGpOZnZzRUxMUUhObzhuODgzbjZ2WXh0dTRPRHV5VE1YaVhpbEhfZXBhQjV4dElHby1rWFlMRWlENzBBNTNDbzFWd3g3Um9FR1NpSFVLSmVWeE12djdhN0FWdFpTd05PU2NURFpxZVpEOS04ejZCM2E4cTF0YnJLLTVid3JVVXBRWlFuT3JTZ0ZYVTk5OWFFLVpjZHJCS3dfbXkxbFdhUksyWUg?oc=5",
@@ -379,36 +341,36 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZThjNnM1U2w4OGJ5VXJiVzZvQjhKaG16VGU5bmhYeVQyTFVYelNjdkVzQUNUXzJGUFF4ZFAwMHZpTWRCWlBKOXRGLTdENjhvcl9yMC1oVGRPQUVmdVNBaWNBektpYjNCaEFBMXdIMWJwU1I4VndEaXNQdmRfRTd6Wm95aDVjUS1vNmlWbTItN2FLQUV6SlB1UWExczlYVVd0VUE?oc=5",
         "source": "AI & Technology",
         "summary": "SEI Hires LPL Technology Veteran To Lead Its Next Phase of Growth The Wealth Advisor"
+      },
+      {
+        "headline": "AI may cut 800m jobs globally - The Nation Newspaper",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRN0tGOGd6d1NZSUktSXl0SEtmRWtCZF9vZ1lPUGVGNlNIY1JUUHFkekloN1V1a05SX1gweWVoWUZSN090Q2xBVjRLcE1VQ3dXeFp6TUVaV2V0MHhqV1JiVEdGWUhlcXR4eHpUOdIBckFVX3lxTE5rZ1RjR2FVVFpCTG1vR2ZLNl94UU9xSWZKc0Q1WXNPT0NhcXYzejRVLUhmMGZ1WHJuVUZvNG40YWN6WlU2cjdaLTVPWFpHcldxNGUzdHZua0JFSnNIWTBQZF9SSEd2NEFZS0JTa1FLQ0NVdw?oc=5",
+        "source": "AI & Technology",
+        "summary": "AI may cut 800m jobs globally The Nation Newspaper"
       }
     ],
     "Business & Economy": [
-      {
-        "headline": "Fed Warsh Sees US Economy Emerging Stronger as AI Investment Fuels Growth and Inflation - Tekedia",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXo1U2FEMHJDZTlJQkZkejhtdEdwRWhJREhENVdyRTlMWWc0RXJuRGVXNjRaNFlLcVU3SlQtZlFuVjZZYTRLd3lrN1kyVU5nN05LY0h2SGN6UmU3SDYzOFB0ZklDMkNKMDBKaEo4WFY2dTQ4YjZGTTZENnRIeTZYd1d0WkFKZXFxcmJHamtURUN2QU1Ca0RNUmw0VEJPOXpVamxyUUhEQ1J2b1dxTlhtWGRB?oc=5",
-        "source": "Business & Economy",
-        "summary": "Fed Warsh Sees US Economy Emerging Stronger as AI Investment Fuels Growth and Inflation Tekedia"
-      },
-      {
-        "headline": "US inflation complicates Fed policy outlook ahead of midterm elections - CGTN",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1ZOVC1fQ3NFZkl5SlRfcFdjOWFrTEFPN3JxemQ2QWNKaFp1OHVJTzNkWVJId1FiUl9oXzB2UHhkLTFhY1VEMldnb0xoY3JLby16bTZqWlJ1MGpVbnVWLUU0QUg1SnFvbGthdEVFTjhieS1yT2ZqZ3Q3cnNNR3NHSkxVZWJzUnJUcmhSQ3dTRnlwaE5UMENmbXduR1FnaFo3MWJLWkhQckRmcWFfZ21mTG91OVh4Z0lxVWdZMkpGcDItYXFqc0E?oc=5",
-        "source": "Business & Economy",
-        "summary": "US inflation complicates Fed policy outlook ahead of midterm elections CGTN"
-      },
       {
         "headline": "US inflation rises to 3.7% as gasoline prices surge: What it means for consumers - The Business Standard",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2lTbUVPUThIOGN5YnozMHg5UXVsZ05UMXNRRWdkSHdKM01qcVlEUDRHdWV3dU9nTi11RHk0TlBvdFlmRmk4THJPMFVlWEh0YkRfMHlJOURfY21ZSTRKcDZSQzI0MGR5YVJreDU2UGg1LVdSSDBXczUxbWFZT0JaY3VIWUMxQTlUZmVrNlBHR2hMSEExeDZUV1d6Q3pJXzRSX21neWJ1Q1ZHRFlqY2RkUFh3?oc=5",
         "source": "Business & Economy",
         "summary": "US inflation rises to 3.7% as gasoline prices surge: What it means for consumers The Business Standard"
+      },
+      {
+        "headline": "Former Fed Chair Jerome Powell's 6-Word Warning Echoes Louder Than Ever -- and It Should Rightly Terrify Wall Street - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUkhETVdBSXNuQlJ0YUEzN2RjQ2M3YjlGVzhCdG1wMXpuRmVrMDJvenhvX2xhQkZ6cmdDbk11SEpmekdlZmYtRndWaUFUOW0wZEUwTjlVQmhvVlpKU3NLRXdWamJ3NzV4TjhPQkxkbXhpcDhUWVBwQ0dQN1lzVlpuaG1fNmRvaC10MWRZa1FaWVZsYWN2MktOakxPQjh5b29ydUhKTENiczFONWd0Uk9LaG9haGd0dFpWQm5LdWtYQ2VPVWhORVRF?oc=5",
+        "source": "Business & Economy",
+        "summary": "Former Fed Chair Jerome Powell's 6-Word Warning Echoes Louder Than Ever -- and It Should Rightly Terrify Wall Street The Motley Fool"
+      },
+      {
+        "headline": "Inflation hits Akron families from more than one direction | Opinion - Akron Beacon Journal",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3VsYTl4Wmo3d185MXhydnVXeVd5UmhGT3ZlRWItbTNJcWhoQmxydHlxSXNiWnFvZE5SeWp4THVDNWNxU2cxZ092c2tKYU45ZndFSHdydlFtQTFxZHlHSjdrRlBEWDQ4MEVkOW54STF1aW10ZmVmU2VyTlB5RzBrS1A1d19iczlFMGE2MTBQcmI2OUFqQlp4TEYxWWI5VjAxRFRyMjYzVUhTeHZpbHBoTnFUSzd2bC10el9Nc2FvcUZzV1ZvM3lR?oc=5",
+        "source": "Business & Economy",
+        "summary": "Inflation hits Akron families from more than one direction | Opinion Akron Beacon Journal"
       }
     ],
     "Society & Culture": [],
     "Sports": [
-      {
-        "headline": "Golden State Valkyries and Atlanta Dream face off in game 1 of WNBA finals in San Francisco's Chase Center - ABC7 Bay Area",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMnFpZ0tUMnNYRUt4aUo4WU5MdzFDdkxHa25rU0JYZlZLaDBTTk9yLWViX2ZfX1RSV095SzVYS2gyZ3J5d29GRzVmRFhIREJqZVZzc1lDWUNtZEI1YnQ5RHZQYXk4a1JuN2Y4YVlnZnF3WHFrZDRrek9fblF0bkZ4VHlraU1qWFdNOUFVS1Z0eWxTTGoyeVNRVTBRcG1QNGJwOWQzSDFiTExDazRJbWNKWEN1X3hEblhwaGhMX3NNYjdraEJWR0p1clB2TlTSAcwBQVVfeXFMUDJxaWdLVDJzWEVLeGlKOFlOTHcxQ3ZMR2tua1NCWGZWS2gwU05Pci1lYl9mX19UUldPeUs1WEtoMmdyeXdvRkc1ZkRYSERCamVWc3NZQ1lDbWRCNWJ0OUR2UGF5OGtSbjdmOGFZZ2Zxd1hxa2Q0a3pPX25RdG5GeFR5a2lNalhXTTlBVUtWdHlsU0xqMnlTUVUwUXBtUDRicDlkM0gxYkxMQ2s0SW1jSlhDdV94RG5YcGhoTF9zTWI3a2hCVkdKdXJQdk5U?oc=5",
-        "source": "Atlanta Sports",
-        "summary": "Golden State Valkyries and Atlanta Dream face off in game 1 of WNBA finals in San Francisco's Chase Center ABC7 Bay Area"
-      },
       {
         "headline": "Angel Reese Gets New Nickname Before WNBA Finals - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeGJxejlRZGtZdnB6R1dhNlQxS3lqc0xyLTJNTnpvZ0NBNldYZjhuQjYyczhydERPc3hvRUhXN3FhMXZPbGppaGpsT080NUZoazh1cTBJSHJEVWg1T3ZBVUZVeUc2Y1p6b0laR2J0MnhNXzhYdkh0TllVVDItci1KMjdKa3Q5Zw?oc=5",
@@ -416,17 +378,23 @@
         "summary": "Angel Reese Gets New Nickname Before WNBA Finals Yahoo Sports"
       },
       {
-        "headline": "2026 WNBA Finals predictions: Expert picks for Valkyries vs. Dream as each team seeks first title - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFc5UWNiblZiWkJkcHdDUzZFMGRzbFZnSXExZFdUUndQTzhZckNxTHZYMC0yQ0FlS3lzX2FhZGRJRjNxRXU3U2oycHJxd0xfcXNxYkhYeWl1QWNZcUF4S2xfejdTbW0xVUh0VmtLczkza003WGxOU0hheWdXZXl0cXVLY3NxZGJGS1BqSXR3OFVIaEhuNlJ2NXJn?oc=5",
-        "source": "CBS Sports MLB",
-        "summary": "2026 WNBA Finals predictions: Expert picks for Valkyries vs. Dream as each team seeks first title CBS Sports"
+        "headline": "2026 Indiana Hoosiers Turnover Plus/minus Stats & Leaders - NCAA College Football Turnovers Stats - FOX Sports",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHJfZWdSbThraVBlSVN2YWx5djQwbWVCb2NmTVdVRzR5N0lKVnJXWnJLUG5RWjc5anZBcURVVVoxWXpxdWtjYmJ2Yy1EOE1wVjVsSWFwd0dCQWIzZVBXZGhwYnVFS0lLbkg3LXpqQWozbE1scVdaTXZ2TFNwenR4NmUwWldJQ1lvdUV1akR0T0s0cUtDcDJjb1hjNnVYQnAzTFNpUEJ1TGV6UUxPT3RxMkFZdHQwOVFSbnVrYk9aOTdvVTFvQmhkazl6dUQ?oc=5",
+        "source": "College Sports",
+        "summary": "2026 Indiana Hoosiers Turnover Plus/minus Stats & Leaders - NCAA College Football Turnovers Stats FOX Sports"
+      },
+      {
+        "headline": "2026 MLB playoff bracket, schedule, scores: Guardians vs. Rays ALCS resumes Saturday after rainout - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX3pxZzFTUmJrLVBBdUNvYzJQa1VTcUdac2NyN1l4d1hZcHAzRkFGbXdPR2NBUlladEZ1b2R5YzQ5dExlbUNJWlVONzhmZlpuc2x5UVJuQ2VrMFV5dHdjLVBwcVZoaUlYY3ZDbk92SjBoMmtrSTk2Vkh3U3VMMjU3ZWd2WXBORjdJVmVuYkF5UEpjY0lxQnZhaU1XU2xvdw?oc=5",
+        "source": "CBS Sports NFL",
+        "summary": "2026 MLB playoff bracket, schedule, scores: Guardians vs. Rays ALCS resumes Saturday after rainout CBS Sports"
       }
     ],
     "Good News": [
       {
         "headline": "An Extinct Crocodilian\u2019s Skull Was Found in the Rocks That Built the Sphinx, and it\u2019s Also Missing its Nose",
         "url": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
-        "source": "Good News Network Science",
+        "source": "Good News Network",
         "summary": "A new crocodilian species has been identified from fossils recovered from a rock layer harvested by ancient Egyptians to build the Sphinx And funnily enough, just like the iconic Egyptian landmark, this fossilized reptile is missing the tip of its snout. In the 1920s, several fossils were recovered from the 45-million-year-old Mokattam Formation in Egypt. [\u2026] The post An Extinct Crocodilian\u2019s Skull Was Found in the Rocks That Built the Sphinx, and it\u2019s Also Missing its Nose appeared first on Good News Network ."
       },
       {
@@ -438,7 +406,7 @@
       {
         "headline": "ESA\u2019s New Sentinel 3C Satellite Makes its Debut with Sumptuous Images of Italy and the Arctic",
         "url": "https://www.goodnewsnetwork.org/esas-new-sentinel-3c-satellite-makes-its-debut-with-sumptuous-images-of-italy-and-the-arctic/",
-        "source": "Good News Network Science",
+        "source": "Good News Network",
         "summary": "Two weeks after launching, the European Space Agency\u2019s Copernicus Sentinel 3C satellite has returned its first images of our world in sumptuous color. This first set of images includes stunning views of Italy, the Canadian Arctic, and the Caribbean from the satellite\u2019s ocean and land color instrument, as well as measurements of the height of [\u2026] The post ESA\u2019s New Sentinel 3C Satellite Makes its Debut with Sumptuous Images of Italy and the Arctic appeared first on Good News Network ."
       }
     ]
