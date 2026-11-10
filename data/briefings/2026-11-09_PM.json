@@ -1,0 +1,446 @@
+{
+  "generated_at": "2026-11-09T21:39:45.188334-05:00",
+  "edition": "PM",
+  "stories": [
+    {
+      "headline": "After midterm losses, Trump makes changes to his inner circle",
+      "summary": "President Trump is reshuffling his closest advisers following significant Democratic gains in the midterm elections. This reorganization aims to recalibrate strategies in response to the shifting political landscape after November 2026.",
+      "why_it_matters": "Changes in the president's inner circle could influence policy direction and political tactics during the remainder of the term, impacting legislative priorities and administration effectiveness.",
+      "perspective_one": "Supporters argue that the shake-up is necessary to regain momentum and refocus efforts to counter the Democratic surge and advance Trump's agenda effectively.",
+      "perspective_two": "Critics view these changes as reactive and possibly destabilizing, undermining continuity and weakening the administration's ability to govern amid electoral setbacks.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034027/after-midterm-losses-trump-makes-changes-to-his-inner-circle",
+      "source": "NPR Politics",
+      "published": "Mon, 09 Nov 2026 06:45:25 -0500",
+      "category": "U.S. Politics",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Supreme Court says border wall construction can continue in west Texas",
+      "summary": "The Supreme Court allowed the Trump administration to continue building the border wall in West Texas while legal challenges progress. The ruling grants emergency relief pending the outcome of lawsuits concerning the wall\u2019s legality.",
+      "why_it_matters": "This decision permits immediate continuation of contentious construction, affecting border security policies and potentially setting legal precedents regarding executive power and environmental law considerations.",
+      "perspective_one": "Proponents argue the ruling supports national security efforts by enabling uninterrupted border fortification against illegal crossings and threats.",
+      "perspective_two": "Opponents contend the construction infringes on property rights and environmental protections, noting the court\u2019s decision ignores ongoing judicial review for legal violations.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+      "source": "NPR U.S.",
+      "published": "Mon, 09 Nov 2026 16:47:39 -0500",
+      "category": "U.S. News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1570+0+0/resize/2500x1570!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2Faa%2F8b772ccb4a99bfc5c6f7db6e8b01%2Fdsc-4950.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "President Trump announced he spoke with Nvidia CEO Jensen Huang regarding an FBI investigation into Huang's alleged affair with a Chinese spy. This statement raises issues at the intersection of national security and corporate leadership vetting.",
+      "why_it_matters": "The inquiry highlights concerns over espionage risks linked to personal relationships in technology firms central to U.S. economic and security interests.",
+      "perspective_one": "Some assert that scrutinizing foreign influence on high-tech executives is crucial to protect sensitive technology from exploitation.",
+      "perspective_two": "Others warn the allegations may be politically motivated or lack substantiated evidence, potentially damaging reputations without due process.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Tue, 10 Nov 2026 01:44:53 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Lebanon awaits impact of US, Israeli elections on stalled talks - Arab News",
+      "summary": "Lebanon is monitoring how the recent U.S. and Israeli elections will influence ongoing stalled political talks. Uncertainties in American and Israeli policy positions may affect Lebanon's internal stability and regional relations.",
+      "why_it_matters": "The outcomes of these elections could shape diplomatic engagement and security dynamics in the Middle East, influencing Lebanon\u2019s path toward resolving internal crises.",
+      "perspective_one": "Some anticipate that aligned U.S. and Israeli leadership may pressure Lebanese factions for reforms and renewed negotiations.",
+      "perspective_two": "Others fear that election results could harden positions, prolonging political deadlock and exacerbating Lebanon\u2019s humanitarian challenges.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmVuc0pIWGxMYjY2VjF4OFlOcklBUENlLXRRNDNhb3BYV0MzWVNadHJLR01sZ0YwbFRwU21aSE9wTENOLVVSZFAxMnU0aGp4NFM1MUIzNnRIZG4yaXBsVk04X0lTZ3I3YVZ1Qy1QS1BIT1RMaW1yZjljV0tuOHFTZ1IxWktnQ1hNWTM3b1pXdmN3dlJQM1V1SGN5ZEZncXBBa1NQR0dzSFI0TGc?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Mon, 09 Nov 2026 13:06:22 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/ARAB_MEN_IN_JERUSALEM_ENGAGED_IN_A_FRIENDLY_CONVERSATION.jpg/1280px-ARAB_MEN_IN_JERUSALEM_ENGAGED_IN_A_FRIENDLY_CONVERSATION.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 F\u00e9lix Bonfils \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:ARAB_MEN_IN_JERUSALEM_ENGAGED_IN_A_FRIENDLY_CONVERSATION.jpg"
+    },
+    {
+      "headline": "Software Bill of Materials (SBOM): FDA 524B Guide - CASRAI",
+      "summary": "CASRAI published a guide on FDA's Software Bill of Materials (SBOM) requirement under guide 524B. This document assists medical device developers in compliance with FDA mandates to ensure software transparency and security.",
+      "why_it_matters": "Adhering to SBOM requirements enhances device cybersecurity by enabling identification of software components, critical for patient safety and regulatory approval.",
+      "perspective_one": "Developers support SBOM for promoting software accountability and facilitating vulnerability management within FDA regulatory frameworks.",
+      "perspective_two": "Some industry voices caution about the operational burden and complexity SBOM compliance adds to the medical device development process.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01b3d2SlRYcV81ekF3WUZNVTJFVW00dndVQnl5RGpVYzdHdVVVallZZjZydTZtREU1WTh1cEdldnNfcVVvYXpGd1JhTURkeWZIZUNGMUtpSzBpVmdObFZNTktB?oc=5",
+      "source": "Health & Medicine",
+      "published": "Mon, 09 Nov 2026 23:47:05 GMT",
+      "category": "Health & Medicine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
+    },
+    {
+      "headline": "Tencent AI head warns of risks of using Artificial Intelligence in biology - NEWS.am TECH",
+      "summary": "The head of Tencent\u2019s AI division issued warnings about the risks AI poses when applied to biological research. Concerns include potential ethical dilemmas and unintended consequences in manipulating biological systems.",
+      "why_it_matters": "AI\u2019s integration in biology could accelerate scientific advances but also amplify risks related to biosafety, ethical boundaries, and the need for strict oversight.",
+      "perspective_one": "Proponents emphasize AI's transformative potential to solve complex biological problems faster and with unprecedented precision.",
+      "perspective_two": "Critics urge caution, warning that inadequate controls could lead to misuse or harmful outcomes in sensitive biological areas.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCek5WbDBLVEFjVHpwUGhpLVdhZ25KMUpIQjlPS3lObFhsWnUxS0JCVXpDdFF1U09vMWRVZnMxTjUzTWs3WF9TbA?oc=5",
+      "source": "AI & Technology",
+      "published": "Mon, 09 Nov 2026 17:00:00 GMT",
+      "category": "AI & Technology",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Artificial_Intelligence_Word_Cloud.png/1280px-Artificial_Intelligence_Word_Cloud.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Madhav-Malhotra-003 \u00b7 CC0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Word_Cloud.png"
+    },
+    {
+      "headline": "Fed rate hike may not be \u2018one and done\u2019 if AI boom fuels inflation - TheStreet",
+      "summary": "The Federal Reserve indicated that interest rate increases might continue beyond one hike if AI-driven economic activity accelerates inflation. This suggests monetary policy will closely monitor AI's impact on prices and growth.",
+      "why_it_matters": "Persistent rate hikes could affect borrowing costs, business investment, and consumer spending, highlighting AI\u2019s growing influence on macroeconomic trends.",
+      "perspective_one": "Some economists argue that AI's productivity gains could lead to overheating, justifying sustained interest rate increases to contain inflation.",
+      "perspective_two": "Others contend AI efficiencies might dampen inflation pressures, calling for cautious monetary policy to avoid stifling innovation.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYS01TlV1dHFyUXJKQ240UU1aMV9pYXphaEdfOHdFeVR4NU9hZ2dqdTd6VS1Vb1gtd2dQVENaZ0prNVR1QUVWdDdXMVBpZFFMTW9BbldfYjBWc3ROVGxSLWx4REZiblFiTGR6bHpnX3pyWFpBaWNHWGZtTjViUWdKamYzT3JpT2RINlFEaHVBUUJQOXhWQUJIQzVlRWQ?oc=5",
+      "source": "Business & Economy",
+      "published": "Tue, 10 Nov 2026 00:47:00 GMT",
+      "category": "Business & Economy",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Torpedowagen_--_2016_--_1214.jpg/1280px-Duisburg%2C_Landschaftspark_Duisburg-Nord%2C_Torpedowagen_--_2016_--_1214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Dietmar Rabich \u00b7 CC BY-SA 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Duisburg,_Landschaftspark_Duisburg-Nord,_Torpedowagen_--_2016_--_1214.jpg"
+    },
+    {
+      "headline": "College Football Playoff expanding to 24 teams: 2027 move has big impact on conference championships, Heisman - CBS Sports",
+      "summary": "The College Football Playoff will expand to 24 teams starting in 2027, altering qualification dynamics for conference titles and Heisman Trophy considerations. The expansion aims to increase competitiveness and fan engagement across more programs.",
+      "why_it_matters": "This restructuring changes how teams compete for national titles, impacts scheduling, and may redefine the prestige and criteria for individual awards in college football.",
+      "perspective_one": "Advocates believe the larger playoff allows more teams a fair chance, boosting excitement and financial opportunities for programs.",
+      "perspective_two": "Critics argue the expansion dilutes the playoff's exclusivity and may overextend athletes with more games.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEpqNm5TSWZmMXdoOTBJSldOS2wtalNZNm9UeW5sT0lQRUx3QnpDMXJmX2o0NHlJQjdMZlhUanpSUFo2akxIdHAxaWc4WXhHZVlXQkY3emQ0N2NVblRoc1EycTlDcTFCdm43em5uZk9pVHF6S2tiTHhFNEdnamR0aklaRG95WGI5R2Itc0xha1k0eXE0eXVXMy01QXFNUF9fMU1BSkFZVkk0VWFHYUx1R3RsLVhOZUVMclE?oc=5",
+      "source": "CBS Sports MLB",
+      "published": "Mon, 09 Nov 2026 17:06:00 GMT",
+      "category": "Sports",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Dogs Can Sniff-Out Invasive Plant Species With High Accuracy to Curb Their Destruction",
+      "summary": "In Germany, dogs trained by volunteer handlers achieved 75% accuracy in detecting invasive plant species that threaten biodiversity. This novel approach aims to improve early identification and control of destructive alien plants in natural habitats.",
+      "why_it_matters": "Utilizing dogs for invasive species detection offers an efficient, scalable tool for biodiversity conservation and ecosystem protection worldwide.",
+      "perspective_one": "Conservationists highlight dogs as cost-effective, sensitive detectors that can access challenging terrains for early intervention.",
+      "perspective_two": "Some skeptics question the consistency of volunteer-based training and potential limitations in large-scale deployment.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/",
+      "source": "Good News Network",
+      "published": "Sun, 08 Nov 2026 18:36:02 +0000",
+      "category": "Good News",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/sniffer-dog-with-owner-in-field-by-Anne-Zylinski-WPF-via-SWNS-.jpeg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Democrats won big. Can they lower your grocery bill?",
+      "summary": "With tariffs and the Iran war driving up prices, particularly for food, affordability was a central midterm concern, leading to a Democratic victory. Now, voters are looking to Washington to implement policies that will reduce grocery costs.",
+      "why_it_matters": "How Democrats address cost-of-living pressures, especially food prices, will affect household budgets and political support ahead of upcoming policymaking sessions.",
+      "perspective_one": "Democrats see an opportunity to enact relief measures that protect consumers from inflationary pressures caused by global conflicts and trade disruptions.",
+      "perspective_two": "Opponents argue that government intervention may distort markets and delay the natural correction of price imbalances.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
+      "source": "NPR Politics",
+      "published": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "category": "U.S. Politics",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7404x4936+0+0/resize/7404x4936!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fc1%2F21e723b44cb190bd1f5376a9bcb0%2Fgettyimages-2302583788.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "WATCH LIVE: House returns to Washington after blowout election for Democrats - PBS",
+      "summary": "The U.S. House of Representatives reconvened following a decisive election victory for Democrats. The new Congress faces expectations to fulfill campaign promises amid a changed political environment.",
+      "why_it_matters": "The House's composition will determine legislative agenda-setting and policy outcomes, influencing governance and national priorities for the next session.",
+      "perspective_one": "Democrats aim to leverage their majority to pass expansive reforms and policy initiatives favored by their voter base.",
+      "perspective_two": "Republicans warn that Democratic control risks overreach and potential fiscal imprudence without adequate opposition checks.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTNlZ1ZRTWhsdXQ5Y21CTzN0UVQ2dFB4WmJKbUY1S3B2dG8zYWZoZU05RzI0ajRWMDlBVC1sTEdGYkZLVC1NZmVnWTMzUGVjNW9QYXY2MzhBZlBULVMtRWlEaXR0Q3pxOUI4ZHpzVU9OYmgzd01tZTN3QjN5aTY4c3lVaUw2SWtPelA2LTlTVUZPcW1mVFdUSzFzQi1uS2VHQ1huT3NUcFpxa0c4d2s5X3ZpRdIBuAFBVV95cUxQUkJNSUNpWjMxUGE0NURmcnZOZDdZcmVZdGg3N01rR00yMXFXMjJVSWxnWk5BUW0yWGV0Z3YxbFpEbGJvN21tNmloUDRhWFhRWGtZS19TRVkwTEVUd01fZndYanNFRnhGck9wVkJMNHJPU1RLcVVkYnpvMmcyLVRId1J3TmNseEhxekVvSXk2TGlndGdTd0gzVEswYzM2dGtvdmllOUN4bTlDVTRKX3JySTFtREU4a0Nz?oc=5",
+      "source": "U.S. Politics",
+      "published": "Mon, 09 Nov 2026 17:00:34 GMT",
+      "category": "U.S. Politics",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "Republican Representative Thomas Massie announced plans to push for an impeachment vote against Defence Secretary Hegseth, aiming to pressure President Trump to dismiss him before Democrats can start their own impeachment efforts. The initiative is expected to fail but seeks to influence the administration\u2019s personnel decisions.",
+      "why_it_matters": "This move reflects deep partisan divisions and may impact military leadership stability and Trump\u2019s political strategy heading into 2027.",
+      "perspective_one": "Supporters argue that holding Hegseth accountable through impeachment is necessary to address misconduct or policy disagreements impacting defense.",
+      "perspective_two": "Opponents view the effort as a political stunt unlikely to succeed and as potentially distracting from more pressing national security issues.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Tue, 10 Nov 2026 01:38:49 GMT",
+      "category": "U.S. News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "'Horrific decision': These Texans bashed the Supreme Court's Big Bend ruling - Yahoo",
+      "summary": "Texan residents and officials criticized the Supreme Court\u2019s decision permitting border wall construction in Big Bend National Park as 'horrific.' The ruling intensifies local concerns about environmental damage and infringement on public lands.",
+      "why_it_matters": "The court\u2019s decision affects land use and conservation efforts in protected areas, fueling debates on balancing national security and environmental preservation.",
+      "perspective_one": "Supporters argue border security imperatives justify construction despite environmental costs in sensitive areas.",
+      "perspective_two": "Critics contend the ruling disregards ecological protections and the rights of local communities stewarding their environments.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3NTV0NtcFg0bjZ0TW9xYVFmamI5WjdsU1F3dXFiWHBIMVZIaXNNNXBYQUtESTlvb20tcWZIbXhEYV9FMlJQTDlaUVNLZ0RpeEw3ZEdXUmhFMjBMRTBqdUJscGl6cEJRY19OUDBYZWc4dDliVkllbWoxd2RCSWNLWmxSUHU0R2hxcEhEdWZ6QUZjdU5wZ1Bxak15YS16dzdo?oc=5",
+      "source": "USA Today U.S.",
+      "published": "Mon, 09 Nov 2026 23:57:09 GMT",
+      "category": "U.S. News",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Delegations from Kyiv, Washington, and Moscow are meeting in the UAE to resume Ukraine peace talks for the first time since February 2026. Officials report both Ukraine and Russia are showing some willingness to compromise amid ongoing hostilities.",
+      "why_it_matters": "Successful talks could lead to conflict de-escalation and potentially end the protracted war, with significant regional and global security implications.",
+      "perspective_one": "Ukraine and its allies emphasize the need for sovereignty and territorial integrity as negotiation prerequisites.",
+      "perspective_two": "Russia seeks concessions that protect its strategic interests and influence over contested regions.",
+      "uncertain": "The extent of genuine flexibility and likelihood of a durable agreement remain unclear.",
+      "confidence": "Reported",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Tue, 10 Nov 2026 00:09:49 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Chinese Producer Inflation Hits 5.7% for Post-Covid Era High - Bloomberg.com",
+      "summary": "China\u2019s producer price inflation reached 5.7%, the highest rate since the COVID-19 pandemic. This surge reflects ongoing supply chain pressures and rising input costs affecting industrial prices.",
+      "why_it_matters": "Higher producer inflation may squeeze corporate margins and contribute to broader inflationary trends in global markets, possibly affecting trade and monetary policies.",
+      "perspective_one": "Some analysts warn that persistent inflation risks slowing China\u2019s economic recovery and export competitiveness.",
+      "perspective_two": "Others suggest elevated prices are temporary, tied to fixed supply disruptions easing later.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtVSmRjR3dJWkJYWi1ROURuRTNuVXFmUFBDelZtUkFHQ0pwaWRmVzFJNXhiMEFoS0g0Mmx3UTJoTFpEcWFDVm4tNTZMSmV5NkhrRGs1SWhYMC1iNmpaMG92UlRweV9wTldzNHFLdE1qbUh1U0ltcWdNcDUwVHpaVkhidDlobUM3RTNGV0pIbkR2OUF3akRtamtaRi1iN3VuZXl5VkJlS1IzclV3ZFZNVWhyS2U?oc=5",
+      "source": "The National Middle East",
+      "published": "Mon, 09 Nov 2026 09:14:37 GMT",
+      "category": "Middle East Affairs",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "FDA Artificial Intelligence & AI/ML Device Rules - CASRAI",
+      "summary": "CASRAI released guidance on FDA regulations concerning artificial intelligence and machine learning (AI/ML) devices. The document aims to clarify compliance requirements for AI-driven medical technologies entering the market.",
+      "why_it_matters": "Clear regulatory rules help innovators balance innovation with safety, ensuring AI devices meet standards to protect patients while enabling technological progress.",
+      "perspective_one": "Supporters believe FDA\u2019s rules provide necessary oversight for complex AI systems in healthcare, improving trust and accountability.",
+      "perspective_two": "Some caution that overly rigid regulations might hamper rapid AI innovation and limit beneficial applications in medicine.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Tam1YcTFGYi1hM0xVY2FFZ0tjSVJnRjNLb1Y0M0lxblhJTWdXOG1obDc1QVlza2JsTkVXMVdBcG5VaVdESGppWE1PdFhLOFJ4cV92U2FnaTltbjU1akRTVVVvaw?oc=5",
+      "source": "Health & Medicine",
+      "published": "Mon, 09 Nov 2026 23:46:52 GMT",
+      "category": "Health & Medicine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
+    }
+  ],
+  "more_stories": {
+    "U.S. Politics": [
+      {
+        "headline": "Congress is coming back to Washington. Here's what to expect",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
+        "source": "NPR Politics",
+        "summary": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January."
+      },
+      {
+        "headline": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+        "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+        "source": "NPR Politics",
+        "summary": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution."
+      },
+      {
+        "headline": "Trump says his deportation policy 'might have been too tough' for voters in the election - MPR News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbS1ZWUFnZ0FiamdvTEJaVTVzWlRlcUlNc3hLNVJHVXRLRTZsWDNXQlBGY3dFTkVMVVBrVFowLThyUmQ2TWxXa0p4WlpWMTFQOERpNFJ2WkFWUXZsOGY5WHBkaVF5akZKTlU1d3FQaE1rMWtVeEhNeW54ODFLRGsycTVRZTZJdjFBYk84azBzbXhQVWRuX0I2NzdFLS1UQUxCX1lGQmNXNEpJQURLVFJpbFljWU5UOVpjTGpzdDRJOXBrM0xqdVE?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Trump says his deportation policy 'might have been too tough' for voters in the election MPR News"
+      }
+    ],
+    "U.S. News": [
+      {
+        "headline": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
+      },
+      {
+        "headline": "USDA warns: Don't eat these frozen meat products - Macon Telegraph",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0SE5IR3pGcV84VzFTQ0diakVQN2lONktLMnZyU1JyN19TQlY3eEptclIweE8xZWxGN1Jmb0c3UDJqTFVYNkdnc280QmFmV01NNGdjN1U4c29zZjNzbGZqRGJJbmR0a1htWDByTGFMZmphSDVYc3ZCenh3?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "USDA warns: Don't eat these frozen meat products Macon Telegraph"
+      },
+      {
+        "headline": "Supreme Court allows Big Bend border wall plans in win for Trump - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXlBN0lZcnYxNUVvWDhpTXJpYlpJRU5HY0wwdC1zaW5ySnJ3eTdnREo3bnR6R20wQkd3QTlQSnREbF96ekc3UUt1UV9WYWczTUQxbmFmSy14WDJzRmg4SGZ5c3l0UGZQdEhBcUo1c015OGNPQjUxdTlIWDAtdnhqMTA3bGJaLW9ORktGS0owYmFBRkU?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "Supreme Court allows Big Bend border wall plans in win for Trump Yahoo"
+      }
+    ],
+    "World News": [
+      {
+        "headline": "The superpower battle over energy \u2013 and what it means for your bills",
+        "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
+      },
+      {
+        "headline": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
+      },
+      {
+        "headline": "Trump questions midterm elections integrity after previously accepting results",
+        "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "Trump made the claims, without evidence, on Truth Social on Monday."
+      }
+    ],
+    "Conflicts & Security": [],
+    "Middle East Affairs": [
+      {
+        "headline": "Report: Netanyahu pressing Trump for renewed Iran strikes - Israel National News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04M01CaUZoZ1M3MGFBNGRhMUVsLURzeTVibFlzc3U1bWZab2pkOTRsWmF3T0FhWkZQYXZ6Z3oyVXJxckdfMVZBTTNEUS1ZVmpSeGlCc19lalpoQQ?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Report: Netanyahu pressing Trump for renewed Iran strikes Israel National News"
+      },
+      {
+        "headline": "Oil falls as Trump downplays prospect of escalation with Iran - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5",
+        "source": "Reuters Middle East",
+        "summary": "Oil falls as Trump downplays prospect of escalation with Iran Reuters"
+      },
+      {
+        "headline": "Arab Bank Switzerland Begins ADGM Operations, Appoints Val\u00e9rie No\u00ebl as Chief Executive - Hubbis",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDlrbmk2OFJ0SlNaQTA3Q3o0MlpkT2lGTU9BRDRfWjlKU0xzNGNVNG02WF91S2V6bmZ6TzAtUVFKV3I0WGpvSm1LUTFEV3hkOTRldlN5UjdMLTVKbkNwWTd3d0V2V0k0N1JrbGFsNUducHlpVGl2M09OVEI5TXJTVFBVUUtQc0w3SWNmMVUybmllYW1OdkRGcDQ0WTFTVjlWNG9VdDdLQzJEUjBaWXZTYjI4MA?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Arab Bank Switzerland Begins ADGM Operations, Appoints Val\u00e9rie No\u00ebl as Chief Executive Hubbis"
+      }
+    ],
+    "Health & Medicine": [
+      {
+        "headline": "FDA orders new warning on Ozempic, Wegovy, other GLP-1 drugs over rare eye condition - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUU0cTVTSjNxanJ4WkdyRWQyT050MGozbTdhdW1UR1N6aWxnS1ZpS1htVFdzcmtWSS1GLUoxeEoxVWZOU0J6TjRzSWdldWtOaFZvYVNlMTFDY0M0dFJ4MDAtTnZEbTJMcjEtZTlMalhDUWhnTGRYQmtlbzRCR3Q4Wkg2d1Z4aW9tMTF1bllVVGgydGVYY0lJUzJNUdIBoAFBVV95cUxPYTdaNm5iZ0kwc1FQWGp3VEhrQTNIWlBtVmxselFYTDRicXhZUGlQN1RBWHRWOWNVVkNMbGdnT1FoMWNyTmdraV9zRmtVaXJMdDhMZ21GMVFsTk5GVU83NVZncXRvbnN1b0V4LUJwY2JTbDlFcngxOW9RRlo3QnlxcjVDY0FYNnZPYWk2VVUwMTFYT1dEb3dYeWY2ajhuV2U2?oc=5",
+        "source": "Health & Medicine",
+        "summary": "FDA orders new warning on Ozempic, Wegovy, other GLP-1 drugs over rare eye condition ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "headline": "Do Ozempic, Zepbound cause vision loss? New FDA warning explained - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckc0SnBKQWFaQ2djY045SGRHenJHOWtiTjIxVHh6NTBnUnowNzNlX1lvRnFDNklGWDc3RWpmMzRJV040QkVlM2M3WnRocjFoX2VKeGpsdlJwT0o3b0VTNUpXbEVGV2Fza3NqbWJvX2UxV2dfRkpSdUs2RWFRZ3dUZWYyWklRaElaWEdzR0ZZNGhndUhNd253OXlRckFENkdjNy04OF9ucmpSUQ?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Do Ozempic, Zepbound cause vision loss? New FDA warning explained USA Today"
+      },
+      {
+        "headline": "GLP-1 drugs must have new warning label over incurable blindness condition, says FDA - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkgxTkI3MDdjVDd6LVZ0NTJkbVNtVEJYOExraHNXVkUtam5hN1Eybmd4ZjV4a3Zaa1MzaGtMU2E3N3hnV2RTRExGYl9FcU1JaHpPRHFkay0xbm5ES0hSRXRhS29jMHM5N2tYMTlsUTN0SlVvSlk0Z1RrQnR3MkdqZmFPcjRXZGdUaUM4eTd6S0E5amZvMUJHUVlIV3VkZzA?oc=5",
+        "source": "Health & Medicine",
+        "summary": "GLP-1 drugs must have new warning label over incurable blindness condition, says FDA New York Post"
+      }
+    ],
+    "AI & Technology": [
+      {
+        "headline": "Software Safety Institute launches to address persistent technology vulnerabilities - SC Media",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU005cEFnVEd2dHgzb0xDS0cyN3pnVzNBTDE2THE2WlNycHBIYjlvbGVxOGtmMDRqd01vRWNsV0lZV3h4SC1Qd1hSZFhIRmRRTzVoU080dzZ4OEJoX3llX1JyeEwzNzZXTUx2VDduajdLZUJhMEdGMEJCMzVKMml6N3BvM3RQLWdTN2dlb2k4T0N3Z2EyZGx0SUU4cndWTFRKLWdBWXFjeTF6OC1vMElLd3Bsdw?oc=5",
+        "source": "AI & Technology",
+        "summary": "Software Safety Institute launches to address persistent technology vulnerabilities SC Media"
+      },
+      {
+        "headline": "Russia, Pakistan Technology Cooperation Moves Towards Joint Ventures In AI, Cybersecurity & Digital Trade - russia's pivot to asia",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVy16VThRcjFHX2pRSlhfZUpjc2h6MzBUU0pkMzJrMjZReU1VYWhlVUd6WHNEZGlhcFM1dUpJeUNUNVFLUFNXU3JfWXd3ME03aU9Pa0tkTTZxVFZfS0s0LUZtTEdJR2cyMWpGcFB0el9OWDQ4YmwzWUdGR0Fadlc0aUxiWDZJcFZ2S0h2UVZuRHd1ZDRkenJCODVxTkpJLTN0Z1JOb2M4ZVZVNDFjaWlJLUEwMi10WW01bmJ2MGRkNmZDNWYxZlVucC1YVXR6dw?oc=5",
+        "source": "AI & Technology",
+        "summary": "Russia, Pakistan Technology Cooperation Moves Towards Joint Ventures In AI, Cybersecurity & Digital Trade russia's pivot to asia"
+      },
+      {
+        "headline": "Accenture stock heads toward BMO technology conference - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGFJejdndXV0N2YyS3FaMHhtb0RtY3U1SUxCeXItUDNrSThHV0l0eGQtM0VfVzVmNkZZVVBlLXNVeVBTeWd0eHlNLXlHTDBvbHphdDV6OUduZHFZMUoxSTktSWpxSFY2a181bGRGcmFiQkRlZnozSFB0ZUpMdFllOG5HY2lGdTN0cEQ1ekdReHc3d3hkdFRqWFI1d1FWUmRqUEc1aXVjbnRyZm9meGU2NHZVTUVEeEct?oc=5",
+        "source": "AI & Technology",
+        "summary": "Accenture stock heads toward BMO technology conference ad-hoc-news.de"
+      }
+    ],
+    "Business & Economy": [
+      {
+        "headline": "U.S. adds 165,000 jobs, but wage growth struggles to keep up with inflation - Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnRpQzZBeHJlT1J6eFFnV2xKel8zdEpGN3VTcW5PSGdyeFl4RG5LbHI5dFlDUk94bWJ1VXZyNDRxMGQtZC1rT0xwVFowYy1Wd056SnJKNmhxTlRScnZPN21kcXRma1VreU9sbkRndGZNdGtTb2xKNEMxbWJHTzJOVlFvUWZKTWE1bXMwYVFieGN4RGVocjlDekZJTjBfODhwYTZDa3JESUJ5Yk1PM0N2dnVXcHFTdEFMQUE?oc=5",
+        "source": "Business & Economy",
+        "summary": "U.S. adds 165,000 jobs, but wage growth struggles to keep up with inflation Scripps News"
+      },
+      {
+        "headline": "Fed should move policy 'with care' as it responds to inflation, Barkin says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2pkV1hRTWpneFJMd191WGQtaGRvMTUtR1dHZE9UMzNYZmpocWNLeEx2UDd6RHZEajNibW9NZ3FBUUpsdHBwdjJMUjd4M0ZTNm1ib3huSXpneUpJY25FUFdabFRWZUZOQ3MxQWEwZDZ5SENvMmtfaU1ZQnlPenYxT0tiUFg3RmtzU0prYS1PNFp2X2I3U2phRXBFRGQ5c2kwUlF0Mmg0cUxDM2ZoamxTUQ?oc=5",
+        "source": "Business & Economy",
+        "summary": "Fed should move policy 'with care' as it responds to inflation, Barkin says Reuters"
+      },
+      {
+        "headline": "Economic updates will offer clarity on U.S. inflation trends - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0R5b0tsYVFKODVsbVlmWWdMSHhNbHJxNHlNZ2MxbTkyeE9vSWtvMkRyR1I0ZGUzdlhidWxJeEY0N1NrbVY3dzdUWmtuY0hFb09fQlV6cVhXay1ObFJ2U2Q3MUNPVkxBMGJGV3c4RVlQRTFETzFURWpIRWZCd2xXa1FGNGE5MGFrSDQ2dzlJNVl3RlRJ?oc=5",
+        "source": "Business & Economy",
+        "summary": "Economic updates will offer clarity on U.S. inflation trends Yahoo Finance"
+      }
+    ],
+    "Society & Culture": [],
+    "Sports": [
+      {
+        "headline": "College Football Playoff expansion winners and losers, from fans to bowls to the Big Ten - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa21iWm1Xd28xaFlBZml6RXpVMjA5czlGRGxvQndsRkl3dGlpY0c5R28wUXYwV3doZFc3aFNTOG1oeGE2VXRMSjEyZmxoNldXckIwUDkzVVUza1psVEtTOUtRakRzbnV3ZXVsVnZmWVp5VXlMTGZKdjA1TEIwQUxGZDZvcXg2MTVkWlp0Vmc1OFZpZDZkTC1NTktMb0JVV1FFYlloMw?oc=5",
+        "source": "Major Sports",
+        "summary": "College Football Playoff expansion winners and losers, from fans to bowls to the Big Ten The New York Times"
+      },
+      {
+        "headline": "Goodbye, conference championship games. CFP expansion will end a college football tradition - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd21MMXhvdmtDM2QxSWdYcnRjSDNvejFJenJ0aDdpYTBVWF80VERGYnd5blZCWnNDU2FoZGVodUFDUGktZFNMTlRUM2ZDRTYtTzdxMm5qVUFFdFRDQjlUNHJGa2x0MEoyMlZrb3RjczRaUHV3SHo1U2xXWXdHWU1NZV9uU1BSbmFIUlhMV3NuSUZrczNGQ1ZJYVhDQ2F5bEE?oc=5",
+        "source": "Major Sports",
+        "summary": "Goodbye, conference championship games. CFP expansion will end a college football tradition The New York Times"
+      },
+      {
+        "headline": "College Football Playoff decides to double down and a 24-team playoff is set for next season - FOX Sports",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWjFma2otTG5EcVB6S1J1bGhCV20xcEdWdmZPWVR4U0Z6RXVOckFWTDdIdlZ6Q3FLX0QyLUdJalNfT0szbHhpcGdSbVZhN2xKYWRueVpVWGZ1M2c1SUhmZlBWU2RybzJqNWV3a3FPX2Y4OUtQRDB0WF9zdHd1TkNmTDNYTkJtMXdlNy1xcXh6cUY5c3hRNlZudzlnVmVEa1I5eHZvUXF4UV9oMUliMEcyRkQyaWpnSUhVbG54SzNEN1ltNVJ5S1l3cmln?oc=5",
+        "source": "College Sports",
+        "summary": "College Football Playoff decides to double down and a 24-team playoff is set for next season FOX Sports"
+      }
+    ],
+    "Good News": [
+      {
+        "headline": "Lucky Bird Found in Storm Drain a Mile From Home After Passing Driver Happens to Spot it Hopping in",
+        "url": "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/",
+        "source": "Good News Network",
+        "summary": "A pet budgie that vanished when a storm blew open a kitchen window was found hiding in a storm drain a mile from home. Luna made her great escape from owner Cimberley Frost\u2019s home in Northampton, England when strong winds following Storm Boelo forced open a window and she flew away. But the tiny bird\u2019s [\u2026] The post Lucky Bird Found in Storm Drain a Mile From Home After Passing Driver Happens to Spot it Hopping in appeared first on Good News Network ."
+      },
+      {
+        "headline": "Mayor Uses AirTag to Catch Capstone Thief who was Stealing 18th-Century Stones Across the Countryside",
+        "url": "https://www.goodnewsnetwork.org/mayor-uses-airtag-to-catch-capstone-thief/",
+        "source": "Good News Network",
+        "summary": "An English mayor-turned-detective solved the case of a thief who was looting $9,000 worth of historic capstones from a 300-year-old stone village wall\u2014and he used a hi-tech tracker and a little trickery. Around 30 stones went missing over a period of months from an 18th-century wall along a half-mile stretch of road leading into Rufford, [\u2026] The post Mayor Uses AirTag to Catch Capstone Thief who was Stealing 18th-Century Stones Across the Countryside appeared first on Good News Network ."
+      },
+      {
+        "headline": "Baby Saved After Racing Heartbeat Detected by Family Doberman",
+        "url": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/",
+        "source": "Good News Network",
+        "summary": "A baby\u2019s life was likely saved after his racing heartbeat was detected by the family dog\u2014that wouldn\u2019t stop crying. Kim Reynolds was confounded by her doberman\u2019s unusual \u201cneedy\u201d behavior around six-month-old Alexander. Saraya wouldn\u2019t leave the baby\u2019s side and cried every time he was taken away from her that morning. The boy later became upset [\u2026] The post Baby Saved After Racing Heartbeat Detected by Family Doberman appeared first on Good News Network ."
+      }
+    ]
+  }
+}
