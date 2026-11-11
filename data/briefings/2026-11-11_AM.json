@@ -1,148 +1,260 @@
 {
-  "generated_at": "2026-11-11T12:30:09.447063-05:00",
+  "generated_at": "2026-11-11T13:06:35.486652-05:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "Following big Democratic wins, these swing voters are looking for results",
-      "summary": "Swing voters checked by NPR expressed mixed emotions following the recent elections, highlighting uncertainties about the pending Democratic control of Congress. Their reactions reflect skepticism about whether promised changes will materialize amid complex political challenges.",
-      "why_it_matters": "Understanding swing voters\u2019 sentiments is crucial as they can influence future electoral outcomes and congressional priorities under Democratic leadership.",
-      "perspective_one": "Supporters believe Democratic control of Congress offers a chance to enact progressive policies and address voter concerns neglected by previous Republican majorities.",
-      "perspective_two": "Critics worry Democratic promises may falter due to internal divisions and legislative gridlock, leaving swing voters disillusioned and impacting future voter turnout.",
-      "uncertain": "It remains unclear whether Democratic leadership will deliver effective results to satisfy swing voters\u2019 expectations.",
+      "headline": "Congressional Oversight Following the Midterm Elections: A Spotlight on Committees - K&L Gates",
+      "summary": "Congressional oversight priorities are being set following the 2026 midterm elections, focusing on how key committees will investigate or respond to political and policy issues. This committee activity will shape legislative oversight and influence the balance of power in Congress during the coming term.",
+      "why_it_matters": "The oversight work of congressional committees determines accountability and policy direction on governance matters, affecting lawmaking and government transparency.",
+      "perspective_one": "Supporters see enhanced committee oversight as essential to checking executive power and ensuring government agencies follow the law.",
+      "perspective_two": "Critics argue that committee investigations may become politically motivated, undermining constructive governance and deepening partisan divisions.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-      "source": "NPR Politics",
-      "published": "Wed, 11 Nov 2026 09:19:42 -0500",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0hVZ0tKT2p6azFXR1lKcG5KVVZwRzdsZEJIeXN3SDFNX0g1eEZoREtNUVhKOVU5UDlHVUdySlQzU1JaVnpvdzhDN3RIVGFXeFdqQjB6bzB4Y2tlOWk3WENHa05FTldMYjNEUTBWcllJbUk1M2hfVXRZb3pFZVNSU3dqWDUyOS1IbUJMdTlVaGQwZlhuM0VLTUxEVDR3bS1VMGlyTnV4TVFySUEtNUYyVFNjNm9OSG5KZXExRTJmV3d5QXVGLXhZZnVfTDRVckF5?oc=5",
+      "source": "U.S. Politics",
+      "published": "Tue, 10 Nov 2026 18:41:40 GMT",
       "category": "U.S. Politics",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fcb%2Fbe76a06e4e18b09c5d3ff76cdaf8%2Fswing-shift-midterm.jpg",
+      "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Watch: BBC talks to Mississippi voters awaiting Senate result",
-      "summary": "Democrat Scott Colom maintains a razor-thin lead in Mississippi's Senate race despite the state voting overwhelmingly for Trump in 2024. This unexpected closeness challenges assumptions about political strongholds in traditionally conservative regions.",
-      "why_it_matters": "The near-tie outcome could signal shifting political dynamics in conservative areas, influencing future campaigns and party strategies ahead of national elections.",
-      "perspective_one": "Democrats see Colom\u2019s lead as evidence of growing support and opportunity to expand influence even in deep-red states.",
-      "perspective_two": "Republicans emphasize the state's conservative base and Trump\u2019s prior strong win, arguing this election\u2019s result may be an anomaly rather than a trend.",
-      "uncertain": "The final certified results remain pending, keeping the Senate seat outcome uncertain.",
+      "headline": "Bessent moves to a military base over safety concerns, an AP source says - Orlando Sentinel",
+      "summary": "Bessent has relocated to a military base citing safety concerns, as reported by an Associated Press source. The move reflects underlying security issues prompting individuals to seek protected environments.",
+      "why_it_matters": "This relocation highlights ongoing safety threats that can impact the security and wellbeing of individuals, signaling potential broader risks in affected areas.",
+      "perspective_one": "Those supporting the move emphasize the importance of immediate safety and stability in conflict-prone or dangerous environments.",
+      "perspective_two": "Others worry that such relocations may signal deteriorating security that could undermine community resilience and long-term stability.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/videos/crvg2xex290no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Wed, 11 Nov 2026 13:03:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZnB5N0NlLXd5ZVIwbGhjb2RweXdWUUNLT1pJV0tMMWZHR21Dbm9zOUNiajFjWWlPRkpIQkJfbWdDWmV1bFVNWnZqX3VfOXVsenY0YVppSWk3am1LWmNjT1hpVG9PeDZ6eDNxRzJVd2R1MTBQZHRlN1B0ZnpSMFFLNDVR?oc=5",
+      "source": "Associated Press U.S.",
+      "published": "Wed, 11 Nov 2026 17:44:34 GMT",
       "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66a8/live/610c8ee0-dd93-11f1-93e1-3b657b665bcf.jpg",
+      "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Negotiations in Abu Dhabi focused on establishing a post-war security framework for Europe but ended without agreement. US envoys plan separate meetings with Putin and Zelensky to continue discussions and seek progress.",
-      "why_it_matters": "Establishing a lasting security framework is critical to preventing future conflicts and ensuring regional stability in Europe after the Russia-Ukraine war.",
-      "perspective_one": "Western officials stress the need for a security arrangement that guarantees Ukraine\u2019s sovereignty and deters further Russian aggression.",
-      "perspective_two": "Russia demands recognition of its strategic interests and security concerns, seeking concessions that Western and Ukrainian leaders reject as undermining Ukraine\u2019s sovereignty.",
-      "uncertain": "The details and timing of future talks, as well as the prospect of reaching a durable agreement, remain unclear.",
+      "headline": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "summary": "Lina Attalah, editor-in-chief of Mada Masr, faces retrial on charges of \"publishing false news,\" risking imprisonment. The UN has issued warnings about increasing threats to press freedom in Egypt amid this case.",
+      "why_it_matters": "This case exemplifies the risks journalists face in authoritarian contexts, impacting global perceptions of human rights and media independence.",
+      "perspective_one": "Advocates for press freedom insist that prosecuting journalists for reporting undermines democracy and violates free expression rights.",
+      "perspective_two": "The Egyptian government maintains that laws against false news are necessary to protect national security and public order.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Wed, 11 Nov 2026 15:05:11 GMT",
+      "published": "Wed, 11 Nov 2026 13:25:47 GMT",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "STAT+: Pharmalittle: We\u2019re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more",
-      "summary": "Incoming Democratic congressional committee chairs are preparing to investigate most-favored nation (MFN) drug pricing agreements made during the Trump administration. These agreements are linked to a decline in new drug launches across Europe, raising concerns about access and innovation.",
-      "why_it_matters": "Scrutinizing MFN deals could affect drug pricing policies and availability, impacting pharmaceutical markets and patient access to new treatments.",
-      "perspective_one": "Democrats argue that investigating MFN deals is necessary to ensure drug prices are fair and that policies support innovation and access.",
-      "perspective_two": "Critics caution that overly aggressive investigations could disrupt pharmaceutical investments and delay the introduction of new medicines.",
+      "headline": "Ukraine\u2019s new drone blitz cuts Russian oil refining capacity by 30 percent - Atlantic Council",
+      "summary": "Ukraine has launched a drone campaign reducing Russian oil refining capacity by about 30%. This tactical effort aims to weaken Russia\u2019s fuel supply chain amid ongoing conflict.",
+      "why_it_matters": "Degrading Russia\u2019s refining ability limits its fuel supply for military and civilian use, potentially affecting its war capability and economy.",
+      "perspective_one": "Ukraine views these attacks as strategic operations to diminish Russian resources and pressure its war effort.",
+      "perspective_two": "Russia likely sees these strikes as illegal acts of sabotage threatening its industrial infrastructure and sovereignty.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
-      "source": "STAT Health & Medicine",
-      "published": "Wed, 11 Nov 2026 14:34:28 +0000",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlhmdTN4ZmVpSzdZQ0FxS0k5aTNob0hEbEVmaHBMNGY4Y3NpaFlCNmIzRHRvazBNa3pycEpEQ3lMMlNFaFhRX3NHelZIbndpTmlSN2ZXMG9yOVNxVWhuam5LRkVQWTRNSVA5N3NJWGZrU3NkdE5sclItU3RDYlgyZXdOeWF2WG9kLU1RcmlLanhIclgzTy13MEdVMWg5YjY0N1ZsRFRyUnowcmJjQ0RqcDdOY01mZnVkOTkta096MTBhQjQ?oc=5",
+      "source": "Conflicts & Security",
+      "published": "Tue, 10 Nov 2026 21:54:00 GMT",
+      "category": "Conflicts & Security",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/2023_Faith_Under_Fire_in_Russia%27s_War_on_Ukraine_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 U.S. Institute of Peace \u00b7 CC BY 2.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2023_Faith_Under_Fire_in_Russia%27s_War_on_Ukraine_-_1.jpg"
+    },
+    {
+      "headline": "Middle East War: 8 things UAE residents need to know tonight, November 11 - Gulf News",
+      "summary": "Gulf News compiles eight critical updates regarding ongoing Middle East conflicts as of November 11 for UAE residents. These include developments in regional military, security, and humanitarian conditions affecting daily life.",
+      "why_it_matters": "Understanding these updates helps residents prepare for security threats, travel advisories, and policy changes amid volatile regional tensions.",
+      "perspective_one": "UAE authorities stress the need for public awareness and preparedness amid escalating regional instability.",
+      "perspective_two": "Some residents express concern that constant war-related news affects their sense of normalcy and safety.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzFTTDBoX2d2NmZYYkdVY0ZqTHlpYWxKeWhmcWdiMDN1VHI2SzQ5ZjZueUhncXdpSVlONnd4T2lNUHRLS00tSGQxZThSNndQRGVUM2tvbGlYQkZIbnRVNTM0WlVxdUptMDI5bXhWeGp0OFdjRGdVTS1ZZDBuZlM0czM5Y2p5bGFla2JEb1F4VkpWaGZLZ1NGZW92R290Q3hCV1FFRnJZczRnV2hj0gG8AUFVX3lxTE5ZbnF3bnZnLXM0ck9LaC1QZVZBMkdmdkVzQ2xBWTV4WDJrQ01zdVU5RE5ES1JhY1BBMDhGYUE2bHVuaWxYbFdwS0ZrZlQ1VnJCbHh4eXZoNmFXZE56MFpmRzNFelA1amExWWJuWDQyS2JjUkFZdHJTWXQydFp3T0lLMEJxSHlqUkp3ZkZrNktYbloxWHJfUVBLck9sbW9va3I0eVRuU2dubF9jQ2ZHRS1VSjkxdzlsNzdjV0tF?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Wed, 11 Nov 2026 13:55:11 GMT",
+      "category": "Middle East Affairs",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "FDA requires new vision-loss warnings on popular GLP-1 medications - Tri-State Alert",
+      "summary": "The FDA has mandated vision loss warning labels for widely used GLP-1 receptor agonist drugs. This follows safety reviews suggesting these medications may have risks for certain eye conditions.",
+      "why_it_matters": "New warnings will inform prescribers and patients, potentially altering usage patterns and fostering monitoring for vision-related side effects.",
+      "perspective_one": "Healthcare providers support transparency to better manage patient safety regarding GLP-1 medications.",
+      "perspective_two": "Pharmaceutical companies worry warnings could reduce patient acceptance and sales of effective diabetes and obesity treatments.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGNwN1d2N3dUMFdyNGs3TXRsTzFobFZYQV80ckxGUENTZG56bk9OS0lDU2FrNkNKaW1EQ1VEVW1KM0cwY2s4UllIN2hBNENuSG5TS3NURjc3NFQ5UkNUMTViSjNzbXhpVThBQlItWFVPTDdtSHVKbEU0MldjYlZMeVhhVlpmUXFNTlg2RUxDTDhOSkM1M0hIOGxwdC0?oc=5",
+      "source": "Health & Medicine",
+      "published": "Wed, 11 Nov 2026 08:52:59 GMT",
       "category": "Health & Medicine",
-      "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Close Trump ally to lead House Republicans next year",
-      "summary": "Ohio\u2019s Jim Jordan, co-founder of the Freedom Caucus and a close ally of Donald Trump, will become the House Republicans\u2019 leader when the new Congress convenes in January. His leadership signals a continuation of strong Trump influence within the GOP.",
-      "why_it_matters": "Jordan\u2019s leadership will shape Republican strategies in Congress, potentially intensifying partisan divisions and affecting legislative priorities on key national issues.",
-      "perspective_one": "Supporters believe Jordan will reinforce conservative policies and maintain Trump\u2019s agenda effectively within Congress.",
-      "perspective_two": "Opponents warn that his divisive approach could deepen polarization and hinder bipartisan cooperation on pressing challenges.",
+      "headline": "How political pressure on the AI industry could slow the development of artificial intelligence - NEWS.am TECH",
+      "summary": "Growing political scrutiny and regulation could slow AI development by imposing tighter controls and compliance costs on the industry. This dynamic may delay innovation timelines and alter competitive strategies across AI companies.",
+      "why_it_matters": "The pace and direction of AI technological progress affect economic growth, labor markets, and society\u2019s ability to adapt to new tools.",
+      "perspective_one": "Proponents of regulation stress the need to address risks from unchecked AI development, including ethical and safety concerns.",
+      "perspective_two": "Industry advocates warn that overregulation stifles innovation, reducing competitiveness and delaying beneficial applications of AI.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6035795/close-trump-ally-to-lead-house-republicans-next-year",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IUzRPWllZU0RGZW1DZVU2ZEZGZlFHSm1ud0R2akMxQng5LW00SERvdk1wWW9JRVZKbV9FaXZZa0JmZFdFNFFkUA?oc=5",
+      "source": "AI & Technology",
+      "published": "Wed, 11 Nov 2026 17:00:00 GMT",
+      "category": "AI & Technology",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Group_Photograph_Mastering_Gen_AI_Bootcamp_by_WikiClub_Tech_UU.png/1280px-Group_Photograph_Mastering_Gen_AI_Bootcamp_by_WikiClub_Tech_UU.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Shadabgdg \u00b7 CC0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Group_Photograph_Mastering_Gen_AI_Bootcamp_by_WikiClub_Tech_UU.png"
+    },
+    {
+      "headline": "Fed\u2019s Bowman warns CPI signals persistent US inflation pressures - FXStreet",
+      "summary": "Federal Reserve official Bowman has indicated that the Consumer Price Index data reflects ongoing inflation pressures in the US economy. This suggests inflation may not subside quickly, affecting monetary policy decisions.",
+      "why_it_matters": "Persistent inflation influences interest rates, consumer prices, and economic growth, impacting business investment and household budgets.",
+      "perspective_one": "Bowman and other Fed members argue sustained inflation requires cautious policy tightening to protect economic stability.",
+      "perspective_two": "Some economists caution that over-tightening could risk recession and job losses if inflation cools naturally.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDZMendwaTJxNnJCSXNsRkxaNi0wUHhRZXBBZW5EeW5Va2p5MnE0NWVGQUZfU0N5cTJsZmNyNGh0WHVYRDBOSjVManhMc0hyUTdJMkJuUzdZTG56d2JrTVFYVFhQeWNhM2V2MU9GVVRQYTl6VUtXeGE1TEZVcUt4REljQzF5a2VkUlJfRVozeW1vQVAtR1JWYlMyVFliSGoydWJYWDFwdXBOUQ?oc=5",
+      "source": "Business & Economy",
+      "published": "Tue, 10 Nov 2026 21:23:34 GMT",
+      "category": "Business & Economy",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Only 35 Percent of Surveyed Latin American Healthcare Professionals Report Noma Awareness - Bioengineer.org",
+      "summary": "A survey found just 35% of Latin American healthcare professionals have awareness of noma, a severe childhood disease. This low knowledge level may hinder early diagnosis and treatment.",
+      "why_it_matters": "Insufficient awareness among healthcare providers delays care for noma patients, worsening health outcomes and mortality in affected populations.",
+      "perspective_one": "Public health advocates stress urgent training to improve noma recognition and response capabilities.",
+      "perspective_two": "Some practitioners cite limited resources and competing priorities as barriers to increasing disease-specific education.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlg2VDdISTdOYWY3R21rdjBFMDZrUGxPS2JnMFBLd1k5WmtRRW1WTG5jMk5yY3BQT2xzdmF3MkFQYjFXNXBnR3FJUUpLSERYanBBS1owcjZ0MUNWSWN6ZW12OE1feUlPWnU1Vm5hQkxGVE5PeHRwc0FlalBiWTVBM1BHY1RqbzNxd1llOEl3eWl5cHQwVmFpT2xIemQ3bG4xNkh5VUh0NXdWM3d0R2pzMGtjWWc?oc=5",
+      "source": "U.S. News Society",
+      "published": "Wed, 11 Nov 2026 07:00:35 GMT",
+      "category": "Society & Culture",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Peegs' Take: Instant Reaction to Indiana's No. 9 College Football Playoff ranking - 247Sports",
+      "summary": "Indiana University has secured the No. 9 spot in the College Football Playoff rankings. This achievement marks a significant accomplishment reflecting the team\u2019s performance in the current season.",
+      "why_it_matters": "Indiana\u2019s playoff ranking can influence postseason opportunities, recruitment, and program prestige in college football.",
+      "perspective_one": "Supporters celebrate the ranking as recognition of Indiana\u2019s rising competitiveness and program growth.",
+      "perspective_two": "Critics question if the ranking fully accounts for strength of schedule and consistency issues.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVWV4ZDlYeEwzV3NiRkNaeHdubEZXakFHZU1RTllqS3lkRDdGZ0xzT3NHYmZRSjRiQm1IcHZCajFmajF4SWNjWGxBTkFZMjJkYXF0NjlYaGhva1RzVWItczYtVmtrR2NiLTdXSHc0bmRTU3RqVm9NalpBRUVxMm1vSFhJLUNTU2RLQjV1US14ZFE0TzJoWlQ2VWZCaHd6ZVZvU1FLSXR3RWZyN2p4V2tuTXFsc1E3YjQ4WTBXZGIyQ2ZIdmVUUUwtQmJKRFZjNmNtaTVpQXVZeDFSdGtH?oc=5",
+      "source": "College Sports",
+      "published": "Wed, 11 Nov 2026 04:46:32 GMT",
+      "category": "Sports",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Brown Bear Population in Spain Doubles With Incredible Increase of its Breeding Range",
+      "summary": "Spain\u2019s Cantabrian brown bear population has doubled over 20 years to approximately 370, expanding their breeding range to 6,500 square miles. This growth follows decades of conservation efforts reversing near extinction.",
+      "why_it_matters": "The recovery evidences successful wildlife protection policies, improving biodiversity and ecosystem health in northern Spain.",
+      "perspective_one": "Conservationists highlight this as a model showing that dedicated protection can restore endangered species populations.",
+      "perspective_two": "Some local stakeholders express concerns about increased human-wildlife conflicts as bear habitats expand into populated areas.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
+      "source": "Good News Network",
+      "published": "Wed, 11 Nov 2026 16:30:25 +0000",
+      "category": "Good News",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-Cantabrian-brown-bear-credit-Juan-Iacruz-CC-BY-SA-4.0.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "White House Warns Democrats Against \u2018Blatant Criminality\u2019 in Investigation Demands - WSJ",
+      "summary": "The White House has publicly cautioned Democrats against what it describes as \u2018blatant criminality\u2019 in their investigative demands. The warning underscores escalating tensions over congressional investigations into executive actions.",
+      "why_it_matters": "Such disputes affect the balance of power in Washington and the nature of bipartisan cooperation amid politically charged inquiries.",
+      "perspective_one": "The White House argues that some investigation tactics overstep legal bounds and aim to harass political opponents.",
+      "perspective_two": "Democrats assert that robust investigations are necessary to uphold government accountability and transparency.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUU9kcFZ0dGRnbExZc2ZqcEwxTVctTHpscUdwTzBPUWNjY21VVHZma2pTVXNoWW93dVlGNTF4MG1SZWl4YTBWS2FSSTk5cVZtOG5MakhDMmE1bVBSRms5bTJjam9FZWtwNjJ1bjh5SHNqaWdORXRmWTcxeHY3dGVIbkpucHp4dWM4bkt0Q1VpSnJXcjNtanV1NUxJdnVVZWE0RUp3US1nTzVEV3VCMDkwR0VWVTk0aUVwbm5tQmJvUmxkdm8?oc=5",
+      "source": "U.S. Politics",
+      "published": "Wed, 11 Nov 2026 15:05:00 GMT",
+      "category": "U.S. Politics",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Kennedys sue to block Trump's arch",
+      "summary": "Descendants of President John F. Kennedy have filed a lawsuit to block President Trump\u2019s plan to build a monumental arch near Arlington National Cemetery. They argue the project is inappropriate and could disrespect the site\u2019s solemn significance.",
+      "why_it_matters": "The legal dispute raises questions about historic site preservation, presidential legacy, and public space use near a national landmark.",
+      "perspective_one": "The Kennedys emphasize protecting Arlington\u2019s integrity and opposing politicization of memorial grounds.",
+      "perspective_two": "Trump\u2019s supporters maintain the arch symbolizes national pride and honors his presidential achievements.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch",
       "source": "NPR Politics",
-      "published": "Wed, 11 Nov 2026 05:02:52 -0500",
+      "published": "Wed, 11 Nov 2026 05:02:58 -0500",
       "category": "U.S. Politics",
       "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "US inflation higher than expected in October - here's what is happening with prices",
-      "summary": "US consumer prices rose by 0.4% in October, driven primarily by increases in shelter, food, and energy costs. This inflation rate exceeded economists\u2019 expectations and raises concerns about persistent cost pressures.",
-      "why_it_matters": "Higher inflation affects household budgets, monetary policy decisions, and economic stability, influencing interest rates and consumer spending.",
-      "perspective_one": "Some economists view the inflation rise as a temporary effect from supply chain issues and seasonal factors, likely to moderate soon.",
-      "perspective_two": "Others warn that sustained price increases could necessitate more aggressive Federal Reserve rate hikes, risking economic slowdown.",
-      "uncertain": "The extent to which inflation will persist or subside remains uncertain.",
+      "headline": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+      "summary": "Kenya has discharged its last Ebola patient and initiated a 42-day countdown required before declaring the country Ebola-free, provided no new cases appear. This marks a critical step in eliminating the outbreak.",
+      "why_it_matters": "Achieving Ebola-free status allows Kenya to relax emergency measures and resume normal public health activities, reducing social and economic disruption.",
+      "perspective_one": "Health officials highlight this milestone as evidence of effective outbreak response and surveillance.",
+      "perspective_two": "Some experts caution vigilance remains essential to prevent resurgence from undetected cases or cross-border infections.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Tue, 10 Nov 2026 14:45:46 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "summary": "Indonesia\u2019s vice president has resigned, coinciding with growing tensions between the ruling coalition and predecessor Joko Widodo. This development signals potential instability within the country\u2019s political leadership ahead of upcoming elections.",
-      "why_it_matters": "The resignation could weaken the current government\u2019s position, disrupt policy continuity, and influence Indonesia\u2019s political stability and economic prospects.",
-      "perspective_one": "The ruling coalition views the resignation as a challenging but manageable disruption that can be addressed through political negotiations.",
-      "perspective_two": "Opposition figures see it as evidence of deep fractures that may undermine government effectiveness and open opportunities for political change.",
-      "uncertain": "It is unclear how the ruling alliance will reorganize and whether tensions will escalate further.",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Wed, 11 Nov 2026 16:38:07 GMT",
+      "published": "Wed, 11 Nov 2026 12:53:11 GMT",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1675/live/f68a02b0-ddcd-11f1-b441-2b33b063138f.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Spain's first general strike in 14 years demands solutions to housing crisis",
-      "summary": "Spanish workers went on a nationwide strike demanding government action to resolve the housing crisis just weeks before a critical national election. The strike reflects widespread public frustration over affordability and availability of housing.",
-      "why_it_matters": "The strike pressures political leaders to prioritize housing reforms, potentially influencing election outcomes and social policy directions in Spain.",
-      "perspective_one": "Strikers and supporters argue that urgent government intervention is essential to prevent worsening homelessness and social inequality.",
-      "perspective_two": "Critics warn that some proposed measures could disrupt the housing market and discourage investment in property development.",
-      "uncertain": "Uncertainty remains about the government's willingness and ability to implement the demanded reforms effectively.",
+      "headline": "Houthis target Sanaa bakeries to fund war effort - Arab News",
+      "summary": "Houthi forces have been targeting bakeries in Sana'a to extract funds supporting their war effort. The campaign pressures local businesses and affects civilian food supplies.",
+      "why_it_matters": "Attacking bakeries risks worsening humanitarian conditions, including food shortages, while fueling conflict financing.",
+      "perspective_one": "Houthis claim these levies are wartime necessities to sustain military resistance.",
+      "perspective_two": "Critics argue targeting civilian infrastructure violates humanitarian principles and exacerbates public suffering.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-      "source": "NPR World",
-      "published": "Wed, 11 Nov 2026 04:54:54 -0500",
-      "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8131x5421+0+0/resize/8131x5421!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F32%2Fad13dccd44069fda1f1d1f9ca88f%2Fap26315267782087.jpg",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQVhMdkJvQURjNU1QcXM2RkdQTzhoMkNUZzJUU0dBTkl3aWZ4X3hJZU5sTlJfdG1ITG45TDc0Z0NzMlQzXzVicGlrTGFpaTZPZ1FDNmY5d2FwRFFfWDdWbkFXRXp0bTBDcEVGV3FPSm8tYkhvemdObnljR0o2UGJ3T3ozeWlYRUJwR3E3a3lqNzk5N1VRclBtYQ?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Wed, 11 Nov 2026 07:38:37 GMT",
+      "category": "Middle East Affairs",
+      "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
-      "summary": "Senator Cassidy announced a key Senate vote on Heidi Overton\u2019s nomination to lead the FDA but indicated he and other GOP lawmakers remain undecided. The uncertainty reflects concerns about Overton\u2019s suitability and policy positions.",
-      "why_it_matters": "The FDA commissioner\u2019s leadership will influence drug approval processes, regulatory policies, and public health initiatives in the U.S.",
-      "perspective_one": "Supporters believe Overton\u2019s nomination brings needed expertise and a strong commitment to public health priorities.",
-      "perspective_two": "Critics highlight uncertainties about her stance on regulatory issues and question whether she will maintain scientific rigor.",
-      "uncertain": "It is unresolved whether Overton will secure Senate confirmation given divided opinions among lawmakers.",
+      "headline": "COMMENTARY: Trump\u2019s Iran war pause is as costly as new strikes - Reuters",
+      "summary": "A Reuters commentary states that former President Trump's pause in actions against Iran is causing costs comparable to new military strikes. The analysis suggests that halting attacks may prolong conflict and instability.",
+      "why_it_matters": "The strategic pause impacts U.S.-Iran relations, Middle East security dynamics, and the calculation of conflict costs.",
+      "perspective_one": "Some argue pauses reflect a tactical effort to avoid escalation and buy diplomatic time.",
+      "perspective_two": "Others contend such pauses embolden Iran and fail to deter adversarial behavior effectively.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
-      "source": "STAT Health & Medicine",
-      "published": "Wed, 11 Nov 2026 15:07:28 +0000",
-      "category": "Health & Medicine",
-      "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26267649095665-1024x576.jpg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5",
+      "source": "Reuters Middle East",
+      "published": "Wed, 11 Nov 2026 07:00:00 GMT",
+      "category": "Middle East Affairs",
+      "image": "",
       "image_credit": "",
       "image_source": ""
     }
@@ -150,22 +262,22 @@
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "Kennedys sue to block Trump's arch",
-        "url": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch",
-        "source": "NPR Politics",
-        "summary": "Descendants of President John F. Kennedy are asking a judge to block President Trump's monumental arch near Arlington National Cemetery."
+        "headline": "What a Democratic Congress is Likely to do on Foreign Policy - Just Security",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczNGM3diSm0zOGc0WjEzcHNfcG1RajFhd0hHbGVXN3NiTy1XTGUyUzkwM2ZOTnBhaVVLekE1NWpqaTZUN1JDX2JvMFpXaGpsMjJpdlFZWUVJbEZRLUFsS0dMd3RfSW1xUTVKSzJiQmcyZ2l1ZzhBMkpjanYtcHJNcG5BaXBfS0Zr?oc=5",
+        "source": "U.S. Politics",
+        "summary": "What a Democratic Congress is Likely to do on Foreign Policy Just Security"
       },
       {
-        "headline": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-        "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-        "source": "NPR Politics",
-        "summary": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery."
+        "headline": "Midterms: Will the Supreme Court Heed the Returns? - Washington Monthly",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSE55WEtzTjNEcmRaem4xYXotX29BMmxmUWVkUUdtbko0bjB0Z2xsZ0Z2XzRGeS0zNThLOTA0eGlqTWJ2SHYyVkhIdjgzTWFYZThJcEMyMVQ5ZVpLZUJreHVTSVV2ZDFDVzMwZ1NPMGZUMy05U3o3a2xMaHJVSFJGUmN0Q2l5cHY1RnFWd0tSVTl0MWYxa0kta1BYUWpYUXMxdkdBLW1wZw?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Midterms: Will the Supreme Court Heed the Returns? Washington Monthly"
       },
       {
-        "headline": "What's behind Democratic Socialists' historic victories in the midterms?",
-        "url": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-        "source": "NPR Politics",
-        "summary": "Historian and The New Yorker writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence."
+        "headline": "House tables Hegseth impeachment, effectively killing it in current Congress - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmt3eGdDMWZDTmxsWDBCLXhBMnZDNUJfLWhRdl9UQ0R1RzdJbW16UlVGRWRyNzBFVnJuMHcwdHdiNEl6RDZRVFRaTE5sdktPalg5a1dEbURoTGlqMm45N3oyUkM3bnZUb2ZsY3FoeXV6Z0xzS1RZTlNwRS1GWlRFSFhySWJnOVZycDVMeGtkbkpZVUVJbXV4d19PS0ZyRDA?oc=5",
+        "source": "USA Today Politics",
+        "summary": "House tables Hegseth impeachment, effectively killing it in current Congress ABC News - Breaking News, Latest News and Videos"
       }
     ],
     "U.S. News": [
@@ -182,58 +294,172 @@
         "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns."
       },
       {
-        "headline": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-        "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC U.S.",
-        "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month."
+        "headline": "Analysts weigh how Democrats\u2019 midterm wins could shift Trump\u2019s Latin America policy - Sun Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lMTZnbHRlUmZraGR0XzRpcm1zSUNUeVVGbWFJY0NaNjhYckdOUXpTVWhKbVpvZ0VLXy1Dcl9UcllqQWo1SkRiS0wtR21fS3EzLTlQTmVhUXdHeXR2cWFvR0xFMkdNMVIyMlRaazNfR0ZOaTNQaHBQWDBfSEg0ZTA?oc=5",
+        "source": "Associated Press U.S.",
+        "summary": "Analysts weigh how Democrats\u2019 midterm wins could shift Trump\u2019s Latin America policy Sun Sentinel"
       }
     ],
     "World News": [
-      {
-        "headline": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-        "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment."
-      },
-      {
-        "headline": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-        "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded."
-      },
       {
         "headline": "'It can kill us': Kenyans fear impact of El Ni\u00f1o with floods predicted",
         "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "summary": "Forecasters warn that this year's El Ni\u00f1o could be one of the strongest on record, with heavy rain and flooding in Kenya."
+      },
+      {
+        "headline": "Iranians selling livers & testicles on \u2018Kidney Street\u2019 to survive economic crash - The Sun",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmY0tyUUUwZkJoOWpTelZlc0wzZThDX0hmRDZnSUxIbXl0VHZrY0hjX3JWMlF1NDFTYmdFY25ybG5DR2lmbG5TSHQ3dlNSUzcyc0JwbVlVWnY1RnNEaURPWDJNYW1LQ0c4c3ZiQkY2M3FydnJfQ0RIVG1DTXo4c1U?oc=5",
+        "source": "Associated Press World",
+        "summary": "Iranians selling livers & testicles on \u2018Kidney Street\u2019 to survive economic crash The Sun"
+      },
+      {
+        "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
       }
     ],
     "Conflicts & Security": [],
-    "Middle East Affairs": [],
-    "Health & Medicine": [
+    "Middle East Affairs": [
       {
-        "headline": "A new tactic in the war over out-of-network bills: Health care providers are suing employers",
-        "url": "https://www.statnews.com/2026/11/11/no-surprises-act-phi-health-air-ambulance-sues-employers/?utm_campaign=rss",
-        "source": "STAT Health & Medicine",
-        "summary": "Providers increasingly are suing employers, claiming they are responsible for out-of-network medical bills that insurers haven\u2019t fully paid or have delayed paying."
+        "headline": "Iran war live: US embassy in Saudi Arabia warns of escalating Houthi attacks - Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Iran war live: US embassy in Saudi Arabia warns of escalating Houthi attacks Arabian Business"
       },
       {
-        "headline": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds",
-        "url": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
-        "source": "STAT Health & Medicine",
-        "summary": "A newly proposed way of identifying obesity could flip the diagnoses of millions of people. Proponents argue it could lead to more precise care."
+        "headline": "Middle East latest: Iran warns of domestic gas shortages from war this winter - The National",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1E2VFlpWERDcU1PanZ2RkFFbXN6OFJvZ2ljaUdxVjAzemJXZFlRcTFpMEZyc1FBWE9zQ1JWUy1kUHBpdHZYM2xUbDVWUHRiUEZLRjBFWGtYMUFYeExqQzdXa2lqbWl0clBvLVRXZGZqRzZ2Uk00WmlGT1hnSEZBdWFOa1ljT045RUthemFUcDhjdm1EODNtNDUtdW5SOWxpeFZPMQ?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Middle East latest: Iran warns of domestic gas shortages from war this winter The National"
       },
       {
-        "headline": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better",
-        "url": "https://www.statnews.com/2026/11/11/mdcalc-cofounder-graham-walker-on-crosscover-ai-prognosis/?utm_campaign=rss",
-        "source": "STAT Health & Medicine",
-        "summary": "In this edition of AI Prognosis: A conversation with Graham Walker, co-founder of MDCalc, about the company's new AI tool."
+        "headline": "Oil up 2% as Iran official says country will keep enriched nuclear material - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5",
+        "source": "Reuters Middle East",
+        "summary": "Oil up 2% as Iran official says country will keep enriched nuclear material Reuters"
       }
     ],
-    "AI & Technology": [],
-    "Business & Economy": [],
-    "Society & Culture": [],
-    "Sports": [],
-    "Good News": []
+    "Health & Medicine": [
+      {
+        "headline": "FDA to require vision loss warning on GLP-1 drug labels - Global News",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oVHlXWi1SZzEzdW1IemF0SjVlYXZvT0NhQzdZUlFnZWxObWhsMlZLRlI2RUZVOFBNY0JaV3NZa2NTNXRfTUhZOUJ6M0lXenN2aV9Uem9xUkpKalVDNWhwVHZQaFNNR3ZIYzlIdEFUZEhEOEk?oc=5",
+        "source": "Health & Medicine",
+        "summary": "FDA to require vision loss warning on GLP-1 drug labels Global News"
+      },
+      {
+        "headline": "FDA Approves Asundexian, First FXIa Inhibitor for Stroke Prevention - Drug Topics",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTQ0TkF6Y1dSRU9lZjVRTmJ4NmZUbEswc0JPRDlsZ1Jza2ZTN2pBZzc1RHZhT2FuTkE4elhrbDRDVURjRlpDNkRISHB1dTZYVXZqajRqdTRuWldPRlVacVRkZExpU01IUHBSNHF2dXRCdVBOM3NSdHhsRjJ5OXhKMFdET2RDdGs4d3pkNk4yeHhZUmRJX1Vaa1E0cDB3d2s?oc=5",
+        "source": "Health & Medicine",
+        "summary": "FDA Approves Asundexian, First FXIa Inhibitor for Stroke Prevention Drug Topics"
+      },
+      {
+        "headline": "Taking Ozempic or Wegovy? New eye warning raises questions in UAE - Gulf News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVhUV2pDWVVmY0M4NzlMcmxlUlBJNkc3SGxOa2hNU21FLURZT19jVFBDbjZ2eUJOS0VvOG5mcFZLN0lacElXOTFpNUdVVGp1aWFNazJ3VzVqRHl3R0lSY29YMGhiZWw0blBZWERGQ1pKQndEN3g0Wk9iTlpmWVpIcnlqalNnckVtaE9FelpNdGNrcjRRcG11aWg4VVh6TGZOeTBTQnlMTFdiNG1BT2VKb2UyWDnSAccBQVVfeXFMTzBtS01kZEhWSjZ3Tms4TWZpYkthODJnWTYxU1RTWUc2RUFrcDh0S2dJYXIwaGdpQmJLZW42QWR1Y1dfSXVqa3BpX3h6WnZET2hYZURqZXdzejJqejFDUmJERElmeGJQcjdJOFFZMGY1aGRGVkQ3SVJhVmFCR3VsZnNXUUlpZFlSU19YeUZ5LWQ5cnc4bTBINWotc21veGdNeTZnWDNQNTFheFRCclV1bTdxTWRkZUo3b1VyNnRlZTlkSnMwWm1pVQ?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Taking Ozempic or Wegovy? New eye warning raises questions in UAE Gulf News"
+      }
+    ],
+    "AI & Technology": [
+      {
+        "headline": "The 22nd Annual Globee\u00ae Awards for Technology Continue More Than Two Decades of Recognition Across All Technologies and Industries Worldwide - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTZLRXI2ZUdac2V6M1RNWE5aT3o5dW9OWmoxS1VZSEtLMFpSYTdpTC1kaFg3Z1FmVWFqVWNDY0RNbXdnMGstZFF2NTVyR2plUGRTNkM5b0FLeDlrckpRb19HalFRU3llVDUySW1VZjdkamlQbHBWSGdtQlFaeUdob0N1TlBXWlUtMFVDTVlWdWFNRFk1T09fNTNlM0JBQQ?oc=5",
+        "source": "AI & Technology",
+        "summary": "The 22nd Annual Globee\u00ae Awards for Technology Continue More Than Two Decades of Recognition Across All Technologies and Industries Worldwide Yahoo Finance"
+      },
+      {
+        "headline": "DXC launches London Digital Futures Academy with West Ham - IT Brief UK",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGRoWGkycDF6OWNhaGFXaHBaRkdCdFZRa3hvcE5FZHdJZHU5blY1NldUY0JocmhVNG82QkxGdVZXMFVMNlRGWkxoQ3J2TVgtNDlhcnUwNUg0MWdQdTBLa3BiQzNzN0xweDZDR0l2LUVtc2FUaDN0RmxkamNKM2hncFVGRWJZRzhtekpaSjRB?oc=5",
+        "source": "AI & Technology",
+        "summary": "DXC launches London Digital Futures Academy with West Ham IT Brief UK"
+      },
+      {
+        "headline": "2 Days Left: Final Call for Technology Executives to Join HMG Strategy\u2019s Inaugural Tennessee C-Level Summit at W Nashville - markets.businessinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOenNDWXh1Vm5UX05wTUVUa1FoY2xldDMyN1ZrVjhkZUVsUWNMMXBSNnNFSEQzZHFUdFE1WTRVdzVoRjIxUjZsc1lqTzVfQ2hiMVBxQmJ1ZndCOGxWOU1ndWFsQXItem4zamV0bEVmdzFNNEJRYnZSb3RyelgwNlI4dGJWQy1QMWl3YXIwSmEwQVlkZmlXRTFId2E0Z3BOb0cxdDc5aU9ZMDIwRVhqTG1mQTlRbE1UelZGeW5oNGdUVkYtdDVtOWtSYzFPcXZjNDRHa1doelBicHBIaWFfRUhfWGZRT0ZHaGZMcVNHNU5qNnhxTmx0WmVVaVZCZzlOS0NfUW8zTUhIV1ozZ09I?oc=5",
+        "source": "AI & Technology",
+        "summary": "2 Days Left: Final Call for Technology Executives to Join HMG Strategy\u2019s Inaugural Tennessee C-Level Summit at W Nashville markets.businessinsider.com"
+      }
+    ],
+    "Business & Economy": [
+      {
+        "headline": "AM Markets Need to Know: Fed faces inflation test, Anthropic IPO demand surges, and more - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMmtOdkIwTy1tOVVhamZXcjRSUWNyQVl3S05hd0djMFltdFprczRDYlBKa2FESmdwLVl5UFdyX3gxMlIwRE5zUUV4TlB6aDExTEI2MTMxM2J3S1JXRVhHRnBPMVFIVFBuSU92Y2R3Y1czY01kUzlIVEhMM0Faa3lsZjZQLXgtYmtmUE1CX3I2SHdhREZYTnRZbDN5M2hOV1NDZ1RvSzBQa3ZXSzBKbDJuRmpneWRhSU41OGlsMFI3OWxyaU05NGxfenExNXp5Tm1NZmJ3dEVtLWZnTE1BaDlwcDln?oc=5",
+        "source": "Business & Economy",
+        "summary": "AM Markets Need to Know: Fed faces inflation test, Anthropic IPO demand surges, and more TradingView"
+      },
+      {
+        "headline": "Gold Rebounds as US Inflation Keeps Rate-Hike Fears in Focus - Sada Elbalad English",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaFNOcldmUWRpNktMalZSMV85TjRsRk12YS1ZeXZGeUszWTRJWGVwUFVBaXA3VlVJXzRmTGhRbGJBLURlOHMxTlk1NGI2QUNKbG53blNFekRIRElILVpXTG83Sy1vZC1nUk56YnpPTkpxS3daUWtFbGtsYUJWVTh4STRBZw?oc=5",
+        "source": "Business & Economy",
+        "summary": "Gold Rebounds as US Inflation Keeps Rate-Hike Fears in Focus Sada Elbalad English"
+      },
+      {
+        "headline": "Hot US inflation report seals Federal Reserve rate increase - The National",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazZzN0dQYXRQSWlRcGF4a1lRSUhmRFNZd191WV9fZzIxZk5Rd0JrZkdjd2tnbWV1MzVuSy1WVFI4Vm5SNUJaR24wekdyQm50RTJuNVRyMTl2RjRDZjNFQVpfTXdtNTd1am00YndjbU5IQkh1WnJzSnF4aEpHRXdqTXhkUTkwTmxuNm9kSFdRdHd2alRYR3Z5Yy0wQXhfOGNncHhPT0c3ZThfeWRoa21R?oc=5",
+        "source": "Business & Economy",
+        "summary": "Hot US inflation report seals Federal Reserve rate increase The National"
+      }
+    ],
+    "Society & Culture": [
+      {
+        "headline": "Community Care of WV awarded nearly $1 million for healthcare workforce development - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWtGSU9rSUcwOXhUVXRONkJxYmw3Z0Z1blo2S3hzak95V2JSLVlkSTlpUF9zVWFRVVZFRVpLbEp6SGg0WFNNckFZVC1oV054VkJCV2RoOEM2UG5zWkNDMDFraXZJM3RXTHBQZU8za3ZuaDExb2RHdUxsNnBMZHgycjdsYTNsVlFYLXU1UXNKZw?oc=5",
+        "source": "U.S. News Society",
+        "summary": "Community Care of WV awarded nearly $1 million for healthcare workforce development Yahoo"
+      },
+      {
+        "headline": "Baby goat at Bengtson\u2019s petting zoo likely source of E. coli outbreak, health officials say - The Times Weekly",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbU0tb21pS2oyclVZTzM4c0x0NEdzdzdrYWUzb2R5NlNUT1p0c1Fxc093TTZpN2pTNnY2TFFWblg5cTlsTHljQThwSERiY0J3Q2ZWTXk1YVNRUmwwV2dDTVBqaFd1M1JfaGZleVMydURuV0c0Zy1CbURsTXgwVzVaSllZOEhlZmZRWFM1b09SSEoyX21hSjl2ZzFFRkUwanZJSjhuNW8xLWdLM2VjZkdtTEVUOXBvbk1WVHlGVk1oaEtrVXFJNFZjOFdSckFrdw?oc=5",
+        "source": "U.S. News Society",
+        "summary": "Baby goat at Bengtson\u2019s petting zoo likely source of E. coli outbreak, health officials say The Times Weekly"
+      },
+      {
+        "headline": "Retired Army Officer Earns Two Degrees While Navigating Family Health Challenges - Newswire",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHZ4ZjM0OUFsVWpZMkFMd0lSVjZTY2gxOXNFVWNqSF9OVXFZVVBYOVc2YmI4bUtneTFla2ZSTjRXVmpBQnpISkRRWlY1eHR3SXRsMVFpRlpNTUI5bU5SVlpYX3BGb181eFNzRlBuUmdwa29QUTFpQWNBZmJnSlhkVGdzNnAwc21ma3NEb1JOWG93bjNiSmtyOVhaYnhsdzlqbW1UMGFiNUt1YVdmRXhj?oc=5",
+        "source": "U.S. News Society",
+        "summary": "Retired Army Officer Earns Two Degrees While Navigating Family Health Challenges Newswire"
+      }
+    ],
+    "Sports": [
+      {
+        "headline": "College Football Playoff chaos: Which teams are officially cooked? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnYxRDdMSm5WMW9oRGV5Y0llem1hb0Fta1BMU2YzWlpXRmpQS2wyam5HTnBvVF82c0E3ZVFXQ2hsYmNocVlwdDRkQTN2UnJ3M2hjZlRGNTlCc2VDbmFnOW1oT3VkclVrUUxod3FnMDBTQzhTQVhTZTRwTmdjRzBUSjFERmdQTXZBaDdB?oc=5",
+        "source": "Major Sports",
+        "summary": "College Football Playoff chaos: Which teams are officially cooked? Yahoo Sports"
+      },
+      {
+        "headline": "College Football Playoff Bubble Watch after Week 10 - ABC7 Bay Area",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXduUkNYUHpCdkgwRXFNeWRleDUzRHlHX2N1Sk9SUkIzdG13RUhTOElCNXJfeGI4REM0WkMxVDVfMWhhWHkxdGxsaEdjU1dqWU1qWU1oQ19SaE5GcFcwczJxWl9yUmVGclJtM2xjVnhRY1JQeEo2bXd4a2MtcDlaMFV2V1V6cS1G?oc=5",
+        "source": "College Sports",
+        "summary": "College Football Playoff Bubble Watch after Week 10 ABC7 Bay Area"
+      },
+      {
+        "headline": "Indiana Hoosiers Sports News & Analysis - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMZk9YRVJZZU44dlZwa2V1YkFTU09OUkEwX3QxZENZZW0wTUV6cDVXdXk4WFJ3YWVlcmFwb3NfX0FKdmdFVEdlUmktMGQwd193NUNPSlJmeFZudmEtVHhueFFBSHpRMmxjYUh1bWRadw?oc=5",
+        "source": "College Sports",
+        "summary": "Indiana Hoosiers Sports News & Analysis USA Today"
+      }
+    ],
+    "Good News": [
+      {
+        "headline": "\u2018I pulled him out, I heard more screaming\u2019 \u2013 How a Cadet Saved a Father and Son from Drowning",
+        "url": "https://www.goodnewsnetwork.org/i-pulled-him-out-i-heard-more-screaming-how-a-cadet-saved-a-father-and-son-from-drowning/",
+        "source": "Good News Network",
+        "summary": "A merchant marine cadet has been hailed as a hero for saving a father who nearly drowned in a swimming pool while trying to save his drowning 25-year-old son. \u201cWhen I arrived at the pool, I saw the father floating face down,\u201d Zion Jerge said, recounting the rescue that took place near his home in [\u2026] The post \u2018I pulled him out, I heard more screaming\u2019 \u2013 How a Cadet Saved a Father and Son from Drowning appeared first on Good News Network ."
+      },
+      {
+        "headline": "Paralysis Could Not Stop Her: How This 84-year-old Made Good on Her Musical Promise",
+        "url": "https://www.goodnewsnetwork.org/paralyzed-woman-promised-to-return-and-play-piano-for-rehab-patients-she-kept-her-word/",
+        "source": "Good News Network",
+        "summary": "A piano player is giving back joy to the place that gave her back health. \u201cI came here as a patient, and now I can give something back,\u201d said 84-year-old Bonnie Fay, who first came to Bryn Mawr Village nursing home in Pennsylvania. Guillain-Barr\u00e9 syndrome, a rare disorder in which the body\u2019s immune system attacks [\u2026] The post Paralysis Could Not Stop Her: How This 84-year-old Made Good on Her Musical Promise appeared first on Good News Network ."
+      },
+      {
+        "headline": "\u2018Nothing short of a miracle\u2019 \u2013 Rescuers Find Boy with Autism Missing for 3 Days",
+        "url": "https://www.goodnewsnetwork.org/nothing-short-of-a-miracle-rescuers-find-boy-with-autism-missing-for-3-days/",
+        "source": "Good News Network",
+        "summary": "\u201cHe just walked right out of the bushes onto a horse trail.\u201d That\u2019s how one rescuer in Kentucky described the moment he spotted 6-year-old Roman Heilman, a boy with autism missing for 3 days. Jacob Mullins, a member of a local horse trailriding group, told the Lexington Herald Leader that he was only about a [\u2026] The post \u2018Nothing short of a miracle\u2019 \u2013 Rescuers Find Boy with Autism Missing for 3 Days appeared first on Good News Network ."
+      }
+    ]
   }
 }
