@@ -1,260 +1,166 @@
 {
-  "generated_at": "2026-11-14T11:09:05.661657-05:00",
+  "generated_at": "2026-11-14T11:45:11.132654-05:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "Samuel Alito Warns Congress Could 'Turn Off The Lights' At Supreme Court Days After Democrats Win Control - HuffPost",
-      "summary": "Supreme Court Justice Samuel Alito warned Congress could take actions that might effectively diminish the Court's authority soon after Democrats gained control of Congress. His statement highlights rising tensions and potential conflicts over the judiciary's future role and independence.",
-      "why_it_matters": "Alito's warning signals a possible clash affecting the Supreme Court's power balance and could drive significant legislative or institutional changes impacting U.S. governance and judicial independence.",
-      "perspective_one": "Alito and his supporters fear that Congressional Democrats might seek to limit or reform the Court aggressively, undermining its constitutional role and independence.",
-      "perspective_two": "Democrats argue they have a mandate to reform or check what they see as an increasingly partisan Supreme Court to restore public trust and balance.",
-      "uncertain": "The specific legislative or institutional responses Congress might take remain unclear.",
+      "headline": "Justice Alito warns against congressional action to defund the US Supreme Court - KOKI FOX 23",
+      "summary": "Justice Alito cautioned that attempts by Congress to defund the US Supreme Court could undermine judicial independence and the separation of powers. His warning followed ongoing political disputes over court reforms and funding. ",
+      "why_it_matters": "If Congress attempts to defund the Supreme Court, it could destabilize the judiciary's role and weaken constitutional checks and balances. ",
+      "perspective_one": "Supporters of maintaining court funding argue that defunding would threaten judicial independence and the balance among branches of government. ",
+      "perspective_two": "Critics who favor defunding believe it is a necessary response to perceived court overreach and political bias. ",
+      "uncertain": "",
+      "confidence": "Reported"
+    },
+    {
+      "headline": "Supreme Court to decide whether Trump can ban asylum applications at the border - Scripps News",
+      "summary": "The Supreme Court agreed to hear a case about whether former President Trump has the authority to ban asylum applications at the U.S. border. This case will address limits on executive power regarding immigration policy and asylum seekers. ",
+      "why_it_matters": "The Court's ruling will clarify the extent of presidential power over asylum rights, affecting legal protections for migrants. ",
+      "perspective_one": "Trump and supporters argue that banning asylum applications is necessary to control immigration and protect national security. ",
+      "perspective_two": "Opponents contend such bans violate U.S. and international asylum laws and deny vulnerable people due process. ",
+      "uncertain": "",
+      "confidence": "Reported"
+    },
+    {
+      "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will meet with Putin and Xi in China next week to discuss nuclear weapons reduction, marking an unprecedented trilateral summit. The talks aim to address global security challenges but raise questions about diplomatic dynamics. ",
+      "why_it_matters": "A summit involving these leaders could influence international arms control and shift geopolitical alliances significantly. ",
+      "perspective_one": "Supporters see the meeting as a chance to reduce nuclear risks and enhance global stability. ",
+      "perspective_two": "Critics worry that engagement may legitimize authoritarian leaders and undermine democratic alliances. ",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXc5akN5QlowZ0FiZ3Q4Uk80aE5TS1hlQU13bm5YYmpxVGZhVWJ4a09ZRWh6bi1HSnFJamx6WTdwWXJjT0dmQW5ENmhXSVgtY0RnUGdWOHFiQ1lmeTdTck1DMnhtYnRtZnl4N0RROElxQk1HMlk3RFZsM1hnTjNMcldmbF9vekFqMXRJd1pzQk9mN2JIakkwRFowWmJSWjRCaU1zYUFoNUFwN0RLbThNb2k3UUpwalRJSjVsZEJ30gHDAUFVX3lxTE56YzgtN1dVVEZmSUJhdlRVNnlhSUQxNGk0V25OdkZZdDBncWpKRFN2REdXbzJOdUU4WUJua2lvX2ZGLVRVZGpPNWNpYWx3X0FkalkzREktMmtUMmlZTnJLa2liUVF2cjBjbm05eVJQVVFBRFNqaTBCb3BMbHBqWDNmV3NMUG84Y2oxY2tIZTNuQnhaaGV0Vi1jTGUzaHhFTkQ3TkdWS3lEYnRVSzhHV2MtOEZJUDJJYzMxUDRzdGZfV1NtZw?oc=5",
-      "source": "U.S. Politics",
-      "published": "Fri, 13 Nov 2026 16:22:42 GMT",
-      "category": "U.S. Politics",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Kings Island WinterFest Nominated for USA Today Award - Hoodline",
-      "summary": "The Kings Island WinterFest event has been nominated for a USA Today award recognizing outstanding seasonal festivals. This nomination brings attention to its growing popularity and impact on local tourism and community engagement.",
-      "why_it_matters": "Recognition by a major national publication can boost WinterFest's profile, attracting more visitors and benefiting the local economy during the winter season.",
+      "headline": "IDF eliminates over 10 terrorists in Gaza, including October 7 attackers - Israel National News",
+      "summary": "The Israeli Defense Forces killed more than 10 terrorists in Gaza, including those involved in the attacks on October 7. These strikes are part of ongoing military operations targeting militant threats. ",
+      "why_it_matters": "Removing these militants aims to reduce immediate threats to Israeli security and civilians. ",
+      "perspective_one": "Israel emphasizes its right to self-defense against terrorism threatening its citizens. ",
+      "perspective_two": "Palestinian groups and supporters view these actions as collective punishment and escalate the conflict further. ",
+      "uncertain": "",
+      "confidence": "Reported",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/1948_Arab-Israeli_War_997008137089005171.jpg/1280px-1948_Arab-Israeli_War_997008137089005171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Benno Rothenberg \u00b7 CC BY 4.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:1948_Arab-Israeli_War_997008137089005171.jpg"
+    },
+    {
+      "headline": "18 Arab, Islamic nations condemn Israeli strike on Gaza's Nasser hospital, warn of ceasefire threat - The Times of India",
+      "summary": "Eighteen Arab and Islamic countries condemned the Israeli strike on Gaza\u2019s Nasser hospital, warning it endangers ceasefire prospects. They urged international action to prevent further escalation of violence. ",
+      "why_it_matters": "This condemnation heightens regional tensions and complicates efforts toward ceasefire and conflict resolution in Gaza. ",
+      "perspective_one": "Arab and Islamic nations argue the strike violated humanitarian law and worsened the humanitarian crisis. ",
+      "perspective_two": "Israel maintains such strikes target militant operations embedded within civilian sites, viewing them as necessary for security. ",
+      "uncertain": "",
+      "confidence": "Reported"
+    },
+    {
+      "headline": "FDA Flags Potential Vision Loss Risk Linked To Ozempic, Wegovy And Zepbound - Blavity News",
+      "summary": "The FDA has issued warnings about potential vision loss risks associated with diabetes and weight loss drugs Ozempic, Wegovy, and Zepbound. It highlights the need for monitoring patients for early eye-related side effects. ",
+      "why_it_matters": "This alert could influence prescribing practices and patient safety protocols for these widely used medications. ",
+      "perspective_one": "Regulators emphasize caution to prevent irreversible vision damage through vigilant monitoring. ",
+      "perspective_two": "Pharmaceutical companies argue benefits outweigh risks if managed properly, and adverse events are rare. ",
+      "uncertain": "",
+      "confidence": "Reported"
+    },
+    {
+      "headline": "C3.ai vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027? - The Globe and Mail",
+      "summary": "Analysts compare technology stocks C3.ai and SentinelOne to assess their investment potential for 2027 based on growth prospects and market positioning. The analysis weighs AI capabilities against cybersecurity demand trends. ",
+      "why_it_matters": "Investor decisions about AI versus cybersecurity stocks will shape capital flows and innovation directions in technology sectors. ",
+      "perspective_one": "Proponents of C3.ai highlight growth in AI applications as a long-term driver of value. ",
+      "perspective_two": "Supporters of SentinelOne stress increasing cybersecurity threats requiring advanced defenses as a critical market opportunity. ",
+      "uncertain": "",
+      "confidence": "Reported"
+    },
+    {
+      "headline": "US Feds Jefferson says inflation will be key to future interest rate decisions - The Tribune",
+      "summary": "Federal Reserve official Jefferson stated that inflation levels will be the primary factor guiding upcoming interest rate adjustments. This signals ongoing vigilance in monetary policy to balance economic growth and price stability. ",
+      "why_it_matters": "Interest rate decisions directly impact borrowing costs, consumer spending, and overall economic activity in the U.S. ",
+      "perspective_one": "Some policymakers prioritize taming inflation quickly to avoid long-term economic damage. ",
+      "perspective_two": "Others warn that aggressive rate hikes could slow growth and increase unemployment. ",
+      "uncertain": "",
+      "confidence": "Reported"
+    },
+    {
+      "headline": "The Lakers Are Off to Their Best Start Since the 2020 Championship Season With an 11-2 Record - Los Angeles Sports Nation",
+      "summary": "The Los Angeles Lakers have started their season with an 11-2 record, their best since the 2020 championship year. This strong opening raises expectations for another successful campaign. ",
+      "why_it_matters": "A robust start improves the team's playoff prospects and solidifies fan and sponsor confidence. ",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported"
+    },
+    {
+      "headline": "Heroic Bravery of Woman who Hid Troops from Nazis in WWII Revealed in Diaries 40 Years After her Death",
+      "summary": "Diaries uncovered 40 years after her death reveal British shopkeeper Ada Le Poidevin's bravery in sheltering Allied commandos from Nazis during WWII on Guernsey. Her story highlights civilian courage under occupation. ",
+      "why_it_matters": "Documenting such acts preserves historical memory and honors resistance against tyranny during WWII. ",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3p0SGNQUmJTUW9FOS0wMUQybWwxR1pZYlFZLVBNVHhnU0xDekNhSHhrU19qejNMMkpnMXlremoyd0Z1YjNBUm5HdDEwdXJMV21DME9sRXZVaFFaODNnc1JhRFVZcjRnVXpsQzhQb1ZPQTF0RlVpQkRDd1o1Ny1uZUN1X3Z6YjljbVM1RXg2NzNtb3VKeHpraS12LXR0LWRwSjZaQ1VENnJxa3JuUzhHcnJEaw?oc=5",
-      "source": "USA Today U.S.",
-      "published": "Sat, 14 Nov 2026 12:55:06 GMT",
-      "category": "U.S. News",
-      "image": "",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Ada-Le-Poidevin-during-WW-and-niece-Liz-Walton-SWNS.jpeg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "Ukrainian President Volodymyr Zelensky revealed that US envoys proposed Ukraine could cede the Donbas region as a condition for NATO membership. This suggestion is part of diplomatic efforts to broker an end to the Russia-Ukraine conflict.",
-      "why_it_matters": "The proposal demonstrates shifts in Western diplomatic strategy and could significantly reshape Ukraine's territorial integrity and regional security balance.",
-      "perspective_one": "Some Western policymakers see ceding Donbas as a pragmatic step to achieve peace and Ukraine's Euro-Atlantic integration.",
-      "perspective_two": "Ukrainians and their supporters argue that surrendering territory undermines sovereignty and sets a dangerous precedent for international law.",
-      "uncertain": "The extent of Ukrainian government acceptance and NATO's willingness remain unclear.",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sat, 14 Nov 2026 15:15:57 GMT",
-      "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-      "image_credit": "",
-      "image_source": ""
+      "headline": "White House Counsel Threatens Democrats With Criminal Investigations Over Congressional Oversight - Davis Vanguard",
+      "summary": "The White House Counsel has threatened Democratic lawmakers with criminal investigations in response to Congressional oversight efforts. This escalation reflects heightened tensions between the executive branch and Congress. ",
+      "why_it_matters": "Such threats could intimidate legislators, impacting the balance of power and future government accountability. ",
+      "perspective_one": "The White House argues that investigations may constitute harassment and political overreach. ",
+      "perspective_two": "Congress Democrats view oversight as essential to check potential executive misconduct. ",
+      "uncertain": "",
+      "confidence": "Reported"
     },
     {
-      "headline": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
-      "summary": "Israel and the US launched military strikes in Iran, marking a renewed phase of conflict in the region. These actions escalate tensions and pose risks for broader regional destabilization.",
-      "why_it_matters": "Renewed war activities threaten regional stability and could draw in multiple countries, affecting global security and energy markets.",
-      "perspective_one": "Israel and the US view these strikes as necessary preemptive measures to counter Iranian threats and missile developments.",
-      "perspective_two": "Iran condemns these attacks as violations of sovereignty and warns of retaliation, deepening the conflict cycle.",
-      "uncertain": "The potential for escalation or diplomatic resolution remains unresolved.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Sat, 14 Nov 2026 13:13:30 GMT",
-      "category": "Conflicts & Security",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "headline": "As Congress Plans Investigations, White House Prepares Ferocious Response - The New York Times",
+      "summary": "As several Congressional investigations are planned, the White House is preparing a robust and confrontational response. This escalation threatens to deepen partisan conflicts over executive accountability. ",
+      "why_it_matters": "An aggressive executive response could hinder legislative oversight and strain government functionality. ",
+      "perspective_one": "Congress insists investigations are necessary to maintain checks on executive power. ",
+      "perspective_two": "The White House warns such probes risk politicizing governance and disrupting administration operations. ",
+      "uncertain": "",
+      "confidence": "Reported"
     },
     {
-      "headline": "T\u00fcrkiye, 17 other countries condemn Israeli strike on Gaza hospital, urge ceasefire compliance - Anadolu Ajans\u0131",
-      "summary": "T\u00fcrkiye and 17 other nations condemned Israel's airstrike on a Gaza hospital, calling for respect of the ceasefire agreement. This collective response marks rising international condemnation amid escalating Gaza conflict casualties.",
-      "why_it_matters": "The condemnation could increase diplomatic pressure on Israel to halt hostilities and respect ceasefire terms, impacting humanitarian conditions in Gaza.",
-      "perspective_one": "The condemning countries argue the strike violated international law and worsened humanitarian suffering, demanding accountability and ceasefire adherence.",
-      "perspective_two": "Israel defends strikes as targeted responses to militant threats, emphasizing security motives and contesting civilian casualty characterizations.",
-      "uncertain": "Whether international pressure will change Israeli military strategy or ceasefire enforcement remains uncertain.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaWtFZ1hleDVRRkpLa2ptWU5QM0pESFdGQ1hxTEtxVFVITzJTSEE2QW9WMXZ5X3pCMmcweGs3OG5IZHFhWEV0NHctekVHVFN2cVlXUWVjRnNyNlgzRlM3YjZhLXNrRHJzVUNoOWZGY3Q0c0cwdDFMRHlpYTVNYnZSU3d5YlRqaEd5VEJSS3BVbzR3VWlWdEpSUDZyc2szRDNHNUJkdmhEbFg0eHhVb1lDdENjSy1HUHg0SDd6dl9wWF9ZXzNSaHE4NA?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sat, 14 Nov 2026 13:33:42 GMT",
-      "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "This cancer drug is a breakthrough. FDA must fast-track it | Opinion - USA Today",
-      "summary": "A new cancer drug described as a breakthrough is being urged for fast-track approval by the FDA. Advocates argue it could significantly improve treatment options, but regulatory action timing remains a key concern.",
-      "why_it_matters": "Accelerating FDA approval could allow earlier patient access to potentially life-saving therapy, impacting cancer treatment paradigms and survival rates.",
-      "perspective_one": "Proponents emphasize the drug's innovative mechanism and urgent patient need, supporting expedited review to save lives.",
-      "perspective_two": "Critics caution that thorough safety and efficacy evaluations are essential to prevent unforeseen risks from rushed approval.",
-      "uncertain": "FDA\u2019s fast-track decision timeline and final approval status are still pending.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUw3MXVCNF9YVG5NUXJXTUFtR3RqWUpqUURhdjZCTWJWa1RLQ2JvTC1TemZjOXV6Y1NTMmNIaU5Qa0ZwWUVkTHlaMGpYSVpCYzNBZmJRdzU4bHBvY056NU5Rb2tMUXVjaWR5ZGRIbkdYREd2N0xLS1JYN25iQ0EzNmdpby1kek9JN3d5RXYtSlU1X2ZQZkkxOENpYTVrMVM0M080TVpZOEVXX3pZUWRXRkNDZw?oc=5",
-      "source": "Health & Medicine",
-      "published": "Sat, 14 Nov 2026 10:02:00 GMT",
-      "category": "Health & Medicine",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Open or Closed AI? Experts Warn Both Face Growing Cybersecurity Risks - The 420.in",
-      "summary": "Experts warn that both open and closed AI systems present increasing cybersecurity vulnerabilities as their deployment expands. Policymakers and developers face challenges balancing transparency with security.",
-      "why_it_matters": "Growing AI cybersecurity risks could lead to data breaches, manipulation, or harm, affecting individuals, businesses, and critical infrastructures worldwide.",
-      "perspective_one": "Advocates for open AI argue transparency enables better security auditing and community oversight to mitigate risks.",
-      "perspective_two": "Supporters of closed AI stress proprietary controls and restricted access to minimize attack surfaces and malicious use.",
-      "uncertain": "Optimal regulatory and technical approaches to managing AI cybersecurity risks remain undecided.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oZGYtNEd1c19TZzduX2c1YXJVV1QyT09ya3VwenRyNFVqTmYwYU9QSHRZZlg4UXJlRGRBZXBTMmgtSVJfNWlvWDhkUEk4LUJ4MGRha2hkeVpGcjdoYVlwaVMzOVE2MzRkQlNSbw?oc=5",
-      "source": "AI & Technology",
-      "published": "Sat, 14 Nov 2026 13:31:08 GMT",
-      "category": "AI & Technology",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "US core inflation may fall to 2.4% by 2027-end: Goldman Sachs\u2019 Fed outlook explained - The Financial Express",
-      "summary": "Goldman Sachs forecasts that US core inflation could decline to 2.4% by the end of 2027. Their analysis incorporates Federal Reserve policy expectations and economic indicators influencing inflation dynamics.",
-      "why_it_matters": "A substantial inflation reduction toward the Fed's target would affect monetary policy, consumer purchasing power, and financial markets over the coming year.",
-      "perspective_one": "Economists supporting this outlook expect continued Fed tightening and supply-demand rebalancing will successfully curb inflation.",
-      "perspective_two": "Skeptics warn that geopolitical risks and labor market tightness could sustain inflation above forecasts, complicating Fed actions.",
-      "uncertain": "Inflation trajectory is subject to economic shocks and policy changes that may alter this forecast.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTDNVaENTRTBBdGNjRWcyWGF3LVBfdTJRcll4TWZjU0ZPanBoSThINm93QlBNU0F0UFVlWGFicm5LZnBzdFJVM09TRHVYbk5zazdBd1ZVSXRabVZnNjl6LU9tR3RZZU9JNEExdTNjUFVCTEpVWnFab05UMWkxZWt0VVlxM0xKLTFJSlVKRjNKbDhWV1pDM2FrVG8zU29tMnRwSXFWWHVXZnFDcVhUU3ZEVGNVNGU1Nl9STk50dC1JUmh6b0hHWVFzVl9pV1cyekptM1ZHddIB2wFBVV95cUxPbVExSFBjRGxCbW9JMVlMOF9IdzBBdGdrOFN4SDhGd2VYQkRwVDFCUVRZQUpTZ1hCQ2FfR0Q0VVR1YmFqaHRhMWp0aW45X3hQM283RGRUYmNndTVnZGhHcmpTcW9lUjhYRU4wVWZWSXRPQWdtdHRyTWFqT0JvQTBQMmlRcFRtZVZHVmJrNThUc3lSX21kMWREOTBfaExfY3JET1dneHloc3BRYlAxYkFFX3N0R3ZjbVlBcUJTcWpvQnptNXZzN18wbktRSlZmeVNULXM4TUtWdlBLelU?oc=5",
-      "source": "Business & Economy",
-      "published": "Sat, 14 Nov 2026 15:54:15 GMT",
-      "category": "Business & Economy",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "American Pediatric Society Elects 2027 Class of New Members - Bioengineer.org",
-      "summary": "The American Pediatric Society has announced the election of its 2027 class of new members. This selection recognizes distinguished pediatricians for their contributions to child health research and clinical care.",
-      "why_it_matters": "Electing new members supports leadership and innovation in pediatrics, influencing child health policy, research directions, and clinical practices across the U.S.",
+      "headline": "What could El Ni\u00f1o mean for winter weather in the US and Canada?",
+      "summary": "El Ni\u00f1o winters typically bring more rain to the southern US and drier, warmer conditions in northern regions, though snowfall patterns are complex. Forecasting these impacts helps prepare for variable weather effects. ",
+      "why_it_matters": "Anticipating El Ni\u00f1o effects guides regional planning for agriculture, infrastructure, and winter-related disruptions. ",
       "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGtHMXluY0JvcllOSjJCeEEyeGlhYVY3Q0FycXcxcGJSS200bHYxN1VIamo1NUhJQnhkOWhmaGZlZVlYeklrTkJNYzFjU0ZXRUoxQ1UwbmQzU0hpQXhCblhnZDhKVUlMMnJGVV9reFRERWU4bjk3ZXdaRjVhNEwyaWpnenRhSlBWbFFScA?oc=5",
-      "source": "U.S. News Society",
-      "published": "Sat, 14 Nov 2026 03:43:36 GMT",
-      "category": "Society & Culture",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/0340/live/da88e130-bfdc-11f1-b4e6-d96c2bf27b65.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Colorado dashes Houston\u2019s College Football Playoff hopes with first top-15 win since 2007 - The New York Times",
-      "summary": "Colorado defeated Houston, denying Houston a College Football Playoff berth with its first top-15 victory since 2007. This win boosts Colorado's standings and influences playoff contender evaluations this season.",
-      "why_it_matters": "The outcome reshapes the playoff picture, affecting betting markets, team rankings, and recruitment momentum for both programs.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "Navy has quietly fired some commanders and other officials, drawing congressional pushback - PBS",
+      "summary": "The U.S. Navy has quietly dismissed several commanders and officials, prompting pushback from Congress concerned about transparency and due process. The Navy cites performance and accountability as reasons. ",
+      "why_it_matters": "These dismissals raise questions about military leadership stability and oversight by elected officials. ",
+      "perspective_one": "The Navy argues such personnel changes are needed to uphold standards and operational readiness. ",
+      "perspective_two": "Congress fears lack of transparency undermines trust and proper scrutiny of military leadership decisions. ",
+      "uncertain": "",
+      "confidence": "Reported"
+    },
+    {
+      "headline": "Fuel crisis and protests pressure Chile's far-right president",
+      "summary": "Chile's far-right President Jos\u00e9 Antonio Kast faces mounting public anger as rising fuel prices spark transport strikes and widespread protests. The unrest challenges his administration's stability and economic policies. ",
+      "why_it_matters": "Sustained protests disrupt transportation and fuel supply, exacerbating economic difficulties and testing Chile's political resilience. ",
+      "perspective_one": "The president defends market-driven policies as necessary for economic growth. ",
+      "perspective_two": "Protesters demand government intervention to reduce costs and protect vulnerable populations. ",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVdhZ185cllDdXVjR2tKQ2V4bFNZam8tdEhTNUdEeGpBamp4Wk9JRTB0RUR5Yk5mMi02Mk02NzRNX2NQMUUyOWtDbkpRQWhKNEFoZmQ1MWdXNVl6UWtqaUVOaUpPMGxWN0t2eWJjTFpYU2lfRDFOTWczalJsSzFPWnJNaHh1YjdTaWxqeklqbkxMRU12WDNySE9vQUo2U2IwRUNqd1VwNA?oc=5",
-      "source": "Major Sports",
-      "published": "Sat, 14 Nov 2026 13:41:48 GMT",
-      "category": "Sports",
-      "image": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8193x5462+0+0/resize/8193x5462!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F57%2F7e653aad4c7b8e810540c25313e9%2Fap26309662592247.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Oh Whale! Revisits the Exploding Whale That Became One of the Internet\u2019s First Viral Videos",
-      "summary": "The documentary short \"Oh Whale!\" revisits the 1970 incident where an Oregon TV newsman famously documented an exploding whale carcass. The event became an early viral video and a symbol of unexpected media sensation.",
-      "why_it_matters": "This story highlights how early viral content shaped internet culture and the public\u2019s engagement with unusual news stories.",
-      "perspective_one": "",
-      "perspective_two": "",
+      "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "summary": "Jojo, a gorilla poached as an infant and raised in captivity, has lived alone for years, and keepers are now seeking a suitable companion. Challenges include compatibility and ensuring his social and emotional needs are met. ",
+      "why_it_matters": "Finding Jojo a companion is important for his psychological well-being and informs captive animal care practices. ",
+      "perspective_one": "Caretakers emphasize the benefits of socialization for animals\u2019 mental health. ",
+      "perspective_two": "Animal welfare advocates caution that forced pairing could cause stress or aggression without proper match. ",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/oh-whale-revisits-the-exploding-whale-that-became-one-of-the-internets-first-viral-videos/",
-      "source": "Good News Network",
-      "published": "Wed, 11 Nov 2026 19:32:59 +0000",
-      "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-12.42.29-PM.png",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Elena Kagan Is No Supreme Court or Election Soothsayer - American Enterprise Institute - AEI",
-      "summary": "This analysis explains that Supreme Court Justice Elena Kagan does not predict election outcomes or future court rulings, cautioning against overinterpreting her judicial role. The piece places Kagan\u2019s jurisprudence in a pragmatic rather than prophetic context.",
-      "why_it_matters": "Recognizing judicial prudence over speculation helps clarify the Court\u2019s decision-making impact on election law and democratic governance.",
-      "perspective_one": "",
-      "perspective_two": "",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFh1RjNDLWdaSFZUaU52Ulh1X0FTZDFDVHBfVS1JRWw2NFN4NjZPLUpnOW9udkhfSGxCMjB3dkFJVUxOSmhYV21YWU1jMEpEeTQwaVRwNGtLSU1yQXRnWVhKU2lHMmN3aXc5V0NOcmZSb2ZRbEdDVlNJTGVsRkpJZmsyM3Aza29HcWRTWjZOSQ?oc=5",
-      "source": "U.S. Politics",
-      "published": "Fri, 13 Nov 2026 18:34:46 GMT",
-      "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-      "summary": "Alaska voters rejected a ballot initiative to repeal the state's ranked choice voting and nonpartisan top-four primary system for the second time. This confirms steady public support for these alternative election methods initially adopted in 2020.",
-      "why_it_matters": "Maintaining ranked choice voting solidifies Alaska\u2019s unique approach to elections, potentially influencing broader reforms in U.S. electoral systems.",
-      "perspective_one": "Supporters believe ranked choice improves representation fairness and voter choice by avoiding spoiler effects found in traditional primaries.",
-      "perspective_two": "Opponents argue the system is confusing, reduces party influence, and complicates election administration.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-      "source": "NPR Politics",
-      "published": "Sat, 14 Nov 2026 08:08:05 -0500",
-      "category": "U.S. Politics",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/5191x3461!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-      "summary": "The failed impeachment of Hegseth presents a critical challenge for Democrats, who hold majorities in both House and Senate. The party faces tests in managing priorities, timing, and messaging to effectively use its legislative power.",
-      "why_it_matters": "How Democrats respond will shape their ability to pass agendas and maintain public support during a crucial political mandate.",
-      "perspective_one": "Some Democratic strategists see the failure as a cautionary lesson to pursue more broad-based issues and unify messaging.",
-      "perspective_two": "Others insist impeachment was necessary for accountability and argue abandoning it risks appearing weak on oversight.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-      "source": "NPR U.S.",
-      "published": "Sat, 14 Nov 2026 05:00:00 -0500",
-      "category": "U.S. News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1599+0+0/resize/2400x1599!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "White House warns FAA flight chaos may happen again as millions remain stranded - The Sun",
-      "summary": "The White House warned that continued FAA flight disruptions could reoccur while millions of travelers remain stranded. This alert follows recent widespread delays and cancellations impacting the airline industry.",
-      "why_it_matters": "Recurring flight chaos threatens economic activity, travel reliability, and public confidence in transportation infrastructure.",
-      "perspective_one": "Officials stress that infrastructure investment and improved staffing are urgently needed to prevent future disruptions.",
-      "perspective_two": "Industry representatives cite unpredictable demand spikes and resource limits as ongoing operational challenges beyond quick fixes.",
-      "uncertain": "It remains unclear whether systemic changes will materialize to reduce future flight chaos.",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVpaR29EVGJ5UmdJOVVrX3VHMHF3UmtCYm04NHVLQi12bGZqZFc2RkhXR3E3Rm9PUUk2b2xxWXVyRkI4S3BNamloSS1uTHhEZ0NYa2FpWnRLXzRGaXZ6VEJTam9aVzJJQ1BYMUtDbmE1WVZtYTlUZkxuUlU5cEtWdHJuQzZmZw?oc=5",
-      "source": "Associated Press U.S.",
-      "published": "Fri, 13 Nov 2026 21:11:02 GMT",
-      "category": "U.S. News",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "What's Trump's strategy now with Iran? To keep things as they are",
-      "summary": "Former President Trump states that maintaining the status quo is the current preferred strategy with Iran, reflecting Gulf Arab allies\u2019 desires amid a regional stalemate. This approach moves from military threats toward economic pressure following the U.S. midterms.",
-      "why_it_matters": "The status quo strategy shapes U.S. foreign policy and regional stability, influencing diplomatic options and Gulf Arab relations with Iran.",
-      "perspective_one": "Supporters believe avoiding military escalation reduces risks and aligns with Gulf allies' interests for stability.",
-      "perspective_two": "Critics argue this stance risks enabling Iran\u2019s regional influence and fails to deter hostile actions effectively.",
-      "uncertain": "The effectiveness of this strategy in achieving lasting peace remains unsettled.",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-      "source": "NPR World",
-      "published": "Fri, 13 Nov 2026 14:02:04 -0500",
-      "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/3377x1900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2Ff4%2Fdda272054cc49d1d325e1fb89080%2F0eb9a283-2aff-4d96-b972-8f285cd219b7.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e93/live/a50b98a0-e042-11f1-88e1-eb4e155225b3.png",
       "image_credit": "",
       "image_source": ""
     }
@@ -274,60 +180,53 @@
         "summary": "Former US Trade Officials Challenge Trump's Canada Tariffs Newsweek"
       },
       {
-        "headline": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy - Cato Institute",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3FTZHlYOGV1dmJtbU5uNENSN3YybDV3bENYdmREMkQ5U0M0WG5oMlRxaUt2RjZSbmpla1p6akYxSHh2dXM5dUhQRVcwSEdEZEh2YzBYS21HYnRkd2pwanZnRFo2VlFEQmJ1V1ZPc09BMUUtTWgtQ1Vaa0oxMzhQWkVqSUZMdUN1aUJFOWJ1NmZkWFU?oc=5",
+        "headline": "Top Trump Adviser to Quit After Stinging Election Defeat - The New Republic",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcndKbFBnOEhiTXViYy1XOHplQldZSVRqUmpPMnZFOXZPeTJIdDVNQ3NLNkpZcE5jVFRhOGtLVlluVGxqODFkdnpyeldFSy15eXRxZE15WHFubk1NR3k0UTgtRmNGbElzc250US1JZnR6bVlYcElCakpCclc3RGZSN0JlYmc0MkE?oc=5",
         "source": "U.S. Politics",
-        "summary": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy Cato Institute"
+        "summary": "Top Trump Adviser to Quit After Stinging Election Defeat The New Republic"
       }
     ],
     "U.S. News": [
       {
-        "headline": "Supreme Court to decide whether Trump can ban asylum applications at the border - Scripps News",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVpzdEZZQ2ROOS1xb2trUVVJY1A3eEM1VlJYME5rck1LdnFJSjkyaFE1cDRseWVNaFNYT0x5VENCcXRfSlJXbVRlN0NBV1hlbXJSOXRQY190ekExMTZsZFpwakU2ZjQwcjc2MkEteEEyTGRNMVMwZkJwamZnbjJDVTVTcVRodzVSTXVQWGlLczJDbk1fcTZEZ1hwTUVrZHdXbkRDa2lLUHdvUHBXM2lSb2pQdmFSZUt2NHljRXNadHdrelQxLVZCLW13?oc=5",
-        "source": "Associated Press U.S.",
-        "summary": "Supreme Court to decide whether Trump can ban asylum applications at the border Scripps News"
+        "headline": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+        "source": "NPR U.S.",
+        "summary": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes."
       },
       {
-        "headline": "What could El Ni\u00f1o mean for winter weather in the US and Canada?",
-        "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+        "headline": "What we know about the US ground stop and what to do if your flight is affected",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC U.S.",
-        "summary": "El Ni\u00f1o winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex."
+        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
       },
       {
-        "headline": "Navy has quietly fired some commanders and other officials, drawing congressional pushback - PBS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR3ZVcDZpRXk1ZXN0Mm84MndoM001N01QejN2TEdWRmkwdDV0RlllRVpuVW1DV2l5ZWF0Yk5CR1hMVDRQQ2NMLWYtMFFDa1pUbXMzMVY1YjV5czlVVFQ1QThzNDNLZVpBUng5akw1QWhGcjRqSjBHbDJFaE5OZ1ljd0d4eWduYU0zSXJhNDVvay1wdUN6dDJ1TjB1SWRHcmNCNkkxaHlYS0VDcTZocU5QSm9BUTNGQ1RfSDJFYVZJOTAxbFc3SVHSAcsBQVVfeXFMUGVsbjVQcC0ydkNJNXFWUnFyRjlnOUJURk5mM2RmeWs1SjRsV0ZkVHNFSDM2Q0l4NWFwMlJnOEZqd01VOERQU1VBV0pxVDJmeVJrdGhqWHpnNzI3M3RNdGVmQkE4MzE2eVU0MnhGXzZVYVpZWW9raEdmTE1YN1owNDZhQTllSHlRWHlWcVBqQ3Q5NXlsUV80VmJJWHFVWFdRYjEyVXNJMlo2Y0lrRmEtRVJGV2h6b001YzF5SkRmMEsybFJzUjA3STNIYUE?oc=5",
-        "source": "Associated Press U.S.",
-        "summary": "Navy has quietly fired some commanders and other officials, drawing congressional pushback PBS"
+        "headline": "Second catch attempt for SpaceX Starship rocket",
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC U.S.",
+        "summary": "The attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down in the ocean."
       }
     ],
     "World News": [
-      {
-        "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
-      },
-      {
-        "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward."
-      },
       {
         "headline": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
         "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "summary": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic succession."
-      }
-    ],
-    "Conflicts & Security": [
+      },
       {
-        "headline": "IDF eliminates over 10 terrorists in Gaza, including October 7 attackers - Israel National News",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSelZKTDRCb19TenN3d0k5RHNWYW5EZ0VJSzZ5TFlvNmRLV3lmMjNMaV9TcmxzY1hDT1hpVmI0ZHZ5c3BxTWdPQ0VaLVNNalIwWnoxTkRSSnFpQQ?oc=5",
-        "source": "Conflicts & Security",
-        "summary": "IDF eliminates over 10 terrorists in Gaza, including October 7 attackers Israel National News"
+        "headline": "Estonia bans Russian athletes as backlash intensifies",
+        "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
+      },
+      {
+        "headline": "AP Trending SummaryBrief at 11:32 a.m. EST - KTVO",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHBYOTBlNDdydVhJb1VTVTJ1ZnU3ZE16UVd0UHZPUXQtTDJzRGkzQnBpTDNBVnZqNUNCRXF3ZjlLOGRqTG9ORkNGRDIxNmctQWtqc0YwYVF5TUhwdXVZdDBva1RFZE5MTTdTdF9hZjN2TWJVUWlXNk9odWJ3bDkzRmJ2VXNEWjZTdG95WVAxdmJ1bzBvNTRvbG1KZWRqN2lyd1ctdXNVUXFjbTdxcEM0VXZINWd6Vk1hc0J4TEhTdnFjenNwNmV0b3Z3?oc=5",
+        "source": "Associated Press World",
+        "summary": "AP Trending SummaryBrief at 11:32 a.m. EST KTVO"
       }
     ],
+    "Conflicts & Security": [],
     "Middle East Affairs": [
       {
         "headline": "Yemen\u2019s Long War, Saudi Arabia\u2019s Security Dilemma, and the Shifting Middle East - The Media Line",
@@ -350,12 +249,6 @@
     ],
     "Health & Medicine": [
       {
-        "headline": "FDA Flags Potential Vision Loss Risk Linked To Ozempic, Wegovy And Zepbound - Blavity News",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uamJESnllaHcwc3dQMkRKT0pxS00zZW5kdjlfeFBDVWRQQnRuT29rZTJveFJlTEQ2UW9zUU4wakdmMTV5VXRHRmY5Ulp2Z0YxdURMV3pwaHplb242X3RqdEd5M3B1MklsWXlOLUNXNWNQeTdtdUlmcUpnaFFTbkU?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA Flags Potential Vision Loss Risk Linked To Ozempic, Wegovy And Zepbound Blavity News"
-      },
-      {
         "headline": "Stroke survivors get FDA-approved daily pill shown to cut repeat risk by 26% - Fox News",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmhES3NUOHV0SkFLU0ZmTXhLc3czR2ZFZWR2OXdBNzBpN3FzSWZKMTlrZ3lVcWFQQ01vbTUzS1RUMDdBNjMxWmp0Vk9SOVpCbDlpV01xZUdHQXloc1JCSC1pSlBGOWxZaVltT2t5U19kS3FBWEhzWmlwbjJOSWNlSUw1cGxwNWpwZWwzbTRUNTJRaXNLS3J1eHA4N2pkUdIBowFBVV95cUxQSmZGdmpaWnBzYy00NUs1bnFOenU4RmdjdmVtTXh2S25uNXV3NS1UZlBIWlY0QUJQdS1zOTdjdk05SGFtOWhBTGxsYWprSkY5NlpqdXBGZm9Ob05nblBhTHNXWU9pRXV2V2ViRlVROFZ5YTVqblRZbF9vT2wzQlUxUlVZMGR2MHRKWnU0RDFPbkJYYUhOdUxfb1hVWW5NUlVoMlhV?oc=5",
         "source": "Health & Medicine",
@@ -366,15 +259,15 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3pHMnI4ME5xSmdOcENxRmxwamdyNlhVQ3JxUnRtQjZQOFBoWDdwSU5QN0d4aVBWVVM1RXNFSk9jakg2aWowb1ZTSXV3c2dkMWZpNjhKbDhaeUtWT3BEMlAtcU1NaG5wU0ZURzZyUFFLUmplSXdpU1ZHMnpiUDdtVjEwNzRTc0hMRnkteV9BWU1XSkpFSjNUOEc1Wi1pODBUMDAwRkJhVHVNUmV0?oc=5",
         "source": "Health & Medicine",
         "summary": "Vivani Medical\u2019s NPM-139 Implant Trial Set to Report Phase 1 Data The Clinical Trial Vanguard"
+      },
+      {
+        "headline": "Molecular Designs secures first FDA clearance for SimplicityDx Panel FluA/FluB/RSV assay - News-Medical",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRUtGRm1wOWozTHlMOFJ6ekFEaWVHWHhHVHJBMm5hMFlodGVuTzc2dGltaVdEVnFBYXptci1Zai1PbUg2anRWZU9QY3Z0bjZKM2Z3RHE5MzhoYkp0bkVIUTVHYzVpOEwyaXlBQ0Y4bGgzUXJ1TFNLOVV6VGw5RnFHNUN0ZDR2Tm5pN28yczJFS3hleVhnMXNpd1g4Q0RDUFZ0QVdzLU9rX0cwNDE5R0F5MkxWSW9RMVg1dW95Q19FNHJ4QzB1Y2plR2ZMN0tPd0k?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Molecular Designs secures first FDA clearance for SimplicityDx Panel FluA/FluB/RSV assay News-Medical"
       }
     ],
     "AI & Technology": [
-      {
-        "headline": "C3.ai vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVEYwLTdLYTJEUVE5eEloZVFTd29TTkxEMUdWVDFxQTc2SjcwNGtIbXdqcDBiUTJXQVRLWVhKT1ZjZEtpQ0V6TE92Qm1CUnRlRmg5T0Eyel9rZzlKeTdrTWE1ZTJwSjE2cWplcndmWnZGSVI3UXN1NDBvbENTSFRCOFVBMW1hR1Vzd3Fpak05U05ucGt1OWphQ1B2SHc3M0kyM2p0dXU3Y19VOWRkUkZQeV9HVTZvZVJxNlVJWDQteVJGVXdCamtndG5lOGl3RVgtaWtRbXhtYVlVOGxNeDRMNEVBbkh2dw?oc=5",
-        "source": "AI & Technology",
-        "summary": "C3.ai vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027? The Globe and Mail"
-      },
       {
         "headline": "Ballistic Ventures: $490 Million Fundraising Target For Two New Cybersecurity Funds Amid AI Security Boom - Pulse 2.0",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEs0clhxNWJzMW1kRndELVpWVVM2MmRha1BrSC15eWNBa0RmVjRya1d4dk91MWhpbGVPRUdkMEM0YTJObFQ2MkVPU3FqMzNBaVVydkpoczNTc2JzSzBXLU90OTdHUHVuMXg0NUdlYlBqME1CUmZRLW9ic0RLMExvUFRZYXk0RnMtdDBLT2VocXVPVnNUNzhQWkFqNW84MDlBVTFRMEZGT3lSLTNrUTlHRkVOblgyRXhURFlsenE0d3U?oc=5",
@@ -386,14 +279,20 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdkp3Wk4xTS1yNTRTRGg0VDBkcVhLMzM1Vl95Vjhvd2UtTUZGa0FiZlE3WFo4LXFHLWQzVkRIZEhkMjA3NDBPY2JSZC1MVVI0M0M0dzFxRWdPMWtQa0dRSUVHdDVDTXRHQW1Yb3ZzWWNqTEYxVTQ0TmpKTlI0cWhlWDFZNnpwOW1kYTk2cHVOYkNNY01UaGtlUVRFa1UwWFRmWnVRRF9rU0JNU2owcmY0d1kyblFtdDZTMTdHR25vLXM5QQ?oc=5",
         "source": "AI & Technology",
         "summary": "Thales stock: two European defence partnerships set priorities ad-hoc-news.de"
+      },
+      {
+        "headline": "Cybersecurity snakes and ladders: Major outages, AI-discovered vulnerabilities and the uncertain road to business resilience - Gulf News",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObGY3M1JTUkZEVk0xdDZpZFd3X3RoQVhHa2c1Yl9wMC04S202a29IX1dpMVRzNFprdk9RcnBMNHFfZmFPczlmUlJYVDRHMVo4cXBiZmFnbzIybXZJTC00dmp1aXdJVTNrOE9LeVNhY2dtRVJqWlo0MHBGczlPdExDZktFRzhuaERtcEtUU1ExakNvVGx6cFlodXJMMThxLUZ6U2RWVUFCMzJxR1VXX2lKV2ZLSFE5QTZoRnc5NnhRUVNDZEdlZ1Ixa3FxRFduNjhldTZjVDgtQXR2U2NNMGZLTnhQTHNVOUFuX3FqcllIQVpLQk1ZdGxPMmZn0gGKAkFVX3lxTE9jdGpuUUZaZVZCLTVXT005Y1hkNFNQNFZVdldmUThnM2Z5Mk9Sc2pqR244a2VBc2ZnaWZjdS16MExKYTZIUEhjVllsTTZtRWlUT25VMGF0emdiX2NhWHMzVGZuVUgzWnBYTXQycjRidW9qU1lGc0ZpZkVjazRwRy1nTnB4VHZ2ZGtRdkpkWUpUZFNibWMxM1dVYlRpR2ItYTZRTy1RTXNPZHhFSm1meDN1dngwOFBpV04zWk5rTHljcE9VVkpla1pseG1BYkJzN3ZRQmg2c1pza29Mb0cyc213SmZsdFN3dE5VVldLYzRMemVZUkRHX3R1ZElHaTdjM0pjRm9uUXZRa21B?oc=5",
+        "source": "AI & Technology",
+        "summary": "Cybersecurity snakes and ladders: Major outages, AI-discovered vulnerabilities and the uncertain road to business resilience Gulf News"
       }
     ],
     "Business & Economy": [
       {
-        "headline": "US Feds Jefferson says inflation will be key to future interest rate decisions - The Tribune",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlNHWGx0NlB1Q0l5bGxJRTNjNkI4aTdMR25HU3pQVUpFOGFmMlhraktUQ2d2UWEtRlZ0MXhaSUxLazN0Y3lLN3Bibk0wMmRqWklkN0RMTHoybzMyb1BVQnU5dDFxbWlrSkJKemMyeklTVjRmOVk2UWdGM0loQURtTGhhb2RKbnlUUUhJdTJ4bE1PY0d6R2ZnYWF0RTl6UVBybFZtb1JuNkFTRHNET2ZkSkxjeW9lZlRzRHZZZFBib9IBwwFBVV95cUxNVU51d1pyZkg3R2Y3OTc5MzkyT0NVRTdfYXBpUDRuLV9DbEl2VEFKMkRjV2lvMjhYZWJOdGM2UjVkamVCM2MwZnpDbzFmWENoaWJURFRscWxqVWE2eGxla2ZTV1NLVXFPdGRZQzZnX0VtSW5ISnhjbXNvQTNocWJWUlRPbGRiUm96ck9Wa0pHdUZnMnR1di1peFlGNDlRbTYtOHFTM1RWbk1EX3c2UlpNcHVSR2d4ZkVITDhkUHo2aWp6NWs?oc=5",
+        "headline": "Bessent, Fed official divided on role of energy shock in inflation | Gulf Times - Gulf Times",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczc0dEdWLXZwQzdQWklSNTJSMEI5S0xmTE5tSVhsYlRiNUhUcGZ0MDNXalNubHJuajV5Yy0zVmZ4NUpibzloUG9WaWl4TU0yUUxGbHlsYmFwaVdUYkdmS3dTYlZ3WUU4eU1PWDZnQW1YUE1pdE05T04za0NuQ3pzSTJZN0ZiWFZHM0Z3WFJ0UXJMOXVWcV8zQTl1alZIVHZxTHdrclZIUS1QLW85RE52T0EtQk1vVFXSAbwBQVVfeXFMTWVwcGVoa1NJZEExa1lOeDRLREJRUDd1QW1MYXlqZ003QWNscGtkdExmc013SEtaUXB1S29NN0VGMkZlZlBFZ0NUZkc3V05FRk5NWjNiUTFBODlpMEcwOThoYmRXMEI2R3VicDQyY1FBSkFlV2N1RHhpa3hLSGJ3N2NDMGJmX291eDlXMjc1WDV4LTU1cU9BRUFGcDF4N0JnUU8teGNFREtoVUNVVVZ2SVhtb2tYVEtkX2VKMnU?oc=5",
         "source": "Business & Economy",
-        "summary": "US Feds Jefferson says inflation will be key to future interest rate decisions The Tribune"
+        "summary": "Bessent, Fed official divided on role of energy shock in inflation | Gulf Times Gulf Times"
       },
       {
         "headline": "Fed Chair Kevin Warsh to Confront AI Bubble and Job Loss Risks as Wall Street Tech Selloff Deepens - Coinpaper",
@@ -402,25 +301,25 @@
         "summary": "Fed Chair Kevin Warsh to Confront AI Bubble and Job Loss Risks as Wall Street Tech Selloff Deepens Coinpaper"
       },
       {
-        "headline": "Fed likely to need to raise rates amid worsening inflation: Daly - WKZO",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2pBMjJxQzV1bXlDNVplSXpmNnRBT2pva3pkNW81NU1ZRkIycjhQY0loMjlzX1Jza1RwZld3eVRlOHFiaGZHcTN1Vk9WbmlFdk9ycmVlY2VWdXBENklJMVZ0b25ESmpYUDZ4aGpBdHZNZ0xoSXE4allVYk5iN2JIalVlb28tZ29pWGdoQ1p1VDdGa18yUWVF?oc=5",
+        "headline": "Retail sales and Fed minutes in focus next week - Newsday",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmpUdGMyc2JNbVg2X0tFdzlvOElhSlZFX2V6Y1ZsTmgweEluZFFfbklQZ0tzNWVQQ0J2U3Q4cEpwWGk0aDNKRW4tQXVOVjJTeTlZMTdiSmZONGItdG9kY3RTdkEza3BWRkcxaVlhVEl4S19Cem4tVXdqWURfeGxBTXFhMFhZX1I5?oc=5",
         "source": "Business & Economy",
-        "summary": "Fed likely to need to raise rates amid worsening inflation: Daly WKZO"
+        "summary": "Retail sales and Fed minutes in focus next week Newsday"
       }
     ],
     "Society & Culture": [],
     "Sports": [
       {
-        "headline": "The Lakers Are Off to Their Best Start Since the 2020 Championship Season With an 11-2 Record - Los Angeles Sports Nation",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSW4tU3phNldRc2l1U3psbnR3NldKYjAta09mSlVSTndRT2hQM3BBMTYxMXhjeDdfdmZabm9GeXBZTlpRbEVmX0syODhqZDQ5TXZzR0FhMWhtcERkZlhQSTJiZ0xNOEFDdWZ2aGJHbmFYcndZTXYtc003Tm9sMUs0bWlQRWxLVlBvNHR0VEVwMExWbVo3Y2EyNGxkOFIzandwbjdzMGk0bGJIc1lNVjg4OVlZNTk5Y1RydDRYT2NjQU5KeWlRcWVRRFJ1Nk5CQQ?oc=5",
-        "source": "Atlanta Sports",
-        "summary": "The Lakers Are Off to Their Best Start Since the 2020 Championship Season With an 11-2 Record Los Angeles Sports Nation"
+        "headline": "College Football Playoff expansion winners and losers, from fans to bowls to the Big Ten - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa21iWm1Xd28xaFlBZml6RXpVMjA5czlGRGxvQndsRkl3dGlpY0c5R28wUXYwV3doZFc3aFNTOG1oeGE2VXRMSjEyZmxoNldXckIwUDkzVVUza1psVEtTOUtRakRzbnV3ZXVsVnZmWVp5VXlMTGZKdjA1TEIwQUxGZDZvcXg2MTVkWlp0Vmc1OFZpZDZkTC1NTktMb0JVV1FFYlloMw?oc=5",
+        "source": "Major Sports",
+        "summary": "College Football Playoff expansion winners and losers, from fans to bowls to the Big Ten The New York Times"
       },
       {
-        "headline": "How many college football teams can still win the 2026 national championship? - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEVPMXBQTmdtWnlKek1IZ01lM0FLWlpEY1lWOThQZ2dXdVhnSXQ4THV0NEpiTVVPbXZYTDVTR0wwdlFJZ0Z0dWQxdXo3ZE9HTHM2SjB5UXo2LXplYldSWFJPR1dRcW1RZVBrSkcxNUljVlFRYUd4ZkRhWG5QQWdMLU9CVmI2TVd1OWl3N1VPbV9yb0lxeS1xaWtmZ01ZTmN3TEVoSDBoaF9DNkxmRWc?oc=5",
-        "source": "Major Sports",
-        "summary": "How many college football teams can still win the 2026 national championship? The New York Times"
+        "headline": "France vs South Africa LIVE! Nations Championship updates, latest scores, team news, commentary from Stade de France - Sky Sports",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcFd3VFJ1WFlnYVJfSXI1QTZtZ3FHSEt4WXZFTF92cUhUUVd6STg5TjUxTUdKbktfM2FaWHRvWENPLV9HVnphV0luUTRiaDFLLTFFZ0M3QUtBenV1Tkt4eHJVbGcwS1ZTUE9JTzlCc1phX3NSZ0hiUkJZb2c4RFJ0VmtEU1dLdEw2bXBMMWgzQU1OaFF6ZkFjcjlDWnJrRFAwTzVzNHVGNHp4emxOSmc3OFBQTjhSSlpFTWdvS3l0S0VuYlZfZ2EweHB6RDlWT2FZY3Zaak9fVXJNMDFoQ3Fqa0kxYkRHWWhPQ01CYjRpNDY4UG8xLXl6a0RqYzVXQQ?oc=5",
+        "source": "NFL Opening Week",
+        "summary": "France vs South Africa LIVE! Nations Championship updates, latest scores, team news, commentary from Stade de France Sky Sports"
       },
       {
         "headline": "USC Trojans vs. Indiana Hoosiers pick, prediction for College Football Week 11 on Saturday 11/14/26 - DraftKings Network",
@@ -431,10 +330,10 @@
     ],
     "Good News": [
       {
-        "headline": "Heroic Bravery of Woman who Hid Troops from Nazis in WWII Revealed in Diaries 40 Years After her Death",
-        "url": "https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/",
+        "headline": "Good News in History, November 13",
+        "url": "https://www.goodnewsnetwork.org/events061113/",
         "source": "Good News Network",
-        "summary": "The heroic wartime bravery of a British shopkeeper who hid Allied commandos from the Nazis during WWII has been revealed 40 years after her death. Ada Le Poidevin was living on the island of Guernsey in the English Channel when she sheltered three British soldiers left behind during a raid on the Nazi-occupied land in [\u2026] The post Heroic Bravery of Woman who Hid Troops from Nazis in WWII Revealed in Diaries 40 Years After her Death appeared first on Good News Network ."
+        "summary": "70 years ago today, the US Supreme Court struck down Alabama\u2019s policy of racial segregation on public buses, ending the Montgomery Bus Boycott, made famous by Rosa Parks. READ more\u2026 (1956) Civil rights lawyers filed a lawsuit in June and a three-judge panel of the District Court ruled 2-1 that \u201cthe enforced segregation of black and white [\u2026] The post Good News in History, November 13 appeared first on Good News Network ."
       },
       {
         "headline": "Brown Bear Population in Spain Doubles With Incredible Increase of its Breeding Range",
