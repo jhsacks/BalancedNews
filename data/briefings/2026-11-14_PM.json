@@ -1,259 +1,195 @@
 {
-  "generated_at": "2026-11-14T18:49:53.612998-05:00",
+  "generated_at": "2026-11-14T19:47:09.275607-05:00",
   "edition": "PM",
   "stories": [
     {
-      "headline": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-      "summary": "Democrats gathered in Denver for a two-day conference to plan their party's strategy following broad midterm election victories. The meeting aims to solidify priorities and unify messaging to sustain momentum and govern effectively.",
-      "why_it_matters": "The conference shapes Democratic legislative and political strategies that impact national policy directions through the next election cycle.",
-      "perspective_one": "Democrats see the recent election victories as a mandate to advance progressive policies and strengthen voter engagement.",
-      "perspective_two": "Some critics argue the party must moderate its stance to appeal to a broader electorate and avoid overreach that could backfire.",
+      "headline": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+      "summary": "Delray Beach, Florida, canceled its St. Patrick's Day parade after nearly 60 years due to a new state law barring taxpayer funds for diversity, equity, and inclusion initiatives. This law restricts municipal funding for events that may be considered as supporting DEI programs. ",
+      "why_it_matters": "This cancellation affects community traditions and demonstrates how state laws can influence local cultural and public events through funding restrictions.",
+      "perspective_one": "Supporters argue that using taxpayer money for DEI initiatives violates fairness and mandates neutrality in public spending, aiming to prevent what they see as ideological use of funds.",
+      "perspective_two": "Opponents contend that DEI efforts are essential for addressing inequities, and the law undermines community inclusivity and support for diversity programs.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
       "source": "NPR Politics",
-      "published": "Sat, 14 Nov 2026 14:13:54 -0500",
+      "published": "Sat, 14 Nov 2026 19:03:52 -0500",
       "category": "U.S. Politics",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3509x2632+213+0/resize/3509x2632!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F64%2F879cc2d14c54a9ec911488b48d94%2Fap26317088763752.jpg",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5035x3357+0+0/resize/5035x3357!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F0f%2F1063ea794a708c96e803c59414c7%2Fgettyimages-2301658899.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
-      "summary": "Transportation Secretary Sean Duffy attributed Friday's nationwide aviation ground stop to maintenance failures by a contractor. This disruption halted flights across the U.S., raising concerns about aviation infrastructure reliability.",
-      "why_it_matters": "Aviation maintenance issues pose serious risks to flight safety and economic impacts due to widespread travel delays and cancellations.",
-      "perspective_one": "Officials stress the need for stricter oversight and accountability of outsourced flight system maintenance to prevent future interruptions.",
-      "perspective_two": "Contractors and some policymakers warn that increased regulation could raise operational costs and complicate maintenance scheduling.",
+      "headline": "How telecoms upgrade work sparked US flight chaos",
+      "summary": "US officials clarified that a disruption causing flight delays was triggered by old telecom equipment overloading during upgrades, not a cyber-attack. This infrastructure failure exposed vulnerabilities in aviation communication systems reliant on aging technology. ",
+      "why_it_matters": "The event highlights risks to critical national infrastructure from outdated technology and the need for robust modernization to prevent operational disruptions.",
+      "perspective_one": "Some emphasize the urgency of upgrading legacy systems to ensure safety and reliability in critical sectors like aviation telecommunications.",
+      "perspective_two": "Others caution that rapid upgrades may introduce new vulnerabilities, advocating careful integration and testing before deployment.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
-      "source": "NPR U.S.",
-      "published": "Sat, 14 Nov 2026 17:48:38 -0500",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Sat, 14 Nov 2026 23:11:27 GMT",
       "category": "U.S. News",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "Ukrainian President Zelensky stated the U.S. suggested Ukraine might cede the Donbas region in exchange for NATO membership. A U.S. official did not confirm this but acknowledged ongoing discussions on multiple ideas.",
-      "why_it_matters": "Such a concession would represent a significant geopolitical shift affecting Ukraine\u2019s territorial integrity and NATO\u2019s expansion strategy.",
-      "perspective_one": "Supporters argue ceding Donbas could expedite Ukraine's NATO integration and enhance its long-term security.",
-      "perspective_two": "Opponents view any territorial concessions as undermining Ukraine\u2019s sovereignty and emboldening Russian aggression.",
-      "uncertain": "The exact nature and seriousness of the U.S. proposal remain unclear.",
+      "headline": "Judo champion shakes up French presidential race with surprise candidacy",
+      "summary": "Teddy Riner, a celebrated French judo champion, entered the presidential race unexpectedly, with polls showing one in five voters considering support for him. His popularity as a sports figure brings a unique dynamic to the political landscape ahead of elections. ",
+      "why_it_matters": "His candidacy may disrupt traditional party politics in France, potentially shifting voter alignments and campaign strategies in a major national election.",
+      "perspective_one": "Supporters see Riner as a fresh, unifying candidate who can transcend partisan divides and bring integrity to politics through his sportsmanship.",
+      "perspective_two": "Critics question his political experience and warn that celebrity status might overshadow substantive policy discussions needed for governance.",
+      "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "Sat, 14 Nov 2026 22:37:25 GMT",
+      "published": "Sun, 15 Nov 2026 00:06:51 GMT",
       "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Pakistan, 16 other countries slam Israeli airstrike on Gaza hospital, warn against undermining ceasefire - The Express Tribune",
-      "summary": "Pakistan along with 16 other countries condemned an Israeli airstrike on a Gaza hospital, warning such actions jeopardize the ceasefire efforts. The strike exacerbates tensions in the fragile conflict region.",
-      "why_it_matters": "Hospital strikes threaten civilian safety and hinder humanitarian relief, risking escalation of violence and destabilizing ceasefire agreements.",
-      "perspective_one": "Critics hold Israel responsible for disproportionate attacks that target civilians and violate international law.",
-      "perspective_two": "Israel contends such strikes are necessary to counter terrorist threats embedded within civilian areas.",
+      "headline": "US warns Americans in Saudi Arabia over threat of Houthi attacks - Middle East Monitor",
+      "summary": "The US government issued warnings to its citizens in Saudi Arabia about potential Houthi missile or drone attacks amid escalating regional tensions. These advisories align with increased hostilities involving Yemen's Houthi forces targeting Saudi territory. ",
+      "why_it_matters": "This warning reflects ongoing security risks in the Middle East, potentially affecting diplomatic relations, travel safety, and regional stability in a volatile conflict zone.",
+      "perspective_one": "The US aims to protect its nationals and signal concern over Houthi aggression, emphasizing the need for vigilance amid proxy conflicts.",
+      "perspective_two": "Houthi supporters claim resistance against foreign influence and justify attacks as defense, highlighting complex geopolitical rivalries involving Saudi Arabia and allies.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0VwckUzUldqaXlSYXVXSko0RWFFT2hKZURZQVlObHFkeXlMdmVXOXFrdGFodkNPRjZ5VlE4SmRmQ2VKcjBMNlZyeldpWXpBNlJjdGs5VnFzejU2ZHBZeUVqS0lhb2VxMU5Sei1CYTRoU0xsOWwzMUtybG9HX21pZDhERFZqaFg5OXdoVW9SRWo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTd0TDAzSUdpb1NpeG1aOUJpeWc2aDYwVDJXaW5OUGJWZnlhZnE0b3VxRzU5M3VXekMyZ1ExRTY1U3VEOExWMHVseHV6SG9laW1GejU3ZFlLMkdFU25nMU5CMlZLT1kwSGhENzIxVHlwY3Y2d1g5X2EzZXFxS2RSZ1Nod1B2WGJ3MDRFdkVlNWR5NTB3eHd2OTRvSERmZUNVQlY1UVNKRmgtSW5U0gGyAUFVX3lxTE9BNXhHcXRNTmtxRzJoTXhtMk5fZm5sc2plM1NzSGttSnhBTEFtcFoxaVdHc2I1ZFYxd0hYT3FuOEhWR0NfckNpQmlkVGhobmVGbEFyS0U2ZlhEMEkwYnFFbUhIZUdTa1hxTHhrdUNMSUdiN0FvOVdKdVdtSUJKWnEtRFR4OFZkemtxcjZvV2dnQTE1OVMyLUpKaURpVzdZUlNEU3FKOS0zdHE0Y1hRbXlYaEE?oc=5",
       "source": "Middle East Affairs",
-      "published": "Sat, 14 Nov 2026 14:07:28 GMT",
+      "published": "Sat, 14 Nov 2026 18:05:00 GMT",
       "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg/1280px-2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 The Official CTBTO Photostream \u00b7 CC BY 2.0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2nd_CTBT_Science_Diplomacy_Symposium_(27472625147).jpg"
     },
     {
-      "headline": "This cancer drug is a breakthrough. FDA must fast-track it | Opinion - USA Today",
-      "summary": "A new cancer drug shows significant therapeutic breakthrough, prompting calls for the FDA to expedite its approval. Experts highlight its potential to improve survival rates where current treatments fall short.",
-      "why_it_matters": "Fast-tracking this drug can provide patients with critical access to improved cancer treatment options and impact oncology care standards.",
-      "perspective_one": "Advocates emphasize urgent patient need and transformative potential warranting accelerated regulatory review.",
-      "perspective_two": "Skeptics caution that fast approval might overlook long-term safety data necessary for thorough evaluation.",
+      "headline": "FDA Approves Imfinzi Plus Padcev for Bladder Cancer: 42% Lower Death Risk, More Severe Side Effects - Tech Times",
+      "summary": "The FDA approved the combined use of Imfinzi and Padcev for bladder cancer treatment, showing a 42% reduction in death risk compared to prior therapies. However, patients experience increased severe side effects, raising concerns about tolerability versus benefits. ",
+      "why_it_matters": "This approval offers a more effective treatment option for bladder cancer patients but requires careful management of significant toxicities.",
+      "perspective_one": "Advocates emphasize the improved survival rates, viewing the combination as a breakthrough despite side effect risks.",
+      "perspective_two": "Critics stress that the severe side effects may limit patient quality of life and treatment adherence, questioning the risk-benefit balance.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUw3MXVCNF9YVG5NUXJXTUFtR3RqWUpqUURhdjZCTWJWa1RLQ2JvTC1TemZjOXV6Y1NTMmNIaU5Qa0ZwWUVkTHlaMGpYSVpCYzNBZmJRdzU4bHBvY056NU5Rb2tMUXVjaWR5ZGRIbkdYREd2N0xLS1JYN25iQ0EzNmdpby1kek9JN3d5RXYtSlU1X2ZQZkkxOENpYTVrMVM0M080TVpZOEVXX3pZUWRXRkNDZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTkdjNkUzaUxaTG9tYmxxVTJEUmFBeDFxaHU3aE9GdUJDb2NsRWw2bUYtd2N1VGsyWTRETTUwYUFSd3NQWHRHWW8teEVBN3pZWmxwTEZlUTU4ZkJHcFNHUUYzRWJSakJUOG1tZkJkQTZBc0RXcFN6V0dtbzV1Tm1yMlN4QmlPa1FtVTZVWDBwRG5jUFJvc09sWHFJWXFpbGhwVE9EbWR4ZHVqZ2I2eC1kRkk3cjI4dk53bGV4VlljVW16WWVIbDMtazN3TDliUmRlQWYyVEswXzVMc3RHenZWVQ?oc=5",
       "source": "Health & Medicine",
-      "published": "Sat, 14 Nov 2026 10:02:00 GMT",
+      "published": "Sat, 14 Nov 2026 22:20:58 GMT",
       "category": "Health & Medicine",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
     },
     {
-      "headline": "How Is Coveo Solutions (TSX:CVO) Expanding Its Artificial Intelligence Services? - Kalkine Media",
-      "summary": "Coveo Solutions is broadening its artificial intelligence offerings to enhance enterprise search and customer experience technologies. The expansion targets growing AI demand across sectors needing advanced data insights.",
-      "why_it_matters": "Expanding AI services improves business decision-making and competitiveness by enabling more efficient data processing and personalized customer interactions.",
-      "perspective_one": "Supporters believe these innovations will drive market growth and technological leadership for Coveo.",
-      "perspective_two": "Critics caution about overreliance on AI without addressing privacy, bias, and implementation challenges.",
+      "headline": "President Ramaphosa, his delegation arrive in US for working visit - SABC News",
+      "summary": "South African President Cyril Ramaphosa and his delegation arrived in the United States for a working visit focused on diplomacy and cooperation. This visit is part of ongoing efforts to strengthen bilateral relations on key economic and political issues. ",
+      "why_it_matters": "High-level engagement can influence trade agreements, investment, and collaborative policies affecting both countries' strategic interests.",
+      "perspective_one": "Supporters view the visit as an opportunity to build partnerships that foster economic growth and address regional challenges.",
+      "perspective_two": "Skeptics may question whether the visit will translate into meaningful outcomes given longstanding diplomatic complexities.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON19lX1hYTWlxczVjcl9NbXp6bS1DTXZQVUx3WXRuZ0RWV28ycDJPUk5IZkxWOVdKdzhpa09XcGFjUjZPZ0RiOUFKaFZJei1xdGdTenlzdjF1RFRXRXZHS0x5VURNN2ZXVWJNNldlak13VmJpZXVvUTFYMTMtc3BRUFdPMWEzRHlGRHBUV01VZEZjVWRpdGdCR3lvZ1QxOXZZX3JsVV8zMlRndWhJVnN4LTQtMkZnOTdxWmZrR0wwVFphZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUnhITEUtUHlQTExoTFMtQWVLWHcyUzNFaFRRTms2dzVucXZBUWlUUVpzME9LN3RDUnkzMjdfVDV1UUtXbUxBSE5PbTFweG9vN1NxQlZfYk83UjVoMWFmYk9PLTNvX3JiUVA5TkhWUGphWk1JWWlRTmljN20tTElsd2s1bWRMWWoxUGdQQ2ZSU3ZnYlhYZFk2SmQ4TQ?oc=5",
       "source": "AI & Technology",
-      "published": "Sat, 14 Nov 2026 23:01:00 GMT",
+      "published": "Sat, 14 Nov 2026 20:19:39 GMT",
       "category": "AI & Technology",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Artificial_Intelligence_Word_Cloud.png/1280px-Artificial_Intelligence_Word_Cloud.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Madhav-Malhotra-003 \u00b7 CC0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Word_Cloud.png"
     },
     {
-      "headline": "Retail sales and Fed minutes in focus next week - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Upcoming retail sales data release and Federal Reserve meeting minutes are anticipated next week. Analysts expect these reports to provide insights on economic trends and monetary policy direction.",
-      "why_it_matters": "Retail sales and Fed minutes influence financial markets and policy decisions affecting inflation control and economic growth.",
-      "perspective_one": "Some economists argue strong retail sales could signal consumer confidence and justify interest rate hikes.",
-      "perspective_two": "Others caution that inflation pressures require careful Fed communication to avoid market disruptions.",
+      "headline": "Nations Championship - France 21-19 South Africa: Les Bleus put injuries behind them to hold on and stun Springboks in Paris - Sky Sports",
+      "summary": "France defeated South Africa 21-19 in a Nations Championship rugby match in Paris despite significant player injuries. The victory highlights France's resilience against a strong Springboks side in a closely contested game. ",
+      "why_it_matters": "This result affects international rugby rankings and builds momentum for France ahead of future major tournaments.",
+      "perspective_one": "Fans of France celebrate the win as proof of their team's depth and determination to compete at top levels despite setbacks.",
+      "perspective_two": "South African supporters see the narrow loss as a missed opportunity, emphasizing the impact of injuries on their team's performance.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHlqVzBEbXZ3SUN1UEpnT3E1c01MRU9SRzNVTEZkMEU1MFNEanc3NG5GSFdBdzNid2JUZXZvcmpwcnRnaWxUdnBIdzVkQjhNNV9fZzgwWGVPcmNnWVpKYzlxTkgtZm81ZGhnMktzZS1sV0ZYQmNObThOdHd0ZC1XLU5CdG54cGlhbm4tdtIBkgFBVV95cUxPZkh3bkJIWGlHWEVOTW1uY20xRjVFci05YnVZTG14LUUzaW9TYW5RMW91NGcxbVJqUjZjSHNKbS1xU1ZTWHlpT3pqOHpOcE1PZW5udXk1SkVsNUg1U3RId0hZRkZ5a1pxdkVDXy1CR1ZpRW5BRmpLWUJBbFU1Sm16TlpuZlhXWkJWNVNEVzNDa3U4UQ?oc=5",
-      "source": "Business & Economy",
-      "published": "Sat, 14 Nov 2026 11:24:17 GMT",
-      "category": "Business & Economy",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Colorado dashes Houston\u2019s College Football Playoff hopes with first top-15 win since 2007 - The New York Times",
-      "summary": "Colorado defeated Houston, ending Houston's College Football Playoff ambitions and marking Colorado's first top-15 win since 2007. This upset reshapes the playoff race and highlights Colorado\u2019s program resurgence.",
-      "why_it_matters": "The outcome alters postseason prospects for both teams and impacts rankings and recruiting going forward.",
-      "perspective_one": "Colorado celebrates a milestone victory symbolizing growth and competitiveness revival.",
-      "perspective_two": "Houston faces criticism for underperforming and risking season goals after heavy expectations.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVdhZ185cllDdXVjR2tKQ2V4bFNZam8tdEhTNUdEeGpBamp4Wk9JRTB0RUR5Yk5mMi02Mk02NzRNX2NQMUUyOWtDbkpRQWhKNEFoZmQ1MWdXNVl6UWtqaUVOaUpPMGxWN0t2eWJjTFpYU2lfRDFOTWczalJsSzFPWnJNaHh1YjdTaWxqeklqbkxMRU12WDNySE9vQUo2U2IwRUNqd1VwNA?oc=5",
-      "source": "Major Sports",
-      "published": "Sat, 14 Nov 2026 23:16:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZEZ6V0p4QThUNGdtdEQwNjJ6eHdGUExORk5kckpSNzhhUEFKM3BTNzJvbUpqY1ZCd3BDbnJNMVkwaDVKTjZKcGdsaFhkVW94a240TkpZSVFhR1JLdXA4VzFvcWpncXY1b1BBUjJIRzVBQmpjVjU3c3BtU05KV3haTTIzWEhSS3RmSUZXa2FGaWZXNUFtSTR4LWk3ZTFBMnhpTzJHUWhIbG9XNjdhTGtSQzIxMGVUM2E4UGk2WW9EeTN3VTk5OFRfY19lQmpMemNRaEd5NmVaOHVlT1JvQ3Y0Z1hEek5WUDlQZUNDaWgzZ0VmU1k1dEt1TGxXazVDeDE2VlFZ?oc=5",
+      "source": "NFL Opening Week",
+      "published": "Sat, 14 Nov 2026 07:14:46 GMT",
       "category": "Sports",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Pieter_de_Villiers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "image_credit": "Wikimedia Commons \u00b7 TaraO \u00b7 CC BY 2.5",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Pieter_de_Villiers.jpg"
     },
     {
-      "headline": "Oh Whale! Revisits the Exploding Whale That Became One of the Internet\u2019s First Viral Videos",
-      "summary": "The documentary short 'Oh Whale!' revisits the 1970 Oregon exploding whale incident, one of the first viral videos on the Internet. This joyful celebration counters typical tragic narratives often seen in media.",
-      "why_it_matters": "Highlighting positive storytelling through viral content broadens public engagement and diversifies media representation.",
-      "perspective_one": "Filmmakers emphasize joy and humor as powerful narrative tools in documentary shorts.",
+      "headline": "Filmmaker Helps 103-yo D-Day Survivor Recover His Lost War Medals",
+      "summary": "A 103-year-old D-Day veteran was reunited with his lost war medals just in time for Remembrance Day, thanks to an amateur WWII historian who discovered his military records and contacted the family. This coincidence highlights the preservation of personal and historical military legacies. ",
+      "why_it_matters": "The recovery honors veterans\u2019 sacrifices and raises awareness about the importance of documenting and preserving military history.",
+      "perspective_one": "",
       "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/oh-whale-revisits-the-exploding-whale-that-became-one-of-the-internets-first-viral-videos/",
+      "url": "https://www.goodnewsnetwork.org/documentarian-helps-103-yo-d-day-survivor-recover-his-lost-war-medals-just-in-time-for-veterans-day/",
       "source": "Good News Network",
-      "published": "Wed, 11 Nov 2026 19:32:59 +0000",
+      "published": "Thu, 12 Nov 2026 16:30:00 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-12.42.29-PM.png",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Douglas-Halley-103-with-his-grandson-Luke-credit-SWNS.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "What's next after House rebukes Trump's tariffs on Canada? - ABC News - Breaking News, Latest News and Videos",
-      "summary": "After the House rebuked Trump's tariffs on Canada, political debates ensue about the future of trade relations. The dispute centers on economic impact and diplomatic ties between the U.S. and Canada.",
-      "why_it_matters": "Tariffs affect cross-border trade, impacting industries, consumer prices, and bilateral relations.",
-      "perspective_one": "Critics argue the tariffs harmed U.S. businesses and threaten longstanding trade partnerships with Canada.",
-      "perspective_two": "Supporters claim tariffs protect American industries and jobs against unfair Canadian trade practices.",
+      "headline": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+      "summary": "Alaska voters rejected, for the second time, efforts to repeal the state's ranked choice voting and top-four primary systems first approved in 2020. Previous repeal attempts in 2024 also failed narrowly, indicating persistent but not majority opposition. ",
+      "why_it_matters": "The retention of these unique election methods continues to influence candidate selection and voter choice, shaping Alaska's democratic process.",
+      "perspective_one": "Proponents argue the systems increase voter representation and reduce partisan polarization by broadening candidate competition.",
+      "perspective_two": "Opponents claim these reforms complicate elections and dilute traditional party influence, potentially confusing voters.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnlQeGE2elFJOHExQ2d5WkRXV0ZaU2pJajFQOENMajVSLTBtNzVpWmpBZkxGRHhtRFFyZVkwT0lhZk1vUjdtcEx5Q0dpSzB1MlR5czdXWTE0TEhzenJSQ0MxTTJfZlB6S0ZWUVFPTnd2a2E1M2ZjNVlCYXB4a1o4dlYxa3VvUEk1WWdheEVKcWRnRXPSAZgBQVVfeXFMTXJPRW9EZ3VscWhDZnFlZ09RZXdTSHlCUW1jWld5NnEtQlp6aXkzb2pWOGtxU08wRXFXQV9yMlRDaVVzRTFMZm1FeDlRUDVmN29rdm5faHRWckFzQUpLcnd5eUFORXZvM2EzbHh3Q0d1TVk3eUhYck4wTlFrVHdsNTJqdS1VSFA0RTBiLWl0TUtfZTI1cHg3MFI?oc=5",
-      "source": "U.S. Politics",
-      "published": "Sat, 14 Nov 2026 14:06:07 GMT",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+      "source": "NPR Politics",
+      "published": "Sat, 14 Nov 2026 08:08:05 -0500",
       "category": "U.S. Politics",
-      "image": "",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/5191x3461!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Ken Paxton's political career features election victories shadowed by multiple scandals. These events complicate his public image and influence ongoing legal and political proceedings.",
-      "why_it_matters": "These developments affect governance credibility and voter trust in law enforcement and political accountability.",
-      "perspective_one": "Supporters emphasize Paxton's electoral success and policy achievements despite controversies.",
-      "perspective_two": "Critics argue his scandals undermine institutional integrity and demand thorough investigations.",
+      "headline": "FDA approves daily pill shown to cut repeat stroke risk by 26% - LiveNOW from FOX",
+      "summary": "The FDA approved a daily oral medication proven to reduce the risk of recurrent strokes by 26% compared to standard care. This new drug offers a promising preventive option for patients with a history of stroke to avoid further incidents. ",
+      "why_it_matters": "This approval expands treatment choices in stroke prevention, potentially lowering morbidity and healthcare costs related to stroke recurrence.",
+      "perspective_one": "Supporters highlight the medication's significant risk reduction and ease of daily oral dosing as patient-friendly benefits.",
+      "perspective_two": "Critics raise concerns about long-term side effects and the cost-effectiveness of the new pill relative to existing therapies.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "source": "U.S. Politics",
-      "published": "Sat, 14 Nov 2026 13:06:47 GMT",
-      "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Kings Island WinterFest Nominated for USA Today Award - Hoodline",
-      "summary": "Kings Island WinterFest has been nominated for a USA Today award recognizing its seasonal entertainment and community impact. The event is distinguished by festive attractions drawing visitors from the region.",
-      "why_it_matters": "Recognition boosts local tourism and supports economic activity associated with large-scale public events.",
-      "perspective_one": "Organizers highlight the festival\u2019s role in community engagement and local business support.",
-      "perspective_two": "Some residents express concerns about crowding and environmental impacts during peak event times.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3p0SGNQUmJTUW9FOS0wMUQybWwxR1pZYlFZLVBNVHhnU0xDekNhSHhrU19qejNMMkpnMXlremoyd0Z1YjNBUm5HdDEwdXJMV21DME9sRXZVaFFaODNnc1JhRFVZcjRnVXpsQzhQb1ZPQTF0RlVpQkRDd1o1Ny1uZUN1X3Z6YjljbVM1RXg2NzNtb3VKeHpraS12LXR0LWRwSjZaQ1VENnJxa3JuUzhHcnJEaw?oc=5",
-      "source": "USA Today U.S.",
-      "published": "Sat, 14 Nov 2026 12:55:06 GMT",
-      "category": "U.S. News",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-      "summary": "The unsuccessful impeachment of Hegseth signals significant political challenges for House Democrats despite holding majorities in both chambers. They face complex decisions about priorities, timing, and message discipline going forward.",
-      "why_it_matters": "The episode influences Democratic legislative agenda-setting and affects public perception of their governing effectiveness.",
-      "perspective_one": "Some Democrats believe they must focus on achievable policy goals while maintaining party unity.",
-      "perspective_two": "Others emphasize aggressive accountability efforts despite the political risks of divisiveness.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-      "source": "NPR U.S.",
-      "published": "Sat, 14 Nov 2026 05:00:00 -0500",
-      "category": "U.S. News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1599+0+0/resize/2400x1599!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Houthis sustain missile and drone attacks across Saudi Arabia - FDD's Long War Journal",
-      "summary": "The Houthis have conducted ongoing missile and drone attacks targeting multiple areas across Saudi Arabia. These strikes continue escalating regional conflict and testing Saudi defense systems.",
-      "why_it_matters": "Persistent attacks threaten civilian safety and stability in the Middle East, complicating peace efforts and international diplomatic relations.",
-      "perspective_one": "Houthis claim these attacks are legitimate responses to Saudi military actions against Yemen.",
-      "perspective_two": "Saudi Arabia and allies regard them as aggressive acts of terrorism destabilizing the region.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU29yWi01YXpaNzh3QXNFOE5HaWZCLTZ0Wm5JdU5mQkg2VWktVDBaWEdqRmVTajZpdG9xUGYtQ0o0dkpJZzdxZm1lMVppdEN0VlVlWjNWS19QNXhjNEM4TFdFbkJwMkxfZVlqRXFmVnd6Wl9yTUdtMTV2TjlLR2Q0NjFCS3FORW9MUXVyQWY0NDl4VGlTTVFwV0JfdDVrMmxjc3NwZzFLWHlTNGwzU1dlT2E5WQ?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sat, 14 Nov 2026 20:02:31 GMT",
-      "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Beware of Pakistan-made whitening creams: Madhya Pradesh\u2019s latest advisory - The Indian Express",
-      "summary": "Madhya Pradesh authorities issued a warning against the use of skin whitening creams manufactured in Pakistan due to safety concerns. These products are linked to health risks including harmful chemical exposure.",
-      "why_it_matters": "Public advisories protect health by alerting consumers to potentially dangerous cosmetic products and encouraging regulatory enforcement.",
-      "perspective_one": "Health officials stress the importance of vigilance and regulation in cosmetic imports to prevent widespread harm.",
-      "perspective_two": "Some consumers and sellers question the advisory's impact on trade and question the evidence behind the claims.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSS1qZFQ4Zjg5eXh0YWQ5SU9ZN3ZNeGFEWHJuVnBNWVY4a1hPVkgxMHB4UnRQT1o5cnpkY0syb1BQRXk2T3cxb3NXVjJOT1MzY2hBTC04UUYzbUhDNjFsczJhcnhZX3ktcTVIb21WS3BrUFZ6QWY0eTctTFN2VGVCcVB3QVVwUEN5WVV0bkl6eFNKWDVhUHFEdXlNbGJ3RUJSalRBWVJsdllvM1BLeXN1cUUwZDBTdUNRWFBFRy1zOTdqRkVD0gHLAUFVX3lxTE9FQmFTUWpaYnRud2UyQlVQNlNucVQzMHNLMVZxV3VqeUlPWjdmREVibHVIOTZYYmlzRy13aGNTZGF1SnJTejFzeEVvXzNkSHpYZlV1MDUyZ0pwdHNMZG8tNVFrdTgwdkZaX1FaY0lXWGE1NmZ0SldmX0c0U2xsOWFPWUljQS0ydjB0SzkydUNCQ2tfTWJ5Y2cyRGpDdlN1OXROY0pDRDJnWnFxdl9UWmpvajdTQjJ0RnI0SHZYLWstRm12aHV0ZDJIS3dn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWh0dERGb1NuSWxPSk9tRndYdDVsSmlkdXVQeVN2MWhkOUNYdndRWHg0SzJRRllrT2FVOE5BT055cVo4WEVhQ05pR0pCUXJ2M2dtdnVVMjlyaFVicG9NSWNMbTBRVVRpM1hhWFVfazc1dzNEbTBYR1ZGWlpFTnU2czRiZUtoaEJVa0lwT1RiRHg?oc=5",
       "source": "Health & Medicine",
-      "published": "Sat, 14 Nov 2026 22:47:56 GMT",
+      "published": "Sat, 14 Nov 2026 15:43:44 GMT",
       "category": "Health & Medicine",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
     },
     {
-      "headline": "NECA Awards Video Series: Seceon Founder Chandra S. Pandey on Building an AI-Driven Cybersecurity Company and Navigating the Evolving Threat Landscape - INDIA New England News",
-      "summary": "Seceon Founder Chandra S. Pandey discusses building an AI-focused cybersecurity company and addressing a changing global threat environment. His insights highlight innovations in automated threat detection and mitigation.",
-      "why_it_matters": "Advances in AI-driven cybersecurity improve organizational defenses against increasingly sophisticated cyber attacks.",
-      "perspective_one": "Pandey advocates leveraging AI to reduce human error and respond rapidly to evolving cyber threats.",
-      "perspective_two": "Skeptics urge caution about AI limitations and the need for human oversight to ensure security integrity.",
+      "headline": "Open or Closed AI? Experts Warn Both Face Growing Cybersecurity Risks - The 420.in",
+      "summary": "Experts warned that both open and closed artificial intelligence models are increasingly vulnerable to cybersecurity threats as their adoption expands across industries. The complexity and accessibility of AI amplify risks of data breaches and malicious exploitation. ",
+      "why_it_matters": "Understanding AI's cybersecurity vulnerabilities is crucial for developing safeguards that protect sensitive information and ensure safe deployment in critical applications.",
+      "perspective_one": "Advocates for open AI argue transparency allows better collective defense against threats through community scrutiny and improvement.",
+      "perspective_two": "Proponents of closed AI emphasize controlled environments restrict access, potentially reducing attack surfaces and exposure.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMFhwdVlsOHFzNC1adXEwZmNTRUJVTVFwVGNPeDZ1UmNXQ1hUeFB5TmlpN2pqelBkNnNqYTB5enJVQ0VKZHdfSG4ta1U5T2JuUUQ1ZUFVTERjXzN1a2ZjUmpSM2hrenh3MVhDTzJXaFlUakxLbmVpdmYwTk53Tmdlekw2MTVSWEY2UkxEWWJ4N1hVZnBWM1A2TmhIQXJDb08tWndQTUxLSnE2bWNBV2NMdFFTZzZkZllEWWJrOGpEY1VXVEJvc0tVUF95dTNlcGR2OUM2UldfVTJwMkhWdU54SjFvNElYTDFZcGp5ZnRDRmE1cFpCTll4SFI2a1BTR29KOWVUNUF6YjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oZGYtNEd1c19TZzduX2c1YXJVV1QyT09ya3VwenRyNFVqTmYwYU9QSHRZZlg4UXJlRGRBZXBTMmgtSVJfNWlvWDhkUEk4LUJ4MGRha2hkeVpGcjdoYVlwaVMzOVE2MzRkQlNSbw?oc=5",
       "source": "AI & Technology",
-      "published": "Sat, 14 Nov 2026 17:47:14 GMT",
+      "published": "Sat, 14 Nov 2026 13:31:08 GMT",
       "category": "AI & Technology",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Artificial_Intelligence_Word_Cloud.png/1280px-Artificial_Intelligence_Word_Cloud.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Madhav-Malhotra-003 \u00b7 CC0",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Word_Cloud.png"
+    },
+    {
+      "headline": "Washington Huskies vs Indiana Hoosiers \u00bb Best Odds and Stats - Odds Scanner",
+      "summary": "Odds Scanner provides updated betting odds and statistics for the upcoming college football game between the Washington Huskies and Indiana Hoosiers. The matchup analysis includes relevant team performance data to inform sports wagering decisions. ",
+      "why_it_matters": "Accurate odds and statistics help fans and bettors make informed predictions, affecting sports betting markets and fan engagement with college football.",
+      "perspective_one": "",
+      "perspective_two": "",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UzhIYkc5VHBaaG10a0tyWXMwUEFQb1ZZN3dZSklNS0s1akxJcDBZekFvWFVDZ0c1U1JHN0IyRG5lUkxmNTQ2VDhpY3hzV1pZNy1UeUNDbFZsTkZ2WmY3LS1ZMFB4WlViQklxYlZLRmcxam9JeWVaWXA1dnE1clE?oc=5",
+      "source": "College Sports",
+      "published": "Sun, 15 Nov 2026 00:36:51 GMT",
+      "category": "Sports",
       "image": "",
       "image_credit": "",
       "image_source": ""
@@ -262,16 +198,16 @@
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-        "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-        "source": "NPR Politics",
-        "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly."
-      },
-      {
         "headline": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
         "url": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
         "source": "NPR Politics",
         "summary": "The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections."
+      },
+      {
+        "headline": "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
+        "source": "USA Today Politics",
+        "summary": "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says The New York Times"
       },
       {
         "headline": "Federalist Society\u2019s celebrations mix with shock over Democratic sweep - The Hill",
@@ -281,12 +217,6 @@
       }
     ],
     "U.S. News": [
-      {
-        "headline": "How telecoms upgrade work sparked US flight chaos",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC U.S.",
-        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
-      },
       {
         "headline": "New Orleans port sues tanker owners over cruise ship collision for $1m",
         "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
@@ -298,14 +228,20 @@
         "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC U.S.",
         "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \u201cchopsticks\u201d."
+      },
+      {
+        "headline": "Why is Haiti 'hosting' USMNT game in Miami? Les Grenadiers feel right at home - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcm9BeWpOYkZPSDF0bzQzdUI3YVlSbkQtTDAxQzlhOVpSVUo2cTI0SEtKcUFaZnlyU3EyeXc0V2JQb3UwYTQzamV0ajhLa0JPYjd0Y1pOQVBVcW0xZkZBVjZVa0FtZWM4em1yOWIyTlRfUzZidTc5Q1I0dk5qV09xbVlFX3ZQTENfaXlaMjdZZFZLZFlYdkh0cUcxdGdCcDk0clZNWFhSNnpxXy1oZWU3MGFnMHdOeHJ4WlFuWQ?oc=5",
+        "source": "USA Today U.S.",
+        "summary": "Why is Haiti 'hosting' USMNT game in Miami? Les Grenadiers feel right at home USA Today"
       }
     ],
     "World News": [
       {
-        "headline": "How telecoms upgrade work sparked US flight chaos",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "headline": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+        "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune."
       },
       {
         "headline": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
@@ -323,51 +259,45 @@
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "US warns Americans in Saudi Arabia over threat of Houthi attacks - Middle East Monitor",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTd0TDAzSUdpb1NpeG1aOUJpeWc2aDYwVDJXaW5OUGJWZnlhZnE0b3VxRzU5M3VXekMyZ1ExRTY1U3VEOExWMHVseHV6SG9laW1GejU3ZFlLMkdFU25nMU5CMlZLT1kwSGhENzIxVHlwY3Y2d1g5X2EzZXFxS2RSZ1Nod1B2WGJ3MDRFdkVlNWR5NTB3eHd2OTRvSERmZUNVQlY1UVNKRmgtSW5U0gGyAUFVX3lxTE9BNXhHcXRNTmtxRzJoTXhtMk5fZm5sc2plM1NzSGttSnhBTEFtcFoxaVdHc2I1ZFYxd0hYT3FuOEhWR0NfckNpQmlkVGhobmVGbEFyS0U2ZlhEMEkwYnFFbUhIZUdTa1hxTHhrdUNMSUdiN0FvOVdKdVdtSUJKWnEtRFR4OFZkemtxcjZvV2dnQTE1OVMyLUpKaURpVzdZUlNEU3FKOS0zdHE0Y1hRbXlYaEE?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "US warns Americans in Saudi Arabia over threat of Houthi attacks Middle East Monitor"
-      },
-      {
-        "headline": "Israeli military says it struck senior commander in Hamas' military wing - Reuters",
+        "headline": "Israeli military says it struck senior armed Hamas commander - Reuters",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
         "source": "Reuters Middle East",
-        "summary": "Israeli military says it struck senior commander in Hamas' military wing Reuters"
+        "summary": "Israeli military says it struck senior armed Hamas commander Reuters"
       },
       {
-        "headline": "Arab League Condemns Israeli Targeting of Nasser Medical Complex in Khan Younis: 6 outlets compared - NewsCord",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUZNMlJnNldleld4cnVpUU9RcG9FZ2Fxa25KcWJhR2JnS3AzOGRGUF9ERUMyYmVqMlZpU3ZnRzRpaTBBQ0ZEeTRKaGVNaU5HY0pnamxPZUl4a2ljWGhRT00wZjBxT0dkMXJfdnUtamtKRFpjbFZkOVl5WVN4WkVmb1pjdV85R2NxY3o2UGhIRlpZcWlNMEFGV2ZvVzF2b3VuYUhIRTN3Z3ZkQVpZSXd4MzdNX1hsX0xVa2hpS0xCekFCVGwxdEdMYVNpUGVfbUdFSllEekdDMVYzaWtBNHRmd1ZzUlEyM2ZQ?oc=5",
-        "source": "Arab News Middle East",
-        "summary": "Arab League Condemns Israeli Targeting of Nasser Medical Complex in Khan Younis: 6 outlets compared NewsCord"
+        "headline": "Israeli Airstrikes and Artillery Shelling Hit Towns in Four Districts of Southern Lebanon: 5 outlets compared - NewsCord",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmU3SXlKZzdjUXpycmlXRV9rM3h5YlFwOWZreG5qUENBRVBiR2YxbG16NXpGbV9EQkdnazdtMDZvTG5tQm10SndmSEhmM3Qxd0FBY2VkQ2kwbFA0WGJ0QUJyWFNkSUFURF9KOS1ONWlTN29uM244V2dhelA5WEZTeEowa1Y2T21YaEgtenBnNVk2TDRZZUtwUU1yRDdtOFlCSFh1QmlFVnRQZ3EyT0Z6dERQLTNYcW9fTFR6TFRVVDQwc3RyV1VydFBBM2pWRVZVQUFTYzdaeXNfZ1plVDNwZkYwZw?oc=5",
+        "source": "The National Middle East",
+        "summary": "Israeli Airstrikes and Artillery Shelling Hit Towns in Four Districts of Southern Lebanon: 5 outlets compared NewsCord"
+      },
+      {
+        "headline": "US Embassy Issues Nationwide Security Alert on Houthi Threat in Saudi Arabia - https://houseofsaud.com/",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91ck1iSkZMMXNqMk5HeE9BM1A0NG9VZTA2aWpZR2ZQWE1PV2x3UXQtX2ZWNERVREhWMDdHRmZhR3JZNHFwVUtGaXh0RlFwMFpKdzZfNlJZaUszQkhVM0NWMjZsMlJ2WHdJZ0lJSWVpTQ?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "US Embassy Issues Nationwide Security Alert on Houthi Threat in Saudi Arabia https://houseofsaud.com/"
       }
     ],
     "Health & Medicine": [
-      {
-        "headline": "FDA Approves Imfinzi Plus Padcev for Bladder Cancer: 42% Lower Death Risk, More Severe Side Effects - Tech Times",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTkdjNkUzaUxaTG9tYmxxVTJEUmFBeDFxaHU3aE9GdUJDb2NsRWw2bUYtd2N1VGsyWTRETTUwYUFSd3NQWHRHWW8teEVBN3pZWmxwTEZlUTU4ZkJHcFNHUUYzRWJSakJUOG1tZkJkQTZBc0RXcFN6V0dtbzV1Tm1yMlN4QmlPa1FtVTZVWDBwRG5jUFJvc09sWHFJWXFpbGhwVE9EbWR4ZHVqZ2I2eC1kRkk3cjI4dk53bGV4VlljVW16WWVIbDMtazN3TDliUmRlQWYyVEswXzVMc3RHenZWVQ?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA Approves Imfinzi Plus Padcev for Bladder Cancer: 42% Lower Death Risk, More Severe Side Effects Tech Times"
-      },
-      {
-        "headline": "FDA approves daily pill shown to cut repeat stroke risk by 26% - LiveNOW from FOX",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWh0dERGb1NuSWxPSk9tRndYdDVsSmlkdXVQeVN2MWhkOUNYdndRWHg0SzJRRllrT2FVOE5BT055cVo4WEVhQ05pR0pCUXJ2M2dtdnVVMjlyaFVicG9NSWNMbTBRVVRpM1hhWFVfazc1dzNEbTBYR1ZGWlpFTnU2czRiZUtoaEJVa0lwT1RiRHg?oc=5",
-        "source": "Health & Medicine",
-        "summary": "FDA approves daily pill shown to cut repeat stroke risk by 26% LiveNOW from FOX"
-      },
       {
         "headline": "Vivani Medical\u2019s NPM-139 Implant Trial Set to Report Phase 1 Data - The Clinical Trial Vanguard",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3pHMnI4ME5xSmdOcENxRmxwamdyNlhVQ3JxUnRtQjZQOFBoWDdwSU5QN0d4aVBWVVM1RXNFSk9jakg2aWowb1ZTSXV3c2dkMWZpNjhKbDhaeUtWT3BEMlAtcU1NaG5wU0ZURzZyUFFLUmplSXdpU1ZHMnpiUDdtVjEwNzRTc0hMRnkteV9BWU1XSkpFSjNUOEc1Wi1pODBUMDAwRkJhVHVNUmV0?oc=5",
         "source": "Health & Medicine",
         "summary": "Vivani Medical\u2019s NPM-139 Implant Trial Set to Report Phase 1 Data The Clinical Trial Vanguard"
+      },
+      {
+        "headline": "Amylyx Pharmaceuticals Presents Results from Phase 3 LUCIDITY... - Quantisnow",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0o3VEdqOGFVVnNCeWpLalN4V1hTSlZKMmNrQWdrSk05ZV9EdTBhQkFhM3M5eEoxdTZQRDdNNkhrVGlIWjJlcmc4QkZaTzUwWGhVYjNxa0JDY1h3bHItRk1uYmtLTFpEWmFpcFR3VEdlaGdiN3l6ZEhfLUtuUm5mX1lFcndKU2FnbE1aT1BKNzdSV0JWczJoX2ZneWtkWUhpM1NZS1Z2U3ZrSEN2NkgwQ2Z6YVhqWk93OTBF?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Amylyx Pharmaceuticals Presents Results from Phase 3 LUCIDITY... Quantisnow"
+      },
+      {
+        "headline": "Food Botanicals Market To 2035: Growth Driven by Clean-Label and Clinical Validation - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHI3OURpaVluM05VczlvVmNXY1V5TlpwRm5NQUstT3hVOWtTOG9jTjhSbnZuejRCZnZFdmxjbFFwLThwNkF4MUNBZWpaU1AzU1FLU0Z6a1pVVmJjamc3Rks1MlFmd19FNzdkY21vaUdrTjBlVkNPUmp1VXZTenVFY0tFT2tsWlVIeVFCdWkydVZyU0dVaHIwMDY0cWstdEhtbU1KT1FIQ3pjeGtyQ2Zncy1Wc28wbFE0VlpSRkRTUVQtaFBjZlE?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Food Botanicals Market To 2035: Growth Driven by Clean-Label and Clinical Validation - News and Statistics IndexBox"
       }
     ],
     "AI & Technology": [
-      {
-        "headline": "Open or Closed AI? Experts Warn Both Face Growing Cybersecurity Risks - The 420.in",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oZGYtNEd1c19TZzduX2c1YXJVV1QyT09ya3VwenRyNFVqTmYwYU9QSHRZZlg4UXJlRGRBZXBTMmgtSVJfNWlvWDhkUEk4LUJ4MGRha2hkeVpGcjdoYVlwaVMzOVE2MzRkQlNSbw?oc=5",
-        "source": "AI & Technology",
-        "summary": "Open or Closed AI? Experts Warn Both Face Growing Cybersecurity Risks The 420.in"
-      },
       {
         "headline": "Outlook went down, then air traffic systems. It\u2019s been a bad week of outages. - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1d3VFZ3Z0JMZkQxdXB3S2oxbmhMWDZDRUM2X1hHMWljOVhoV28wQ1VkMkZIMFBuRWl6MWFMSEY1OUNjN3dYQ2V4NHZfWnA5Qm9EMEdJaERlN0hrRFdWeHpoZUR4emF1TXhlSDFsS3d0VVBXTElaTklCa19hZlBCZlJnSjJPV1BmeUpJbEI5MjhvZDE2YWRDVlZDQnZxbjhyZndySF9wOU12dW9fOGRXaHdxZzZwUVE?oc=5",
@@ -379,17 +309,17 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEU4WTZmdmx0RVE3YzBOTG5DbGgxcnppSzlpVVhMUks4eXdBUFJsdDJiVFFSRXZScWFNN1dROS1xSWsyRHZHekxuMDJKS1hHc1l0LUhGNHVnQzh5dllxbGxSSm9sUmxNUDZkY1dNUURScGZMVUZDc25uRk5STGNMRjhZN2h5Tk1haTA2RVphaw?oc=5",
         "source": "AI & Technology",
         "summary": "Tech Layoffs Hit 206,817 as AI Spend Estimate Nears $700B shattered.io"
+      },
+      {
+        "headline": "DICT Highlights AI-Powered Cybersecurity Risks at ASEAN Summit - Daily Tribune",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zRGpNZDBIdWlpZEZuX09hZ3Q3SHVybHFSSmdwZ3VfRnZaZXhkMzg3eXRQbU96bmhuQXpSN2g5anM1LVI2b2M0cm8yNERkb3ZhTGlXd184WmFUVjEyUTRMZHNlZmpCRlJVcHRndlFLbzRRUXYxNmVZVzM5S2FHQQ?oc=5",
+        "source": "AI & Technology",
+        "summary": "DICT Highlights AI-Powered Cybersecurity Risks at ASEAN Summit Daily Tribune"
       }
     ],
     "Business & Economy": [],
     "Society & Culture": [],
     "Sports": [
-      {
-        "headline": "Nations Championship - France 21-19 South Africa: Les Bleus put injuries behind them to hold on and stun Springboks in Paris - Sky Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZEZ6V0p4QThUNGdtdEQwNjJ6eHdGUExORk5kckpSNzhhUEFKM3BTNzJvbUpqY1ZCd3BDbnJNMVkwaDVKTjZKcGdsaFhkVW94a240TkpZSVFhR1JLdXA4VzFvcWpncXY1b1BBUjJIRzVBQmpjVjU3c3BtU05KV3haTTIzWEhSS3RmSUZXa2FGaWZXNUFtSTR4LWk3ZTFBMnhpTzJHUWhIbG9XNjdhTGtSQzIxMGVUM2E4UGk2WW9EeTN3VTk5OFRfY19lQmpMemNRaEd5NmVaOHVlT1JvQ3Y0Z1hEek5WUDlQZUNDaWgzZ0VmU1k1dEt1TGxXazVDeDE2VlFZ?oc=5",
-        "source": "NFL Opening Week",
-        "summary": "Nations Championship - France 21-19 South Africa: Les Bleus put injuries behind them to hold on and stun Springboks in Paris Sky Sports"
-      },
       {
         "headline": "Georgia Bulldogs Tragedy: Superstar Defensive Lineman Dies At Hospital (Breaking News) - Gridiron Heroics",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YaGxORUJxb3JBSnhkbTV4RVM4aVhzOWQ0M0RERThMWnZwbUxQS3lyVjhta1ZyZDVvOS0zbU5NU1Y1eDJyQVE5djVDal9uZ2U4X1JLY0tfQjZLVGxYdFo1aW9mRlh2S3VBQzdPWnM2aWJFYjU5c05MSm8xNG5FVWc?oc=5",
@@ -397,10 +327,16 @@
         "summary": "Georgia Bulldogs Tragedy: Superstar Defensive Lineman Dies At Hospital (Breaking News) Gridiron Heroics"
       },
       {
-        "headline": "Indiana Hoosiers vs. USC Trojans Player Prop Picks for College Football on Saturday 11/14/26 - DraftKings Network",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2NfcEZaU0NOUnUyVjNZb3d5OWdHeFRYMTl3ZjJYNWttU2VBNXRjR0FyQ2tZRFZKZ3lWVXh2V214cmZnaDdKclZrSmpWVVV4MGVDVmFqdnFSNlR1bWVGdkpCZ1RiSnBRNHVhM2FGQjhicjg2bFRzb1llbkgtLW9IZS1ZLWpkZGdJLWRGS0Y4ZFJjQWlKdjVLWGRaVVV3MEI1bnppM2lXMFAwUFllNEJvX29jM3pHWktXc2ppSXA0bndEOFBEaVBkb3MzZFdPR1R6UlE?oc=5",
-        "source": "Major Sports",
-        "summary": "Indiana Hoosiers vs. USC Trojans Player Prop Picks for College Football on Saturday 11/14/26 DraftKings Network"
+        "headline": "USC Trojans Injury Report vs. Indiana Hoosiers - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbXZfYWpxY0FGbG52Tlk4cUNwaXIwa0hUSzExbmNmNHcxVnRaNnpIbVR3OG5NamZrQmJPejA2R1pPb21HUlVjYl9IckwwR19PYnZxeVg4UGNESTE4TlZMQkNiaXBNakY1QkxTQ0swTy00UkUtQVUtMXFLbWxNcEhiaWtIZFJjOHd6Tmc?oc=5",
+        "source": "College Sports",
+        "summary": "USC Trojans Injury Report vs. Indiana Hoosiers Sports Illustrated"
+      },
+      {
+        "headline": "\u201cThis Is A Massive Overpay\u201d; \u201cPredictable\u201d \u2013 MLB Fans React To Jake Bauers\u2019 $58 Million Deal With Red Sox After World Series Win - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUd6WW94MWp1elZCMGxmWGZvc1NCX2ItQ1B6NlJZUWl6MHRCQmNRbTVyS1pCUlo1TEZGbUxwVjRxRjE2alBRckdyR3EwTDNCS3puT2pBd3BWbjM0OWV4V1R6SzBZQi1MVmQxMnBaV3R6Mk9iYm1pODdPbzBSTWZiRWNrbkp2aGRvNWEwTGZR?oc=5",
+        "source": "Yahoo Sports MLB",
+        "summary": "\u201cThis Is A Massive Overpay\u201d; \u201cPredictable\u201d \u2013 MLB Fans React To Jake Bauers\u2019 $58 Million Deal With Red Sox After World Series Win Yahoo Sports"
       }
     ],
     "Good News": [
