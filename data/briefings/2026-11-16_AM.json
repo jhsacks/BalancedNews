@@ -1,297 +1,297 @@
 {
-  "generated_at": "2026-11-16T14:53:56.962676-05:00",
+  "generated_at": "2026-11-16T15:42:26.818750-05:00",
   "edition": "AM",
   "stories": [
     {
-      "headline": "Regulating AI will being a top priority for congressional Democrats in the new year",
-      "summary": "Congressional Democrats plan to prioritize regulations on artificial intelligence in the upcoming session, aiming to introduce oversight measures. They will encounter significant resistance from the Trump administration, which favors a hands-off approach to AI governance.",
-      "why_it_matters": "How AI is regulated will influence innovation, data privacy, and economic fairness, affecting technology development and societal impacts in the U.S.",
-      "perspective_one": "Democrats argue AI regulation is essential to prevent misuse, ensure safety, and protect consumer rights, emphasizing responsible innovation.",
-      "perspective_two": "The Trump administration believes minimal regulation fosters economic growth and technological leadership without bureaucratic slowdowns.",
+      "headline": "Cassidy says questions remain about Trump\u2019s FDA pick ahead of committee vote - The Hill",
+      "summary": "Senator Cassidy stated that unresolved questions persist regarding President Trump's nominee for the FDA before a crucial committee vote. The ongoing concerns may influence the confirmation outcome amid scrutiny over the nominee's qualifications and agenda.",
+      "why_it_matters": "The confirmation of the FDA nominee will shape regulatory policies impacting public health and pharmaceutical oversight for years.",
+      "perspective_one": "Supporters argue the nominee\u2019s experience and alignment with the administration\u2019s goals will improve FDA responsiveness and innovation.",
+      "perspective_two": "Critics contend that the nominee may prioritize industry interests over public safety, risking weakened regulatory standards.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
-      "source": "NPR Politics",
-      "published": "Mon, 16 Nov 2026 06:38:50 -0500",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVU5BTUdlOFdjOTRQcm9mM3NrN1BjY1FXejJDZG9HekViWXpHTk5rbWpSZzZTZmJFNGdNZ25mQzV0dmVKZ096cnNxc3pFUDJvN013QUozZ0JmQTBsT0NKVU5jZE9zSDdXb2ItSGpvR1VqQVhwd3JqWXJNeG9xMFdUa1pPS1_SAYoBQVVfeXFMTUptN2J5V3p0SVhaNmJQT0RiN2oyTVpDWnlOZ0hZYjg0ZWVzTmNsMjFxYzAwX3JqY0NIbUowS3FSQjJheTItTldGUUVrUEhZNXg5VVZHVnFyMDZKdldfM3lRZFVaOUhrWXozSWY3M0tMTldVUE92di0wMENHTjVpNllmbGtiaVBPOFp3?oc=5",
+      "source": "U.S. Politics",
+      "published": "Sun, 15 Nov 2026 22:50:00 GMT",
       "category": "U.S. Politics",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Canada bars Russia from Junior World Championships",
-      "summary": "Canada announced it will prohibit Russian athletes from participating in the Junior Ice Hockey World Championships due to the ongoing war in Ukraine. This action aligns with broader international sanctions targeting Russia's sports presence amid the conflict.",
-      "why_it_matters": "Excluding Russian athletes reflects escalating political and sports-related consequences of the Ukraine war, influencing international sports diplomacy and athlete careers.",
-      "perspective_one": "Supporters view the ban as a necessary stance against Russia's aggression, using sports to pressure political change.",
-      "perspective_two": "Critics argue that athletes should not bear the penalties of geopolitical conflicts, advocating for sports neutrality to preserve fairness.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sun, 15 Nov 2026 22:01:16 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-      "summary": "President Trump is traveling to China for a second visit this year to meet with leaders Xi Jinping and Vladimir Putin amid backlash from recent midterm elections and pressure following controversies related to Nvidia. The trip highlights efforts to address diplomatic relations and economic tensions in Asia.",
-      "why_it_matters": "Trump's meetings could affect U.S.-China-Russia relations, global tech policies, and the international economic environment amid geopolitical shifts.",
-      "perspective_one": "Trump supporters see the visit as a strategic effort to strengthen alliances and manage trade challenges with China and Russia.",
-      "perspective_two": "Critics worry the trip could undermine U.S. positions on human rights and embolden authoritarian regimes amid domestic political distraction.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-      "source": "NPR World",
-      "published": "Mon, 16 Nov 2026 05:00:00 -0500",
-      "category": "World News",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/3000x1903!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
-      "summary": "Recent strikes by Israel and the US signal renewed military escalation involving Iran. These developments reverse a previous period of relative quiet and raise tensions in the Middle East.",
-      "why_it_matters": "Renewed conflict in and around Iran risks destabilizing regional security, affecting energy markets and international diplomatic efforts.",
-      "perspective_one": "Supporters of the strikes argue they are necessary to counter Iran's destabilizing regional activities and terrorism sponsorship.",
-      "perspective_two": "Opponents warn that military actions will provoke wider war, civilian casualties, and complicate diplomatic negotiations for peace.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
-      "source": "Conflicts & Security",
-      "published": "Mon, 16 Nov 2026 19:11:31 GMT",
-      "category": "Conflicts & Security",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre - Reuters",
-      "summary": "Houthi forces in Yemen claimed to have fired ballistic missiles targeting Riyadh's airport and financial district, escalating regional conflict. Saudi Arabia remains on high alert amid ongoing cross-border hostilities.",
-      "why_it_matters": "Missile attacks on key urban and economic hubs in Saudi Arabia could disrupt regional security and economic stability, increasing risks of broader conflict.",
-      "perspective_one": "The Houthis frame missile launches as resistance against foreign intervention and blockade affecting Yemen.",
-      "perspective_two": "Saudi and allied forces view the attacks as aggressive terrorist actions threatening civilian safety and regional peace.",
+      "headline": "Flight disruptions expected to last into Monday",
+      "summary": "Congress allocated $12.5 billion to the Department of Transportation to upgrade the aging air traffic control system, but disruptions in flight schedules are expected to persist into Monday. President Trump is pushing for additional funding to accelerate these improvements amid ongoing travel delays.",
+      "why_it_matters": "Prolonged flight disruptions affect passenger travel and commerce, underscoring the urgent need for air traffic modernization funding and technological upgrades.",
+      "perspective_one": "Supporters assert increased funding will modernize infrastructure, improve safety, and reduce delays in the long term.",
+      "perspective_two": "Opponents worry about ballooning costs and question whether additional funds will be efficiently utilized without clear accountability.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2NSdXVjeDlTU0lLeTAtMGs5RmdHaW0wTVhVbzUwempOYUdlNVB3NXprMGZqYksyVjhLUU1OV250QlczemJOT2tXcVFIZEJYb0dwblVCblExbnFmZkVyeGZnZ0NJY3Z3a3NTcmxUQ21tR0ZsQVdhTTNRNWJaZW5pOEk4RDNEMXN3aExOaEE0QVNzaXV3UTM3ZjlNa2hDenRtajR2aGVGT3RQR0NOSnY1VHQ3czdCSkJWSUgxaFFYNThEUlBBMVpn?oc=5",
-      "source": "Reuters Middle East",
-      "published": "Sun, 15 Nov 2026 18:02:53 GMT",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+      "source": "NPR U.S.",
+      "published": "Sun, 15 Nov 2026 20:19:28 -0500",
+      "category": "U.S. News",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1e%2F66%2F10ee89b54151af9204aa25ccdb0d%2Fap26318716275654.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "What to expect from Trump and Xi's upcoming meeting in China",
+      "summary": "Ahead of the Asia-Pacific Economic Cooperation summit in Shenzhen, President Trump is set to meet Chinese leader Xi Jinping and Russian President Vladimir Putin. The summit will focus on trade, security, and diplomacy amid shifting geopolitical dynamics in the region.",
+      "why_it_matters": "The meeting could influence U.S.-China and U.S.-Russia relations, affecting trade policies and regional stability in the Asia-Pacific.",
+      "perspective_one": "Some view the summit as an opportunity for constructive dialogue to ease tensions and expand economic cooperation.",
+      "perspective_two": "Others warn that unresolved conflicts and strategic rivalry may limit agreement and exacerbate geopolitical risks.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+      "source": "NPR World",
+      "published": "Sun, 15 Nov 2026 17:11:26 -0500",
+      "category": "World News",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Netanyahu, aides met to plan campaign alleging fraud in Arab vote before election: Report - Anadolu Ajans\u0131",
+      "summary": "Reports indicate that Netanyahu and his aides strategized a campaign alleging fraud in Arab voting before the election. This move aims to influence election narratives and voter perceptions ahead of critical polls.",
+      "why_it_matters": "Such allegations could exacerbate ethnic tensions and impact election legitimacy and minority voting rights in Israel.",
+      "perspective_one": "Netanyahu\u2019s camp argues the campaign exposes real voter fraud to protect electoral integrity.",
+      "perspective_two": "Critics accuse the campaign of undermining democracy by discouraging Arab voter participation and fomenting division.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnJOQUxQRDZPMEw4b1lJcHhvNlFOV1czNVhOR04wZWQ0UzdpTjNDS0JtUVpUWGgxM21GT2xfeFI0cGdUUTlqRkk0ZFFFZ2dKeFZrSU5SdmpKY0xxcFVkbk41emdRb244ZnV6aV9KM09UanFwVUw3NWM5ZXJlR19JWnpUMkxzVzl4T2t0M0hHbmVub1VjeHBXZHhadVp4OVdtTks5WVhIaFU3TlhQb2xmZ2JaM3g4MTUtdER5Wm4tazlXeFEyQlUtdEM2X3I?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Mon, 16 Nov 2026 19:53:57 GMT",
       "category": "Middle East Affairs",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg/1280px-2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons \u00b7 The Official CTBTO Photostream \u00b7 CC BY 2.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:2nd_CTBT_Science_Diplomacy_Symposium_(27472625147).jpg"
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
     },
     {
-      "headline": "FDA approves new drug to reduce risk of repeat strokes in certain adults - Gulf Coast Media",
-      "summary": "The FDA has approved a new medication aimed at lowering the risk of recurrent strokes in specific adult populations. This drug provides a novel option to improve secondary stroke prevention and patient outcomes.",
-      "why_it_matters": "Improved pharmaceutical options can reduce stroke recurrence, potentially decreasing disability rates and healthcare costs for at-risk adults.",
-      "perspective_one": "Advocates emphasize the drug's potential to fill gaps in stroke prevention and improve quality of life for survivors.",
-      "perspective_two": "Skeptics caution over long-term side effects and emphasize the need for complementary lifestyle and therapeutic interventions.",
+      "headline": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
+      "summary": "The FDA has proposed a new regulatory category for the dietary supplement N-acetylcysteine (NAC), which has existed in a legal gray area despite widespread availability. This move clarifies regulatory oversight and could affect how NAC is marketed and sold.",
+      "why_it_matters": "Formal FDA regulation will influence consumer safety standards and industry compliance for a popular supplement.",
+      "perspective_one": "Proponents believe regulation ensures product quality and protects consumers from misleading claims or unsafe formulations.",
+      "perspective_two": "Some supplement advocates worry FDA oversight may restrict access and increase costs for consumers.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcWVnTlZHa2dHRE5lZ1VmaFg1NFNodXNnUEJsVTVFY3dyOEhYYWJLYXVrVmVfQmxFaGMxSlA1MUtnTUFmWUJfUExWQnY0ZkRHbWhWWmRzLWhTeVhzeDk2cGFYU0MwdmRXX3p6elJ3Q3BkYy1LWEdRbXBTVS1hcFRHR3BldUNsQXNtRzhKSnM4ek5VeGVRTVpNdWxJNmpVbXpCd1BaU0lJZEZQSDFqa3U2dmpaVk5HanMxTkRsYmp3?oc=5",
-      "source": "Health & Medicine",
-      "published": "Mon, 16 Nov 2026 19:30:00 GMT",
+      "url": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
+      "source": "STAT Health & Medicine",
+      "published": "Mon, 16 Nov 2026 18:54:06 +0000",
       "category": "Health & Medicine",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
+      "image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_587333568_Editorial_Use_Only-1024x576.jpeg",
+      "image_credit": "",
+      "image_source": ""
     },
     {
-      "headline": "Fed Chairman Warsh grapples with AI\u2019s potential economic impact, steers clear of its inflation risk - KTBS 3",
-      "summary": "Federal Reserve Chairman Warsh discussed artificial intelligence's economic implications but avoided linking it directly to inflation risks. The Fed maintains cautious monitoring while assessing AI's role in productivity and labor markets.",
-      "why_it_matters": "Understanding AI's impact on inflation and economic growth guides monetary policy decisions affecting interest rates and financial stability.",
-      "perspective_one": "Some policymakers view AI as an innovation that could boost productivity and moderate inflation pressures long-term.",
-      "perspective_two": "Others remain concerned about AI potentially disrupting labor markets and contributing to short-term inflation spikes.",
+      "headline": "India and Israel Explore New Frontiers in Artificial Intelligence Cooperation - Elets eGov",
+      "summary": "India and Israel are expanding their cooperation in artificial intelligence to develop new technologies and applications. Their collaboration aims to advance AI innovation and address mutual priorities in security and economic growth.",
+      "why_it_matters": "This partnership enhances both countries' technological capabilities and fosters economic and strategic ties in a critical emerging technology sector.",
+      "perspective_one": "Supporters emphasize the benefits of combining expertise to accelerate AI breakthroughs and address global challenges.",
+      "perspective_two": "Critics caution about ethical concerns, data security risks, and geopolitical implications of increased AI collaboration.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdGhfNnY4aDlyR0JNdFFJWlE4M2RzQmR5czdHeV9zM2FZVDhiN3dOY05YOTV2eUF3U2M2QTBvcDRZeFoxWkdYQ3BEUUE5SDR6MzdGc3BDVW9UaWdaZkhzWG9qNEQwUURtemc0WG9nNVlMbUlWV1lxZzlJT2tBN0FYcjdud1dvZk1VR1Z0TkQ3WEZRUVlYOXlOb2dhdUpoNXFsNzdoWEVfRDRMNFBZdDZHRXlBQV8tV1p1TUtzZXI5b0U1eVhfbEpzYVpYZExNcC0tR2VqYURZcXJsZ1Q2TkdkdWJWd04tUHpLX3U3M1lIdGVJMUl0SXl4d1k3SXBNOVRkZXh4elBuMzg1QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXJUQnROVDZwMVNJUUl4bGdKVlE0bjNkZjR0cjNfdUpEcU82QlpobVV3TXBsdXpIY1J6Z25Dd1ZMRi05akNFc3V3UHpBRkZlXzZKU3JYYU1MckUzdHZtMlZabU90MG41cFBXLXhySUxIZFNmejl6Z0x4NTJXS3BManp3SWFBYzBaeUVPZ29fZXlCTTRhLUlsc0QyU01qcTY0ZjhQcTJRZnJROFF2TmFJNWUxemQ0UQ?oc=5",
+      "source": "AI & Technology",
+      "published": "Mon, 16 Nov 2026 12:55:56 GMT",
+      "category": "AI & Technology",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom - The New York Times",
+      "summary": "The Federal Reserve Chairman emphasized the unpredictable economic impacts arising from the rapid expansion of artificial intelligence technologies. He noted that AI could significantly reshape labor markets, productivity, and inflation in uncertain ways.",
+      "why_it_matters": "AI\u2019s economic effects will influence monetary policy decisions and broader economic stability going forward.",
+      "perspective_one": "Some policymakers see AI as a critical driver of long-term economic growth and efficiency gains.",
+      "perspective_two": "Others warn that AI may disrupt jobs, create inequality, and complicate inflation control.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5",
       "source": "Business & Economy",
-      "published": "Mon, 16 Nov 2026 18:10:46 GMT",
+      "published": "Mon, 16 Nov 2026 19:24:44 GMT",
       "category": "Business & Economy",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Fewer babies being born in Houston area: Rice University study reveals decline in fertility rates - Click2Houston",
-      "summary": "A study conducted by Rice University found a decline in fertility rates in the Houston metropolitan area, indicating fewer babies being born. Factors influencing this trend include economic conditions, social changes, and health considerations.",
-      "why_it_matters": "Decreasing fertility rates could affect regional population growth, economic development, and demands on healthcare and educational services.",
-      "perspective_one": "Demographers attribute the decline to shifting social norms and economic pressures discouraging larger families.",
-      "perspective_two": "Healthcare professionals emphasize the role of reproductive health access and environmental factors influencing fertility.",
+      "headline": "The Silver Corridor: Japan\u2019s Age-Tech Diplomacy and the Healthcare Workforce Crisis in Southeast Asia - Asia-Pacific Journal: Japan Focus",
+      "summary": "Japan is employing 'age-tech' diplomacy by exporting technologies to address the healthcare workforce shortages in Southeast Asia amid aging populations. This strategy aims to foster regional partnerships while tackling demographic challenges through innovation.",
+      "why_it_matters": "The approach could reshape healthcare delivery in Southeast Asia and strengthen Japan\u2019s geopolitical influence in the region.",
+      "perspective_one": "Japan views age-tech diplomacy as a sustainable solution to healthcare labor gaps and aging societies.",
+      "perspective_two": "Some regional actors question the efficacy and equity of technology-driven healthcare interventions and geopolitical motives.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONUJZZ05OQndVRVJFUXEzUG5CSU1mLThfTW9rWTBjQ3JiSDAtZV91LXNnOGhMM0UwVy05TDBlaU1DN2ZoWUxjcXM4a1g0SXFNSHkyMVZKa3lOb0o0TDJjaHgtejRBMUh2ZG43LVRqN0ZYenlsSjVCd21FUFNJemxDZ2RWOUZJMVJwX2xKUVJfbXB4QmlVbEFCZFJzYndkUFZBSE1WNGtTVjFQbjFOOXo0c1lGVkYzRmhvekgtRElfWHpPS0JoYTFrX2tST3JTdFhxQm5GVUVTM2diczVFYmxzSml2TQ?oc=5",
-      "source": "Society & Culture",
-      "published": "Mon, 16 Nov 2026 17:52:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHRpZmZNQk1GdzVyckhSLUp5amljMkFSUF9PRmpQVUhSWWczWkhHaGFMbXNBeC1fSktSbTBmYy00eWNGYXMzNExHREVyNEh6Z0FRNXdGendLRDRlTVdkR0xiMDd1ZHZxVnhOQVZHaERYYUhzd0l2SkVBM1F2ZnF2ODFyekJQaVRQYzNheV8tZHlJNUZkdHRwX01EYWRmaDg4dEpRYkxoTGQ0UkZ0cDFjTU1id1lLaFl4?oc=5",
+      "source": "U.S. News Society",
+      "published": "Mon, 16 Nov 2026 15:50:08 GMT",
       "category": "Society & Culture",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "SEC elimination day? South Carolina, Kentucky, Missouri and LSU exit Playoff race - The Athletic - The New York Times",
-      "summary": "South Carolina, Kentucky, Missouri, and LSU were eliminated from the college football playoff contention following recent game results. The departures highlight the increasing competitiveness and unpredictability within the SEC conference.",
-      "why_it_matters": "These eliminations shape the postseason landscape, influencing team strategies, fan engagement, and financial stakes tied to playoff appearances.",
-      "perspective_one": "Fans and coaches of remaining teams stress the importance of peak performance and adaptability to secure playoff spots.",
-      "perspective_two": "Supporters of eliminated teams lament missed opportunities and argue for reforms to promote broader competitive balance.",
+      "headline": "Indiana Football Has a Championship-Caliber Defense, and USC Found Out Why - Sports Illustrated",
+      "summary": "Indiana University's football team demonstrated a championship-level defense in their matchup against USC, outmatching expectations. Their defensive strategies and execution played a key role in defining their competitive standing for the season.",
+      "why_it_matters": "This defensive strength positions Indiana as a serious contender in college football competitions.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlA4d3h3ZjlQYnBHcEFpLVh5UG9lYWg1RERaRFJTLUxvX0UzOEpxM0pTZ0lRekExWTVHSldSejN0d2JvRkxzRVc1dlZfQ1IxYjJFY2s4bF9iUEVTbk5PbUdxYVVMWFZKQzk1N0tWY0xTN0xoa09FamdfZUJXZWZIUXBqWkttV3VITU9WQnJKdw?oc=5",
-      "source": "Major Sports",
-      "published": "Sun, 15 Nov 2026 14:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGJoX01XM1hMbldSYWtmN1M0RW1xQWhackVrdjVWQzJQWDY3OWlTcFZrYlJ0RHdDYmFnempaeEZPdVBuY0tQTVNQNkpzd2ZTNmRGakhjNEprclBwMFRZNTk3OFNGajdVMmlPMjVVa2ZSTllia0thTlduWGxXZGhfYUlmdkJ6Ykh5X0JvR2pmMGJpckRHTEp4UFlJQnBoMHoxX24yYTEzNE1ialo3bmVQYUoyV0lka1JE?oc=5",
+      "source": "College Sports",
+      "published": "Sun, 15 Nov 2026 18:54:10 GMT",
       "category": "Sports",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Good News in History, November 13",
-      "summary": "Seventy years ago on November 13, 1956, the US Supreme Court overturned Alabama\u2019s racial segregation policy on public buses, effectively ending the Montgomery Bus Boycott. This landmark ruling marked a significant victory in the civil rights movement spearheaded by Rosa Parks and legal advocates.",
-      "why_it_matters": "The decision set a legal precedent that dismantled systemic segregation, advancing racial equality and inspiring subsequent civil rights reforms.",
-      "perspective_one": "Civil rights proponents celebrated the ruling as a crucial step toward justice and social change in America.",
-      "perspective_two": "Segregation supporters viewed the decision as an unwelcome interference in state laws and social order.",
+      "headline": "Heroic Bravery of Woman who Hid Troops from Nazis in WWII Revealed in Diaries 40 Years After her Death",
+      "summary": "Diaries revealed 40 years after Ada Le Poidevin\u2019s death expose her bravery in hiding Allied soldiers on Nazi-occupied Guernsey during WWII. Her actions preserved lives and contributed to resistance efforts in a dangerous environment.",
+      "why_it_matters": "Her story highlights civilian courage in wartime and enriches historical understanding of local resistance during Nazi occupation.",
+      "perspective_one": "",
+      "perspective_two": "",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/events061113/",
+      "url": "https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/",
       "source": "Good News Network",
-      "published": "Fri, 13 Nov 2026 08:00:00 +0000",
+      "published": "Sat, 14 Nov 2026 13:26:31 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/11/Rosa-Parks-on-Bus-After-Boycott-Wikipedia.jpg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Ada-Le-Poidevin-during-WW-and-niece-Liz-Walton-SWNS.jpeg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "President Donald Trump\u2019s tariffs are unpopular \u2014 but they\u2019ll be tough to repeal - Chicago Tribune",
-      "summary": "Although President Donald Trump\u2019s tariffs face widespread unpopularity among consumers and businesses, legal and political challenges make their repeal difficult. These tariffs continue to impact trade relations and domestic market prices.",
-      "why_it_matters": "Sustained tariffs influence supply chains, consumer costs, and international trade dynamics, affecting economic growth and political debate.",
-      "perspective_one": "Proponents defend tariffs as necessary for protecting American industries and jobs from unfair foreign competition.",
-      "perspective_two": "Opponents argue tariffs increase prices and harm both consumers and exporters, advocating for freer trade policies.",
+      "headline": "Of course Trump wants to criminalize congressional oversight | Opinion - Yahoo",
+      "summary": "An opinion piece argues that President Trump seeks to criminalize congressional oversight efforts targeted at his administration. The editorial suggests this approach threatens democratic checks and balances by undermining legislative scrutiny.",
+      "why_it_matters": "If oversight is criminalized, it could weaken legislative accountability and alter the balance of power among U.S. government branches.",
+      "perspective_one": "Critics view Trump's stance as a dangerous attempt to evade accountability and misuse executive power.",
+      "perspective_two": "Supporters may argue such measures protect executive privilege and prevent partisan overreach by Congress.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YbHg2dUVTRXJFRnpuT05tOFNuamZ1b3k2WTBKQlgtV1ZFRGt3TVdNSW81UGZMMDFrdGNieUVXNVkwVEpsdThYVnZ5TGRBZWxkMUJkT05iVGl5MUNPUVoxS296M3VvWXQzQS1PS3F4QVE1VnZYOEkzckJ3?oc=5",
-      "source": "U.S. Politics",
-      "published": "Mon, 16 Nov 2026 13:10:27 GMT",
-      "category": "U.S. Politics",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Trump calls on Congress to fund new air traffic control system - The Hill",
-      "summary": "President Trump urged Congress to finance an updated air traffic control system aimed at improving aviation safety and efficiency. The funding request prioritizes modernization amid growing air travel demands.",
-      "why_it_matters": "Securing investment could reduce flight delays, enhance safety, and modernize critical infrastructure in U.S. airspace management.",
-      "perspective_one": "Trump and supporters assert the upgrade is vital for competitiveness and public safety in the aviation sector.",
-      "perspective_two": "Some lawmakers question funding priorities amid budget constraints and seek assurance on project management and cost-effectiveness.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlJhYUswUzRGWVVSRWpudnR5akJ6Q1FRaXMzUFk2cGpvcDNrQ3JUS0RBNzI3ak5tMktBbTVsaURHWkRISFdOeVUtRWYwU1F5Q3puaDJ1ZVgyZEQ2cWF2QkpPN2pxTVYyekVjamVjZDNmb0hUN3Nvc0FlMTRmSzVKZDJtYXZ2Z3Q4dGJ4NXl30gGTAUFVX3lxTE9EMVZJR3BOMzRBZnJMdVpRdVRic01VTFBSOXo0dm5UUV9ETnZlOFVmaEQ3TGNIdm9jSkI1X3VQNTBnQXB1czVzSXVNd1ZvNzlJMmxIeHZiQXdkMEhZdFVZcElwWEpRZWFYX01XbDZyRXNsVklBYmFiRG5lM25fVTVJUmN6SjY2UldXZVpyc0g0bTNidw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZDE2SXhvXzZHZS1QOGlpQjI4VERWV3Q3S3dSSXBVT052aGdTZE5QWjgzbkFaeWx6Y2dGT2NkN1RjN2ZWR1dGTjJqeVdTRUNnRi1mdF9QblpaUnVoTk96a1ctX250TWRiMGlQamdSWmg5X3QxU003clhRSjFudVI2Zk9KQ2x5bjd5Zmt1Q1czYWRJSnVadDhKaWY3UERlckE2M2tJbGZyNA?oc=5",
       "source": "USA Today Politics",
-      "published": "Sun, 15 Nov 2026 15:25:00 GMT",
+      "published": "Sun, 15 Nov 2026 09:01:11 GMT",
       "category": "U.S. Politics",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary": "A judge issued a temporary order blocking President Trump\u2019s plan to close the East Potomac Golf Links, known as 'Trash Island,' amid an effort to upgrade it into a championship golf course. This judicial intervention pauses the president\u2019s months-long redevelopment challenge.",
-      "why_it_matters": "The ruling impacts municipal land use decisions and preservation of public recreational space in Washington D.C.",
-      "perspective_one": "Supporters of redevelopment emphasize economic benefits and improved facilities from the golf course upgrade.",
-      "perspective_two": "Opponents argue the closure harms community access and disrupts an important public amenity without sufficient review.",
+      "headline": "Who Will Lead Congress's Most Powerful Committees in 2027? - No Labels",
+      "summary": "The article examines the likely leaders of Congress\u2019s most influential committees for the 2027 session. Leadership choices will determine legislative priorities and the balance of power in shaping key policies.",
+      "why_it_matters": "Committee chairs control legislative agendas and oversight functions critical to national governance and policymaking.",
+      "perspective_one": "Some favor experienced legislators to lead committees to ensure effective governance and policy expertise.",
+      "perspective_two": "Others advocate for fresh faces to bring new perspectives and reform to entrenched committee practices.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sun, 15 Nov 2026 15:57:03 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHJ2b1JnV1dSdzFQVHRtTEthWkdBVEtPS2MzNXgyTDVTQU4yUUk4eEp6akxVemhPZEhYU2V3ekg5ek9YZ1hlbnhJeF8zVk1SNUplU25fdFFpR1c4R1RSYmdZVUozVjM4U2lFcFpQaWdObXdTNnlBTk55MHlHZHpTV3J6SmRJeXJ6ejFabFJuNzJBMzA?oc=5",
+      "source": "U.S. Politics",
+      "published": "Mon, 16 Nov 2026 19:30:15 GMT",
+      "category": "U.S. Politics",
+      "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "UCLA women's basketball raises championship banner at Pauley Pavilion - USA Today",
-      "summary": "UCLA women's basketball team commemorated their championship victory by raising a banner at Pauley Pavilion. This event celebrates the team's latest national title and honors their competitive success.",
-      "why_it_matters": "Championship recognition enhances team legacy, boosts university spirit, and promotes women's collegiate sports visibility.",
-      "perspective_one": "Fans and players view the banner ceremony as validation of hard work and a milestone for women's athletics.",
-      "perspective_two": "Some critics highlight ongoing disparities in funding and media coverage between men's and women's sports despite such achievements.",
+      "headline": "Trump breaks silence on nationwide ground stop and demands more money from Congress - KX News",
+      "summary": "President Trump addressed the nationwide ground stop causing flight delays and demanded increased Congressional funding for aviation infrastructure. His demand highlights growing pressure to resolve transport disruptions affecting millions.",
+      "why_it_matters": "The resolution of this crisis depends on Congress approving further funds, affecting national travel and commerce sectors.",
+      "perspective_one": "Trump insists that more federal investment is essential to modernize and stabilize air traffic control systems.",
+      "perspective_two": "Some lawmakers criticize the demand as politically opportunistic or question the allocation efficiency of existing funds.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUU5cmtHaWRzeWRjd1NRRTdzRG9fRmdaMXc1VExqSUR6UllLaTNGbTk1WkdHNzJaMGxieWtjN25YQzhfUXBablNKRVR5SE8xbnJHcEx0dEtYNFBucHdDN3JDMGM3c3BxRDhlTHFNUWxPNTBEZWRkNVZkM0dWdVJlU0RfbE9DMXdxMVRDOUxKM1h2WUxKT0dhMW9CS0hpRzNGVmwyLTU1Szh3Nlpic3QzaXp5N2pSdzVlQUNWd05paGJFMGNRdi1SWGpVY2JMX1gtVmxCZHZkekpRS0trYUE?oc=5",
-      "source": "USA Today U.S.",
-      "published": "Mon, 16 Nov 2026 07:07:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTTRGb3pDU3oyeEFBVXlkenk2eFJGUnVZMktMd0g2VGJSTmNuMy1YZmdhVmV3OVRxaUZtYjROb0RUclpuVzZwMUdlbnBJeW5KM2djM3ZDaWx5cGZYaU5HVnZRQ2NNNjZYeXQ2MkM5VnpKZ0xnWFZPSVh3eW5TT3ZPTHpWNkNPWE5WTmxsbUxjdWZzbnppV1VRdVRjTGIwUzMzTUJydml2dDVQQnNpdGduUnp6LUt1bWVoS256d3o5U1pjbUVRWHfSAcsBQVVfeXFMTjNja2EyS0tiVjAtSGRzci1Yalcwd2NkQ3pEay1ISHhGVzZkWVRlM05GTGJ1QTlWemdJdGVZc1gwMEZPbHVySE1OOTZsUHN0OHhlLS1LTC11V2JxUHlyNTNTXzVvaWJFQkVJYUpUYkp2WmVzdlI2Z3JacXR0LWhkX0Z6ZzZyYkpDc0txMnhfN1JhSDFHb012NkRISjFpZndINTFTMEswWXBNdTF3TnJocVhJdjNtWmZHanFQZU5qUWlEcnRSZ0RJWUxPQUk?oc=5",
+      "source": "Associated Press U.S.",
+      "published": "Sun, 15 Nov 2026 14:18:39 GMT",
       "category": "U.S. News",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "summary": "Russia reported an unprecedented Ukrainian drone attack involving over 2,000 drones in a day, striking the Crimea bridge and triggering 17 air raid alerts in Kyiv. This marks the largest drone operation since the conflict escalated.",
-      "why_it_matters": "The attack demonstrates escalation in drone warfare and poses strategic challenges for Russia's control and infrastructure security.",
-      "perspective_one": "Ukraine claims the operation targets critical infrastructure to weaken Russian military capabilities and morale.",
-      "perspective_two": "Russia condemns the attack as terrorism against civilian infrastructure, justifying increased military responses.",
+      "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "Ukrainian President Zelensky called on the US government and Elon Musk to remove restrictions on Starlink satellite internet, citing slowed service that hampers defense against Russian attacks. He stressed the critical role of unimpeded connectivity for Ukraine\u2019s security.",
+      "why_it_matters": "Restrictions on Starlink could weaken Ukraine\u2019s communications and defensive capabilities amid conflict.",
+      "perspective_one": "Zelensky and advocates urge full Starlink access to maintain Ukraine\u2019s operational advantage and civilian resilience.",
+      "perspective_two": "The US and service providers weigh risks of technology misuse or escalation while managing support.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Mon, 16 Nov 2026 14:58:12 GMT",
-      "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC U.S.",
+      "published": "Mon, 16 Nov 2026 20:16:15 GMT",
+      "category": "U.S. News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Iranian Officials Warn Economic Crisis Could Spark Internal Security Concerns: 6 outlets compared - NewsCord",
-      "summary": "Iranian officials have warned that the country's economic crisis risks triggering internal security problems. Multiple news outlets report on these concerns amid rising inflation, unemployment, and sanctions pressure.",
-      "why_it_matters": "Economic instability in Iran could undermine governance, increase social unrest, and complicate regional security dynamics.",
-      "perspective_one": "Officials emphasize the need for economic reforms and stability to prevent escalation of protests and violence.",
-      "perspective_two": "Critics argue that current policies contribute to the crisis and call for significant structural changes to restore public trust.",
+      "headline": "Israel defies warnings from China, Saudi Arabia and Turkey as its next rulers vow to recognise breakaway territory, provoking U.S.-backed Somalia once again - Business Insider Africa",
+      "summary": "Israel\u2019s incoming leadership announced intentions to recognize a breakaway territory, defying warnings from China, Saudi Arabia, and Turkey. This decision risks renewed tensions with U.S.-backed Somalia amid regional geopolitical complexities.",
+      "why_it_matters": "Such recognition could destabilize an already volatile region, complicating international relations and peace efforts.",
+      "perspective_one": "Israel\u2019s government seeks to assert sovereignty recognition as a strategic political move.",
+      "perspective_two": "Regional powers and Somalia view this as provocative, threatening territorial integrity and regional stability.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTnVrRVR5VnFhZnFsR0hFMXVaV0JFRTVYYjRQRFNUNXhjWEFmZXRERTNKbWN5ZUJ4bXhvS2l3dW1KbzEwNk5EZnFRWnVEWE9MUmRkczlIZFRLUkJPd3Q1UWxwb1g4ZDdITDBQUFhXeE1FeENORmpYMDl0X2xWOG9hU2JFQ042Zk5TNGJ3N3luTmRVbU1qdUlfZGpSQk9PaUpCMkJxMF9aZVJ0bTVUbTJjQUFUaTBIYzJKMlV3SEM2MmhodmZ1dE93S3NpSQ?oc=5",
-      "source": "Arab News Middle East",
-      "published": "Sun, 15 Nov 2026 17:19:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb1F2Y3phMy1rLVJ0NURjVmt1UXRtQ2xqREpmWTZDdThRMWc4eG5PTDFGYXR0VkNMRzhCRG90VzZ4MVNiUGZaRFJoempLdHlGel9hUDN5RmpuaXV0UjJKYXpLbDF4WlQ2Z2xFeUY2U0FMMDFGcERfeVI5Ym1kNUJiQ1cwQmZITEUxX3hwYnhUSm5uLXFwaURtakp5UDI1WHZPUnVlWWxKcEpuR3dKOEpXd3ZiQzhQV0hPSzlVWmx1NkxHVWFCdWw4dEdzbXJwb3hkY0pWVVN0Zw?oc=5",
+      "source": "Middle East Affairs",
+      "published": "Mon, 16 Nov 2026 19:34:38 GMT",
       "category": "Middle East Affairs",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg/1280px-2nd_CTBT_Science_Diplomacy_Symposium_%2827472625147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons \u00b7 The Official CTBTO Photostream \u00b7 CC BY 2.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:2nd_CTBT_Science_Diplomacy_Symposium_(27472625147).jpg"
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "Abbas Araghchi Says ECO Foreign Ministers Back Iran\u2019s Two-Day War-Ending Plan: 10 outlets compared - NewsCord",
+      "summary": "Iran's Abbas Araghchi stated that ECO Foreign Ministers have endorsed a two-day war-ending plan proposed by Iran. This backing signals regional support for rapid conflict resolution initiatives amid ongoing tensions.",
+      "why_it_matters": "Endorsement by ECO countries could pressure conflicting parties toward ceasefire and peace negotiations to reduce regional instability.",
+      "perspective_one": "Iran and its allies view the plan as a practical framework to quickly end hostilities and restore stability.",
+      "perspective_two": "Opponents doubt the plan\u2019s feasibility or impartiality, fearing it may favor certain political interests over a sustainable peace.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGZySXZuT3RQZGlIY0tmOUZVZWdmWkl2M0kzZVNGbm92WVE2Yi1fVDVRNDM0a3lvUFh2RU85aEJ5cjgwQTNvdjg4bkk3aEpXaFNCVS14VW80LUx3TV9INVFFSUtWeFpuRkdNbF9KQk52aENoVndLUGJQTEdZa1E4V1RZTHQ1MlJUa2xpVWxTOGwyTXBPZHdaZW42WmloV0lCbUxtbkU2WW5YcjB1T1pmcnFMdTNMU2RaaXRQdldBT1lObE1vV0Fhb1poMFp2TDRzQjhKcG1kYWxfX0Njd3pKdjBmalc?oc=5",
+      "source": "Arab News Middle East",
+      "published": "Mon, 16 Nov 2026 11:19:28 GMT",
+      "category": "Middle East Affairs",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
     }
   ],
   "more_stories": {
     "U.S. Politics": [
       {
-        "headline": "Of course Trump wants to criminalize congressional oversight | Opinion - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZDE2SXhvXzZHZS1QOGlpQjI4VERWV3Q3S3dSSXBVT052aGdTZE5QWjgzbkFaeWx6Y2dGT2NkN1RjN2ZWR1dGTjJqeVdTRUNnRi1mdF9QblpaUnVoTk96a1ctX250TWRiMGlQamdSWmg5X3QxU003clhRSjFudVI2Zk9KQ2x5bjd5Zmt1Q1czYWRJSnVadDhKaWY3UERlckE2M2tJbGZyNA?oc=5",
-        "source": "USA Today Politics",
-        "summary": "Of course Trump wants to criminalize congressional oversight | Opinion Yahoo"
-      },
-      {
-        "headline": "Who Will Lead Congress's Most Powerful Committees in 2027? - No Labels",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHJ2b1JnV1dSdzFQVHRtTEthWkdBVEtPS2MzNXgyTDVTQU4yUUk4eEp6akxVemhPZEhYU2V3ekg5ek9YZ1hlbnhJeF8zVk1SNUplU25fdFFpR1c4R1RSYmdZVUozVjM4U2lFcFpQaWdObXdTNnlBTk55MHlHZHpTV3J6SmRJeXJ6ejFabFJuNzJBMzA?oc=5",
+        "headline": "Supreme Court rejects Trump\u2019s bid to cancel UC research grants over DEI - CalMatters",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HZUJTVHNjWnpJRkZ2dnRQOEtGTkpWWmlzWV9fcEpUZVJCMmhPT3FwYk1tMzBxekNDWnlUYnphcFlRbm9pMFhTR2tkYWp1TGU0MXYtN0hQQ1Ezd0NNRlBDR25GdHduNlJsQ2w5UFZrSk5vcXlNa0NIQUlB?oc=5",
         "source": "U.S. Politics",
-        "summary": "Who Will Lead Congress's Most Powerful Committees in 2027? No Labels"
+        "summary": "Supreme Court rejects Trump\u2019s bid to cancel UC research grants over DEI CalMatters"
       },
       {
         "headline": "DOJ official escalates warnings on Trump probes with letter to Warren - Yahoo",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3FoX0MwX2xScEF6a2dSU0xiVHR5TzMxVXBWQVd3UkpTcjVsM2l3RHpWVEVuNndkUFYtc3o4dDVkUFVlbTFnYnZlRWZxSDNaMUJyM05XV3JGNGl0Z3V1bWhiaWFVYUZvdC14WGtqUjV3bWd4RmZsUFdycF9jWmd6bzB6TlF1VlY5NlJPSFlSVjBJTnRLR0VtNDZ6UEZ5dw?oc=5",
         "source": "USA Today Politics",
         "summary": "DOJ official escalates warnings on Trump probes with letter to Warren Yahoo"
+      },
+      {
+        "headline": "Supreme Court takes up Trump ban on asylum claims at US-Mexico border - Angelus News",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PQW82bkNsTVYtOG9DNVlfYkZZTFk2cVhhWmZPTUJ5N3pBZzZVZjVORGM5MDRlb3pIa0ltNktITDVYQU9YQXlqaTRsMXFXb1ExbldOWjNmMktEVDZRckY5b2FfWllIakUxbjhj?oc=5",
+        "source": "U.S. Politics",
+        "summary": "Supreme Court takes up Trump ban on asylum claims at US-Mexico border Angelus News"
       }
     ],
     "U.S. News": [
       {
-        "headline": "Flight disruptions expected to last into Monday",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
-        "source": "NPR U.S.",
-        "summary": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more."
+        "headline": "2026 U.S. Senate Election Results - AP News",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+        "source": "Associated Press U.S.",
+        "summary": "2026 U.S. Senate Election Results AP News"
       },
       {
-        "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC U.S.",
-        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
+        "headline": "Third American aircraft carrier arrives in the Middle East as Trump keeps options open in Iran war - The Morning Sun",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEo1UU1xWW9XR0hYQmpLMjRBNXYxbmhNbUNnU1Rqa2pMM19laHFFYVVEa1k3WUNXNFdFMDNUdnhKNGY0YmFaSGJlUzhndWJzekdrRl9EWXRTLVFIRUdtUXRkajZwOWRyajZ1dmtfVnZRU0N1SWxDSHhuZENLMzVCVmxVZ0R6a1U?oc=5",
+        "source": "Associated Press U.S.",
+        "summary": "Third American aircraft carrier arrives in the Middle East as Trump keeps options open in Iran war The Morning Sun"
       },
       {
         "headline": "Cam Ward posts another encouraging outing in Week 10 vs. Jacksonville - Yahoo",
@@ -314,47 +314,34 @@
         "summary": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?"
       },
       {
-        "headline": "Lindsay Clancy to face retrial next year for deaths of her three children",
-        "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+        "headline": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+        "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict."
+        "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide."
       }
     ],
-    "Conflicts & Security": [
-      {
-        "headline": "Israel Kills Senior Hamas Commander Two Months After Eliminating His Predecessor - The SOFX Report",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcV8xVzBhVk9IZjNmRjJQT1FnMTRXOHNhcTZPT29tTnFwVnNRVWFndWRGVUo3UlRuTDdFQmQ4ZVdES014U1FlMkwtTG1RV0swSUhqYTVKNmhkVXRIM3pVWXVzVktDTHRlNVpTOTBBb3NCc21vQlV1Qm5SS0VqUVJYeXFJcGFGa0Z4LW1uMjlsWUR1Q0VhaE5BWWt0WkNqUVctMTNZcA?oc=5",
-        "source": "Conflicts & Security",
-        "summary": "Israel Kills Senior Hamas Commander Two Months After Eliminating His Predecessor The SOFX Report"
-      }
-    ],
+    "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Yemeni government force retreats from strait in major setback in war against Houthis - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
-        "source": "Reuters Middle East",
-        "summary": "Yemeni government force retreats from strait in major setback in war against Houthis Reuters"
-      },
-      {
-        "headline": "Abbas Araghchi Says ECO Foreign Ministers Back Iran\u2019s Two-Day War-Ending Plan: 10 outlets compared - NewsCord",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGZySXZuT3RQZGlIY0tmOUZVZWdmWkl2M0kzZVNGbm92WVE2Yi1fVDVRNDM0a3lvUFh2RU85aEJ5cjgwQTNvdjg4bkk3aEpXaFNCVS14VW80LUx3TV9INVFFSUtWeFpuRkdNbF9KQk52aENoVndLUGJQTEdZa1E4V1RZTHQ1MlJUa2xpVWxTOGwyTXBPZHdaZW42WmloV0lCbUxtbkU2WW5YcjB1T1pmcnFMdTNMU2RaaXRQdldBT1lObE1vV0Fhb1poMFp2TDRzQjhKcG1kYWxfX0Njd3pKdjBmalc?oc=5",
+        "headline": "Police examine whether source linked to Netanyahu\u2019s office gave false information in election bribery case - i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR21uZXZEV0dzQ2RsVmM1NGIxak1PSzM0emR5SDNiYUdQLUJRbmVwM2w0SWVubmpXSHBwNFF6SDIzOGl1VXFLQW5sSVF5REw4dTRZVFB4Z0RpamNWQnhXSXJyU2s5OEdIT0VIbXg3ZDExekNPXzZ4ZnlBQzJZSzFoY2htSTZrcHVfYWY0OHpESU15Ym9sVWoyVGQxaDhwYjBRTVhkQTNTZ1JnLVY4NTNaUVFnZHNOazlNZzh3MUNDMk9XN2VfMmx4azhUT3FzUjd0N3ZyNGhkcnVpOHVxY3J4a3dXVW5NMmtSN09Ud3pTTQ?oc=5",
         "source": "Arab News Middle East",
-        "summary": "Abbas Araghchi Says ECO Foreign Ministers Back Iran\u2019s Two-Day War-Ending Plan: 10 outlets compared NewsCord"
+        "summary": "Police examine whether source linked to Netanyahu\u2019s office gave false information in election bribery case i24NEWS"
       },
       {
-        "headline": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek1oaDQwcHhPSlhNTmNsZDhJc1dSQ1BwODVvWDBsdlhpUUxfVUJnUUdlQnNmTUFtYWlhblk4N1c1YWJFdEVqNmIzYjZSWTFsSjRXc1FhRzRIME90alJDb2pMeHlzbjVjWWdYb2FUbGIza3NkWmhLOFE4WHhOeXdhaHh6NjhtS0pENGtzc1RUMmVIZ0t2cnJ2WHA1alNwMzgzWEVZR3RnU0ZJMFVxcWNOWUdwOFRlRXhhQllPZmd6MA?oc=5",
-        "source": "Reuters Middle East",
-        "summary": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future Reuters"
+        "headline": "Iran war live: Third US aircraft carrier arrives in Middle East - Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+        "source": "Middle East Affairs",
+        "summary": "Iran war live: Third US aircraft carrier arrives in Middle East Arabian Business"
+      },
+      {
+        "headline": "Eisenkot says Netanyahu \u2018cannot remain\u2019 after alleged election interference by aide - France 24",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2J1TTN5TWRXZXBQOFlsMFNZX3ZXd0hHQ2c0aDQtWmFDeTBSMklMYkRNR1ZQaHdWeFR6OThCdHVRejdyeHlNQXh6bXZFT2xjbktacExqRm5kZWprYlBNWHF6NmpVNjhyZlItUnNtUk9XZmc0N1N5dTlqX0VBcGExSllySENpcWJSV1g0QjRTOXVId00?oc=5",
+        "source": "The National Middle East",
+        "summary": "Eisenkot says Netanyahu \u2018cannot remain\u2019 after alleged election interference by aide France 24"
       }
     ],
     "Health & Medicine": [
-      {
-        "headline": "In a win for MAHA, FDA creates new regulatory category for the supplement NAC - STAT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUJmdmphQmdyclpTSDROYWN5VEhCZWxLdUszMURtLVFxTXVEc3NjTFJYcl9ISi0xbkR2cVVBajZVOUl4MVMyYkdRVkdUNF9kZ2tid0tRVmFYY3pZS2ZMVW8tVG5BOTN2MzZYdXhfOFBpYVlkd1h6RmQxd3UwcXp4TE1GWQ?oc=5",
-        "source": "Health & Medicine",
-        "summary": "In a win for MAHA, FDA creates new regulatory category for the supplement NAC STAT"
-      },
       {
         "headline": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
         "url": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
@@ -362,13 +349,38 @@
         "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries."
       },
       {
-        "headline": "Spectral Medical Inc. (TSX:EDT) Says FDA Sought No New Trial for PMX as Q3 Results Land - kalkine.ca",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXlCR1VFMlpWVFBma3pYYmgxQVBIU0NYWEZvaWphbGk0eEs5eEhJS0hqX0JFcmVKdGxVbTVmMElRTENBd01vOHpack9yOXlJOEtDdFZRS2RBZE1uRnQyQWNIcXhoanNvRXgwNzF6Q21GbjhwX3FfaUVvb2pQRjdWZVUwSnQxcDZVR3hXZDB4NVZ6WXNBTndmbzdQT0thMTRCYWQyeERxMjFWelh6ZTNGMFlXQUZhb3FHZGc?oc=5",
-        "source": "Health & Medicine",
-        "summary": "Spectral Medical Inc. (TSX:EDT) Says FDA Sought No New Trial for PMX as Q3 Results Land kalkine.ca"
+        "headline": "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs",
+        "url": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/?utm_campaign=rss",
+        "source": "STAT Health & Medicine",
+        "summary": "A proposal by the Trump administration to cap the amount of time foreign students and scholars can spend in the country has been struck down in court."
+      },
+      {
+        "headline": "STAT+: NIAID acting head John Powers III appointed as the permanent director",
+        "url": "https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/?utm_campaign=rss",
+        "source": "STAT Health & Medicine",
+        "summary": "The acting director of NIAID, John Powers III, will become the permanent director, the agency announced Monday."
       }
     ],
-    "AI & Technology": [],
+    "AI & Technology": [
+      {
+        "headline": "Mindware to showcase integrated AI, cybersecurity and cloud solutions at GITEX Global 2026 - Intelligent CIO",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzNiVjlCa01hbF81MFdVR3BnQTZCX3VwRXZRQnJ6aFpFc21pb1hlSGo3STU5VElvYWVTUktqMExQSGdCellpSDJZTDdjSXphNmZpX3l6bUhJU1ZxRm1BekJCUEF0VTZfOTIxaXQ4bGlEMVN3THpReVBBdHZWQV95NFpCZWo4QUcyTk0xYUNfb2p6NFI5SXVLejZHdmV4bkppajVYanN1ZU5VbzBYczk4akh4Q2hLVjZyU0Q5QmdSTldwX05LRkNFVWtpaXhsbmRX?oc=5",
+        "source": "AI & Technology",
+        "summary": "Mindware to showcase integrated AI, cybersecurity and cloud solutions at GITEX Global 2026 Intelligent CIO"
+      },
+      {
+        "headline": "NTT develops sovereign AI technology for software vulnerability detection - Telecompaper",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakRHbkxZckNubXFvSzRxMW9lbUFNbkRtYml5cWI1ZFRzQ3ZiNVBEeU9qd3pCdTFGN1VFT202TmpJSTJKTlc0MVhSV1lCc09iaGVFX0kxV0RUR2FwS1dFRy1xMTc5QzBpVmZDWnNhLXVRS0lmd3hwOVZsbnQ5XzRXQ255SUprNW1JMkZ2TktNLXRrX3lKc3VOOVk2R1lFaU5ZTHYzWDF4VGFnNEFZSW9GbU1vN095WmM?oc=5",
+        "source": "AI & Technology",
+        "summary": "NTT develops sovereign AI technology for software vulnerability detection Telecompaper"
+      },
+      {
+        "headline": "NTT partners with ispace for Moon network, AI tool detects software flaws without sharing code - CNBC TV18",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONGNOeGRWSzRWa3BwWXZJS2JQTGkwaHdNUG1UM05ta3NXUkFBcm0zWGxFLUExdDIzZVp2XzJsOGpjSmN4QXZpbzJQRzExb09TQjB1aDAwX1pvSXJFUkU0Q1pzNEpiRC0xUzdaV19hcmlaOGpHUTIxdEVXQzQxc0VwUzlzenlCUUptZ3YtVHlBV2ZpazlqWDhobnhsZWlvODdXd29iaU1ZcFFLOU5kTkJrZ0hHR2tXVF9rNXA0U01ETDhiMTNxTHF6VE5zMG5zR0ppMnJGV3RGSTR6OWNzWW82S2JaY2LSAeoBQVVfeXFMUERfSGVUM1FhcnlkY3BzcFg1dTNRWmJnc1N0THhYaWZBMzZFcnZ0cTRsMmZzcmdhbmlhbXV2Z0Z5eHpiQ2hYY3QweDh6Vi1QRm1OUVBud283QTA2cmxfaml2QmU0R2lqQ0pLdkxpajVfVl9kNmpUeVUtT1c1bU1tb3U4WGhINERCR01td243cDF0U0RvZnB5c3lCaTQ2X0xndzZxMWJvc012cHFyVHlJS0s1ZUN1WHhYOWdacUx2QWEzYzBXSjk0YUs3Tk9adklRZ1hMV1VxdDkwSlVEUm1OZVZpN1lfRWNzcVF3?oc=5",
+        "source": "AI & Technology",
+        "summary": "NTT partners with ispace for Moon network, AI tool detects software flaws without sharing code CNBC TV18"
+      }
+    ],
     "Business & Economy": [
       {
         "headline": "Retail sales and Fed minutes in focus next week - GreenevilleSun.com",
@@ -379,12 +391,6 @@
     ],
     "Society & Culture": [
       {
-        "headline": "The Silver Corridor: Japan\u2019s Age-Tech Diplomacy and the Healthcare Workforce Crisis in Southeast Asia - Asia-Pacific Journal: Japan Focus",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHRpZmZNQk1GdzVyckhSLUp5amljMkFSUF9PRmpQVUhSWWczWkhHaGFMbXNBeC1fSktSbTBmYy00eWNGYXMzNExHREVyNEh6Z0FRNXdGendLRDRlTVdkR0xiMDd1ZHZxVnhOQVZHaERYYUhzd0l2SkVBM1F2ZnF2ODFyekJQaVRQYzNheV8tZHlJNUZkdHRwX01EYWRmaDg4dEpRYkxoTGQ0UkZ0cDFjTU1id1lLaFl4?oc=5",
-        "source": "U.S. News Society",
-        "summary": "The Silver Corridor: Japan\u2019s Age-Tech Diplomacy and the Healthcare Workforce Crisis in Southeast Asia Asia-Pacific Journal: Japan Focus"
-      },
-      {
         "headline": "Trained Texas Extension Educators Plan Dementia Outreach in Medically Underserved Communities - Bioengineer.org",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGRJZXMwVldyZEhxeDhlendCTHVTZ1pUYXZrSTg2bGswaEFTTVpHTWNLc0JacFdiU2M3ZTJSNE16dF9TdUtLQ1F0ZVlxaFZNRDJTbHBhc3g0S0MzdHB0M3cxR0FmbWVISWlPZTAwWUFJcGQtRXFETnpXaG5WOGlLdjBtbnYzdERPb2wwSGdKLUFBZ1FBTTFsQkRpMGU5dUkwYk9ULUpleUdfdVpZbFdzX3lvZVZRdURfekE?oc=5",
         "source": "U.S. News Society",
@@ -393,22 +399,22 @@
     ],
     "Sports": [
       {
-        "headline": "How many college football teams can still win the 2026 national championship? - The Athletic - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEVPMXBQTmdtWnlKek1IZ01lM0FLWlpEY1lWOThQZ2dXdVhnSXQ4THV0NEpiTVVPbXZYTDVTR0wwdlFJZ0Z0dWQxdXo3ZE9HTHM2SjB5UXo2LXplYldSWFJPR1dRcW1RZVBrSkcxNUljVlFRYUd4ZkRhWG5QQWdMLU9CVmI2TVd1OWl3N1VPbV9yb0lxeS1xaWtmZ01ZTmN3TEVoSDBoaF9DNkxmRWc?oc=5",
-        "source": "Major Sports",
-        "summary": "How many college football teams can still win the 2026 national championship? - The Athletic The New York Times"
+        "headline": "2026 College Football Playoff Odds: Are Georgia, Notre Dame, Alabama Locks? - FOX Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFJEWnhoWHdUMG1MUFZvUDNZQ3JObFJnRW4xUnRoOWNMeFM2STJkSTNsUGJKbHJ6UXlOblc5LVowdnVWOExCOFVpcGFlUUk0c2xYekhyc2I4Y0V4TFA5VUVXU0ZrXzZEWEs0TVFkNWpqNEhwOW1TY3lpOVk0SEZXSFdUQkpXakRUbEdxSERn0gGOAUFVX3lxTE8wcEJNUURmWWg0R2U1SEM3Q1RndEhwLUx4RlBYQnVQcWtUeFdlT1ItcTk2dGVjbXltU2J4S2N4aDQwX3QzSkNVbzR2UGNwT0pLc1V3RHltT0g1dFhGOUdzZUV4Vk1IbWNVRXN6OVpSOG5ScjkwUmhRUkRhWDRHbXR6eGhSa2ZYVEdENld1WlE?oc=5",
+        "source": "College Sports",
+        "summary": "2026 College Football Playoff Odds: Are Georgia, Notre Dame, Alabama Locks? FOX Sports"
       },
       {
-        "headline": "Ranking the top 10 Super Bowl performances by a defender: From Aaron Donald to Richard Dent",
-        "url": "https://www.espn.com/nfl/story/_/id/50454197/top-10-super-bowl-individual-defensive-performances",
-        "source": "ESPN NFL",
-        "summary": "Not all Super Bowl MVPs were quarterbacks or offensive stars. We listed 10 standout individual defensive performances."
+        "headline": "Tracking The Badgers And Wisconsin's Championship Hopefuls In Indiana On Prediction Markets - Racine County Eye",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LU3BYc1BTTjRZUDFtSG91bmxKUmYwVTNYemlNanMyNmFnWjBQZnNVTS1KeUlnQy1FTlotaktqa1RPemgtT3U5c2JtMU5Fc1Zsa04tS1doeUlibFYyaGdYajViQlFZLWJlUDlaTnpEVExobG5ydy0xckVR?oc=5",
+        "source": "College Sports",
+        "summary": "Tracking The Badgers And Wisconsin's Championship Hopefuls In Indiana On Prediction Markets Racine County Eye"
       },
       {
-        "headline": "Big questions: Are Bengals a Super Bowl threat? Could 49ers' offense be even better?",
-        "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
-        "source": "ESPN NFL",
-        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10."
+        "headline": "\u201cIt is Not a Strike\u201d: World Series Champ Breaks Silence as MLB Lockout Fears Grow - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUI0YUpFSEhwLTJneld0RkRieDBkTjV2MU1XQzNrRGo2RnpNSk1oNHkxbFhFdzh5SDJ4Q0JuSmM0ZXFqbGJqZWw5dURhNkpsQVBqMWZSb3RQcndval9RNFNmMmtBbkNCZkkteFEwR3JtOXNLNE13MHlWT3o2dkkwZHJfcm0?oc=5",
+        "source": "Yahoo Sports MLB",
+        "summary": "\u201cIt is Not a Strike\u201d: World Series Champ Breaks Silence as MLB Lockout Fears Grow Yahoo Sports"
       }
     ],
     "Good News": [
