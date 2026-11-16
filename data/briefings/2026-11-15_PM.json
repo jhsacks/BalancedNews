@@ -1,259 +1,195 @@
 {
-  "generated_at": "2026-11-15T18:55:41.406203-05:00",
+  "generated_at": "2026-11-15T19:47:17.172808-05:00",
   "edition": "PM",
   "stories": [
     {
-      "headline": "In calling for an end to the Iran War, Vance walks a fine line with Trump",
-      "summary": "A rift is opening up between President Trump and Vice President Vance over the Iran War as Vance calls for an end to the conflict. NPR's Ayesha Rascoe discusses this developing tension with New Yorker staff writer Susan Glasser.",
-      "why_it_matters": "This dispute reveals potential divisions within U.S. leadership over Middle East policy, which could impact diplomatic strategy, military decisions, and relations with Iran.",
-      "perspective_one": "Vice President Vance argues ending the Iran War is necessary to reduce U.S. military involvement and shift focus toward domestic priorities and diplomacy.",
-      "perspective_two": "President Trump maintains a more hawkish stance, believing sustained pressure on Iran supports U.S. security interests and prevents Iranian regional aggression.",
+      "headline": "Joe Rogan says Trump 'lost most of the country' after midterms - Yahoo",
+      "summary": "Joe Rogan stated that Donald Trump lost the support of most of the country following the midterm elections. This assessment reflects shifting public sentiment ahead of the next presidential cycle.",
+      "why_it_matters": "Rogan's comments highlight changing political dynamics that could influence future electoral strategies and public opinion about Trump.",
+      "perspective_one": "Supporters argue Rogan is acknowledging a factual shift in voter attitudes that requires Trump to reconsider his approach to regain nationwide support.",
+      "perspective_two": "Critics contend Rogan exaggerates the scope of Trump's losses, warning that such rhetoric could further divide the country and overlook underlying political complexities.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump",
-      "source": "NPR Politics",
-      "published": "Sun, 15 Nov 2026 08:11:23 -0500",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDFzWHEybmNqUEp0V1hBa0lZdmRrNW1CZ19EZktrbjhmaFBUMF9tNUtIMGNVV2F1Mi1OTElPamdqNEZQQUpIMS1mSmUzaG9ZWGxXOWxPNk5MaFB4MU92OXB4eFpocXk0elZoUjdhdEN6bFk5MHVDSWlud3lGSkRyVzJQam4wVFREOEN1dExn?oc=5",
+      "source": "USA Today Politics",
+      "published": "Sun, 15 Nov 2026 22:27:22 GMT",
       "category": "U.S. Politics",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Canada bars Russia from Junior World Championships",
-      "summary": "Canada announced it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships due to Russia's invasion of Ukraine. This move aligns with broader international sanctions responding to the ongoing war.",
-      "why_it_matters": "Excluding Russian athletes diplomatically pressures Russia by isolating it from international sports, reinforcing global condemnation of its actions in Ukraine.",
-      "perspective_one": "Supporters see the ban as a necessary stand against Russian aggression, upholding ethical standards in global sportsmanship and solidarity with Ukraine.",
-      "perspective_two": "Critics argue this politicizes sports unfairly, punishing athletes for their government's decisions and potentially dividing international sporting communities.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sun, 15 Nov 2026 22:01:16 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary": "A judge issued a temporary order halting President Trump's plans to upgrade the East Potomac Golf Links into a championship course. This ruling comes amid a months-long legal challenge against the closure and redevelopment of the municipal golf course.",
-      "why_it_matters": "The decision limits executive authority over public land use and highlights community and environmental concerns about urban development projects.",
-      "perspective_one": "Supporters of Trump's project emphasize economic benefits and modernizing public recreational facilities.",
-      "perspective_two": "Opponents stress preserving public access and environmental protections against privatization and excessive redevelopment.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "Sun, 15 Nov 2026 15:57:03 GMT",
-      "category": "World News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre - Reuters",
-      "summary": "Yemen's Houthi forces claimed to have launched ballistic missiles targeting Riyadh airport and financial district, marking an escalation in regional hostilities. This action intensifies the multi-year conflict between the Houthis and the Saudi-led coalition backing Yemen's government.",
-      "why_it_matters": "The missile strikes threaten regional stability and security in the Gulf, risking civilian casualties and complicating diplomatic conflict resolution efforts.",
-      "perspective_one": "The Houthis view missile attacks as legitimate defensive measures against Saudi military interventions damaging Yemen.",
-      "perspective_two": "Saudi Arabia condemns the strikes as acts of terrorism that violate international law and warrant stronger military responses.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2NSdXVjeDlTU0lLeTAtMGs5RmdHaW0wTVhVbzUwempOYUdlNVB3NXprMGZqYksyVjhLUU1OV250QlczemJOT2tXcVFIZEJYb0dwblVCblExbnFmZkVyeGZnZ0NJY3Z3a3NTcmxUQ21tR0ZsQVdhTTNRNWJaZW5pOEk4RDNEMXN3aExOaEE0QVNzaXV3UTM3ZjlNa2hDenRtajR2aGVGT3RQR0NOSnY1VHQ3czdCSkJWSUgxaFFYNThEUlBBMVpn?oc=5",
-      "source": "Reuters Middle East",
-      "published": "Sun, 15 Nov 2026 18:02:53 GMT",
-      "category": "Middle East Affairs",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "FDA Lifts Clinical Hold on Aardvark\u2019s ARD-101 for PWS Hyperphagia - The Clinical Trial Vanguard",
-      "summary": "The FDA removed a clinical hold on Aardvark's ARD-101 drug candidate aimed at treating hyperphagia in Prader-Willi Syndrome (PWS). This clearance allows the company to resume clinical trials intended to address this debilitating symptom of PWS.",
-      "why_it_matters": "Resuming trials of ARD-101 could lead to effective treatment for hyperphagia in PWS, improving patient quality of life and addressing a critical unmet medical need.",
-      "perspective_one": "Researchers and affected families see ARD-101 as a hopeful advancement that may finally manage uncontrollable hunger in PWS patients.",
-      "perspective_two": "Critics caution that safety and efficacy remain unproven until larger trial results are available, urging careful monitoring.",
+      "headline": "Tetairoa McMillan finishes with 35 yards - Yahoo Sports",
+      "summary": "Tetairoa McMillan finished a game with a total of 35 yards gained. This performance is noted amid ongoing evaluations of his contributions to the team's offensive efforts.",
+      "why_it_matters": "McMillan's yardage output serves as a metric for coaches and analysts in assessing his role and effectiveness in upcoming games.",
+      "perspective_one": "Some see McMillan's yardage as a sign of consistency needed for developing into a reliable offensive weapon.",
+      "perspective_two": "Others view the 35-yard total as underwhelming, indicating a need for greater production to impact games decisively.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb081dS0zSGo4RTlrZlV1anBlRnVlNTQ2WnRRWkVGdGpzUVNCX0h1WEVjNWM3QkhQUWx3ZHJFVWU0UU9JM2dNYnNKa01LZ2M3SWpNV1NqZm5rdEYxN3FzSElQUkZKUGIzSVJjZWJUd3hWWWI4dldwamFLRW05X0dyc1NYU2V0a2dDVDFKNF9BSTVocTlQOFBzM1ZVR0VmTE5ReTM2aVpjZFlfVDRT?oc=5",
-      "source": "Health & Medicine",
-      "published": "Sun, 15 Nov 2026 07:37:29 GMT",
-      "category": "Health & Medicine",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/200th_anniversary_of_Sklifosovsky_Institute_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "image_credit": "Wikimedia Commons \u00b7 kremlin.ru \u00b7 CC BY 4.0",
-      "image_source": "https://commons.wikimedia.org/wiki/File:200th_anniversary_of_Sklifosovsky_Institute_01.jpg"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaU1yVE1HaGo3Tld6ZzdORUxCQ0ljYnFCOVJUQmlCUVdGU0ZkUU9qTTU0UGs5ZXN6Qnd2bXlnWmdXWjRESkRySUFEOUJqTWJtT1VGdmRkcGU2c0thSThaVElLQnloVGVCaFFaZVBvZEpFbktmUm1SaElxZ2daN2R2V1JIcE1oLW1Kc1F5NA?oc=5",
+      "source": "USA Today U.S.",
+      "published": "Sun, 15 Nov 2026 23:56:24 GMT",
+      "category": "U.S. News",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
     },
     {
-      "headline": "Software is planned to help defence suppliers document cybersecurity controls - Stock Titan",
-      "summary": "New software is being developed to assist defense contractors in documenting and managing cybersecurity controls required by government regulations. This tool aims to simplify compliance processes and improve security transparency.",
-      "why_it_matters": "Enhancing defense suppliers\u2019 cybersecurity documentation helps reduce vulnerabilities and ensures adherence to strict federal security standards protecting national defense systems.",
-      "perspective_one": "Defense suppliers anticipate the software will streamline compliance workflows, saving time and resources while improving security postures.",
-      "perspective_two": "Skeptics worry that reliance on software may overlook nuanced security risks and could lead to superficial patchwork compliance without substantive defense improvements.",
+      "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Miguel Angel Felix Gallardo, known as the 'Boss of Bosses' and former head of the Guadalajara Cartel, has died at age 80. His arrest in the 1980s led to the cartel's breakup and reshaped Mexico's drug trade.",
+      "why_it_matters": "Gallardo's death marks the end of an era and reminds authorities and communities of the persistent challenges in combating organized drug trafficking.",
+      "perspective_one": "Some view Gallardo's death as closure for victims and an opportunity to reflect on the impacts of cartel violence and enforcement strategies.",
+      "perspective_two": "Others caution that his passing will not diminish cartel influence, stressing the ongoing need for systemic reforms to address drug-related crime.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUJwVmJQNWp5Vnh6U0ljaVJoaDJrMWRjR2RsdlpXNjFIVkxJbnVkb1NMd2s5QnhSMnBUWVVrbWxyYk00U2FnUlRxZFhnaXh5bndOVFBRUy01enplTkswMVZ5OG9LbE1Kc0hvUXhzLWJ0LV9XWWpFVEplZmlTSTZCbGQ4RlctaVFkMGdUaVBxaHNKdG1SY3BURkVpMVJPVlJyQ2JTOFFZdW1WaDhjMjdiaWYxbEg5VXRqMDN3?oc=5",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "Sun, 15 Nov 2026 23:52:10 GMT",
+      "category": "World News",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a295/live/b9635e50-e14b-11f1-93e1-3b657b665bcf.jpg",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "TODAY\u2019S HEADLINES (Monday, November 16, 2026) Subscribe to the paper: https://philstarsubscribe.com/ No final code of conduct on South China Sea \u2013 DFA https://tinyurl.com/jnbuyaau 12 Cabinet secretaries await CA confirmation https://tinyurl.com/muyp - Facebook",
+      "summary": "No final code of conduct has been agreed upon for the South China Sea dispute according to the Department of Foreign Affairs (DFA). Meanwhile, 12 cabinet secretaries are awaiting confirmation by the Commission on Appointments, highlighting ongoing governance processes.",
+      "why_it_matters": "The absence of a finalized code of conduct prolongs regional tensions and affects diplomatic stability in the South China Sea, while the pending cabinet confirmations impact administrative functionality.",
+      "perspective_one": "Some argue that delays in the code of conduct reflect necessary caution to ensure national interests and sovereignty are protected amidst competing claims.",
+      "perspective_two": "Others believe prompt agreement is essential to reduce tensions and promote peace, criticizing the slow progress as a failure of diplomatic leadership.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLU11RjdaZGRJZmlZZmxtTWlBY3NjQzlJZ3NFNk1ORG1naEpQNUZyeGhRNTliWFJ2SDJkV1FLRW1NWU5OUUtvQXR3bGNpT0g4b3dvZktLUGNXMF9NUHRzMlJBT0VhWlRvel9jd3F2QjVKTXkxRHUtb1Z3V19WZWh0bE1fVm9Da0E4U2xOcEk1YzZ0ckxhLTlseTl3dlp5T3pSSWJTaHA0aGVVZlRXamhmUW9odUhUWm9URmdBV1hPNWxCM1VDZ2VDRzVmSVhSaXkzQXBLYXdXT2VFRE9f?oc=5",
+      "source": "The National Middle East",
+      "published": "Sun, 15 Nov 2026 23:03:50 GMT",
+      "category": "Middle East Affairs",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/William_J._Bahmer_%281871-1953%29_obituary_in_The_Tribune_of_Coshocton%2C_Ohio_on_22_November_1953%2C_page_1_of_2.png/1280px-William_J._Bahmer_%281871-1953%29_obituary_in_The_Tribune_of_Coshocton%2C_Ohio_on_22_November_1953%2C_page_1_of_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "image_credit": "Wikimedia Commons \u00b7 Anonymous Unknown author \u00b7 Public domain",
+      "image_source": "https://commons.wikimedia.org/wiki/File:William_J._Bahmer_(1871-1953)_obituary_in_The_Tribune_of_Coshocton,_Ohio_on_22_November_1953,_page_1_of_2.png"
+    },
+    {
+      "headline": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal - Reuters",
+      "summary": "The US Food and Drug Administration (FDA) has declined approval for Summit Therapeutics' lung cancer drug following a clinical trial that failed to meet a critical survival endpoint. This setback delays the drug's availability to patients and requires further research.",
+      "why_it_matters": "FDA's decision affects treatment options for lung cancer patients and highlights challenges in developing effective therapies for this disease.",
+      "perspective_one": "Summit may argue the drug still shows promise in specific subgroups, advocating for more targeted trials or additional data submission.",
+      "perspective_two": "The FDA prioritizes patient safety and statistically significant outcomes, emphasizing the need for conclusive evidence before approving new cancer treatments.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5",
+      "source": "Health & Medicine",
+      "published": "Sun, 15 Nov 2026 23:24:24 GMT",
+      "category": "Health & Medicine",
+      "image": "",
+      "image_credit": "",
+      "image_source": ""
+    },
+    {
+      "headline": "China AI Espionage \u2014 US Warns of Total Mobilization for Tech Theft - The Korea Daily",
+      "summary": "The US has issued warnings about China's comprehensive mobilization to steal advanced AI technology as part of ongoing espionage efforts. This escalation reflects heightened cyber and intelligence conflict between the two powers.",
+      "why_it_matters": "The increased risk of technology theft threatens US tech leadership, innovation security, and could alter global economic and military balances.",
+      "perspective_one": "US officials stress the necessity of defensive measures and policy responses to protect intellectual property and national security from Chinese espionage.",
+      "perspective_two": "China denies such accusations, framing their technological advancements as peaceful development while criticizing US policies as protectionist and destabilizing.",
+      "uncertain": "",
+      "confidence": "Reported",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvRmltdEdrVTduNDlrLUhHRVk3Y0VxRGpzZWs2dXZSV0JzcVdpWnlIeFRCaEdQTXpWdVdCNUNPRmU0VTlwbGV0ZHlDUlBZLURTUXBrUEN4aHl1R2hYeDJkUUNFeFNIS1lVSlJPelM2QXFvREd5Z3FN?oc=5",
       "source": "AI & Technology",
-      "published": "Sun, 15 Nov 2026 23:00:00 GMT",
+      "published": "Sun, 15 Nov 2026 07:09:12 GMT",
       "category": "AI & Technology",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - The Motley Fool",
-      "summary": "President Donald Trump asserts that tariffs do not cause inflation but rather create wealth, a claim contradicted by current economic data. Analysts show that tariffs have contributed to rising consumer prices, challenging the administration's narrative.",
-      "why_it_matters": "Understanding the real impact of tariffs affects trade policy decisions and public perception regarding inflation control and economic wellbeing.",
-      "perspective_one": "Trump and supporters argue tariffs protect domestic industries, leading to economic growth and stronger wealth distribution.",
-      "perspective_two": "Economists and critics highlight that tariffs raise import costs, which often pass to consumers, driving inflation and reducing purchasing power.",
+      "headline": "Fed's Warsh to take stock of AI revolution as US public grows wary - Buffalo News",
+      "summary": "Former Federal Reserve official Kevin Warsh plans to assess the impact of AI as public skepticism rises regarding its societal effects. This reflects growing debate about AI's economic, ethical, and regulatory implications.",
+      "why_it_matters": "Warsh's evaluation could influence future policy decisions balancing AI innovation with public concerns on job security, privacy, and fairness.",
+      "perspective_one": "Supporters argue AI-driven productivity gains require thoughtful oversight to maximize benefits while addressing risks.",
+      "perspective_two": "Critics highlight fears of uncontrolled AI harming workers and exacerbating inequalities without strong regulatory frameworks.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcXlUTGN2WVlmZERSZS15Uy1GTXdhQTNYbjVjUmVZeGVQOFdIREIyM01nVDhndWpJeXEwOXRuaFF3ai1LMk1iN2RLSzVPeTRWeDBxZW9jRFZ5R1cxU3pGUm1BaTQ0dWRfdkpZRFFBbEhXem9Sb0JVUVFaYjkxUGdoVDNld3RxNVZtM2hoa1VpYThZZE5QamZzeFdWUDF6Z1dBVXlLNGN6SWxYcW1PeVJYVEo5Z244S2w0UjlKX0tDRmFlU3Z6WW5iLTdwdmNDOFlnN1FCdg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGJjc09sZ3VldmtpbndoVEpxZ3RJWGsxaUxpX0pwVEZOcnBNcGxWek9Ub1o0YWlOUmgwc3VYaUpxNHJHdUNORnA0LVlOenQtZ2RhVzhCRTZwOEMwQVVtQnRtTE5JamF0cnc2UTRYQ1BDSUhMXzJNMkZXcS1JTkozYWNwZDhUMTNKcUZBT1IySzdyYVNTNzNaRXNfRGVMMzJFMmNTYzBVUFpyNEZQT3Z6SA?oc=5",
       "source": "Business & Economy",
-      "published": "Sun, 15 Nov 2026 09:06:00 GMT",
+      "published": "Sun, 15 Nov 2026 19:30:00 GMT",
       "category": "Business & Economy",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "WHO Bahrain and RCSI Medical University of Bahrain sign agreement to strengthen health workforce education, research and community engagement - Fidelity Investments",
-      "summary": "WHO Bahrain and RCSI Medical University of Bahrain signed an agreement to enhance health workforce education, research, and community involvement. This collaboration aims to develop capacity and improve healthcare outcomes in Bahrain.",
-      "why_it_matters": "Strengthening training and research infrastructure supports better health service delivery and addresses regional public health challenges more effectively.",
-      "perspective_one": "Proponents highlight the agreement as a strategic investment in sustainable healthcare development aligned with national goals.",
-      "perspective_two": "Some experts stress the need for transparent evaluation to ensure this partnership achieves measurable improvements rather than bureaucratic expansion.",
+      "headline": "Can the Big Ten get 3 teams into the College Football Playoff? Week 11 bracket projections - The New York Times",
+      "summary": "Projections for Week 11 consider whether the Big Ten conference can place three teams into the College Football Playoff. This assessment reflects current team performances and the competitive landscape ahead of postseason selections.",
+      "why_it_matters": "The possibility of multiple Big Ten teams qualifying could influence playoff committee decisions and conference prestige in college football.",
+      "perspective_one": "Some analysts emphasize the Big Ten's depth and strength, supporting three-team inclusion to reflect season achievements fairly.",
+      "perspective_two": "Others argue that playoff spots should prioritize the strongest teams regardless of conference, cautioning against overrepresentation for any single league.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXh6X2lqZEUwNnRPYm1obXZVclc4YWtOSlpHVEFmOHo4STFXNl9iTG1RNVU2MzZaZ2cxaEFiY05zYVRrRTFmczRadjdPVFBoS3Mta2FNUnF2RTNZVUZNZmNtNUNmbTMzd0kyRzctMlZmY3dGYzFEWEhxZzM2eGYtcUJHQWdZRkVNZ3c?oc=5",
-      "source": "U.S. News Society",
-      "published": "Sun, 15 Nov 2026 06:10:03 GMT",
-      "category": "Society & Culture",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Indiana Football Has a Championship-Caliber Defense, and USC Found Out Why - Sports Illustrated",
-      "summary": "Indiana University's football team demonstrated a championship-level defense in their recent game against USC, showcasing strength and discipline. This defensive performance is a key factor in their successful season trajectory.",
-      "why_it_matters": "Strong defense improves team competitiveness, influencing championship prospects and shaping coaching strategies across collegiate football programs.",
-      "perspective_one": "Indiana's coaching staff attributes success to rigorous training and cohesive teamwork that disrupt opponents effectively.",
-      "perspective_two": "Opponents acknowledge Indiana's defensive skill but note that offensive consistency remains critical for sustained victories.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGJoX01XM1hMbldSYWtmN1M0RW1xQWhackVrdjVWQzJQWDY3OWlTcFZrYlJ0RHdDYmFnempaeEZPdVBuY0tQTVNQNkpzd2ZTNmRGakhjNEprclBwMFRZNTk3OFNGajdVMmlPMjVVa2ZSTllia0thTlduWGxXZGhfYUlmdkJ6Ykh5X0JvR2pmMGJpckRHTEp4UFlJQnBoMHoxX24yYTEzNE1ialo3bmVQYUoyV0lka1JE?oc=5",
-      "source": "College Sports",
-      "published": "Sun, 15 Nov 2026 18:54:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHB6b09XMVZVOHlmeUp5UVBwTnloRXNRYU9qaDFUUzJ6QkJKc0pQbkNRejBEdG02QWUxUXRUX0RpOFBoYlV3cmlQQU1lSzE0MjIyVU53RmZ1QlFPME1aT2lZZ3UzZWR2SVROTm9fRVJXVUZoXzh0UklMY0I2WTVfQ1M0Sm5ZRnVpX185OEZYejBQYkhqTHYwNWl4RUVWbjJrY2cxMldPWEw?oc=5",
+      "source": "Major Sports",
+      "published": "Sun, 15 Nov 2026 14:36:42 GMT",
       "category": "Sports",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Good News in History, November 13",
-      "summary": "Seventy years ago, the US Supreme Court invalidated Alabama's public bus segregation policy, ending the Montgomery Bus Boycott made famous by Rosa Parks. This legal victory was part of broader civil rights advances challenging institutionalized racial discrimination.",
-      "why_it_matters": "The ruling set a precedent supporting racial equality in public accommodations, contributing to the dismantling of segregation laws across the United States.",
-      "perspective_one": "Civil rights advocates view this as a foundational victory that inspired subsequent legal and social reforms.",
-      "perspective_two": "Opponents at the time saw the ruling as a threat to traditional social order, fearing rapid societal change.",
+      "headline": "China Switches on World\u2019s Biggest Example of New, Cheap Green Energy Storage",
+      "summary": "China has launched the world\u2019s largest liquid-air energy storage (LAES) facility in its western region. This plant uses renewable electricity to liquefy air for storage, releasing it later to power turbines rapidly when needed.",
+      "why_it_matters": "LAES technology offers a scalable and cost-effective solution for storing renewable energy, addressing intermittency challenges and enhancing grid stability.",
+      "perspective_one": "Proponents view this as a breakthrough in clean energy infrastructure, potentially accelerating global renewable adoption.",
+      "perspective_two": "Skeptics question long-term efficiency and economic viability compared to other storage technologies like batteries.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.goodnewsnetwork.org/events061113/",
+      "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
       "source": "Good News Network",
-      "published": "Fri, 13 Nov 2026 08:00:00 +0000",
+      "published": "Thu, 12 Nov 2026 19:30:02 +0000",
       "category": "Good News",
-      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/11/Rosa-Parks-on-Bus-After-Boycott-Wikipedia.jpg",
+      "image": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Qinghai-60MW-Liquid-Air-Energy-Storage-Project-credit-China-Green-Development-Investment-Group.jpg",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "With victory comes a warning for Democrats - Civic Media",
-      "summary": "Following recent electoral success, Democrats face cautions about maintaining unity and addressing voter concerns to sustain their gains. Analysts emphasize the importance of policy responsiveness and effective communication.",
-      "why_it_matters": "The warning highlights challenges in translating electoral victories into durable political influence and policy implementation.",
-      "perspective_one": "Democrats stress the need to build on voter trust by delivering tangible policy results and inclusive messaging.",
-      "perspective_two": "Critics within the party argue that insufficient focus on grassroots issues risks eroding future support.",
+      "headline": "Echo IQ Appoints Former Senior FDA Official Dr Vasum Peiris as Chief Medical Officer, Effective 20 January 2027 - Kalkine",
+      "summary": "Echo IQ has appointed Dr. Vasum Peiris, a former senior FDA official, as its Chief Medical Officer, effective January 20, 2027. This leadership change aims to leverage Peiris\u2019s regulatory expertise for advancing the company\u2019s medical product development.",
+      "why_it_matters": "Peiris\u2019s FDA experience enhances Echo IQ\u2019s ability to navigate regulatory requirements and accelerate medical innovations reaching the market.",
+      "perspective_one": "Supporters anticipate that his appointment will strengthen product safety and approval processes, improving patient outcomes.",
+      "perspective_two": "Some warn that regulatory backgrounds may lead to overly cautious approaches, potentially slowing innovation speed in competitive markets.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVl9qODBMaF9PQjdxV1VSNk1udzhmbEFJSGU0a3JIN2FjRGpCOFlTbmR1cGRyXy1KVkwzMG1RTHlhWE5HcmZnTm5xbkNGOE1DSGgwekVBbWhvZE9pNmg1eWN2enB3Um56M1FMaUk2eDBKVXl6QlhvSVBCNmhaSFh2cnFsRW41akE?oc=5",
-      "source": "U.S. Politics",
-      "published": "Sun, 15 Nov 2026 15:08:00 GMT",
-      "category": "U.S. Politics",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWmlCWUxhcFBJdGJpVVRiYnA1Ny13NWpHbGVMUWdPOGN5Umc4OUgwOWQtNGdMbS1nUnVCRUYtbGlwVnJrR0tyUUxlcGNQS2tOZHhnMWNoOTFjdzNhMzV0NW92aks2eXBqV0dsTzA0NzBmNXlLbUZfc00zZUxOZkozQVMtZHBTVUpoVWZnejFlUmpvYURjaElTWXZuOHhPZjFvV25ReEN0T041TTRtaldFZjh0eDdvLVBZVEVlYmNBWEFmUTd2V0RDTVI1Q3Z6dG5pZW1na2J6MV93RmNPTExncDFEaDFQMkU?oc=5",
+      "source": "Health & Medicine",
+      "published": "Sun, 15 Nov 2026 23:15:01 GMT",
+      "category": "Health & Medicine",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Of course Trump wants to criminalize congressional oversight | Opinion - Yahoo",
-      "summary": "An opinion piece argues that former President Trump\u2019s push to criminalize congressional oversight is an effort to evade accountability. The piece describes this as a threat to democratic checks and balances critical for governance.",
-      "why_it_matters": "Weakening congressional oversight risks undermining transparency and rule of law, with implications for separation of powers and presidential accountability.",
-      "perspective_one": "Critics contend Trump's actions prioritize personal and political immunity over democratic norms and institutional integrity.",
-      "perspective_two": "Supporters claim oversight efforts have been politically motivated and overly intrusive, hindering effective governance.",
+      "headline": "The Inflation Fight May Be About to Turn Painful - WSJ",
+      "summary": "The battle against inflation in the US appears poised to intensify, potentially causing greater economic hardship. Indicators suggest forthcoming interest rate hikes or fiscal tightening may slow growth and increase borrowing costs.",
+      "why_it_matters": "Stricter inflation controls could affect consumer spending, business investment, and labor markets, shaping economic conditions for households and companies.",
+      "perspective_one": "Monetary policymakers argue that tough measures are essential to prevent runaway inflation and preserve long-term economic stability.",
+      "perspective_two": "Critics warn that aggressive tightening risks recession and increased unemployment, calling for more balanced approaches.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZDE2SXhvXzZHZS1QOGlpQjI4VERWV3Q3S3dSSXBVT052aGdTZE5QWjgzbkFaeWx6Y2dGT2NkN1RjN2ZWR1dGTjJqeVdTRUNnRi1mdF9QblpaUnVoTk96a1ctX250TWRiMGlQamdSWmg5X3QxU003clhRSjFudVI2Zk9KQ2x5bjd5Zmt1Q1czYWRJSnVadDhKaWY3UERlckE2M2tJbGZyNA?oc=5",
-      "source": "USA Today Politics",
-      "published": "Sun, 15 Nov 2026 09:01:11 GMT",
-      "category": "U.S. Politics",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0taZlpLMjZNSHV5LVZIWktScXlHVHB3Ri1SMElOR3UycjRibjRfTUM1Y05nQW1SYkljelpjVkdkaGFXRVQyeHVpZTB1T1h1SWQwNHRPTUlTTUJFS0tFVHR1R0c5M1ZLWWlxYmN0aEVqSzZRYkROWlhqTEo2Q2daZEZ2S1lwaDAwRV9lU1lGcEgyM00yOTZBVW9MYw?oc=5",
+      "source": "Business & Economy",
+      "published": "Sun, 15 Nov 2026 18:22:03 GMT",
+      "category": "Business & Economy",
       "image": "",
       "image_credit": "",
       "image_source": ""
     },
     {
-      "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "Ukrainian President Volodymyr Zelensky appeals to the US government and Elon Musk to remove restrictions on Starlink internet services. He states that the reduced internet access hampers Ukraine\u2019s ability to counter Russian military attacks.",
-      "why_it_matters": "Reliable internet connectivity via Starlink is critical for Ukraine\u2019s defense coordination and civilian communication amid ongoing Russian aggression.",
-      "perspective_one": "Zelensky and supporters view unrestricted Starlink access as essential to Ukraine\u2019s sovereignty and effective warfare resistance.",
-      "perspective_two": "Some US and Musk representatives argue concerns about usage restrictions relate to security and satellite resource management.",
+      "headline": "Dillon Brooks has fond memories of his former \u2018rook\u2019 Lakers forward Ziaire Williams - Orange County Register",
+      "summary": "NBA player Dillon Brooks shared positive reflections on his former Lakers teammate, rookie forward Ziaire Williams. Their past association offers insights into Williams\u2019s development and character.",
+      "why_it_matters": "Such endorsements can influence public perception and professional opportunities for basketball players early in their careers.",
+      "perspective_one": "Brooks\u2019s appreciation highlights mentorship and camaraderie\u2019s role in fostering athlete growth and team cohesion.",
+      "perspective_two": "Some observers remain cautious, noting early praise does not guarantee sustained professional success without consistent performance.",
       "uncertain": "",
       "confidence": "Reported",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC U.S.",
-      "published": "Sun, 15 Nov 2026 19:32:39 GMT",
-      "category": "U.S. News",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Trump breaks silence on nationwide ground stop and demands more money from Congress - KX News",
-      "summary": "Former President Trump commented on the nationwide ground stop affecting air travel and called on Congress for increased funding. He links the disruptions to inadequate resources and insists on greater financial support to improve infrastructure.",
-      "why_it_matters": "Trump's demands may influence congressional budget decisions impacting air traffic operations and national transportation security funding.",
-      "perspective_one": "Trump and supporters argue that increased funding is urgently needed to modernize infrastructure and prevent future disruptions.",
-      "perspective_two": "Critics contend that operational failures are due to mismanagement rather than funding shortages, cautioning against uncritically approving more money.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTTRGb3pDU3oyeEFBVXlkenk2eFJGUnVZMktMd0g2VGJSTmNuMy1YZmdhVmV3OVRxaUZtYjROb0RUclpuVzZwMUdlbnBJeW5KM2djM3ZDaWx5cGZYaU5HVnZRQ2NNNjZYeXQ2MkM5VnpKZ0xnWFZPSVh3eW5TT3ZPTHpWNkNPWE5WTmxsbUxjdWZzbnppV1VRdVRjTGIwUzMzTUJydml2dDVQQnNpdGduUnp6LUt1bWVoS256d3o5U1pjbUVRWHfSAcsBQVVfeXFMTjNja2EyS0tiVjAtSGRzci1Yalcwd2NkQ3pEay1ISHhGVzZkWVRlM05GTGJ1QTlWemdJdGVZc1gwMEZPbHVySE1OOTZsUHN0OHhlLS1LTC11V2JxUHlyNTNTXzVvaWJFQkVJYUpUYkp2WmVzdlI2Z3JacXR0LWhkX0Z6ZzZyYkpDc0txMnhfN1JhSDFHb012NkRISjFpZndINTFTMEswWXBNdTF3TnJocVhJdjNtWmZHanFQZU5qUWlEcnRSZ0RJWUxPQUk?oc=5",
-      "source": "Associated Press U.S.",
-      "published": "Sun, 15 Nov 2026 14:18:39 GMT",
-      "category": "U.S. News",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Yemeni government force retreats from strait in major setback in war against Houthis - Reuters",
-      "summary": "Yemeni government forces withdrew from a strategic strait after hostile pressure from Houthi militants, marking a significant defeat. This retreat weakens the government's control and shifts the balance in the ongoing Yemen conflict.",
-      "why_it_matters": "Losing control of key geographic areas undermines Yemen\u2019s internationally recognized government and prolongs the humanitarian crisis and war instability.",
-      "perspective_one": "Government allies see the retreat as a temporary setback requiring renewed military and diplomatic efforts to regain territory.",
-      "perspective_two": "Houthis interpret the victory as validation of their insurgency strategy and leverage for future negotiations.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sun, 15 Nov 2026 13:24:58 GMT",
-      "category": "Middle East Affairs",
-      "image": "",
-      "image_credit": "",
-      "image_source": ""
-    },
-    {
-      "headline": "Iran war live: Tehran targets air base in Bahrain in first direct strike on Gulf state in weeks - Arabian Business",
-      "summary": "Iran reportedly conducted a missile strike on a Bahrain air base, marking the first direct attack on a Gulf state in weeks amid escalating regional tension. The strike signals a widening scope of Iran\u2019s military engagement beyond Yemen.",
-      "why_it_matters": "Direct attacks on Gulf allies raise the risk of broader conflict and destabilize critical energy and shipping routes in the region.",
-      "perspective_one": "Iranian supporters frame the strike as retaliation against Gulf states' involvement in hostile actions against Iran and its proxies.",
-      "perspective_two": "Gulf states and their allies view the attack as aggressive escalation threatening regional peace and global economic interests.",
-      "uncertain": "",
-      "confidence": "Reported",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-      "source": "Middle East Affairs",
-      "published": "Sun, 15 Nov 2026 08:51:20 GMT",
-      "category": "Middle East Affairs",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEh6WXV2ZU9XRWt2X0NvNFdMMjJKeTVYa1VNWGJncXl1Rml1azVnYXVheHBzRjNDWncxdjl0R1BoeVdzT3JsRWFpY3hrV0RhMXQ0TnlCZnZPb245R1NXYW1ZZUt6cnBMdkNwdEdjNHFLOFZXOFVZajVraTlkeEtBMm10c0VmcWxBMnkzeWFZZkdvVmtTREZlQ2p2NEozaFFIWExNQkcxZXY5WHZhcTJnZ0hhVjE5Z1JfQXhXUQ?oc=5",
+      "source": "Atlanta Sports",
+      "published": "Sun, 15 Nov 2026 21:59:36 GMT",
+      "category": "Sports",
       "image": "",
       "image_credit": "",
       "image_source": ""
@@ -261,12 +197,6 @@
   ],
   "more_stories": {
     "U.S. Politics": [
-      {
-        "headline": "Joe Rogan says Trump 'lost most of the country' after midterms - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDFzWHEybmNqUEp0V1hBa0lZdmRrNW1CZ19EZktrbjhmaFBUMF9tNUtIMGNVV2F1Mi1OTElPamdqNEZQQUpIMS1mSmUzaG9ZWGxXOWxPNk5MaFB4MU92OXB4eFpocXk0elZoUjdhdEN6bFk5MHVDSWlud3lGSkRyVzJQam4wVFREOEN1dExn?oc=5",
-        "source": "USA Today Politics",
-        "summary": "Joe Rogan says Trump 'lost most of the country' after midterms Yahoo"
-      },
       {
         "headline": "5 takeaways as lame-duck defense fights heat up - The Hill",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUktfSkdjQ0hHQjBVeFI3ejFOOG5ub0RqTE9MbmdHYUJXSk1YUm9YMTlfZ1pjSGg1ZlNXQ3gyYUJWOF9HYzNMUkpfY3F4WDVxal9wdEQzQ0dkUnFBdVF3cThrd2VFM204NWxSQ3NmYURydlVkQkMwNHpwYlQ1cl9xaNIBhgFBVV95cUxQZTBReVFpUHg0QmY4dFItUF9jeXk2Mzl2MlZreVJjVEtTZTdZSTF2Qm9fcVY0aW5fbU45WkU5d3I4MnlEb2J4QkhrRDFnSnVWTTdTamFVY0pGS2tiSzFHLWpjNGRPNXpCMW5SUGJDMmNuUk92akFXc29nd2VVZFl1Z09oYkx3Zw?oc=5",
@@ -278,14 +208,20 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWlRRcVV3cE5pVE4xYzk1OGtpY3JOYWFQeU9LUHpuc2VyUXhsV2owMVFkN0pFNlFPT1NpQlNMOTVsc0RpVHZEYWpTV3BQMG1sd21Dd3ZPd2FjUWZDanE4UGV1X3luV2V1dFp0YlR6SmdBcU81NHBCemQ2OGd2WVgyWkU0TVZuNlE2TGpxNG1xclZkMmpudHNZYzF4RTVYckpYLXQ4TVBMdXljSWlQM3dSOWlZRVB1THhCUlRnWWl3ZmNvamJyaXVJaUhn?oc=5",
         "source": "U.S. Politics",
         "summary": "U.S. Pacific Command Commander Discusses Strategic Priorities in the Region C-SPAN"
+      },
+      {
+        "headline": "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
+        "source": "USA Today Politics",
+        "summary": "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says The New York Times"
       }
     ],
     "U.S. News": [
       {
-        "headline": "Denzel Boston limited to one catch in Week 10 - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmRtZW1nNE8zZ21GQlFCd24xMnQ3NC1sREs4TWlpeUFRbDh3MGh2MVc3NnZucy1wc2ZzYl96eG94Q1VtMnR2Wk5pa3JNTWxuUHd4RFJ2XzA1YjlUNm4wT3lvZkhHajNoTUVCOWRZVTMyVTRvWFRjbGZWdnhDaDNKNnJwTzBSUQ?oc=5",
+        "headline": "Harold Fannin Jr. secures seven catches in Week 10 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdUFQQ0o4WkJlOHE2Tnc5RXpFMWpDTVBYS05LdVFLTUR0dHlFc3NkQ3Z1ZmxjWVNGbFRaZVhhakZhRFRUR1BMdDhJS3BwcVVYdGhBUUhYVkQzNVhXSDFmYlROZGh1MU1DUVM1X05ndC0zSC1NTlNtMTlqUnlqOWRkVXBEUXFrUQ?oc=5",
         "source": "USA Today U.S.",
-        "summary": "Denzel Boston limited to one catch in Week 10 Yahoo"
+        "summary": "Harold Fannin Jr. secures seven catches in Week 10 Yahoo Sports"
       },
       {
         "headline": "KC Concepcion runs for score in Week 10 vs. Texans - Yahoo",
@@ -294,18 +230,18 @@
         "summary": "KC Concepcion runs for score in Week 10 vs. Texans Yahoo"
       },
       {
-        "headline": "Christian Watson held to 37 yards in Week 10 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckhkUkRYRGw0aTQxdklJR2lEcVdlWmYyS2YzaHQ2REhKS3ZpUk5HdDZEY01CU3NKY25tRzVYWGlxRnc1WkMxTmtZTlpyR0FRUEZlNHZlR2ZKeWdzWDFxTnVwN0hqUjFUOVhNN0U2TjJxVVpYN3pVWmJnaTIwR05BeWJZclNZUQ?oc=5",
+        "headline": "Four receptions for Dylan Sampson vs. Texans - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3ZHZUNJdXpILU1QLWZCdTEyS0VpNllfd2gwWjE5ZEZpN21sN21hX2MzSmd5eDduREFRWFdLYjY0cTZ2YWRGZ0lGb0RkekhldkNMSE1wWmZ5cEhaLWZjaGkwNWJDUEppaEVDc1FCb2pmT2pUUXZDbTFINnRFRlB4SHQyekpFaFZl?oc=5",
         "source": "USA Today U.S.",
-        "summary": "Christian Watson held to 37 yards in Week 10 Yahoo Sports"
+        "summary": "Four receptions for Dylan Sampson vs. Texans Yahoo Sports"
       }
     ],
     "World News": [
       {
-        "headline": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+        "headline": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
         "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a steering failure before colliding with the cruise ship on Friday."
+        "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday."
       },
       {
         "headline": "Police ban protests near 10 schools and five universities in Paris",
@@ -323,50 +259,50 @@
     "Conflicts & Security": [],
     "Middle East Affairs": [
       {
-        "headline": "Middle East latest: Bahrain says it intercepted Iranian aerial attacks after nationwide alert - The National",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWFZVVhzUDVtSFIwNTY3QjZWN2NIRzJXVmdMWEc4ZEtKQlpQb1NBZ2VnUGxtaFZtc1IyLUZ0ZGFXZUtaUEVsd1lSNG1vSmF0Sy1KRndMcDdSYTdYaWI0ZXowSEwzLUhRN0ZKTVlhZ2ZiT2M1RTRwMEF4dEJQVGY4aExtUnF5T1RQLTlOMHdsLTVUblN2QUN1SXhmZ3hjZWV1?oc=5",
-        "source": "Middle East Affairs",
-        "summary": "Middle East latest: Bahrain says it intercepted Iranian aerial attacks after nationwide alert The National"
-      },
-      {
-        "headline": "TODAY\u2019S HEADLINES (Monday, November 16, 2026) Subscribe to the paper: https://philstarsubscribe.com/ No final code of conduct on South China Sea \u2013 DFA https://tinyurl.com/jnbuyaau 12 Cabinet secretaries await CA confirmation https://tinyurl.com/muyp - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLU11RjdaZGRJZmlZZmxtTWlBY3NjQzlJZ3NFNk1ORG1naEpQNUZyeGhRNTliWFJ2SDJkV1FLRW1NWU5OUUtvQXR3bGNpT0g4b3dvZktLUGNXMF9NUHRzMlJBT0VhWlRvel9jd3F2QjVKTXkxRHUtb1Z3V19WZWh0bE1fVm9Da0E4U2xOcEk1YzZ0ckxhLTlseTl3dlp5T3pSSWJTaHA0aGVVZlRXamhmUW9odUhUWm9URmdBV1hPNWxCM1VDZ2VDRzVmSVhSaXkzQXBLYXdXT2VFRE9f?oc=5",
-        "source": "The National Middle East",
-        "summary": "TODAY\u2019S HEADLINES (Monday, November 16, 2026) Subscribe to the paper: https://philstarsubscribe.com/ No final code of conduct on South China Sea \u2013 DFA https://tinyurl.com/jnbuyaau 12 Cabinet secretaries await CA confirmation https://tinyurl.com/muyp Facebook"
-      },
-      {
         "headline": "Africa\u2019s strongest military and 6 other nations join Arab League\u2019s backlash against Israel after fresh Gaza attack - Business Insider Africa",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFNza3ZvY2NFTG1xU0VZSy1mcy1FaXIteWttNndJSENINlNmU1dGc2VTUGNBSUJlWlpTZ2JXaVdUaEkyaW01MDVkYTNqQUdEbkR3bHhkSHhxRW5QQmNjNGV2cW1BalpzM3h3cFFWR1E1QUpiamo2YzZrZ3FOcU5PWVZRc0lOc2taZlZSWHltc3Y3LS1OdFlqNXY5MVNVV0NNMWNJT05GOU9DSktkZzdOWWQ3RUNLVG1SMkUybi1zd0Mwc2UwOG1yMDNCU2F5ZmhBUkVJOA?oc=5",
         "source": "Middle East Affairs",
         "summary": "Africa\u2019s strongest military and 6 other nations join Arab League\u2019s backlash against Israel after fresh Gaza attack Business Insider Africa"
+      },
+      {
+        "headline": "Police ban protests near some Paris schools and universities - Arab News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGZKYktVbGxWMWFNZzZPQWttSk85djgwV3JZM0gyaGh1endfQzhvNTJlNW1PTHh2RV9Pc0VvUFNnZnhiMzFxZktMejhheGladFpUT3BjQnNMZVhvSVU4ODR6dUtHZkhYRXVLUkFNNzgzSW9ULWFoVExOcFVFei1IWFJoazVnRVdpWXlOSlYzQ3lpbWN2LWxzNXdwdDZTUUUt?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Police ban protests near some Paris schools and universities Arab News"
+      },
+      {
+        "headline": "Eisenkot says Netanyahu cannot stay in office \u2018a minute longer\u2019 - Arab News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWVUTGlvV1I5T0JGaTRLZnoyTGVWWkREVG9fakJYRmZWTlF5QXh4V3BZdXcxNi1sZXlFRjVmR3diMmQ4WDBxLTlRX3FJLTh3UE5HMTNvbVhDbWtsNnpxLXQzOVpnX1JDZ3FHaHo3ZzU0UFNLaEhpYjdYQTVobHpURDJFZzdTdW51d3pOLXdhQjJpLWdvOWxBQ0Q0U21aUDBIWmVrcjd1VFpDZw?oc=5",
+        "source": "Arab News Middle East",
+        "summary": "Eisenkot says Netanyahu cannot stay in office \u2018a minute longer\u2019 Arab News"
       }
     ],
     "Health & Medicine": [
-      {
-        "headline": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5",
-        "source": "Health & Medicine",
-        "summary": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal Reuters"
-      },
-      {
-        "headline": "Echo IQ Appoints Former FDA Official as Chief Medical Officer - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0RnSGRER0x2Z1RNLXRYdUtJaGdyRHdwNHl0clJIZUZUM2I5b2R0UXc1MHhzYmx4c1NIS09ma0JJUnZReU5aT3BXV05KLU1nUURRLXJnLVduNHRFdVM5MUtfM1dlOXBfZUxjemFoLWZDNElGdVJlelowbm1DQjJmdVU0S2ZKbHlFX1doT1lnZFVCdWJWN2VMX0czZk5iZzVRb21TaTlwcU9GOVhReXZZWVNzYw?oc=5",
-        "source": "Health & Medicine",
-        "summary": "Echo IQ Appoints Former FDA Official as Chief Medical Officer TipRanks"
-      },
       {
         "headline": "Sequencing Consumables Market Forecast to 2035: Clinical NGS Adoption and Declining Costs to Drive Forward Growth - IndexBox",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYlF4V2tTOHJJNldWUDV4U3hDUEY4SXRMVVJadTZHTWRTWjh1c2JVcmJqTnFaalVpVjgxbkpNMTBMZk1SY09tUEZNQUdSZ2o3OWZWcjBiRGYyT0V0M3hpMXlmWnpIY2w4d0hiRWNOWEhPUmNhZlUwbXRmTmRYV1ZkYndORjdOdGRiRlJIdUxRSnZxeDdCMGNTamI0TTFPQmo5NkJUcnMxVHg1ZjFTNzB2YlZXMVZhRktsWlJISU92OUo0SVVXZ00tbU5tRXhaakZaMDVBcG9rR3dXQQ?oc=5",
         "source": "Health & Medicine",
         "summary": "Sequencing Consumables Market Forecast to 2035: Clinical NGS Adoption and Declining Costs to Drive Forward Growth IndexBox"
+      },
+      {
+        "headline": "Ascentage Pharma Announces Inclusion of Lisaftoclax in China's 2026... - Quantisnow",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzk0LWVJRDhHMEZzNEFWRnpPUVkxQnBpZFdHc0ZjOWI5SUtSY0RrZHdFRjZfOW9HR3RMbXRIRmVzeG5lc2FzdlVnLTVWWi1wUkxLYTFtRUVFTFA2RktYR243WjlmZXhtTXh0VnpoZmx5YmplZ2Y1dlRfWHBwZ1FLTFRKZ2hCcmFaVUpSVnJMSFpvQ05fVnFacEVJaVdLSEI5aUlEbUN3Y01TX1luUzJUTzVVVjVuYkFCcVE?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Ascentage Pharma Announces Inclusion of Lisaftoclax in China's 2026... Quantisnow"
+      },
+      {
+        "headline": "Neurizon in trial milestone, secures funding - Townsville Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNkZRX0xkemZIbGQwY0pUazFBYmxHUXdDTGNFRFJqUFJERnlqcWRza1BoWWhGOGg1ajlLMlhIdFdNWEhkWHM2UTgwMVdZUDFwWHgyVHNLSUROdU1ZdUFUZGQ0a3NwSFBfMDBQRmdFRmtRc2N4NktVZHpNZHpVRW81UExSelBhRGdFeHFKaG9VRHRobjBONkppekpaZjdOZ3l3MlVhMmNxQTF1eVNJYjRwVnAzWGU5YTBHbXdldGxoVnNYbkpXdzN6aVk3ekVnYTRDRFlDcXJhZ1ctdWFITExMa2l5V0V4LVA0OFlmaFk0ZmdtaGk0RlJFdGdaQzMwSldacl9wWWVvTVFrQXM?oc=5",
+        "source": "Health & Medicine",
+        "summary": "Neurizon in trial milestone, secures funding Townsville Bulletin"
       }
     ],
     "AI & Technology": [
       {
-        "headline": "China AI Espionage \u2014 US Warns of Total Mobilization for Tech Theft - The Korea Daily",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvRmltdEdrVTduNDlrLUhHRVk3Y0VxRGpzZWs2dXZSV0JzcVdpWnlIeFRCaEdQTXpWdVdCNUNPRmU0VTlwbGV0ZHlDUlBZLURTUXBrUEN4aHl1R2hYeDJkUUNFeFNIS1lVSlJPelM2QXFvREd5Z3FN?oc=5",
+        "headline": "AI agents are becoming identities in their own right, and security needs to catch up - Digital Journal",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWIzMDlrM1NMMHpRdV9ISERKN2xIUkpUYVF1RkdpLWYzekRzdGNhUGxoUnJjb2VST0laYVJkMWVFbXkzVTBxZTU0Z0FjanU3QmVOUWJsZndLZWw2cTYxcEI1NlVMNzQyNkxyX1lNN08xcXZYTTM0SThkLVVReDNjYTBfeXI1TEh4a00wQUh0NkdMUll3dks3Zi16blA5cTJ2SXpMemp0b2RSLXhiMVl5NHEwWVhGeFZIeUU2Y2NqQy0?oc=5",
         "source": "AI & Technology",
-        "summary": "China AI Espionage \u2014 US Warns of Total Mobilization for Tech Theft The Korea Daily"
+        "summary": "AI agents are becoming identities in their own right, and security needs to catch up Digital Journal"
       },
       {
         "headline": "Researchers Get AI \u2018Drunk\u2019 to Expose New Cyber Security Risks in Chatbots - The Good Men Project",
@@ -383,10 +319,10 @@
     ],
     "Business & Economy": [
       {
-        "headline": "The Inflation Fight May Be About to Turn Painful - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0taZlpLMjZNSHV5LVZIWktScXlHVHB3Ri1SMElOR3UycjRibjRfTUM1Y05nQW1SYkljelpjVkdkaGFXRVQyeHVpZTB1T1h1SWQwNHRPTUlTTUJFS0tFVHR1R0c5M1ZLWWlxYmN0aEVqSzZRYkROWlhqTEo2Q2daZEZ2S1lwaDAwRV9lU1lGcEgyM00yOTZBVW9MYw?oc=5",
+        "headline": "Vanguard Economists Say: Inflation Might Be Better Than It Looks. Here's Why That's Good News for Stocks. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamg2THpISE12Mjd2MXVidXFTVGlGRFphODdHT2M4SXIyWVdJT3BycDRfRUlrbmxlb2ExSVJZRVdTZU1TOTI3NGExaDlRN0w5MW15ZWd6ZHJpR3RnMTdZSlFLdkc2UUlfNHIzVVVtZTRmOGZfU2FqZzJ2eml0U013c3U5Wi02QWtaODJBVy1uNVNPMWhjSjlxT0N3eUt5YmgxMzUwRVVvUG5JWnZWeHdnWVVubTlHN0JpVGxST3g4SEpoMEp5WWMyNlpXYTZyei1IcC1JTUg2VklNVzdsa2c?oc=5",
         "source": "Business & Economy",
-        "summary": "The Inflation Fight May Be About to Turn Painful WSJ"
+        "summary": "Vanguard Economists Say: Inflation Might Be Better Than It Looks. Here's Why That's Good News for Stocks. The Motley Fool"
       },
       {
         "headline": "WPI inflation, FII flows, crude oil prices to guide markets this week - The Times of India",
@@ -395,40 +331,34 @@
         "summary": "WPI inflation, FII flows, crude oil prices to guide markets this week The Times of India"
       },
       {
-        "headline": "Fed\u2019s Warsh to take stock of AI revolution as US public grows wary - Malaya Business Insight",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWG5DR2lmS3NkcWRmYjRPOUpKMnViUDhiQ2hSME1WRjg0TDhzZl9fTGxPNkhBS2dPekF3ZWFWc200ekllaC1GQW1uSG1aTnhDRFRnVnoyRVhqcUt1SDNsbzBYbDZHV2tIRnBtODYtdHJBQV9UUk00VWt4bHJfanNhcmEyb0NCeWF2c0RqNENuRG9xb0lTdk5zTk5fZTNkUkVIeXNmaWJOSE9iZ29hZDhZR2h3?oc=5",
+        "headline": "Dalal Street Week Ahead: WPI inflation, crude oil among 10 key factors to watch - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzljNDRQQmlyTUhaamFwZVFqZ3R5MUROSk1hSnJSTXNWZFpKSVZ2MnRyYUJIemxLOHZKSDEySHVyTGYza1BmZ1B5Q3dtOGFVY1VWeVBidVdKNmdGcXpjVTZab3hsYVJ0VmpoTFBYQ2NvLWF3LWR1VGFLNGZjNWJudml5a092ckNEMkZTa2dmMnpUSXMwM2ZLRm1HSE1GcXotSUh1cjh4M2tWZEk2VU5jNzZkM2Z2YmxULUY1TW5DV3J1cFA5VEdYVnlhWkFVRTRIUXRNUzZJMlA0UdIB3wFBVV95cUxQei1iNUNWc1huZS10Vk91X1FldGlZb0YxYXAyMklBZXdVMkVjT0FXUzJBbWUxd0I1T1lTbGdFOW52bHdqX0llVmU1dzRqWnRfa3VzYUpEMUc2YlMzeFEzamg5RTRGSEFCZkRRNWlwNHEtMktWenBYb2N1ZmIxeExORmZfM3hZSC1nd3VFSmtEeUJXTUVYZnJRWmVrR2F5S0tHdzEtcWtwSG5BM1M5RmcwRnpRUXpZblFIUjVVRDdGY0FZdElqLUNlYVV2ZGo5THNZNWtEXzg3T0Mtengwck8w?oc=5",
         "source": "Business & Economy",
-        "summary": "Fed\u2019s Warsh to take stock of AI revolution as US public grows wary Malaya Business Insight"
+        "summary": "Dalal Street Week Ahead: WPI inflation, crude oil among 10 key factors to watch Moneycontrol.com"
       }
     ],
     "Society & Culture": [],
     "Sports": [
       {
-        "headline": "Can the Big Ten get 3 teams into the College Football Playoff? Week 11 bracket projections - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHB6b09XMVZVOHlmeUp5UVBwTnloRXNRYU9qaDFUUzJ6QkJKc0pQbkNRejBEdG02QWUxUXRUX0RpOFBoYlV3cmlQQU1lSzE0MjIyVU53RmZ1QlFPME1aT2lZZ3UzZWR2SVROTm9fRVJXVUZoXzh0UklMY0I2WTVfQ1M0Sm5ZRnVpX185OEZYejBQYkhqTHYwNWl4RUVWbjJrY2cxMldPWEw?oc=5",
-        "source": "Major Sports",
-        "summary": "Can the Big Ten get 3 teams into the College Football Playoff? Week 11 bracket projections The New York Times"
+        "headline": "Joey Porter Jr. trending towards playing - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzVGa21PYl8xaDFYblJoNnQxYXJiQXlaOGtxbHQwenRIM01YaFhieUJEY1pRbUdsM003M21JUHhNbXRsZ3FjZTFzeGRQdFlKWmhtTU1MOWxEN1FMV2x5Z3ZIYlJDNVlEM3h2eDJiMEdNS1ZaRTY0NHVtbllBN1RuRndiZGFPSE0?oc=5",
+        "source": "Yahoo Sports NFL",
+        "summary": "Joey Porter Jr. trending towards playing Yahoo Sports"
       },
       {
-        "headline": "Indiana Hoosiers troll USC with California Love song after big victory - ClutchPoints",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzZkWXdpWUdlZGFtcXNtN1Npd2lNbmJjc3JvN1FTWFBHV2c0Tnd6c01Uck45a0lYX2RZN2gxdHlJY2JObllQTGVjTzNvTEtZZVQ2WHZOOW9rMHM2eEc4c2RURDlqekxTeDNoQXJ1X0Nvak5qS0xva3FiVGxfMXdVQnllZWM1bThWZjlhRnpZM05BNXY1dFJIN292bDE1UGZmTXExc3liWE9nU3FrN3R4em1GRzJOUzd4emc?oc=5",
-        "source": "College Sports",
-        "summary": "Indiana Hoosiers troll USC with California Love song after big victory ClutchPoints"
-      },
-      {
-        "headline": "Dillon Brooks has fond memories of his former \u2018rook\u2019 Lakers forward Ziaire Williams - Orange County Register",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEh6WXV2ZU9XRWt2X0NvNFdMMjJKeTVYa1VNWGJncXl1Rml1azVnYXVheHBzRjNDWncxdjl0R1BoeVdzT3JsRWFpY3hrV0RhMXQ0TnlCZnZPb245R1NXYW1ZZUt6cnBMdkNwdEdjNHFLOFZXOFVZajVraTlkeEtBMm10c0VmcWxBMnkzeWFZZkdvVmtTREZlQ2p2NEozaFFIWExNQkcxZXY5WHZhcTJnZ0hhVjE5Z1JfQXhXUQ?oc=5",
+        "headline": "Nickeil Alexander-Walker talks offseason preparation as strong start continues for Hawks - Atlanta News First",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVFiR3hSRktESjdLZEFOcDdpZTIySmZnWC1uLWkwLXFKdWFpU28zc200YVFvWXNnaVBMV2dmQS1seUpvaHhrTUJLMWpZWWN6aW5PVUYzOEFvUUlRMUg0aU5tVDdsM3JfamhCR3JEbnY0WmZEbE15UjNnajV3OWxBbzRHLWc0Y0J0NGMtU2RLZnZoQmxCVWhVaDdmMWtiUjlXb19qMHVSZGdsazhObGV5M1dMVUlmT0l1WXRPdy15eVJxUWlo?oc=5",
         "source": "Atlanta Sports",
-        "summary": "Dillon Brooks has fond memories of his former \u2018rook\u2019 Lakers forward Ziaire Williams Orange County Register"
+        "summary": "Nickeil Alexander-Walker talks offseason preparation as strong start continues for Hawks Atlanta News First"
+      },
+      {
+        "headline": "Milwaukee Bucks-Atlanta Hawks Preview: Injuries, Odds, How to Watch & Starters - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTW5BX2EtRkJ3ZkgxMWNOVlJ2eGZzTHg2YjA2c0dOVmFXMWhXaUJsOUlVbDVVNENyRDF0a2VuSG1NUUcyR1ZLRnRTancyd3hLbHItY1VnNjg4NDFHNXBEQ1c2ZWVSQjhlRXVPLVpTa3N2UVhyb21kVXRiQ090UnNwSklXQWlaU212RG9Jak8xMVVoT3lQNFl2eFEzdUNBc0dXakdLNFg3ZWQycGQ2SVBNd2YxX1hNcFg3c3dhRw?oc=5",
+        "source": "Atlanta Sports",
+        "summary": "Milwaukee Bucks-Atlanta Hawks Preview: Injuries, Odds, How to Watch & Starters Sports Illustrated"
       }
     ],
     "Good News": [
-      {
-        "headline": "China Switches on World\u2019s Biggest Example of New, Cheap Green Energy Storage",
-        "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-        "source": "Good News Network",
-        "summary": "The world\u2019s largest demonstration plant for a new kind of renewable energy storage is up and running in the west of the China. Called liquid-air energy storage (LAES) the plant uses renewable electricity to compress air to extreme densities until it turns to liquid. It can then be rapidly released to power a turbine and [\u2026] The post China Switches on World\u2019s Biggest Example of New, Cheap Green Energy Storage appeared first on Good News Network ."
-      },
       {
         "headline": "100-Year-Old \u2018Store Mom\u2019 Surprised With Her First Birthday Party",
         "url": "https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/",
@@ -440,6 +370,12 @@
         "url": "https://www.goodnewsnetwork.org/theres-a-georgia-okeefe-in-the-closet-words-that-led-to-paintings-joyous-rediscovery/",
         "source": "Good News Network",
         "summary": "\u201cOh, by the way, there\u2019s a Georgia O\u2019Keeffe in the closet.\u201d One can only imagine the pause, double-take, or request for clarity which followed this comment, made by a woman\u2019s elderly aunt in the midst of an effort to clean out her East Village apartment. Yet as the woman, who revealed herself only as Betsy, [\u2026] The post \u2018There\u2019s a Georgia O\u2019Keeffe in the Closet\u2019 \u2013 Words that Led to Painting\u2019s Joyous Rediscovery appeared first on Good News Network ."
+      },
+      {
+        "headline": "Brave Teens Execute Paddleboard Rescue of Flooded Neighbors \u2013 \u2018Faith in Humanity Restored\u2019",
+        "url": "https://www.goodnewsnetwork.org/brave-teens-execute-paddleboard-rescue-of-flooded-neighbors-faith-in-humanity-restored/",
+        "source": "Good News Network",
+        "summary": "A woman has had her faith in humanity restored after neighbors arrived on paddleboards to rescue her and her son during recent flooding in Florida. Emergency services were unable to reach her, the 911 operator said, as Brittany Grant and her son sat on their kitchen counter while floodwaters rose higher and higher above their [\u2026] The post Brave Teens Execute Paddleboard Rescue of Flooded Neighbors \u2013 \u2018Faith in Humanity Restored\u2019 appeared first on Good News Network ."
       }
     ]
   }
